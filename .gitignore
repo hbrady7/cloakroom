@@ -1,0 +1,23 @@
+# dependencies
+node_modules/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+
+# next.js
+web/.next/
+web/out/
+web/.vercel/
+
+# generated intermediates (rebuilt every run; only /data outputs are committed)
+pipeline/brief_input.txt
+pipeline/.cache/
+
+# env & secrets — nothing secret belongs in this repo
+.env
+.env.*
+
+# os
+.DS_Store
