@@ -1,0 +1,78 @@
+# CLOAKROOM daily refresh: fetch -> score -> brief -> commit /data.
+# Public repo => unlimited free Actions minutes. The push retriggers
+# nothing here (no push trigger) and auto-deploys the site via Vercel's
+# GitHub integration.
+name: daily
+
+on:
+  schedule:
+    - cron: "30 11 * * 1-5" # ~6:30am CT on weekdays, after filings settle
+  workflow_dispatch:
+
+concurrency:
+  group: daily-pipeline
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: pipeline/requirements.txt
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install pipeline dependencies
+        run: pip install -r pipeline/requirements.txt
+
+      - name: Fetch sources (each step fail-soft, last-good on error)
+        run: |
+          python pipeline/fetch_members.py
+          python pipeline/fetch_senate.py
+          python pipeline/fetch_house.py
+          python pipeline/fetch_edgar.py
+          python pipeline/merge_trades.py
+          python pipeline/fetch_prices.py
+
+      - name: Signal engine
+        run: |
+          python pipeline/score.py
+          python pipeline/leaderboard.py
+
+      - name: Claude brief (skipped when no OAuth token secret is set)
+        if: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN != '' }}
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+        run: |
+          npm install -g @anthropic-ai/claude-code
+          python pipeline/run_brief.py
+
+      - name: Commit /data if changed
+        run: |
+          git config user.name "cloakroom-bot"
+          git config user.email "hollisbrady2004@gmail.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "no data changes today"
+            exit 0
+          fi
+          git commit -m "data: daily refresh $(date -u +%F)"
+          git pull --rebase origin main
+          git push
+
+      - name: Push notification (skipped when no NTFY_TOPIC secret is set)
+        if: ${{ secrets.NTFY_TOPIC != '' }}
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: python pipeline/notify.py
