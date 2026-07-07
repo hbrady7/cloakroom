@@ -178,6 +178,43 @@ def trades_from_ptr(raw_rows: list[dict], person: str, filed: date, role: dict,
     return out
 
 
+def fmp_fallback(idx: MemberIndex, start: date) -> list[dict]:
+    """Experimental last-resort fallback: Financial Modeling Prep free tier
+    (250 calls/day). Used ONLY when the official Clerk index yields nothing
+    AND an FMP_KEY env/secret exists - otherwise skipped silently."""
+    key = os.environ.get("FMP_KEY", "").strip()
+    if not key:
+        return []
+    s = http_session(rps=2.0)
+    out: list[dict] = []
+    for page in range(3):
+        r = polite_get(s, "https://financialmodelingprep.com/api/v4/"
+                          f"senate-disclosure-rss-feed?page={page}&apikey={key}")
+        if r.status_code != 200:
+            break
+        for i, row in enumerate(r.json() or []):
+            side = {"purchase": "buy", "sale": "sell", "sale_full": "sell",
+                    "sale_partial": "sell"}.get(str(row.get("type", "")).lower())
+            ticker = clean_ticker(row.get("ticker"))
+            tx = parse_date(row.get("transactionDate"))
+            filed = parse_date(row.get("disclosureDate"))
+            if not side or not ticker or not tx or not filed or filed < start:
+                continue
+            person = f"{row.get('firstName', '')} {row.get('lastName', '')}".strip()
+            m = idx.match(person, "house")
+            lo, hi = parse_band(row.get("amount"))
+            out.append(make_trade(
+                id=trade_id("congress", "house-fmp", person, ticker, iso(tx), side, lo, i),
+                source="congress", person=person,
+                role={"chamber": "house", "party": (m or {}).get("party", ""),
+                      "committees": [c["name"] for c in (m or {}).get("committees", [])]},
+                ticker=ticker, asset_type="stock", side=side,
+                amount_low=lo, amount_high=hi, tx_date=tx, filed_date=filed,
+                source_url=row.get("link", ""),
+            ))
+    return out
+
+
 def main() -> None:
     start = window_start()
     idx = MemberIndex((load_json(DATA / "members.json", {}) or {}).get("members", []))
@@ -200,6 +237,18 @@ def main() -> None:
         ptrs.extend([x for x in rows
                      if x["filing_type"] == "P" and x["filed"] and x["filed"] >= start])
     if not ptrs:
+        fmp = fmp_fallback(idx, start)
+        if fmp:
+            for t in fmp:
+                by_id[t["id"]] = t
+            txs = sorted(by_id.values(),
+                         key=lambda t: (t["filed_date"], t["tx_date"], t["id"]),
+                         reverse=True)
+            save_json(DATA / "house_transactions.json",
+                      {"generated_at": utcnow_iso(), "transactions": txs})
+            set_status("house", True, "fmp fallback (experimental)", count=len(txs))
+            print(f"[house] Clerk index empty; FMP fallback wrote {len(txs)}")
+            return
         raise RuntimeError("no PTR filings found in any index")
 
     new = [p for p in ptrs if p["doc_id"] not in seen["docs"]]
