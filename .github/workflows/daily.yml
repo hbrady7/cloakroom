@@ -20,6 +20,11 @@ jobs:
   refresh:
     runs-on: ubuntu-latest
     timeout-minutes: 30
+    env:
+      # secrets are not readable inside step-level `if:` expressions;
+      # hoist them into env and gate on that instead
+      CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+      NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
     steps:
       - uses: actions/checkout@v4
 
@@ -51,9 +56,7 @@ jobs:
           python pipeline/leaderboard.py
 
       - name: Claude brief (skipped when no OAuth token secret is set)
-        if: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN != '' }}
-        env:
-          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+        if: env.CLAUDE_CODE_OAUTH_TOKEN != ''
         run: |
           npm install -g @anthropic-ai/claude-code
           python pipeline/run_brief.py
@@ -72,7 +75,5 @@ jobs:
           git push
 
       - name: Push notification (skipped when no NTFY_TOPIC secret is set)
-        if: ${{ secrets.NTFY_TOPIC != '' }}
-        env:
-          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        if: env.NTFY_TOPIC != ''
         run: python pipeline/notify.py
