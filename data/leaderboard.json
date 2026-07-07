@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-07T00:21:53Z",
+ "generated_at": "2026-07-07T04:19:53Z",
  "min_trades": 5,
  "members": [
   {
@@ -13,7 +13,7 @@
    "best": {
     "ticker": "MU",
     "side": "buy",
-    "excess": 1.4637
+    "excess": 1.4641
    },
    "worst": {
     "ticker": "ERIE",
@@ -46,7 +46,7 @@
    "chamber": "senate",
    "state": "RI",
    "trades_scored": 16,
-   "avg_excess": 0.1353,
+   "avg_excess": 0.135,
    "win_rate": 0.812,
    "best": {
     "ticker": "ORCL",
@@ -56,7 +56,7 @@
    "worst": {
     "ticker": "JPM",
     "side": "sell",
-    "excess": -0.0487
+    "excess": -0.0537
    }
   },
   {
@@ -122,7 +122,7 @@
    "chamber": "house",
    "state": "TX",
    "trades_scored": 12,
-   "avg_excess": 0.086,
+   "avg_excess": 0.0859,
    "win_rate": 0.833,
    "best": {
     "ticker": "WDS",
@@ -198,7 +198,7 @@
    "chamber": "house",
    "state": "NC",
    "trades_scored": 27,
-   "avg_excess": 0.0485,
+   "avg_excess": 0.0486,
    "win_rate": 0.593,
    "best": {
     "ticker": "CBRL",
@@ -293,7 +293,7 @@
    "chamber": "house",
    "state": "FL",
    "trades_scored": 51,
-   "avg_excess": 0.0184,
+   "avg_excess": 0.0186,
    "win_rate": 0.686,
    "best": {
     "ticker": "MRVL",
@@ -345,25 +345,6 @@
    }
   },
   {
-   "person": "Gilbert Cisneros",
-   "party": "Democrat",
-   "chamber": "house",
-   "state": "",
-   "trades_scored": 657,
-   "avg_excess": 0.0136,
-   "win_rate": 0.514,
-   "best": {
-    "ticker": "SNDK",
-    "side": "buy",
-    "excess": 1.6763
-   },
-   "worst": {
-    "ticker": "AMD",
-    "side": "sell",
-    "excess": -1.5716
-   }
-  },
-  {
    "person": "Julia Letlow",
    "party": "Republican",
    "chamber": "house",
@@ -374,12 +355,31 @@
    "best": {
     "ticker": "MU",
     "side": "buy",
-    "excess": 1.8249
+    "excess": 1.8254
    },
    "worst": {
     "ticker": "MU",
     "side": "sell",
-    "excess": -1.8249
+    "excess": -1.8254
+   }
+  },
+  {
+   "person": "Gilbert Cisneros",
+   "party": "Democrat",
+   "chamber": "house",
+   "state": "",
+   "trades_scored": 662,
+   "avg_excess": 0.0128,
+   "win_rate": 0.515,
+   "best": {
+    "ticker": "SNDK",
+    "side": "buy",
+    "excess": 1.6763
+   },
+   "worst": {
+    "ticker": "AMD",
+    "side": "sell",
+    "excess": -1.5716
    }
   },
   {
@@ -431,7 +431,7 @@
    "best": {
     "ticker": "IFNNY",
     "side": "buy",
-    "excess": 0.7942
+    "excess": 0.7973
    },
    "worst": {
     "ticker": "PANW",
@@ -464,7 +464,7 @@
    "chamber": "house",
    "state": "OH",
    "trades_scored": 124,
-   "avg_excess": -0.0025,
+   "avg_excess": -0.0024,
    "win_rate": 0.556,
    "best": {
     "ticker": "T",
@@ -540,7 +540,7 @@
    "chamber": "house",
    "state": "",
    "trades_scored": 11,
-   "avg_excess": -0.0099,
+   "avg_excess": -0.0104,
    "win_rate": 0.545,
    "best": {
     "ticker": "PWR",
@@ -559,7 +559,7 @@
    "chamber": "house",
    "state": "",
    "trades_scored": 35,
-   "avg_excess": -0.0116,
+   "avg_excess": -0.0115,
    "win_rate": 0.6,
    "best": {
     "ticker": "GEV",
@@ -578,7 +578,7 @@
    "chamber": "house",
    "state": "",
    "trades_scored": 13,
-   "avg_excess": -0.0212,
+   "avg_excess": -0.0213,
    "win_rate": 0.385,
    "best": {
     "ticker": "NVDA",
@@ -597,7 +597,7 @@
    "chamber": "house",
    "state": "",
    "trades_scored": 8,
-   "avg_excess": -0.0334,
+   "avg_excess": -0.0346,
    "win_rate": 0.25,
    "best": {
     "ticker": "VZ",
@@ -635,7 +635,7 @@
    "chamber": "senate",
    "state": "AR",
    "trades_scored": 129,
-   "avg_excess": -0.0361,
+   "avg_excess": -0.0362,
    "win_rate": 0.442,
    "best": {
     "ticker": "BSX",
@@ -645,7 +645,7 @@
    "worst": {
     "ticker": "MU",
     "side": "sell",
-    "excess": -1.3582
+    "excess": -1.3586
    }
   },
   {
@@ -711,12 +711,12 @@
    "chamber": "house",
    "state": "",
    "trades_scored": 6,
-   "avg_excess": -0.0961,
+   "avg_excess": -0.096,
    "win_rate": 0.167,
    "best": {
     "ticker": "WBD",
     "side": "sell",
-    "excess": 0.1993
+    "excess": 0.1994
    },
    "worst": {
     "ticker": "SIRI",
@@ -740,7 +740,7 @@
    "worst": {
     "ticker": "MU",
     "side": "sell",
-    "excess": -1.1333
+    "excess": -1.1336
    }
   },
   {
@@ -749,7 +749,7 @@
    "chamber": "senate",
    "state": "OK",
    "trades_scored": 49,
-   "avg_excess": -0.2376,
+   "avg_excess": -0.2375,
    "win_rate": 0.286,
    "best": {
     "ticker": "AMAT",
