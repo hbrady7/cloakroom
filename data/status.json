@@ -1,3 +1,40 @@
 {
-  "sources": {}
+ "sources": {
+  "members": {
+   "ok": true,
+   "detail": "congress-legislators",
+   "count": 546,
+   "at": "2026-07-07T00:02:38Z"
+  },
+  "senate": {
+   "ok": true,
+   "detail": "mode=efd",
+   "count": 341,
+   "at": "2026-07-07T00:04:26Z"
+  },
+  "house": {
+   "ok": true,
+   "detail": "parsed=238 no_text=28 errors=0",
+   "count": 1997,
+   "at": "2026-07-07T00:01:50Z"
+  },
+  "insider": {
+   "ok": true,
+   "detail": "tickers=250 new_filings=2450",
+   "count": 2755,
+   "at": "2026-07-07T00:16:56Z"
+  },
+  "merge": {
+   "ok": true,
+   "detail": "congress=2328 insider=2755",
+   "count": 5083,
+   "at": "2026-07-07T00:17:45Z"
+  },
+  "prices": {
+   "ok": true,
+   "detail": "stooq=0 yf=492 cached=1 missing=9",
+   "count": 492,
+   "at": "2026-07-07T00:20:16Z"
+  }
+ }
 }
