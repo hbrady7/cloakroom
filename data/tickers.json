@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-07T13:36:47Z",
+ "generated_at": "2026-07-08T13:05:55Z",
  "tickers": {
   "ZTS": {
    "name": "Zoetis Inc.",
@@ -2222,6 +2222,23 @@
    "sectors": [
     "mining",
     "commodities"
+   ]
+  },
+  "PPG": {
+   "name": "PPG INDUSTRIES INC",
+   "cik": 79879,
+   "sic": "2851",
+   "sic_desc": "Paints, Varnishes, Lacquers, Enamels & Allied Prods",
+   "sectors": []
+  },
+  "JNJ": {
+   "name": "JOHNSON & JOHNSON",
+   "cik": 200406,
+   "sic": "2834",
+   "sic_desc": "Pharmaceutical Preparations",
+   "sectors": [
+    "pharma",
+    "biotech"
    ]
   }
  }
