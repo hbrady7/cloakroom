@@ -1,6 +1,906 @@
 {
- "generated_at": "2026-07-08T13:04:29Z",
+ "generated_at": "2026-07-09T14:06:34Z",
  "transactions": [
+  {
+   "id": "C-9ccbcfe83096",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "HUBB",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-17",
+   "filed_date": "2026-07-07",
+   "lag_days": 20,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034932.pdf"
+  },
+  {
+   "id": "C-9b52c6b54b97",
+   "source": "congress",
+   "person": "Josh Gottheimer",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Permanent Select Committee on Intelligence",
+     "House Committee on Financial Services"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "NTDOY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-17",
+   "filed_date": "2026-07-07",
+   "lag_days": 20,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034938.pdf"
+  },
+  {
+   "id": "C-b3be99b7f6ae",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "HUBB",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-16",
+   "filed_date": "2026-07-07",
+   "lag_days": 21,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034932.pdf"
+  },
+  {
+   "id": "C-edb0aad71cef",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MIDD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-15",
+   "filed_date": "2026-07-07",
+   "lag_days": 22,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034932.pdf"
+  },
+  {
+   "id": "C-66fb8573c994",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "WAB",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-15",
+   "filed_date": "2026-07-07",
+   "lag_days": 22,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034932.pdf"
+  },
+  {
+   "id": "C-633e9bef14ef",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "VOYG",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-06-15",
+   "filed_date": "2026-07-07",
+   "lag_days": 22,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034928.pdf"
+  },
+  {
+   "id": "C-d6dcbb4b7caf",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CNM",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-12",
+   "filed_date": "2026-07-07",
+   "lag_days": 25,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034932.pdf"
+  },
+  {
+   "id": "C-a40c6085af73",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CPAY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-12",
+   "filed_date": "2026-07-07",
+   "lag_days": 25,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034932.pdf"
+  },
+  {
+   "id": "C-9cf8762ecffc",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "LYV",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-12",
+   "filed_date": "2026-07-07",
+   "lag_days": 25,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034932.pdf"
+  },
+  {
+   "id": "C-2c7acb2f5f0b",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "WAB",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-12",
+   "filed_date": "2026-07-07",
+   "lag_days": 25,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034932.pdf"
+  },
+  {
+   "id": "C-100e9836b2bf",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MIDD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-12",
+   "filed_date": "2026-07-07",
+   "lag_days": 25,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034932.pdf"
+  },
+  {
+   "id": "C-378d753e7c44",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "WAB",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-10",
+   "filed_date": "2026-07-07",
+   "lag_days": 27,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034932.pdf"
+  },
+  {
+   "id": "C-1e53a703fe9d",
+   "source": "congress",
+   "person": "Josh Gottheimer",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Permanent Select Committee on Intelligence",
+     "House Committee on Financial Services"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "INSM",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-10",
+   "filed_date": "2026-07-07",
+   "lag_days": 27,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034938.pdf"
+  },
+  {
+   "id": "C-51a682d5fdb2",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "HUBB",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-09",
+   "filed_date": "2026-07-07",
+   "lag_days": 28,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034932.pdf"
+  },
+  {
+   "id": "C-ec23264294cb",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ENTG",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-08",
+   "filed_date": "2026-07-07",
+   "lag_days": 29,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034932.pdf"
+  },
+  {
+   "id": "C-6a1e05e887fb",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "HUBB",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-08",
+   "filed_date": "2026-07-07",
+   "lag_days": 29,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034932.pdf"
+  },
+  {
+   "id": "C-b0d649336218",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ENTG",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-05",
+   "filed_date": "2026-07-07",
+   "lag_days": 32,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034932.pdf"
+  },
+  {
+   "id": "C-c59c1bc47002",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "BEP",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-06-04",
+   "filed_date": "2026-07-07",
+   "lag_days": 33,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034928.pdf"
+  },
+  {
+   "id": "C-9b64a07abf5a",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "HUBB",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-04",
+   "filed_date": "2026-07-07",
+   "lag_days": 33,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034932.pdf"
+  },
+  {
+   "id": "C-5eed961fec0d",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "WAB",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-04",
+   "filed_date": "2026-07-07",
+   "lag_days": 33,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034932.pdf"
+  },
+  {
+   "id": "C-57eb1f59695d",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "BEP",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-04",
+   "filed_date": "2026-07-07",
+   "lag_days": 33,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034928.pdf"
+  },
+  {
+   "id": "C-02051486c167",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "UNH",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-04",
+   "filed_date": "2026-07-07",
+   "lag_days": 33,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034928.pdf"
+  },
+  {
+   "id": "C-c48f2538868c",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "HUBB",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-03",
+   "filed_date": "2026-07-07",
+   "lag_days": 34,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034932.pdf"
+  },
+  {
+   "id": "C-4f45e38de46e",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "BEP",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-03",
+   "filed_date": "2026-07-07",
+   "lag_days": 34,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034928.pdf"
+  },
+  {
+   "id": "C-09d1c3b752fe",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "BEP",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-03",
+   "filed_date": "2026-07-07",
+   "lag_days": 34,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034928.pdf"
+  },
+  {
+   "id": "C-f791f4ff91b7",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "BEP",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-02",
+   "filed_date": "2026-07-07",
+   "lag_days": 35,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034928.pdf"
+  },
+  {
+   "id": "C-ab835b2f5327",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "BEP",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-02",
+   "filed_date": "2026-07-07",
+   "lag_days": 35,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034928.pdf"
+  },
+  {
+   "id": "C-53e493c97f85",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "LYV",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-02",
+   "filed_date": "2026-07-07",
+   "lag_days": 35,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034932.pdf"
+  },
+  {
+   "id": "C-52052ed39f3f",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CRM",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-06-02",
+   "filed_date": "2026-07-07",
+   "lag_days": 35,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034928.pdf"
+  },
+  {
+   "id": "C-31ba56a74dd1",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "BIIB",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-06-02",
+   "filed_date": "2026-07-07",
+   "lag_days": 35,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034928.pdf"
+  },
+  {
+   "id": "C-fe3aa2e53999",
+   "source": "congress",
+   "person": "Josh Gottheimer",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Permanent Select Committee on Intelligence",
+     "House Committee on Financial Services"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "NVZMY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-01",
+   "filed_date": "2026-07-07",
+   "lag_days": 36,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034938.pdf"
+  },
+  {
+   "id": "C-fdc880337f0a",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "LYV",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-01",
+   "filed_date": "2026-07-07",
+   "lag_days": 36,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034932.pdf"
+  },
+  {
+   "id": "C-8aa740fe7e35",
+   "source": "congress",
+   "person": "Josh Gottheimer",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Permanent Select Committee on Intelligence",
+     "House Committee on Financial Services"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "BKNG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-01",
+   "filed_date": "2026-07-07",
+   "lag_days": 36,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034938.pdf"
+  },
+  {
+   "id": "C-53a7ceebcbfe",
+   "source": "congress",
+   "person": "Josh Gottheimer",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Permanent Select Committee on Intelligence",
+     "House Committee on Financial Services"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ADC",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-01",
+   "filed_date": "2026-07-07",
+   "lag_days": 36,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034938.pdf"
+  },
+  {
+   "id": "C-4757ab1b35a9",
+   "source": "congress",
+   "person": "Josh Gottheimer",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Permanent Select Committee on Intelligence",
+     "House Committee on Financial Services"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "NSRGY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-01",
+   "filed_date": "2026-07-07",
+   "lag_days": 36,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034938.pdf"
+  },
+  {
+   "id": "C-0327977b987b",
+   "source": "congress",
+   "person": "Josh Gottheimer",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Permanent Select Committee on Intelligence",
+     "House Committee on Financial Services"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "BABA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-01",
+   "filed_date": "2026-07-07",
+   "lag_days": 36,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034938.pdf"
+  },
   {
    "id": "C-993aacd9b9c9",
    "source": "congress",

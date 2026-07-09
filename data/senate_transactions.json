@@ -1,7 +1,181 @@
 {
- "generated_at": "2026-07-08T13:04:28Z",
+ "generated_at": "2026-07-09T14:06:30Z",
  "mode": "efd",
  "transactions": [
+  {
+   "id": "C-70d7f5d19ba1",
+   "source": "congress",
+   "person": "Sheldon Whitehouse",
+   "role": {
+    "chamber": "senate",
+    "party": "Democrat",
+    "committees": [
+     "Commission on Security and Cooperation in Europe",
+     "United States Senate Caucus on International Narcotics Control",
+     "Senate Committee on the Budget",
+     "Senate Committee on Environment and Public Works",
+     "Senate Committee on Finance",
+     "Senate Committee on the Judiciary"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "NVDA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-06-30",
+   "filed_date": "2026-07-08",
+   "lag_days": 8,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/5d9b1b8e-2ae1-442b-860c-e79b8a701dc6/"
+  },
+  {
+   "id": "C-9e75498df746",
+   "source": "congress",
+   "person": "Sheldon Whitehouse",
+   "role": {
+    "chamber": "senate",
+    "party": "Democrat",
+    "committees": [
+     "Commission on Security and Cooperation in Europe",
+     "United States Senate Caucus on International Narcotics Control",
+     "Senate Committee on the Budget",
+     "Senate Committee on Environment and Public Works",
+     "Senate Committee on Finance",
+     "Senate Committee on the Judiciary"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "COHR",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-06-25",
+   "filed_date": "2026-07-08",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/5d9b1b8e-2ae1-442b-860c-e79b8a701dc6/"
+  },
+  {
+   "id": "C-4f5b2e972022",
+   "source": "congress",
+   "person": "Sheldon Whitehouse",
+   "role": {
+    "chamber": "senate",
+    "party": "Democrat",
+    "committees": [
+     "Commission on Security and Cooperation in Europe",
+     "United States Senate Caucus on International Narcotics Control",
+     "Senate Committee on the Budget",
+     "Senate Committee on Environment and Public Works",
+     "Senate Committee on Finance",
+     "Senate Committee on the Judiciary"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CCI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-25",
+   "filed_date": "2026-07-08",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/5d9b1b8e-2ae1-442b-860c-e79b8a701dc6/"
+  },
+  {
+   "id": "C-25c777998ae1",
+   "source": "congress",
+   "person": "Sheldon Whitehouse",
+   "role": {
+    "chamber": "senate",
+    "party": "Democrat",
+    "committees": [
+     "Commission on Security and Cooperation in Europe",
+     "United States Senate Caucus on International Narcotics Control",
+     "Senate Committee on the Budget",
+     "Senate Committee on Environment and Public Works",
+     "Senate Committee on Finance",
+     "Senate Committee on the Judiciary"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MU",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-25",
+   "filed_date": "2026-07-08",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/5d9b1b8e-2ae1-442b-860c-e79b8a701dc6/"
+  },
+  {
+   "id": "C-fbc0d19b6965",
+   "source": "congress",
+   "person": "Sheldon Whitehouse",
+   "role": {
+    "chamber": "senate",
+    "party": "Democrat",
+    "committees": [
+     "Commission on Security and Cooperation in Europe",
+     "United States Senate Caucus on International Narcotics Control",
+     "Senate Committee on the Budget",
+     "Senate Committee on Environment and Public Works",
+     "Senate Committee on Finance",
+     "Senate Committee on the Judiciary"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "AAPL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-06-24",
+   "filed_date": "2026-07-08",
+   "lag_days": 14,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/5d9b1b8e-2ae1-442b-860c-e79b8a701dc6/"
+  },
+  {
+   "id": "C-c6ed4d192c2f",
+   "source": "congress",
+   "person": "Sheldon Whitehouse",
+   "role": {
+    "chamber": "senate",
+    "party": "Democrat",
+    "committees": [
+     "Commission on Security and Cooperation in Europe",
+     "United States Senate Caucus on International Narcotics Control",
+     "Senate Committee on the Budget",
+     "Senate Committee on Environment and Public Works",
+     "Senate Committee on Finance",
+     "Senate Committee on the Judiciary"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "AAPL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-06-24",
+   "filed_date": "2026-07-08",
+   "lag_days": 14,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/5d9b1b8e-2ae1-442b-860c-e79b8a701dc6/"
+  },
   {
    "id": "C-07d8095fd78e",
    "source": "congress",

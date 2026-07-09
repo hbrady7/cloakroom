@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-08T13:05:55Z",
+ "generated_at": "2026-07-09T14:08:44Z",
  "tickers": {
   "ZTS": {
    "name": "Zoetis Inc.",
@@ -723,8 +723,8 @@
    "sectors": []
   },
   "XOM": {
-   "name": "EXXON MOBIL CORP",
-   "cik": 34088,
+   "name": "ExxonMobil Holdings Corp",
+   "cik": 2115436,
    "sic": "2911",
    "sic_desc": "Petroleum Refining",
    "sectors": [
@@ -2239,6 +2239,132 @@
    "sectors": [
     "pharma",
     "biotech"
+   ]
+  },
+  "COHR": {
+   "name": "COHERENT CORP.",
+   "cik": 820318,
+   "sic": "3827",
+   "sic_desc": "Optical Instruments & Lenses",
+   "sectors": [
+    "healthcare",
+    "tech"
+   ]
+  },
+  "CCI": {
+   "name": "CROWN CASTLE INC.",
+   "cik": 1051470,
+   "sic": "6798",
+   "sic_desc": "Real Estate Investment Trusts",
+   "sectors": [
+    "real_estate",
+    "banks"
+   ]
+  },
+  "WAB": {
+   "name": "WESTINGHOUSE AIR BRAKE TECHNOLOGIES CORP",
+   "cik": 943452,
+   "sic": "3743",
+   "sic_desc": "Railroad Equipment",
+   "sectors": [
+    "transport",
+    "industrial"
+   ]
+  },
+  "VOYG": {
+   "name": "Voyager Technologies, Inc./TX",
+   "cik": 1788060,
+   "sic": "3760",
+   "sic_desc": "Guided Missiles & Space Vehicles & Parts",
+   "sectors": [
+    "aerospace",
+    "defense"
+   ]
+  },
+  "UNH": {
+   "name": "UNITEDHEALTH GROUP INC",
+   "cik": 731766,
+   "sic": "6324",
+   "sic_desc": "Hospital & Medical Service Plans",
+   "sectors": [
+    "insurance"
+   ]
+  },
+  "NVZMY": {
+   "name": null,
+   "cik": null,
+   "sic": null,
+   "sic_desc": null,
+   "sectors": []
+  },
+  "NTDOY": {
+   "name": null,
+   "cik": null,
+   "sic": null,
+   "sic_desc": null,
+   "sectors": []
+  },
+  "LYV": {
+   "name": "Live Nation Entertainment, Inc.",
+   "cik": 1335258,
+   "sic": "7900",
+   "sic_desc": "Services-Amusement & Recreation Services",
+   "sectors": []
+  },
+  "INSM": {
+   "name": "INSMED Inc",
+   "cik": 1104506,
+   "sic": "2834",
+   "sic_desc": "Pharmaceutical Preparations",
+   "sectors": [
+    "pharma",
+    "biotech"
+   ]
+  },
+  "CRM": {
+   "name": "Salesforce, Inc.",
+   "cik": 1108524,
+   "sic": "7372",
+   "sic_desc": "Services-Prepackaged Software",
+   "sectors": [
+    "tech"
+   ]
+  },
+  "CPAY": {
+   "name": "CORPAY, INC.",
+   "cik": 1175454,
+   "sic": "7389",
+   "sic_desc": "Services-Business Services, NEC",
+   "sectors": [
+    "tech"
+   ]
+  },
+  "CNM": {
+   "name": "Core & Main, Inc.",
+   "cik": 1856525,
+   "sic": "5099",
+   "sic_desc": "Wholesale-Durable Goods, NEC",
+   "sectors": [
+    "retail"
+   ]
+  },
+  "BABA": {
+   "name": "Alibaba Group Holding Ltd",
+   "cik": 1577552,
+   "sic": "7389",
+   "sic_desc": "Services-Business Services, NEC",
+   "sectors": [
+    "tech"
+   ]
+  },
+  "ADC": {
+   "name": "AGREE REALTY CORP",
+   "cik": 917251,
+   "sic": "6798",
+   "sic_desc": "Real Estate Investment Trusts",
+   "sectors": [
+    "real_estate",
+    "banks"
    ]
   }
  }
