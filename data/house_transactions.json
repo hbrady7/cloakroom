@@ -1,6 +1,131 @@
 {
- "generated_at": "2026-07-09T14:06:34Z",
+ "generated_at": "2026-07-10T13:28:47Z",
  "transactions": [
+  {
+   "id": "C-2a91238e7123",
+   "source": "congress",
+   "person": "John McGuire",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Oversight and Government Reform"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "BLK",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-07",
+   "filed_date": "2026-07-08",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034942.pdf"
+  },
+  {
+   "id": "C-d58642d31a7f",
+   "source": "congress",
+   "person": "Susie Lee",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Appropriations",
+     "House Committee on Natural Resources"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "FLL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-01",
+   "filed_date": "2026-07-08",
+   "lag_days": 7,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034790.pdf"
+  },
+  {
+   "id": "C-91f202d1541f",
+   "source": "congress",
+   "person": "John McGuire",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Oversight and Government Reform"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "SPCX",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-15",
+   "filed_date": "2026-07-08",
+   "lag_days": 23,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034942.pdf"
+  },
+  {
+   "id": "C-826c3d2ccf5b",
+   "source": "congress",
+   "person": "Susie Lee",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Appropriations",
+     "House Committee on Natural Resources"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "FLL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-01",
+   "filed_date": "2026-07-08",
+   "lag_days": 37,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034790.pdf"
+  },
+  {
+   "id": "C-1a796d2b9ab8",
+   "source": "congress",
+   "person": "Ritchie John Torres",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MCK",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-01-07",
+   "filed_date": "2026-07-08",
+   "lag_days": 547,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034224.pdf"
+  },
   {
    "id": "C-9ccbcfe83096",
    "source": "congress",

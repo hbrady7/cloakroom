@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-09T14:08:44Z",
+ "generated_at": "2026-07-10T13:30:05Z",
  "tickers": {
   "ZTS": {
    "name": "Zoetis Inc.",
@@ -2364,6 +2364,25 @@
    "sic_desc": "Real Estate Investment Trusts",
    "sectors": [
     "real_estate",
+    "banks"
+   ]
+  },
+  "MCK": {
+   "name": "MCKESSON CORP",
+   "cik": 927653,
+   "sic": "5122",
+   "sic_desc": "Wholesale-Drugs, Proprietaries & Druggists' Sundries",
+   "sectors": [
+    "retail"
+   ]
+  },
+  "BLK": {
+   "name": "BlackRock, Inc.",
+   "cik": 2012383,
+   "sic": "6211",
+   "sic_desc": "Security Brokers, Dealers & Flotation Companies",
+   "sectors": [
+    "fintech",
     "banks"
    ]
   }

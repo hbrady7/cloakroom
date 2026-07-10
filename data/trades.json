@@ -1,7 +1,601 @@
 {
- "generated_at": "2026-07-09T14:08:45Z",
+ "generated_at": "2026-07-10T13:30:06Z",
  "window_days": 180,
  "trades": [
+  {
+   "id": "I-ff16a3f52c73",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 38466,
+   "amount_high": 38466,
+   "tx_date": "2026-07-08",
+   "filed_date": "2026-07-09",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000115/"
+  },
+  {
+   "id": "I-fd106173ae8d",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 108304,
+   "amount_high": 108304,
+   "tx_date": "2026-07-08",
+   "filed_date": "2026-07-09",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000115/"
+  },
+  {
+   "id": "I-dd8c624a1267",
+   "source": "insider",
+   "person": "Walter Matthew R.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "SVP, Chief HR Officer",
+   "ticker": "MDT",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 257931,
+   "amount_high": 257931,
+   "tx_date": "2026-07-08",
+   "filed_date": "2026-07-09",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1613103/000202847526000008/"
+  },
+  {
+   "id": "I-c55207af7cb2",
+   "source": "insider",
+   "person": "Silbermann Benjamin",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "PINS",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1041605,
+   "amount_high": 1041605,
+   "tx_date": "2026-07-08",
+   "filed_date": "2026-07-09",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1506293/000177391426000015/"
+  },
+  {
+   "id": "I-bb47c0a61418",
+   "source": "insider",
+   "person": "Stata Ray",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "ADI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 130741,
+   "amount_high": 130741,
+   "tx_date": "2026-07-08",
+   "filed_date": "2026-07-09",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/6281/000090072926000012/"
+  },
+  {
+   "id": "I-b1de80a729c9",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15622,
+   "amount_high": 15622,
+   "tx_date": "2026-07-08",
+   "filed_date": "2026-07-09",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000115/"
+  },
+  {
+   "id": "I-a228e6ba5ade",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 172031,
+   "amount_high": 172031,
+   "tx_date": "2026-07-08",
+   "filed_date": "2026-07-09",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000115/"
+  },
+  {
+   "id": "I-8db8953bf4c8",
+   "source": "insider",
+   "person": "Stata Ray",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "ADI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 14772,
+   "amount_high": 14772,
+   "tx_date": "2026-07-08",
+   "filed_date": "2026-07-09",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/6281/000090072926000012/"
+  },
+  {
+   "id": "I-8c7ac8cb22fe",
+   "source": "insider",
+   "person": "Stata Ray",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "ADI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 76358,
+   "amount_high": 76358,
+   "tx_date": "2026-07-08",
+   "filed_date": "2026-07-09",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/6281/000090072926000012/"
+  },
+  {
+   "id": "I-8b63499898f6",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 141375,
+   "amount_high": 141375,
+   "tx_date": "2026-07-08",
+   "filed_date": "2026-07-09",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000115/"
+  },
+  {
+   "id": "I-86b0a4480a57",
+   "source": "insider",
+   "person": "Stata Ray",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "ADI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 41526,
+   "amount_high": 41526,
+   "tx_date": "2026-07-08",
+   "filed_date": "2026-07-09",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/6281/000090072926000012/"
+  },
+  {
+   "id": "I-75e63ff65909",
+   "source": "insider",
+   "person": "Stata Ray",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "ADI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 66371,
+   "amount_high": 66371,
+   "tx_date": "2026-07-08",
+   "filed_date": "2026-07-09",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/6281/000090072926000012/"
+  },
+  {
+   "id": "I-73f39c762457",
+   "source": "insider",
+   "person": "Stata Ray",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "ADI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 83908,
+   "amount_high": 83908,
+   "tx_date": "2026-07-08",
+   "filed_date": "2026-07-09",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/6281/000090072926000012/"
+  },
+  {
+   "id": "I-6d0f33b76270",
+   "source": "insider",
+   "person": "Stata Ray",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "ADI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 9090,
+   "amount_high": 9090,
+   "tx_date": "2026-07-08",
+   "filed_date": "2026-07-09",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/6281/000090072926000012/"
+  },
+  {
+   "id": "I-633f726c2541",
+   "source": "insider",
+   "person": "Stata Ray",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "ADI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 5670,
+   "amount_high": 5670,
+   "tx_date": "2026-07-08",
+   "filed_date": "2026-07-09",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/6281/000090072926000012/"
+  },
+  {
+   "id": "I-5803926e9fde",
+   "source": "insider",
+   "person": "Stata Ray",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "ADI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 41310,
+   "amount_high": 41310,
+   "tx_date": "2026-07-08",
+   "filed_date": "2026-07-09",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/6281/000090072926000012/"
+  },
+  {
+   "id": "I-508082ffc421",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 298404,
+   "amount_high": 298404,
+   "tx_date": "2026-07-08",
+   "filed_date": "2026-07-09",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000115/"
+  },
+  {
+   "id": "I-4992be50d8cb",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 54477,
+   "amount_high": 54477,
+   "tx_date": "2026-07-08",
+   "filed_date": "2026-07-09",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000115/"
+  },
+  {
+   "id": "I-3a0715be0348",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 296191,
+   "amount_high": 296191,
+   "tx_date": "2026-07-08",
+   "filed_date": "2026-07-09",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000115/"
+  },
+  {
+   "id": "I-2934436bbd17",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 173116,
+   "amount_high": 173116,
+   "tx_date": "2026-07-08",
+   "filed_date": "2026-07-09",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000115/"
+  },
+  {
+   "id": "I-15c309eabaea",
+   "source": "insider",
+   "person": "Cheng Chi Fung",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Technology Officer",
+   "ticker": "CRDO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 980511,
+   "amount_high": 980511,
+   "tx_date": "2026-07-08",
+   "filed_date": "2026-07-09",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/000162828026047780/"
+  },
+  {
+   "id": "I-1394c44d5954",
+   "source": "insider",
+   "person": "Stata Ray",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "ADI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 58284,
+   "amount_high": 58284,
+   "tx_date": "2026-07-08",
+   "filed_date": "2026-07-09",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/6281/000090072926000012/"
+  },
+  {
+   "id": "I-109561e10682",
+   "source": "insider",
+   "person": "Stata Ray",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "ADI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 16728,
+   "amount_high": 16728,
+   "tx_date": "2026-07-08",
+   "filed_date": "2026-07-09",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/6281/000090072926000012/"
+  },
+  {
+   "id": "I-076465bac70f",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 597682,
+   "amount_high": 597682,
+   "tx_date": "2026-07-08",
+   "filed_date": "2026-07-09",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000115/"
+  },
+  {
+   "id": "I-fb2037f407dc",
+   "source": "insider",
+   "person": "Stata Ray",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "ADI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 52490,
+   "amount_high": 52490,
+   "tx_date": "2026-07-07",
+   "filed_date": "2026-07-09",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/6281/000090072926000012/"
+  },
+  {
+   "id": "I-ee274733f7ec",
+   "source": "insider",
+   "person": "Cheng Chi Fung",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Technology Officer",
+   "ticker": "CRDO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 25355,
+   "amount_high": 25355,
+   "tx_date": "2026-07-07",
+   "filed_date": "2026-07-09",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/000162828026047780/"
+  },
+  {
+   "id": "I-ddbb55fe92af",
+   "source": "insider",
+   "person": "Stata Ray",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "ADI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 74436,
+   "amount_high": 74436,
+   "tx_date": "2026-07-07",
+   "filed_date": "2026-07-09",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/6281/000090072926000012/"
+  },
   {
    "id": "I-d9cb3093e4a5",
    "source": "insider",
@@ -23,6 +617,50 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000434/"
+  },
+  {
+   "id": "I-d97c2353ae59",
+   "source": "insider",
+   "person": "Stata Ray",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "ADI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 106636,
+   "amount_high": 106636,
+   "tx_date": "2026-07-07",
+   "filed_date": "2026-07-09",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/6281/000090072926000012/"
+  },
+  {
+   "id": "I-d8d8908a3ab2",
+   "source": "insider",
+   "person": "Cheng Chi Fung",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Technology Officer",
+   "ticker": "CRDO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 636428,
+   "amount_high": 636428,
+   "tx_date": "2026-07-07",
+   "filed_date": "2026-07-09",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/000162828026047780/"
   },
   {
    "id": "I-d5b108688c64",
@@ -69,6 +707,116 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000438/"
   },
   {
+   "id": "I-d0c0cdd4d375",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 288746,
+   "amount_high": 288746,
+   "tx_date": "2026-07-07",
+   "filed_date": "2026-07-09",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000115/"
+  },
+  {
+   "id": "I-c72319e0a762",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 61853,
+   "amount_high": 61853,
+   "tx_date": "2026-07-07",
+   "filed_date": "2026-07-09",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000115/"
+  },
+  {
+   "id": "I-c617f27b5e04",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 191853,
+   "amount_high": 191853,
+   "tx_date": "2026-07-07",
+   "filed_date": "2026-07-09",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000115/"
+  },
+  {
+   "id": "I-c3e5fe04062c",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 59230,
+   "amount_high": 59230,
+   "tx_date": "2026-07-07",
+   "filed_date": "2026-07-09",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000115/"
+  },
+  {
+   "id": "I-bd0feb6395f9",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 386018,
+   "amount_high": 386018,
+   "tx_date": "2026-07-07",
+   "filed_date": "2026-07-09",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000115/"
+  },
+  {
    "id": "I-bbd1f32e66c6",
    "source": "insider",
    "person": "Chin Yung-Pei",
@@ -111,6 +859,94 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000433/"
+  },
+  {
+   "id": "I-a9e325d85da1",
+   "source": "insider",
+   "person": "Cheng Chi Fung",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Technology Officer",
+   "ticker": "CRDO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 448966,
+   "amount_high": 448966,
+   "tx_date": "2026-07-07",
+   "filed_date": "2026-07-09",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/000162828026047780/"
+  },
+  {
+   "id": "I-a9050c493975",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 331940,
+   "amount_high": 331940,
+   "tx_date": "2026-07-07",
+   "filed_date": "2026-07-09",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000115/"
+  },
+  {
+   "id": "I-9283ff39747c",
+   "source": "insider",
+   "person": "Stata Ray",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "ADI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 4458,
+   "amount_high": 4458,
+   "tx_date": "2026-07-07",
+   "filed_date": "2026-07-09",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/6281/000090072926000012/"
+  },
+  {
+   "id": "I-8e75278054da",
+   "source": "insider",
+   "person": "Cheng Chi Fung",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Technology Officer",
+   "ticker": "CRDO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 200136,
+   "amount_high": 200136,
+   "tx_date": "2026-07-07",
+   "filed_date": "2026-07-09",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/000162828026047780/"
   },
   {
    "id": "I-8b310bede891",
@@ -179,6 +1015,94 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000441/"
   },
   {
+   "id": "I-742e063d71a2",
+   "source": "insider",
+   "person": "Cheng Chi Fung",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Technology Officer",
+   "ticker": "CRDO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 521145,
+   "amount_high": 521145,
+   "tx_date": "2026-07-07",
+   "filed_date": "2026-07-09",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/000162828026047780/"
+  },
+  {
+   "id": "I-6ef1134017fa",
+   "source": "insider",
+   "person": "Cheng Chi Fung",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Technology Officer",
+   "ticker": "CRDO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 239032,
+   "amount_high": 239032,
+   "tx_date": "2026-07-07",
+   "filed_date": "2026-07-09",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/000162828026047780/"
+  },
+  {
+   "id": "I-6e213d72b9f4",
+   "source": "insider",
+   "person": "Green Jason Elliot",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP and CCO",
+   "ticker": "SMTC",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 146388,
+   "amount_high": 146388,
+   "tx_date": "2026-07-07",
+   "filed_date": "2026-07-09",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/88941/000180173026000014/"
+  },
+  {
+   "id": "I-6b95344c4038",
+   "source": "insider",
+   "person": "Cheng Chi Fung",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Technology Officer",
+   "ticker": "CRDO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 720098,
+   "amount_high": 720098,
+   "tx_date": "2026-07-07",
+   "filed_date": "2026-07-09",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/000162828026047780/"
+  },
+  {
    "id": "I-697477196bc6",
    "source": "insider",
    "person": "Zhang Kevin Xiaoqiang",
@@ -199,6 +1123,28 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000430/"
+  },
+  {
+   "id": "I-6262d2fa169a",
+   "source": "insider",
+   "person": "Stata Ray",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "ADI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 86494,
+   "amount_high": 86494,
+   "tx_date": "2026-07-07",
+   "filed_date": "2026-07-09",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/6281/000090072926000012/"
   },
   {
    "id": "I-609a9587df1e",
@@ -223,6 +1169,72 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000436/"
   },
   {
+   "id": "I-5f1a935c35f3",
+   "source": "insider",
+   "person": "Cheng Chi Fung",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Technology Officer",
+   "ticker": "CRDO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 733000,
+   "amount_high": 733000,
+   "tx_date": "2026-07-07",
+   "filed_date": "2026-07-09",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/000162828026047780/"
+  },
+  {
+   "id": "I-5cafeb6cf946",
+   "source": "insider",
+   "person": "Cheng Chi Fung",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Technology Officer",
+   "ticker": "CRDO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 50473,
+   "amount_high": 50473,
+   "tx_date": "2026-07-07",
+   "filed_date": "2026-07-09",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/000162828026047780/"
+  },
+  {
+   "id": "I-4adb1493e99b",
+   "source": "insider",
+   "person": "Cheng Chi Fung",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Technology Officer",
+   "ticker": "CRDO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 321223,
+   "amount_high": 321223,
+   "tx_date": "2026-07-07",
+   "filed_date": "2026-07-09",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/000162828026047780/"
+  },
+  {
    "id": "I-498900c5b379",
    "source": "insider",
    "person": "Tien Bor-Zen",
@@ -245,6 +1257,50 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000435/"
   },
   {
+   "id": "I-4702df917f8f",
+   "source": "insider",
+   "person": "Cheng Chi Fung",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Technology Officer",
+   "ticker": "CRDO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 442598,
+   "amount_high": 442598,
+   "tx_date": "2026-07-07",
+   "filed_date": "2026-07-09",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/000162828026047780/"
+  },
+  {
+   "id": "I-450bcf960b1f",
+   "source": "insider",
+   "person": "Green Jason Elliot",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP and CCO",
+   "ticker": "SMTC",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 147698,
+   "amount_high": 147698,
+   "tx_date": "2026-07-07",
+   "filed_date": "2026-07-09",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/88941/000180173026000014/"
+  },
+  {
    "id": "I-3efabefb82f8",
    "source": "insider",
    "person": "Chang Tzonz-Sheng",
@@ -265,6 +1321,94 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000439/"
+  },
+  {
+   "id": "I-3d7421c3522b",
+   "source": "insider",
+   "person": "Cheng Chi Fung",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Technology Officer",
+   "ticker": "CRDO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 477406,
+   "amount_high": 477406,
+   "tx_date": "2026-07-07",
+   "filed_date": "2026-07-09",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/000162828026047780/"
+  },
+  {
+   "id": "I-3c693c1665a0",
+   "source": "insider",
+   "person": "Stata Ray",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "ADI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 9909,
+   "amount_high": 9909,
+   "tx_date": "2026-07-07",
+   "filed_date": "2026-07-09",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/6281/000090072926000012/"
+  },
+  {
+   "id": "I-3b8da992ae94",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 362418,
+   "amount_high": 362418,
+   "tx_date": "2026-07-07",
+   "filed_date": "2026-07-09",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000115/"
+  },
+  {
+   "id": "I-334295503dd5",
+   "source": "insider",
+   "person": "Stata Ray",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "ADI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 23132,
+   "amount_high": 23132,
+   "tx_date": "2026-07-07",
+   "filed_date": "2026-07-09",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/6281/000090072926000012/"
   },
   {
    "id": "I-318aecbca39f",
@@ -311,6 +1455,138 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000442/"
   },
   {
+   "id": "I-2440b4e0cd96",
+   "source": "insider",
+   "person": "Cheng Chi Fung",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Technology Officer",
+   "ticker": "CRDO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 791310,
+   "amount_high": 791310,
+   "tx_date": "2026-07-07",
+   "filed_date": "2026-07-09",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/000162828026047780/"
+  },
+  {
+   "id": "I-22cca7a146a7",
+   "source": "insider",
+   "person": "Stata Ray",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "ADI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 54025,
+   "amount_high": 54025,
+   "tx_date": "2026-07-07",
+   "filed_date": "2026-07-09",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/6281/000090072926000012/"
+  },
+  {
+   "id": "I-22c2c2cd5816",
+   "source": "insider",
+   "person": "Cheng Chi Fung",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Technology Officer",
+   "ticker": "CRDO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 125597,
+   "amount_high": 125597,
+   "tx_date": "2026-07-07",
+   "filed_date": "2026-07-09",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/000162828026047780/"
+  },
+  {
+   "id": "I-1f5cecf8a728",
+   "source": "insider",
+   "person": "Stata Ray",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "ADI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 69847,
+   "amount_high": 69847,
+   "tx_date": "2026-07-07",
+   "filed_date": "2026-07-09",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/6281/000090072926000012/"
+  },
+  {
+   "id": "I-1e2d2b78f92b",
+   "source": "insider",
+   "person": "Cheng Chi Fung",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Technology Officer",
+   "ticker": "CRDO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 393047,
+   "amount_high": 393047,
+   "tx_date": "2026-07-07",
+   "filed_date": "2026-07-09",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/000162828026047780/"
+  },
+  {
+   "id": "I-1aa7cd821479",
+   "source": "insider",
+   "person": "Silbermann Benjamin",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "PINS",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1060903,
+   "amount_high": 1060903,
+   "tx_date": "2026-07-07",
+   "filed_date": "2026-07-09",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1506293/000177391426000015/"
+  },
+  {
    "id": "I-19dfe653b86c",
    "source": "insider",
    "person": "Tien Bor-Zen",
@@ -331,6 +1607,50 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000435/"
+  },
+  {
+   "id": "I-0eb2260d2935",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 286926,
+   "amount_high": 286926,
+   "tx_date": "2026-07-07",
+   "filed_date": "2026-07-09",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000115/"
+  },
+  {
+   "id": "I-0df835a713ed",
+   "source": "insider",
+   "person": "Stata Ray",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "ADI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 52426,
+   "amount_high": 52426,
+   "tx_date": "2026-07-07",
+   "filed_date": "2026-07-09",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/6281/000090072926000012/"
   },
   {
    "id": "I-0c0c445713b1",
@@ -355,6 +1675,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000445/"
   },
   {
+   "id": "I-0965a65e08b8",
+   "source": "insider",
+   "person": "Cheng Chi Fung",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Technology Officer",
+   "ticker": "CRDO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 236583,
+   "amount_high": 236583,
+   "tx_date": "2026-07-07",
+   "filed_date": "2026-07-09",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/000162828026047780/"
+  },
+  {
    "id": "I-084bbf939084",
    "source": "insider",
    "person": "Jang Syun-Ming",
@@ -375,6 +1717,28 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000444/"
+  },
+  {
+   "id": "I-07c021bf1bdd",
+   "source": "insider",
+   "person": "Cheng Chi Fung",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Technology Officer",
+   "ticker": "CRDO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 321862,
+   "amount_high": 321862,
+   "tx_date": "2026-07-07",
+   "filed_date": "2026-07-09",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/000162828026047780/"
   },
   {
    "id": "I-317ad28875ea",
@@ -463,6 +1827,28 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/943452/000094345226000003/"
+  },
+  {
+   "id": "I-8c33e74126fe",
+   "source": "insider",
+   "person": "Tyler Brian S.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Executive Officer",
+   "ticker": "MCK",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 6715898,
+   "amount_high": 6715898,
+   "tx_date": "2026-07-07",
+   "filed_date": "2026-07-08",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/927653/000092765326000187/"
   },
   {
    "id": "I-898574a0dab5",
@@ -595,6 +1981,31 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/943452/000094345226000003/"
+  },
+  {
+   "id": "C-2a91238e7123",
+   "source": "congress",
+   "person": "John McGuire",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Oversight and Government Reform"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "BLK",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-07",
+   "filed_date": "2026-07-08",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034942.pdf"
   },
   {
    "id": "I-ff98100dff67",
@@ -3237,6 +4648,31 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/943452/000094345226000003/"
   },
   {
+   "id": "C-d58642d31a7f",
+   "source": "congress",
+   "person": "Susie Lee",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Appropriations",
+     "House Committee on Natural Resources"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "FLL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-01",
+   "filed_date": "2026-07-08",
+   "lag_days": 7,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034790.pdf"
+  },
+  {
    "id": "C-70d7f5d19ba1",
    "source": "congress",
    "person": "Sheldon Whitehouse",
@@ -3409,6 +4845,81 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://efdsearch.senate.gov/search/view/ptr/5d9b1b8e-2ae1-442b-860c-e79b8a701dc6/"
+  },
+  {
+   "id": "C-91f202d1541f",
+   "source": "congress",
+   "person": "John McGuire",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Oversight and Government Reform"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "SPCX",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-15",
+   "filed_date": "2026-07-08",
+   "lag_days": 23,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034942.pdf"
+  },
+  {
+   "id": "C-826c3d2ccf5b",
+   "source": "congress",
+   "person": "Susie Lee",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Appropriations",
+     "House Committee on Natural Resources"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "FLL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-01",
+   "filed_date": "2026-07-08",
+   "lag_days": 37,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034790.pdf"
+  },
+  {
+   "id": "C-1a796d2b9ab8",
+   "source": "congress",
+   "person": "Ritchie John Torres",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MCK",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-01-07",
+   "filed_date": "2026-07-08",
+   "lag_days": 547,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034224.pdf"
   },
   {
    "id": "I-d8fa1135af8c",
@@ -26103,6 +27614,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/100591/000206621326000010/"
   },
   {
+   "id": "I-6cb9dcba7708",
+   "source": "insider",
+   "person": "Tyler Brian S.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Executive Officer",
+   "ticker": "MCK",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 6559925,
+   "amount_high": 6559925,
+   "tx_date": "2026-06-17",
+   "filed_date": "2026-06-18",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/927653/000092765326000175/"
+  },
+  {
    "id": "I-52e174b9d0f3",
    "source": "insider",
    "person": "Patten Jarrod M",
@@ -41801,6 +43334,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1327811/000093807126000031/"
   },
   {
+   "id": "I-d6382b5ec1e6",
+   "source": "insider",
+   "person": "Tyler Brian S.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Executive Officer",
+   "ticker": "MCK",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 3760827,
+   "amount_high": 3760827,
+   "tx_date": "2026-06-09",
+   "filed_date": "2026-06-11",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/927653/000092765326000148/"
+  },
+  {
    "id": "I-d3327e37c264",
    "source": "insider",
    "person": "Baig Saqib",
@@ -45690,6 +47245,28 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2110105/000162828026041624/"
+  },
+  {
+   "id": "I-1f89355de2cc",
+   "source": "insider",
+   "person": "Rutledge Napoleon B JR",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "SVP, Controller & CAO",
+   "ticker": "MCK",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 101612,
+   "amount_high": 101612,
+   "tx_date": "2026-06-05",
+   "filed_date": "2026-06-08",
+   "lag_days": 3,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/927653/000092765326000140/"
   },
   {
    "id": "I-1c9a3187a6bf",
@@ -53799,6 +55376,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1639920/000162828026040496/"
   },
   {
+   "id": "I-31e93112de92",
+   "source": "insider",
+   "person": "Rodgers Thomas L",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP, Chief Strategy & BDO",
+   "ticker": "MCK",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 513954,
+   "amount_high": 513954,
+   "tx_date": "2026-06-02",
+   "filed_date": "2026-06-03",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/927653/000092765326000138/"
+  },
+  {
    "id": "I-1fafec53901f",
    "source": "insider",
    "person": "Emerson Daniel P",
@@ -54127,6 +55726,28 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1679788/000167978826000063/"
+  },
+  {
+   "id": "I-bb89fd776700",
+   "source": "insider",
+   "person": "Rodgers Thomas L",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP, Chief Strategy & BDO",
+   "ticker": "MCK",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 90466,
+   "amount_high": 90466,
+   "tx_date": "2026-06-01",
+   "filed_date": "2026-06-03",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/927653/000092765326000138/"
   },
   {
    "id": "I-b791844a70b7",
@@ -56415,6 +58036,28 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1618673/000119312526253775/"
+  },
+  {
+   "id": "I-232d1df41a83",
+   "source": "insider",
+   "person": "Smith LeAnn B",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP & Chief HR Officer",
+   "ticker": "MCK",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1331255,
+   "amount_high": 1331255,
+   "tx_date": "2026-06-01",
+   "filed_date": "2026-06-02",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/927653/000092765326000136/"
   },
   {
    "id": "I-19485d5658c5",
@@ -60524,6 +62167,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/822818/000167002226000005/"
   },
   {
+   "id": "I-768b1b8be040",
+   "source": "insider",
+   "person": "Lau Michele",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP and Chief Legal Officer",
+   "ticker": "MCK",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 2701870,
+   "amount_high": 2701870,
+   "tx_date": "2026-05-26",
+   "filed_date": "2026-05-27",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/927653/000092765326000128/"
+  },
+  {
    "id": "I-6c1e7e6e6cab",
    "source": "insider",
    "person": "Kahn Todd",
@@ -60632,6 +62297,28 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1075531/000121461226000005/"
+  },
+  {
+   "id": "I-0a431b8d7371",
+   "source": "insider",
+   "person": "Rodgers Thomas L",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP, Chief Strategy & BDO",
+   "ticker": "MCK",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1817483,
+   "amount_high": 1817483,
+   "tx_date": "2026-05-26",
+   "filed_date": "2026-05-27",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/927653/000092765326000124/"
   },
   {
    "id": "I-fe9521e61366",
@@ -85923,6 +87610,94 @@
    "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034274.pdf"
   },
   {
+   "id": "I-bb80e363d51a",
+   "source": "insider",
+   "person": "Fink Laurence",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chairman and CEO",
+   "ticker": "BLK",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 2237606,
+   "amount_high": 2237606,
+   "tx_date": "2026-04-28",
+   "filed_date": "2026-04-29",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2012383/000201238326001792/"
+  },
+  {
+   "id": "I-69978bfe2f15",
+   "source": "insider",
+   "person": "Fink Laurence",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chairman and CEO",
+   "ticker": "BLK",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 10196923,
+   "amount_high": 10196923,
+   "tx_date": "2026-04-28",
+   "filed_date": "2026-04-29",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2012383/000201238326001792/"
+  },
+  {
+   "id": "I-4160a97707b0",
+   "source": "insider",
+   "person": "Fink Laurence",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chairman and CEO",
+   "ticker": "BLK",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 8647393,
+   "amount_high": 8647393,
+   "tx_date": "2026-04-28",
+   "filed_date": "2026-04-29",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2012383/000201238326001792/"
+  },
+  {
+   "id": "I-24880927f87a",
+   "source": "insider",
+   "person": "Fink Laurence",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chairman and CEO",
+   "ticker": "BLK",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 14531794,
+   "amount_high": 14531794,
+   "tx_date": "2026-04-28",
+   "filed_date": "2026-04-29",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2012383/000201238326001792/"
+  },
+  {
    "id": "I-188a2939860c",
    "source": "insider",
    "person": "Bailey Vicky A",
@@ -85987,6 +87762,28 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1571283/000167077926000004/"
+  },
+  {
+   "id": "I-fddd4a91c1c7",
+   "source": "insider",
+   "person": "Kapito Robert",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President",
+   "ticker": "BLK",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 197772,
+   "amount_high": 197772,
+   "tx_date": "2026-04-27",
+   "filed_date": "2026-04-28",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2012383/000201238326001776/"
   },
   {
    "id": "I-f25fb694f8f4",
@@ -86141,6 +87938,50 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/16918/000161435726000002/"
+  },
+  {
+   "id": "I-1a1ac12a62cf",
+   "source": "insider",
+   "person": "Kapito Robert",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President",
+   "ticker": "BLK",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 5668972,
+   "amount_high": 5668972,
+   "tx_date": "2026-04-27",
+   "filed_date": "2026-04-28",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2012383/000201238326001776/"
+  },
+  {
+   "id": "I-109a2980d76a",
+   "source": "insider",
+   "person": "Kapito Robert",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President",
+   "ticker": "BLK",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 3366852,
+   "amount_high": 3366852,
+   "tx_date": "2026-04-27",
+   "filed_date": "2026-04-28",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2012383/000201238326001776/"
   },
   {
    "id": "I-03689bb4bd1e",
