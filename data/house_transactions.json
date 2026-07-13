@@ -1,6 +1,473 @@
 {
- "generated_at": "2026-07-10T13:28:47Z",
+ "generated_at": "2026-07-13T13:36:05Z",
  "transactions": [
+  {
+   "id": "C-973037cad159",
+   "source": "congress",
+   "person": "Robert J. Wittman",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Natural Resources",
+     "House Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CCI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-30",
+   "filed_date": "2026-07-10",
+   "lag_days": 10,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034916.pdf"
+  },
+  {
+   "id": "C-d9a3db3f3210",
+   "source": "congress",
+   "person": "Richard Dean Dr McCormick",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Oversight and Government Reform",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ADI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-12",
+   "filed_date": "2026-07-09",
+   "lag_days": 27,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034954.pdf"
+  },
+  {
+   "id": "C-c7e6d6fb84fd",
+   "source": "congress",
+   "person": "Richard Dean Dr McCormick",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Oversight and Government Reform",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "SPSM",
+   "asset_type": "other",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-12",
+   "filed_date": "2026-07-09",
+   "lag_days": 27,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034954.pdf"
+  },
+  {
+   "id": "C-b41a51145b1b",
+   "source": "congress",
+   "person": "Richard Dean Dr McCormick",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Oversight and Government Reform",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MGK",
+   "asset_type": "other",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-12",
+   "filed_date": "2026-07-09",
+   "lag_days": 27,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034954.pdf"
+  },
+  {
+   "id": "C-aeda15693043",
+   "source": "congress",
+   "person": "Richard Dean Dr McCormick",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Oversight and Government Reform",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "IMCB",
+   "asset_type": "other",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-12",
+   "filed_date": "2026-07-09",
+   "lag_days": 27,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034954.pdf"
+  },
+  {
+   "id": "C-8d5bdaa93242",
+   "source": "congress",
+   "person": "Richard Dean Dr McCormick",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Oversight and Government Reform",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CSCO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-12",
+   "filed_date": "2026-07-09",
+   "lag_days": 27,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034954.pdf"
+  },
+  {
+   "id": "C-8a196db515e0",
+   "source": "congress",
+   "person": "Richard Dean Dr McCormick",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Oversight and Government Reform",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "LHX",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-12",
+   "filed_date": "2026-07-09",
+   "lag_days": 27,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034954.pdf"
+  },
+  {
+   "id": "C-896d2ae72a4a",
+   "source": "congress",
+   "person": "Richard Dean Dr McCormick",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Oversight and Government Reform",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "UNH",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-12",
+   "filed_date": "2026-07-09",
+   "lag_days": 27,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034954.pdf"
+  },
+  {
+   "id": "C-8755af8a34b8",
+   "source": "congress",
+   "person": "Richard Dean Dr McCormick",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Oversight and Government Reform",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ABT",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-12",
+   "filed_date": "2026-07-09",
+   "lag_days": 27,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034954.pdf"
+  },
+  {
+   "id": "C-669cd6df5688",
+   "source": "congress",
+   "person": "Richard Dean Dr McCormick",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Oversight and Government Reform",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "UNH",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-12",
+   "filed_date": "2026-07-09",
+   "lag_days": 27,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034954.pdf"
+  },
+  {
+   "id": "C-64dc9c9c7de9",
+   "source": "congress",
+   "person": "Richard Dean Dr McCormick",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Oversight and Government Reform",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CSCO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-12",
+   "filed_date": "2026-07-09",
+   "lag_days": 27,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034954.pdf"
+  },
+  {
+   "id": "C-4dd40c13871e",
+   "source": "congress",
+   "person": "Richard Dean Dr McCormick",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Oversight and Government Reform",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ABT",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-12",
+   "filed_date": "2026-07-09",
+   "lag_days": 27,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034954.pdf"
+  },
+  {
+   "id": "C-32daa7785bc4",
+   "source": "congress",
+   "person": "Richard Dean Dr McCormick",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Oversight and Government Reform",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MGK",
+   "asset_type": "other",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-12",
+   "filed_date": "2026-07-09",
+   "lag_days": 27,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034954.pdf"
+  },
+  {
+   "id": "C-2dbcdabf36e5",
+   "source": "congress",
+   "person": "Richard Dean Dr McCormick",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Oversight and Government Reform",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "BLK",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-12",
+   "filed_date": "2026-07-09",
+   "lag_days": 27,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034954.pdf"
+  },
+  {
+   "id": "C-2731cb712c5a",
+   "source": "congress",
+   "person": "Richard Dean Dr McCormick",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Oversight and Government Reform",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ICE",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-12",
+   "filed_date": "2026-07-09",
+   "lag_days": 27,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034954.pdf"
+  },
+  {
+   "id": "C-0481e2c73399",
+   "source": "congress",
+   "person": "Richard Dean Dr McCormick",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Oversight and Government Reform",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "LHX",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-12",
+   "filed_date": "2026-07-09",
+   "lag_days": 27,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034954.pdf"
+  },
+  {
+   "id": "C-012dada859a6",
+   "source": "congress",
+   "person": "Richard Dean Dr McCormick",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Oversight and Government Reform",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ADI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-12",
+   "filed_date": "2026-07-09",
+   "lag_days": 27,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034954.pdf"
+  },
+  {
+   "id": "C-ab34422add04",
+   "source": "congress",
+   "person": "Tim Moore",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on the Budget"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "DASH",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-09",
+   "filed_date": "2026-07-09",
+   "lag_days": 30,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034952.pdf"
+  },
   {
    "id": "C-2a91238e7123",
    "source": "congress",

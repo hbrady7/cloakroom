@@ -4,55 +4,55 @@
    "ok": true,
    "detail": "congress-legislators",
    "count": 546,
-   "at": "2026-07-10T13:26:52Z"
+   "at": "2026-07-13T13:34:14Z"
   },
   "senate": {
    "ok": true,
    "detail": "mode=efd",
-   "count": 347,
-   "at": "2026-07-10T13:28:44Z"
+   "count": 311,
+   "at": "2026-07-13T13:36:01Z"
   },
   "house": {
    "ok": true,
-   "detail": "parsed=4 no_text=0 errors=0",
-   "count": 2042,
-   "at": "2026-07-10T13:28:47Z"
+   "detail": "parsed=5 no_text=0 errors=0",
+   "count": 2060,
+   "at": "2026-07-13T13:36:05Z"
   },
   "insider": {
    "ok": true,
-   "detail": "tickers=250 new_filings=37",
-   "count": 3119,
-   "at": "2026-07-10T13:30:05Z"
+   "detail": "tickers=250 new_filings=53",
+   "count": 3281,
+   "at": "2026-07-13T13:37:30Z"
   },
   "merge": {
    "ok": true,
-   "detail": "congress=2372 insider=3119",
-   "count": 5491,
-   "at": "2026-07-10T13:30:06Z"
+   "detail": "congress=2040 insider=3281",
+   "count": 5321,
+   "at": "2026-07-13T13:37:31Z"
   },
   "prices": {
    "ok": true,
    "detail": "stooq=0 yf=492 cached=2 missing=9",
    "count": 492,
-   "at": "2026-07-10T13:31:20Z"
+   "at": "2026-07-13T13:38:13Z"
   },
   "score": {
    "ok": true,
-   "detail": "as_of=2026-07-09 universe=677",
+   "detail": "as_of=2026-07-10 universe=635",
    "count": 14,
-   "at": "2026-07-10T13:31:21Z"
+   "at": "2026-07-13T13:38:14Z"
   },
   "leaderboard": {
    "ok": true,
    "detail": "min_trades=5",
    "count": 40,
-   "at": "2026-07-10T13:31:21Z"
+   "at": "2026-07-13T13:38:14Z"
   },
   "brief": {
    "ok": false,
    "detail": "engine_only fallback",
    "count": 0,
-   "at": "2026-07-10T13:31:31Z"
+   "at": "2026-07-13T13:38:23Z"
   }
  }
 }

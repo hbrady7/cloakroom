@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-10T13:26:52Z",
+ "generated_at": "2026-07-13T13:34:14Z",
  "members": [
   {
    "bioguide": "A000370",
@@ -13756,7 +13756,7 @@
   },
   {
    "bioguide": "G000359",
-   "former": false,
+   "former": true,
    "name": "Lindsey Graham",
    "first": "Lindsey",
    "last": "Graham",
@@ -13765,32 +13765,8 @@
    "party": "Republican",
    "state": "SC",
    "district": null,
-   "committees": [
-    {
-     "id": "SSAP",
-     "name": "Senate Committee on Appropriations"
-    },
-    {
-     "id": "SSBU",
-     "name": "Senate Committee on the Budget"
-    },
-    {
-     "id": "SSEV",
-     "name": "Senate Committee on Environment and Public Works"
-    },
-    {
-     "id": "SSJU",
-     "name": "Senate Committee on the Judiciary"
-    }
-   ],
-   "sectors": [
-    "defense",
-    "energy",
-    "utilities",
-    "transport",
-    "tech",
-    "media"
-   ]
+   "committees": [],
+   "sectors": []
   },
   {
    "bioguide": "G000386",
