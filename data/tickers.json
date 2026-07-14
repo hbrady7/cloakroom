@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-13T13:37:30Z",
+ "generated_at": "2026-07-14T12:50:36Z",
  "tickers": {
   "ZTS": {
    "name": "Zoetis Inc.",
@@ -2423,6 +2423,50 @@
    "sic": "3576",
    "sic_desc": "Computer Communications Equipment",
    "sectors": [
+    "tech"
+   ]
+  },
+  "TPYP": {
+   "name": null,
+   "cik": null,
+   "sic": null,
+   "sic_desc": null,
+   "sectors": []
+  },
+  "PALL": {
+   "name": "abrdn Palladium ETF Trust",
+   "cik": 1459862,
+   "sic": "6221",
+   "sic_desc": "Commodity Contracts Brokers & Dealers",
+   "sectors": [
+    "fintech",
+    "banks"
+   ]
+  },
+  "IGV": {
+   "name": null,
+   "cik": null,
+   "sic": null,
+   "sic_desc": null,
+   "sectors": []
+  },
+  "ATO": {
+   "name": "ATMOS ENERGY CORP",
+   "cik": 731802,
+   "sic": "4924",
+   "sic_desc": "Natural Gas Distribution",
+   "sectors": [
+    "utilities",
+    "energy"
+   ]
+  },
+  "APH": {
+   "name": "AMPHENOL CORP /DE/",
+   "cik": 820313,
+   "sic": "3678",
+   "sic_desc": "Electronic Connectors",
+   "sectors": [
+    "semis",
     "tech"
    ]
   }

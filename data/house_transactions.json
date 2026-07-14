@@ -1,6 +1,126 @@
 {
- "generated_at": "2026-07-13T13:36:05Z",
+ "generated_at": "2026-07-14T12:49:23Z",
  "transactions": [
+  {
+   "id": "C-eeb43680b3e2",
+   "source": "congress",
+   "person": "Rick Larsen",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Transportation and Infrastructure"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MCK",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-08",
+   "filed_date": "2026-07-12",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034977.pdf"
+  },
+  {
+   "id": "C-cf9b7d3bc4c3",
+   "source": "congress",
+   "person": "Rick Larsen",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Transportation and Infrastructure"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "APH",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-08",
+   "filed_date": "2026-07-12",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034977.pdf"
+  },
+  {
+   "id": "C-67356a8976f3",
+   "source": "congress",
+   "person": "Rick Larsen",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Transportation and Infrastructure"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "SPGI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-08",
+   "filed_date": "2026-07-12",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034977.pdf"
+  },
+  {
+   "id": "C-13c92183826c",
+   "source": "congress",
+   "person": "Rick Larsen",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Transportation and Infrastructure"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ABT",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-08",
+   "filed_date": "2026-07-12",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034977.pdf"
+  },
+  {
+   "id": "C-5d950dd584b1",
+   "source": "congress",
+   "person": "John James",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Energy and Commerce"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "SPCX",
+   "asset_type": "other",
+   "side": "buy",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-06-12",
+   "filed_date": "2026-07-12",
+   "lag_days": 30,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034949.pdf"
+  },
   {
    "id": "C-973037cad159",
    "source": "congress",
@@ -26,6 +146,32 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034916.pdf"
+  },
+  {
+   "id": "C-1721991cfab9",
+   "source": "congress",
+   "person": "Virginia Foxx",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Education and Workforce",
+     "House Committee on Oversight and Government Reform",
+     "House Committee on Rules"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ARLP",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-06-18",
+   "filed_date": "2026-07-10",
+   "lag_days": 22,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034895.pdf"
   },
   {
    "id": "C-d9a3db3f3210",
