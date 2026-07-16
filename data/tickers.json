@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-15T12:55:01Z",
+ "generated_at": "2026-07-16T13:01:54Z",
  "tickers": {
   "ZTS": {
    "name": "Zoetis Inc.",
@@ -2468,6 +2468,54 @@
    "sectors": [
     "semis",
     "tech"
+   ]
+  },
+  "PFE": {
+   "name": "PFIZER INC",
+   "cik": 78003,
+   "sic": "2834",
+   "sic_desc": "Pharmaceutical Preparations",
+   "sectors": [
+    "pharma",
+    "biotech"
+   ]
+  },
+  "NEE": {
+   "name": "NEXTERA ENERGY INC",
+   "cik": 753308,
+   "sic": "4911",
+   "sic_desc": "Electric Services",
+   "sectors": [
+    "utilities",
+    "energy"
+   ]
+  },
+  "DUK": {
+   "name": "Duke Energy CORP",
+   "cik": 1326160,
+   "sic": "4931",
+   "sic_desc": "Electric & Other Services Combined",
+   "sectors": [
+    "utilities",
+    "energy"
+   ]
+  },
+  "CSX": {
+   "name": "CSX CORP",
+   "cik": 277948,
+   "sic": "4011",
+   "sic_desc": "Railroads, Line-Haul Operating",
+   "sectors": [
+    "transport"
+   ]
+  },
+  "AWK": {
+   "name": "American Water Works Company, Inc.",
+   "cik": 1410636,
+   "sic": "4941",
+   "sic_desc": "Water Supply",
+   "sectors": [
+    "utilities"
    ]
   }
  }

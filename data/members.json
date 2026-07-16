@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-15T12:51:50Z",
+ "generated_at": "2026-07-16T12:58:47Z",
  "members": [
   {
    "bioguide": "A000370",
@@ -637,6 +637,10 @@
     {
      "id": "HSAS",
      "name": "House Committee on Armed Services"
+    },
+    {
+     "id": "HSFA",
+     "name": "House Committee on Foreign Affairs"
     },
     {
      "id": "HSGO",
@@ -3836,8 +3840,21 @@
    "party": "Republican",
    "state": "GA",
    "district": 14,
-   "committees": [],
-   "sectors": []
+   "committees": [
+    {
+     "id": "HSPW",
+     "name": "House Committee on Transportation and Infrastructure"
+    },
+    {
+     "id": "HSSM",
+     "name": "House Committee on Small Business"
+    }
+   ],
+   "sectors": [
+    "transport",
+    "industrial",
+    "banks"
+   ]
   },
   {
    "bioguide": "G000607",
@@ -3850,8 +3867,28 @@
    "party": "Republican",
    "state": "CA",
    "district": 1,
-   "committees": [],
-   "sectors": []
+   "committees": [
+    {
+     "id": "HSFA",
+     "name": "House Committee on Foreign Affairs"
+    },
+    {
+     "id": "HSPW",
+     "name": "House Committee on Transportation and Infrastructure"
+    },
+    {
+     "id": "HSSY",
+     "name": "House Committee on Science, Space, and Technology"
+    }
+   ],
+   "sectors": [
+    "defense",
+    "transport",
+    "industrial",
+    "aerospace",
+    "tech",
+    "semis"
+   ]
   },
   {
    "bioguide": "G000559",
@@ -4310,13 +4347,18 @@
     {
      "id": "HSSM",
      "name": "House Committee on Small Business"
+    },
+    {
+     "id": "HSVR",
+     "name": "House Committee on Veterans' Affairs"
     }
    ],
    "sectors": [
     "defense",
     "aerospace",
     "cyber",
-    "banks"
+    "banks",
+    "healthcare"
    ]
   },
   {
@@ -5761,10 +5803,15 @@
     {
      "id": "HSAP",
      "name": "House Committee on Appropriations"
+    },
+    {
+     "id": "HSHM",
+     "name": "House Committee on Homeland Security"
     }
    ],
    "sectors": [
-    "defense"
+    "defense",
+    "cyber"
    ]
   },
   {
@@ -6130,8 +6177,26 @@
    "party": "Independent",
    "state": "CA",
    "district": 3,
-   "committees": [],
-   "sectors": []
+   "committees": [
+    {
+     "id": "HSED",
+     "name": "House Committee on Education and Workforce"
+    },
+    {
+     "id": "HSJU",
+     "name": "House Committee on the Judiciary"
+    },
+    {
+     "id": "HSPW",
+     "name": "House Committee on Transportation and Infrastructure"
+    }
+   ],
+   "sectors": [
+    "tech",
+    "media",
+    "transport",
+    "industrial"
+   ]
   },
   {
    "bioguide": "K000397",
@@ -6606,11 +6671,14 @@
      "name": "House Committee on Education and Workforce"
     },
     {
-     "id": "HSGO",
-     "name": "House Committee on Oversight and Government Reform"
+     "id": "HSJU",
+     "name": "House Committee on the Judiciary"
     }
    ],
-   "sectors": []
+   "sectors": [
+    "tech",
+    "media"
+   ]
   },
   {
    "bioguide": "L000590",
@@ -7690,8 +7758,21 @@
    "party": "Democrat",
    "state": "NJ",
    "district": 11,
-   "committees": [],
-   "sectors": []
+   "committees": [
+    {
+     "id": "HSHM",
+     "name": "House Committee on Homeland Security"
+    },
+    {
+     "id": "HSSM",
+     "name": "House Committee on Small Business"
+    }
+   ],
+   "sectors": [
+    "defense",
+    "cyber",
+    "banks"
+   ]
   },
   {
    "bioguide": "M001245",
@@ -7705,6 +7786,10 @@
    "state": "TX",
    "district": 18,
    "committees": [
+    {
+     "id": "HSGO",
+     "name": "House Committee on Oversight and Government Reform"
+    },
     {
      "id": "HSSY",
      "name": "House Committee on Science, Space, and Technology"
@@ -9287,6 +9372,10 @@
     {
      "id": "HSAP",
      "name": "House Committee on Appropriations"
+    },
+    {
+     "id": "HSFA",
+     "name": "House Committee on Foreign Affairs"
     }
    ],
    "sectors": [
@@ -10341,18 +10430,12 @@
    "district": 6,
    "committees": [
     {
-     "id": "HSFA",
-     "name": "House Committee on Foreign Affairs"
-    },
-    {
-     "id": "HSPW",
-     "name": "House Committee on Transportation and Infrastructure"
+     "id": "HSAP",
+     "name": "House Committee on Appropriations"
     }
    ],
    "sectors": [
-    "defense",
-    "transport",
-    "industrial"
+    "defense"
    ]
   },
   {
@@ -11956,6 +12039,10 @@
     {
      "id": "HSAP",
      "name": "House Committee on Appropriations"
+    },
+    {
+     "id": "HSFA",
+     "name": "House Committee on Foreign Affairs"
     }
    ],
    "sectors": [
@@ -12349,17 +12436,11 @@
    "district": 2,
    "committees": [
     {
-     "id": "HSPW",
-     "name": "House Committee on Transportation and Infrastructure"
-    },
-    {
      "id": "HSWM",
      "name": "House Committee on Ways and Means"
     }
    ],
    "sectors": [
-    "transport",
-    "industrial",
     "healthcare",
     "pharma",
     "banks",
@@ -13760,6 +13841,20 @@
    "name": "Lindsey Graham",
    "first": "Lindsey",
    "last": "Graham",
+   "nickname": "",
+   "chamber": "senate",
+   "party": "Republican",
+   "state": "SC",
+   "district": null,
+   "committees": [],
+   "sectors": []
+  },
+  {
+   "bioguide": "G000608",
+   "former": false,
+   "name": "Darline Graham",
+   "first": "Darline",
+   "last": "Graham Nordone",
    "nickname": "",
    "chamber": "senate",
    "party": "Republican",
