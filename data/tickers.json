@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-16T13:01:54Z",
+ "generated_at": "2026-07-17T12:46:19Z",
  "tickers": {
   "ZTS": {
    "name": "Zoetis Inc.",
@@ -2516,6 +2516,69 @@
    "sic_desc": "Water Supply",
    "sectors": [
     "utilities"
+   ]
+  },
+  "WPM": {
+   "name": "Wheaton Precious Metals Corp.",
+   "cik": 1323404,
+   "sic": "1040",
+   "sic_desc": "Gold and Silver Ores",
+   "sectors": [
+    "mining",
+    "commodities"
+   ]
+  },
+  "SYK": {
+   "name": "STRYKER CORP",
+   "cik": 310764,
+   "sic": "3841",
+   "sic_desc": "Surgical & Medical Instruments & Apparatus",
+   "sectors": [
+    "healthcare"
+   ]
+  },
+  "SPHR": {
+   "name": "Sphere Entertainment Co.",
+   "cik": 1795250,
+   "sic": "7900",
+   "sic_desc": "Services-Amusement & Recreation Services",
+   "sectors": []
+  },
+  "MPWR": {
+   "name": "MONOLITHIC POWER SYSTEMS INC",
+   "cik": 1280452,
+   "sic": "3674",
+   "sic_desc": "Semiconductors & Related Devices",
+   "sectors": [
+    "semis",
+    "tech"
+   ]
+  },
+  "HLT": {
+   "name": "Hilton Worldwide Holdings Inc.",
+   "cik": 1585689,
+   "sic": "7011",
+   "sic_desc": "Hotels & Motels",
+   "sectors": [
+    "retail"
+   ]
+  },
+  "ESAB": {
+   "name": "ESAB Corp",
+   "cik": 1877322,
+   "sic": "3569",
+   "sic_desc": "General Industrial Machinery & Equipment, NEC",
+   "sectors": [
+    "industrial"
+   ]
+  },
+  "CDNS": {
+   "name": "CADENCE DESIGN SYSTEMS INC",
+   "cik": 813672,
+   "sic": "7372",
+   "sic_desc": "Services-Prepackaged Software",
+   "sectors": [
+    "tech"
    ]
   }
  }
