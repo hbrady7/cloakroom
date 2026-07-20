@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-17T12:46:19Z",
+ "generated_at": "2026-07-20T13:29:30Z",
  "tickers": {
   "ZTS": {
    "name": "Zoetis Inc.",
@@ -2545,7 +2545,7 @@
    "sectors": []
   },
   "MPWR": {
-   "name": "MONOLITHIC POWER SYSTEMS INC",
+   "name": "MONOLITHIC POWER SYSTEMS, INC.",
    "cik": 1280452,
    "sic": "3674",
    "sic_desc": "Semiconductors & Related Devices",
@@ -2580,6 +2580,153 @@
    "sectors": [
     "tech"
    ]
+  },
+  "UPS": {
+   "name": "UNITED PARCEL SERVICE INC",
+   "cik": 1090727,
+   "sic": "4210",
+   "sic_desc": "Trucking & Courier Services (No Air)",
+   "sectors": [
+    "transport"
+   ]
+  },
+  "TMO": {
+   "name": "THERMO FISHER SCIENTIFIC INC.",
+   "cik": 97745,
+   "sic": "3829",
+   "sic_desc": "Measuring & Controlling Devices, NEC",
+   "sectors": [
+    "healthcare",
+    "tech"
+   ]
+  },
+  "MS": {
+   "name": "MORGAN STANLEY",
+   "cik": 895421,
+   "sic": "6211",
+   "sic_desc": "Security Brokers, Dealers & Flotation Companies",
+   "sectors": [
+    "fintech",
+    "banks"
+   ]
+  },
+  "MPC": {
+   "name": "Marathon Petroleum Corp",
+   "cik": 1510295,
+   "sic": "2911",
+   "sic_desc": "Petroleum Refining",
+   "sectors": [
+    "energy"
+   ]
+  },
+  "MGA": {
+   "name": "MAGNA INTERNATIONAL INC",
+   "cik": 749098,
+   "sic": "3714",
+   "sic_desc": "Motor Vehicle Parts & Accessories",
+   "sectors": [
+    "transport",
+    "industrial"
+   ]
+  },
+  "HSY": {
+   "name": "HERSHEY CO",
+   "cik": 47111,
+   "sic": "2060",
+   "sic_desc": "Sugar & Confectionery Products",
+   "sectors": [
+    "food",
+    "ag"
+   ]
+  },
+  "HONAV": {
+   "name": null,
+   "cik": null,
+   "sic": null,
+   "sic_desc": null,
+   "sectors": []
+  },
+  "HON": {
+   "name": "HONEYWELL INTERNATIONAL INC",
+   "cik": 773840,
+   "sic": "3724",
+   "sic_desc": "Aircraft Engines & Engine Parts",
+   "sectors": [
+    "aerospace",
+    "defense"
+   ]
+  },
+  "FTNT": {
+   "name": "Fortinet, Inc.",
+   "cik": 1262039,
+   "sic": "3577",
+   "sic_desc": "Computer Peripheral Equipment, NEC",
+   "sectors": [
+    "tech"
+   ]
+  },
+  "FMC": {
+   "name": "FMC CORP",
+   "cik": 37785,
+   "sic": "2800",
+   "sic_desc": "Chemicals & Allied Products",
+   "sectors": [
+    "industrial"
+   ]
+  },
+  "FE": {
+   "name": "FIRSTENERGY CORP",
+   "cik": 1031296,
+   "sic": "4911",
+   "sic_desc": "Electric Services",
+   "sectors": [
+    "utilities",
+    "energy"
+   ]
+  },
+  "DE": {
+   "name": "DEERE & CO",
+   "cik": 315189,
+   "sic": "3523",
+   "sic_desc": "Farm Machinery & Equipment",
+   "sectors": [
+    "industrial"
+   ]
+  },
+  "COST": {
+   "name": "COSTCO WHOLESALE CORP /NEW",
+   "cik": 909832,
+   "sic": "5331",
+   "sic_desc": "Retail-Variety Stores",
+   "sectors": [
+    "retail"
+   ]
+  },
+  "ANET": {
+   "name": "Arista Networks, Inc.",
+   "cik": 1596532,
+   "sic": "3576",
+   "sic_desc": "Computer Communications Equipment",
+   "sectors": [
+    "tech"
+   ]
+  },
+  "AMAT": {
+   "name": "APPLIED MATERIALS INC /DE",
+   "cik": 6951,
+   "sic": "3674",
+   "sic_desc": "Semiconductors & Related Devices",
+   "sectors": [
+    "semis",
+    "tech"
+   ]
+  },
+  "USOU": {
+   "name": null,
+   "cik": null,
+   "sic": null,
+   "sic_desc": null,
+   "sectors": []
   }
  }
 }

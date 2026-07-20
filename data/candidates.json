@@ -1,9 +1,68 @@
 {
- "as_of": "2026-07-16",
+ "as_of": "2026-07-17",
  "candidates": [
   {
+   "ticker": "HON",
+   "score": 14.2,
+   "signals": {
+    "cluster": {
+     "fired": false,
+     "points": 0.0,
+     "distinct_buyers": 1
+    },
+    "committee": {
+     "fired": true,
+     "points": 14.1,
+     "aligned_buyers": [
+      "Dan Newhouse",
+      "Maria Elvira Salazar"
+     ],
+     "sectors": [
+      "aerospace",
+      "defense"
+     ]
+    },
+    "convergence": {
+     "fired": false,
+     "points": 0.0,
+     "insider_buyers": []
+    },
+    "options": {
+     "fired": false,
+     "points": 0.0,
+     "count": 0
+    },
+    "size": {
+     "fired": false,
+     "points": 0.0,
+     "max_band_mid": 32500
+    }
+   },
+   "evidence": [
+    {
+     "id": "C-c736231999ff",
+     "signal": "committee"
+    },
+    {
+     "id": "C-4c00a7d41aad",
+     "signal": "committee"
+    }
+   ],
+   "stats": {
+    "congress_buys": 3,
+    "distinct_buyers": 3,
+    "insider_open_market_buys": 0,
+    "options_positions": 0
+   },
+   "name": "HONEYWELL INTERNATIONAL INC",
+   "sectors": [
+    "aerospace",
+    "defense"
+   ]
+  },
+  {
    "ticker": "TSM",
-   "score": 10.1,
+   "score": 9.6,
    "signals": {
     "cluster": {
      "fired": true,
@@ -21,7 +80,7 @@
     },
     "convergence": {
      "fired": true,
-     "points": 10.1,
+     "points": 9.6,
      "insider_buyers": [
       "Lin Chris Horng-Dar",
       "Mii Yuh-Jier",
@@ -135,7 +194,7 @@
   },
   {
    "ticker": "IBP",
-   "score": 9.0,
+   "score": 8.6,
    "signals": {
     "cluster": {
      "fired": false,
@@ -144,7 +203,7 @@
     },
     "committee": {
      "fired": true,
-     "points": 2.6,
+     "points": 2.5,
      "aligned_buyers": [
       "David J. Taylor"
      ],
@@ -155,7 +214,7 @@
     },
     "convergence": {
      "fired": true,
-     "points": 5.9,
+     "points": 5.6,
      "insider_buyers": [
       "Hilsheimer Lawrence A.",
       "Miller Michael Thomas",
@@ -238,7 +297,7 @@
   },
   {
    "ticker": "MSTR",
-   "score": 9.0,
+   "score": 8.6,
    "signals": {
     "cluster": {
      "fired": false,
@@ -255,7 +314,7 @@
     },
     "convergence": {
      "fired": true,
-     "points": 8.5,
+     "points": 8.1,
      "insider_buyers": [
       "Chow Thomas C.",
       "Le Phong"
@@ -299,7 +358,7 @@
   },
   {
    "ticker": "MU",
-   "score": 7.1,
+   "score": 6.7,
    "signals": {
     "cluster": {
      "fired": false,
@@ -308,7 +367,7 @@
     },
     "committee": {
      "fired": true,
-     "points": 7.1,
+     "points": 6.7,
      "aligned_buyers": [
       "John Fetterman",
       "Sheldon Whitehouse"
@@ -345,8 +404,8 @@
     }
    ],
    "stats": {
-    "congress_buys": 6,
-    "distinct_buyers": 5,
+    "congress_buys": 7,
+    "distinct_buyers": 6,
     "insider_open_market_buys": 0,
     "options_positions": 0
    },
@@ -358,7 +417,7 @@
   },
   {
    "ticker": "COHR",
-   "score": 5.6,
+   "score": 5.3,
    "signals": {
     "cluster": {
      "fired": false,
@@ -367,7 +426,7 @@
     },
     "committee": {
      "fired": true,
-     "points": 4.2,
+     "points": 4.0,
      "aligned_buyers": [
       "Sheldon Whitehouse"
      ],
@@ -416,7 +475,7 @@
   },
   {
    "ticker": "MELI",
-   "score": 5.6,
+   "score": 5.3,
    "signals": {
     "cluster": {
      "fired": false,
@@ -433,7 +492,7 @@
     },
     "convergence": {
      "fired": true,
-     "points": 5.0,
+     "points": 4.7,
      "insider_buyers": [
       "Aguzin Alejandro Nicolas",
       "Melamud Marcelo"
@@ -484,8 +543,66 @@
    ]
   },
   {
+   "ticker": "SPCX",
+   "score": 4.7,
+   "signals": {
+    "cluster": {
+     "fired": true,
+     "points": 3.9,
+     "distinct_buyers": 3
+    },
+    "committee": {
+     "fired": false,
+     "points": 0.0,
+     "aligned_buyers": [],
+     "sectors": [
+      "tech"
+     ]
+    },
+    "convergence": {
+     "fired": false,
+     "points": 0.0,
+     "insider_buyers": []
+    },
+    "options": {
+     "fired": false,
+     "points": 0.0,
+     "count": 0
+    },
+    "size": {
+     "fired": false,
+     "points": 0.8,
+     "max_band_mid": 32500
+    }
+   },
+   "evidence": [
+    {
+     "id": "C-91f202d1541f",
+     "signal": "cluster"
+    },
+    {
+     "id": "C-6ad387dafdd4",
+     "signal": "cluster"
+    },
+    {
+     "id": "C-41f4400dc5f7",
+     "signal": "cluster"
+    }
+   ],
+   "stats": {
+    "congress_buys": 3,
+    "distinct_buyers": 3,
+    "insider_open_market_buys": 0,
+    "options_positions": 0
+   },
+   "name": "SPACE EXPLORATION TECHNOLOGIES CORP",
+   "sectors": [
+    "tech"
+   ]
+  },
+  {
    "ticker": "QNT",
-   "score": 4.9,
+   "score": 4.6,
    "signals": {
     "cluster": {
      "fired": false,
@@ -502,7 +619,7 @@
     },
     "convergence": {
      "fired": true,
-     "points": 4.6,
+     "points": 4.4,
      "insider_buyers": [
       "Barron Hal",
       "Bhatia Manish H",
@@ -590,70 +707,12 @@
    ]
   },
   {
-   "ticker": "SPCX",
-   "score": 4.9,
-   "signals": {
-    "cluster": {
-     "fired": true,
-     "points": 4.1,
-     "distinct_buyers": 3
-    },
-    "committee": {
-     "fired": false,
-     "points": 0.0,
-     "aligned_buyers": [],
-     "sectors": [
-      "tech"
-     ]
-    },
-    "convergence": {
-     "fired": false,
-     "points": 0.0,
-     "insider_buyers": []
-    },
-    "options": {
-     "fired": false,
-     "points": 0.0,
-     "count": 0
-    },
-    "size": {
-     "fired": false,
-     "points": 0.8,
-     "max_band_mid": 32500
-    }
-   },
-   "evidence": [
-    {
-     "id": "C-91f202d1541f",
-     "signal": "cluster"
-    },
-    {
-     "id": "C-6ad387dafdd4",
-     "signal": "cluster"
-    },
-    {
-     "id": "C-41f4400dc5f7",
-     "signal": "cluster"
-    }
-   ],
-   "stats": {
-    "congress_buys": 3,
-    "distinct_buyers": 3,
-    "insider_open_market_buys": 0,
-    "options_positions": 0
-   },
-   "name": "SPACE EXPLORATION TECHNOLOGIES CORP",
-   "sectors": [
-    "tech"
-   ]
-  },
-  {
    "ticker": "T",
-   "score": 4.7,
+   "score": 4.5,
    "signals": {
     "cluster": {
      "fired": true,
-     "points": 4.1,
+     "points": 3.9,
      "distinct_buyers": 3
     },
     "committee": {
@@ -707,7 +766,7 @@
   },
   {
    "ticker": "VOYG",
-   "score": 3.4,
+   "score": 3.2,
    "signals": {
     "cluster": {
      "fired": false,
@@ -716,7 +775,7 @@
     },
     "committee": {
      "fired": true,
-     "points": 2.6,
+     "points": 2.5,
      "aligned_buyers": [
       "Maria Elvira Salazar"
      ],
@@ -762,105 +821,11 @@
     "aerospace",
     "defense"
    ]
-  },
-  {
-   "ticker": "HUBB",
-   "score": 3.0,
-   "signals": {
-    "cluster": {
-     "fired": false,
-     "points": 0.0,
-     "distinct_buyers": 1
-    },
-    "committee": {
-     "fired": true,
-     "points": 2.9,
-     "aligned_buyers": [
-      "April McClain Delaney"
-     ],
-     "sectors": [
-      "semis",
-      "tech"
-     ]
-    },
-    "convergence": {
-     "fired": false,
-     "points": 0.0,
-     "insider_buyers": []
-    },
-    "options": {
-     "fired": false,
-     "points": 0.0,
-     "count": 0
-    },
-    "size": {
-     "fired": false,
-     "points": 0.2,
-     "max_band_mid": 32500
-    }
-   },
-   "evidence": [
-    {
-     "id": "C-9ccbcfe83096",
-     "signal": "committee"
-    },
-    {
-     "id": "C-b3be99b7f6ae",
-     "signal": "committee"
-    },
-    {
-     "id": "C-51a682d5fdb2",
-     "signal": "committee"
-    },
-    {
-     "id": "C-6a1e05e887fb",
-     "signal": "committee"
-    },
-    {
-     "id": "C-9b64a07abf5a",
-     "signal": "committee"
-    },
-    {
-     "id": "C-c48f2538868c",
-     "signal": "committee"
-    },
-    {
-     "id": "C-1b1ccddef927",
-     "signal": "committee"
-    },
-    {
-     "id": "C-5ca60d7943a5",
-     "signal": "committee"
-    },
-    {
-     "id": "C-f09c60c80cff",
-     "signal": "committee"
-    },
-    {
-     "id": "C-238c71336446",
-     "signal": "committee"
-    },
-    {
-     "id": "C-4b573859b012",
-     "signal": "committee"
-    }
-   ],
-   "stats": {
-    "congress_buys": 11,
-    "distinct_buyers": 1,
-    "insider_open_market_buys": 0,
-    "options_positions": 0
-   },
-   "name": "HUBBELL INC",
-   "sectors": [
-    "semis",
-    "tech"
-   ]
   }
  ],
  "caution": [
   {
-   "ticker": "CRDO",
+   "ticker": "CRWD",
    "score": 34.3,
    "signals": {
     "sell_cluster": {
@@ -871,6 +836,133 @@
     "insider_distribution": {
      "fired": true,
      "points": 34.3,
+     "distinct_sellers": 6,
+     "weighted_sellers": 5.0
+    },
+    "committee_sell": {
+     "fired": false,
+     "points": 0.0
+    }
+   },
+   "evidence": [
+    {
+     "id": "I-ccc08b781f5e",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-c49a6c531a64",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-c3e95da87531",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-c003c4576cbf",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-b78969b6b4ad",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-60175437a548",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-08c6cfe575b9",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-e401921a43d3",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-e16c13d033b0",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-db1181d4237f",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-9edd9077e080",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-79b3cc7330a2",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-774d20479295",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-75adc77ddb70",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-4905c37d96b1",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-325c6c60b3a3",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-2b8bc73a7eb5",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-1d2001017108",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-ec85a364b4e8",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-e3dd7ad8728d",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-e285c2eeab0e",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-de8d8c5be32b",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-dda78f2625d3",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-924858703813",
+     "signal": "insider_distribution"
+    }
+   ],
+   "stats": {
+    "congress_sells": 1,
+    "insider_sells": 355
+   },
+   "name": "CrowdStrike Holdings, Inc.",
+   "sectors": [
+    "tech"
+   ]
+  },
+  {
+   "ticker": "CRDO",
+   "score": 32.6,
+   "signals": {
+    "sell_cluster": {
+     "fired": false,
+     "points": 0.0,
+     "distinct_sellers": 1
+    },
+    "insider_distribution": {
+     "fired": true,
+     "points": 32.6,
      "distinct_sellers": 7,
      "weighted_sellers": 5.5
     },
@@ -988,7 +1080,7 @@
    ]
   },
   {
-   "ticker": "CRWD",
+   "ticker": "MPWR",
    "score": 32.6,
    "signals": {
     "sell_cluster": {
@@ -999,8 +1091,8 @@
     "insider_distribution": {
      "fired": true,
      "points": 32.6,
-     "distinct_sellers": 6,
-     "weighted_sellers": 5.0
+     "distinct_sellers": 8,
+     "weighted_sellers": 7.5
     },
     "committee_sell": {
      "fired": false,
@@ -1009,114 +1101,242 @@
    },
    "evidence": [
     {
-     "id": "I-ec85a364b4e8",
+     "id": "I-e7298d883b10",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-e3dd7ad8728d",
+     "id": "I-e15388e5578d",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-e285c2eeab0e",
+     "id": "I-d7dbc0b19a8f",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-de8d8c5be32b",
+     "id": "I-bd7748b37a5b",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-dda78f2625d3",
+     "id": "I-b9441a687ddb",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-924858703813",
+     "id": "I-b51f0af509a5",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-898f0fb74949",
+     "id": "I-a4503fd0f32f",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-71cf6f8e7737",
+     "id": "I-9cd89ceb8383",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-654e90306836",
+     "id": "I-94ee6c362a3d",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-512cb51aae6a",
+     "id": "I-935265210629",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-2748757b9246",
+     "id": "I-919c0ee27648",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-22adefdf3f6e",
+     "id": "I-7273e5dc3f59",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-2027fda32b75",
+     "id": "I-71356bf94162",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-1b4e0c6e64c8",
+     "id": "I-51ea10963c45",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-124aedd6c21f",
+     "id": "I-50fc265c6f23",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-e68a81c8bbde",
+     "id": "I-4fbfa2614865",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-bf56a80b3f2b",
+     "id": "I-4bfcf0bcd7fa",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-b9248517cb13",
+     "id": "I-37a8383819f5",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-a619244e3cc7",
+     "id": "I-27813473f4fd",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-8f9a06c38c43",
+     "id": "I-c90f70815f1e",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-39ec226bbf35",
+     "id": "I-16f9beafd23f",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-2f072eb9fc74",
+     "id": "I-7643e6a9408d",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-100facc35f2a",
+     "id": "I-193d529a7514",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-0806f873ade8",
+     "id": "I-e20101c29dfd",
      "signal": "insider_distribution"
     }
    ],
    "stats": {
-    "congress_sells": 1,
-    "insider_sells": 337
+    "congress_sells": 2,
+    "insider_sells": 63
    },
-   "name": "CrowdStrike Holdings, Inc.",
+   "name": "MONOLITHIC POWER SYSTEMS, INC.",
+   "sectors": [
+    "semis",
+    "tech"
+   ]
+  },
+  {
+   "ticker": "PLTR",
+   "score": 32.6,
+   "signals": {
+    "sell_cluster": {
+     "fired": false,
+     "points": 0.0,
+     "distinct_sellers": 2
+    },
+    "insider_distribution": {
+     "fired": true,
+     "points": 32.6,
+     "distinct_sellers": 8,
+     "weighted_sellers": 6.5
+    },
+    "committee_sell": {
+     "fired": false,
+     "points": 0.0
+    }
+   },
+   "evidence": [
+    {
+     "id": "I-cb715386493d",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-8400839d3102",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-801b23e7cd2f",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-343661905e23",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-e85398a05017",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-db19c5846a12",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-f819d3388811",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-d62d21207181",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-c5b9444ab656",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-ba0803aad424",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-1eb9b0b24ecb",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-12aff71e388e",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-a9bfb23e026f",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-6e90a3f3217a",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-79105fcc03d0",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-fd1c7540e128",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-fc34f4e75a1e",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-f76000c9c8e5",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-f694e4c512aa",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-e7f7b484cc7a",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-e5bfb9229b2c",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-e1e3affa6cba",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-dcca14210c16",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-b3b44f2dbe89",
+     "signal": "insider_distribution"
+    }
+   ],
+   "stats": {
+    "congress_sells": 8,
+    "insider_sells": 49
+   },
+   "name": "Palantir Technologies Inc.",
    "sectors": [
     "tech"
    ]
   },
   {
    "ticker": "SMTC",
-   "score": 32.6,
+   "score": 31.0,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -1125,7 +1345,7 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 32.6,
+     "points": 31.0,
      "distinct_sellers": 7,
      "weighted_sellers": 5.0
     },
@@ -1221,218 +1441,8 @@
     "semis",
     "tech"
    ]
-  },
-  {
-   "ticker": "EA",
-   "score": 30.5,
-   "signals": {
-    "sell_cluster": {
-     "fired": false,
-     "points": 0.0,
-     "distinct_sellers": 0
-    },
-    "insider_distribution": {
-     "fired": true,
-     "points": 30.5,
-     "distinct_sellers": 6,
-     "weighted_sellers": 4.0
-    },
-    "committee_sell": {
-     "fired": false,
-     "points": 0.0
-    }
-   },
-   "evidence": [
-    {
-     "id": "I-a546b0aeaa29",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-5cfcbb58088c",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-502e08ad81b6",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-42a38ea6fc94",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-3d627e416b4e",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-1e040e18b399",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-dc0921c62954",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-c5054f04af1c",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-21922d9e1ff6",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-8e5c988dfdc1",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-c36483058ba3",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-c20a97266ac2",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-a1f1925934b2",
-     "signal": "insider_distribution"
-    }
-   ],
-   "stats": {
-    "congress_sells": 0,
-    "insider_sells": 13
-   },
-   "name": "ELECTRONIC ARTS INC.",
-   "sectors": [
-    "tech"
-   ]
-  },
-  {
-   "ticker": "MDB",
-   "score": 26.0,
-   "signals": {
-    "sell_cluster": {
-     "fired": false,
-     "points": 0.0,
-     "distinct_sellers": 1
-    },
-    "insider_distribution": {
-     "fired": true,
-     "points": 26.0,
-     "distinct_sellers": 4,
-     "weighted_sellers": 2.5
-    },
-    "committee_sell": {
-     "fired": false,
-     "points": 0.0
-    }
-   },
-   "evidence": [
-    {
-     "id": "I-bea7f0cfa5f3",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-b10947914baf",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-671a062e813e",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-43813050a8a9",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-4147d5bed89e",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-37b388f73e56",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-dc55a22cb2ab",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-c45d8a8134ff",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-b8c083907fb9",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-674e1e75345c",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-55af54e2498a",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-2cabc5783772",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-265307232781",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-80b77288f0f8",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-5e5d7d0e9ea0",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-13cfdc91458c",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-f149fe28109a",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-cc97a3fa5481",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-c74d4a147e91",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-c449997ad0f2",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-c23eca2fd04d",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-c1db2bc0c96e",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-c16d1450de3d",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-bbd6c5f046db",
-     "signal": "insider_distribution"
-    }
-   ],
-   "stats": {
-    "congress_sells": 1,
-    "insider_sells": 61
-   },
-   "name": "MongoDB, Inc.",
-   "sectors": [
-    "tech"
-   ]
   }
  ],
- "universe": 606,
- "generated_at": "2026-07-17T12:47:30Z"
+ "universe": 611,
+ "generated_at": "2026-07-20T13:30:32Z"
 }
