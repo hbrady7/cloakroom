@@ -1,7 +1,983 @@
 {
- "generated_at": "2026-07-20T13:29:31Z",
+ "generated_at": "2026-07-21T12:55:23Z",
  "window_days": 180,
  "trades": [
+  {
+   "id": "I-d9315f8b010e",
+   "source": "insider",
+   "person": "Lin Shyue-Shyh",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "VP",
+   "ticker": "TSM",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 71940,
+   "amount_high": 71940,
+   "tx_date": "2026-07-19",
+   "filed_date": "2026-07-21",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000453/"
+  },
+  {
+   "id": "I-2eaf4be1c58d",
+   "source": "insider",
+   "person": "Lin Shyue-Shyh",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "VP",
+   "ticker": "TSM",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 71320,
+   "amount_high": 71320,
+   "tx_date": "2026-07-19",
+   "filed_date": "2026-07-21",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000453/"
+  },
+  {
+   "id": "I-271a2b71b27b",
+   "source": "insider",
+   "person": "Lin Shyue-Shyh",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "VP",
+   "ticker": "TSM",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 72100,
+   "amount_high": 72100,
+   "tx_date": "2026-07-19",
+   "filed_date": "2026-07-21",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000453/"
+  },
+  {
+   "id": "I-ee40d41aec12",
+   "source": "insider",
+   "person": "Hershey Trust Co Trustee In Trust For Milton Hershey School",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "10% owner",
+   "ticker": "HSY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 115088,
+   "amount_high": 115088,
+   "tx_date": "2026-07-17",
+   "filed_date": "2026-07-20",
+   "lag_days": 3,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002130/"
+  },
+  {
+   "id": "I-bc5ffc12745d",
+   "source": "insider",
+   "person": "Hershey Trust Co Trustee In Trust For Milton Hershey School",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "10% owner",
+   "ticker": "HSY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1166642,
+   "amount_high": 1166642,
+   "tx_date": "2026-07-17",
+   "filed_date": "2026-07-20",
+   "lag_days": 3,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002130/"
+  },
+  {
+   "id": "I-b118b5d7fa6c",
+   "source": "insider",
+   "person": "Hershey Trust Co Trustee In Trust For Milton Hershey School",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "10% owner",
+   "ticker": "HSY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 71071,
+   "amount_high": 71071,
+   "tx_date": "2026-07-17",
+   "filed_date": "2026-07-20",
+   "lag_days": 3,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002130/"
+  },
+  {
+   "id": "I-a51803c714f3",
+   "source": "insider",
+   "person": "BANK OF AMERICA CORP /DE/ et al.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "10% owner",
+   "ticker": "BAC",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 2858,
+   "amount_high": 2858,
+   "tx_date": "2026-07-17",
+   "filed_date": "2026-07-20",
+   "lag_days": 3,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000357/"
+  },
+  {
+   "id": "I-5e0f59e4eca1",
+   "source": "insider",
+   "person": "Hershey Trust Co Trustee In Trust For Milton Hershey School",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "10% owner",
+   "ticker": "HSY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 263971,
+   "amount_high": 263971,
+   "tx_date": "2026-07-17",
+   "filed_date": "2026-07-20",
+   "lag_days": 3,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002130/"
+  },
+  {
+   "id": "I-53e8ffa98061",
+   "source": "insider",
+   "person": "Hershey Trust Co Trustee In Trust For Milton Hershey School",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "10% owner",
+   "ticker": "HSY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 9191,
+   "amount_high": 9191,
+   "tx_date": "2026-07-17",
+   "filed_date": "2026-07-20",
+   "lag_days": 3,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002130/"
+  },
+  {
+   "id": "I-3d10c57ac841",
+   "source": "insider",
+   "person": "Hershey Trust Co Trustee In Trust For Milton Hershey School",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "10% owner",
+   "ticker": "HSY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 60158,
+   "amount_high": 60158,
+   "tx_date": "2026-07-17",
+   "filed_date": "2026-07-20",
+   "lag_days": 3,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002130/"
+  },
+  {
+   "id": "I-302b10e7f796",
+   "source": "insider",
+   "person": "Hershey Trust Co Trustee In Trust For Milton Hershey School",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "10% owner",
+   "ticker": "HSY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 30940,
+   "amount_high": 30940,
+   "tx_date": "2026-07-17",
+   "filed_date": "2026-07-20",
+   "lag_days": 3,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002130/"
+  },
+  {
+   "id": "I-0bae20a27f14",
+   "source": "insider",
+   "person": "Hershey Trust Co Trustee In Trust For Milton Hershey School",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "10% owner",
+   "ticker": "HSY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 6319,
+   "amount_high": 6319,
+   "tx_date": "2026-07-17",
+   "filed_date": "2026-07-20",
+   "lag_days": 3,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002130/"
+  },
+  {
+   "id": "I-fe6fb869726c",
+   "source": "insider",
+   "person": "Hershey Trust Co Trustee In Trust For Milton Hershey School",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "10% owner",
+   "ticker": "HSY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 108612,
+   "amount_high": 108612,
+   "tx_date": "2026-07-16",
+   "filed_date": "2026-07-20",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002130/"
+  },
+  {
+   "id": "I-f1cb266f916b",
+   "source": "insider",
+   "person": "Agarwal Amit",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 76857,
+   "amount_high": 76857,
+   "tx_date": "2026-07-16",
+   "filed_date": "2026-07-20",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000246/"
+  },
+  {
+   "id": "I-ea3315d6c3ee",
+   "source": "insider",
+   "person": "Agarwal Amit",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 52794,
+   "amount_high": 52794,
+   "tx_date": "2026-07-16",
+   "filed_date": "2026-07-20",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000246/"
+  },
+  {
+   "id": "I-e44cf87fa855",
+   "source": "insider",
+   "person": "Agarwal Amit",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 269245,
+   "amount_high": 269245,
+   "tx_date": "2026-07-16",
+   "filed_date": "2026-07-20",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000246/"
+  },
+  {
+   "id": "I-d9265c852a1b",
+   "source": "insider",
+   "person": "Agarwal Amit",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 25479,
+   "amount_high": 25479,
+   "tx_date": "2026-07-16",
+   "filed_date": "2026-07-20",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000246/"
+  },
+  {
+   "id": "I-d09d4c10df42",
+   "source": "insider",
+   "person": "Martin Lynn C",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President, NYSE Group",
+   "ticker": "ICE",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 28460,
+   "amount_high": 28460,
+   "tx_date": "2026-07-16",
+   "filed_date": "2026-07-20",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1571949/000119312526308983/"
+  },
+  {
+   "id": "I-c9f4313ce826",
+   "source": "insider",
+   "person": "Jordan Joseph Hugh",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "COO and President-Domino's US",
+   "ticker": "DPZ",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 731532,
+   "amount_high": 731532,
+   "tx_date": "2026-07-16",
+   "filed_date": "2026-07-20",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1286681/000180469526000010/"
+  },
+  {
+   "id": "I-c9ec4165a0c0",
+   "source": "insider",
+   "person": "Jordan Joseph Hugh",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "COO and President-Domino's US",
+   "ticker": "DPZ",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 964999,
+   "amount_high": 964999,
+   "tx_date": "2026-07-16",
+   "filed_date": "2026-07-20",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1286681/000180469526000010/"
+  },
+  {
+   "id": "I-c78ca7b1f06a",
+   "source": "insider",
+   "person": "Hershey Trust Co Trustee In Trust For Milton Hershey School",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "10% owner",
+   "ticker": "HSY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 167099,
+   "amount_high": 167099,
+   "tx_date": "2026-07-16",
+   "filed_date": "2026-07-20",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002130/"
+  },
+  {
+   "id": "I-b6eae153be3a",
+   "source": "insider",
+   "person": "Martin Lynn C",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President, NYSE Group",
+   "ticker": "ICE",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1343125,
+   "amount_high": 1343125,
+   "tx_date": "2026-07-16",
+   "filed_date": "2026-07-20",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1571949/000119312526308983/"
+  },
+  {
+   "id": "I-b3fb7563280b",
+   "source": "insider",
+   "person": "Agarwal Amit",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1387080,
+   "amount_high": 1387080,
+   "tx_date": "2026-07-16",
+   "filed_date": "2026-07-20",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000246/"
+  },
+  {
+   "id": "I-b2dc0790c91a",
+   "source": "insider",
+   "person": "Hershey Trust Co Trustee In Trust For Milton Hershey School",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "10% owner",
+   "ticker": "HSY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 171785,
+   "amount_high": 171785,
+   "tx_date": "2026-07-16",
+   "filed_date": "2026-07-20",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002130/"
+  },
+  {
+   "id": "I-8c8dfbe95d4d",
+   "source": "insider",
+   "person": "Agarwal Amit",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 26553,
+   "amount_high": 26553,
+   "tx_date": "2026-07-16",
+   "filed_date": "2026-07-20",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000246/"
+  },
+  {
+   "id": "I-76ef186ebc63",
+   "source": "insider",
+   "person": "Agarwal Amit",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 118653,
+   "amount_high": 118653,
+   "tx_date": "2026-07-16",
+   "filed_date": "2026-07-20",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000246/"
+  },
+  {
+   "id": "I-64f482dda608",
+   "source": "insider",
+   "person": "Hershey Trust Co Trustee In Trust For Milton Hershey School",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "10% owner",
+   "ticker": "HSY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 947791,
+   "amount_high": 947791,
+   "tx_date": "2026-07-16",
+   "filed_date": "2026-07-20",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002130/"
+  },
+  {
+   "id": "I-63a398c25ada",
+   "source": "insider",
+   "person": "Martin Lynn C",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President, NYSE Group",
+   "ticker": "ICE",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 419236,
+   "amount_high": 419236,
+   "tx_date": "2026-07-16",
+   "filed_date": "2026-07-20",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1571949/000119312526308983/"
+  },
+  {
+   "id": "I-62773514feda",
+   "source": "insider",
+   "person": "Agarwal Amit",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1800284,
+   "amount_high": 1800284,
+   "tx_date": "2026-07-16",
+   "filed_date": "2026-07-20",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000246/"
+  },
+  {
+   "id": "I-624e7d6317cc",
+   "source": "insider",
+   "person": "Martin Lynn C",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President, NYSE Group",
+   "ticker": "ICE",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 450892,
+   "amount_high": 450892,
+   "tx_date": "2026-07-16",
+   "filed_date": "2026-07-20",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1571949/000119312526308983/"
+  },
+  {
+   "id": "I-5e7723f640d4",
+   "source": "insider",
+   "person": "Agarwal Amit",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 311744,
+   "amount_high": 311744,
+   "tx_date": "2026-07-16",
+   "filed_date": "2026-07-20",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000246/"
+  },
+  {
+   "id": "I-57a523e2c98d",
+   "source": "insider",
+   "person": "Hershey Trust Co Trustee In Trust For Milton Hershey School",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "10% owner",
+   "ticker": "HSY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 29248,
+   "amount_high": 29248,
+   "tx_date": "2026-07-16",
+   "filed_date": "2026-07-20",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002130/"
+  },
+  {
+   "id": "I-169310077326",
+   "source": "insider",
+   "person": "Hershey Trust Co Trustee In Trust For Milton Hershey School",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "10% owner",
+   "ticker": "HSY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 316585,
+   "amount_high": 316585,
+   "tx_date": "2026-07-16",
+   "filed_date": "2026-07-20",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002130/"
+  },
+  {
+   "id": "I-0ade37804f29",
+   "source": "insider",
+   "person": "BANK OF AMERICA CORP /DE/ et al.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "10% owner",
+   "ticker": "BAC",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 2856,
+   "amount_high": 2856,
+   "tx_date": "2026-07-16",
+   "filed_date": "2026-07-20",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000357/"
+  },
+  {
+   "id": "I-0a42b213e7f6",
+   "source": "insider",
+   "person": "Agarwal Amit",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1161988,
+   "amount_high": 1161988,
+   "tx_date": "2026-07-16",
+   "filed_date": "2026-07-20",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000246/"
+  },
+  {
+   "id": "C-cf6a4dca93c1",
+   "source": "congress",
+   "person": "Laurel Lee",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on House Administration",
+     "House Committee on Energy and Commerce",
+     "House Committee on the Judiciary"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "NOK",
+   "asset_type": "option",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-06",
+   "filed_date": "2026-07-19",
+   "lag_days": 13,
+   "option_detail": "Put Option",
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034694.pdf"
+  },
+  {
+   "id": "C-4ea3b53b041d",
+   "source": "congress",
+   "person": "Laurel Lee",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on House Administration",
+     "House Committee on Energy and Commerce",
+     "House Committee on the Judiciary"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "NOK",
+   "asset_type": "option",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-06",
+   "filed_date": "2026-07-19",
+   "lag_days": 13,
+   "option_detail": "Call option",
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034694.pdf"
+  },
+  {
+   "id": "C-9cb2ac0e9fe4",
+   "source": "congress",
+   "person": "Laurel Lee",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on House Administration",
+     "House Committee on Energy and Commerce",
+     "House Committee on the Judiciary"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "GE",
+   "asset_type": "option",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-16",
+   "filed_date": "2026-07-19",
+   "lag_days": 33,
+   "option_detail": "Put Option",
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034694.pdf"
+  },
+  {
+   "id": "C-e7308b409b08",
+   "source": "congress",
+   "person": "William R. Timmons",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Oversight and Government Reform"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "SPCX",
+   "asset_type": "other",
+   "side": "buy",
+   "amount_low": 50001,
+   "amount_high": 100000,
+   "tx_date": "2026-06-15",
+   "filed_date": "2026-07-19",
+   "lag_days": 34,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20022577.pdf"
+  },
+  {
+   "id": "C-2ca2136d3f85",
+   "source": "congress",
+   "person": "William R. Timmons",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Oversight and Government Reform"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "SPCX",
+   "asset_type": "other",
+   "side": "buy",
+   "amount_low": 50001,
+   "amount_high": 100000,
+   "tx_date": "2026-06-15",
+   "filed_date": "2026-07-19",
+   "lag_days": 34,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035042.pdf"
+  },
+  {
+   "id": "C-53df77bcb57b",
+   "source": "congress",
+   "person": "Laurel Lee",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on House Administration",
+     "House Committee on Energy and Commerce",
+     "House Committee on the Judiciary"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "NOK",
+   "asset_type": "option",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-02",
+   "filed_date": "2026-07-19",
+   "lag_days": 47,
+   "option_detail": "Call option contracts",
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034694.pdf"
+  },
+  {
+   "id": "C-4ce04d5d7704",
+   "source": "congress",
+   "person": "Laurel Lee",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on House Administration",
+     "House Committee on Energy and Commerce",
+     "House Committee on the Judiciary"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "BAC",
+   "asset_type": "option",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-02",
+   "filed_date": "2026-07-19",
+   "lag_days": 47,
+   "option_detail": "Call option contracts.",
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034694.pdf"
+  },
+  {
+   "id": "C-c05e48c74e3f",
+   "source": "congress",
+   "person": "Laurel Lee",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on House Administration",
+     "House Committee on Energy and Commerce",
+     "House Committee on the Judiciary"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "NOK",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-05-11",
+   "filed_date": "2026-07-19",
+   "lag_days": 69,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034694.pdf"
+  },
   {
    "id": "I-72344e752c11",
    "source": "insider",
@@ -136475,231 +137451,6 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033829.pdf"
-  },
-  {
-   "id": "C-cad3f47bf7f7",
-   "source": "congress",
-   "person": "David J. Taylor",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Agriculture",
-     "House Committee on Transportation and Infrastructure"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "PG",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-09",
-   "filed_date": "2026-01-21",
-   "lag_days": 12,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033845.pdf"
-  },
-  {
-   "id": "C-ee4f4a0bface",
-   "source": "congress",
-   "person": "David J. Taylor",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Agriculture",
-     "House Committee on Transportation and Infrastructure"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "MSFT",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-08",
-   "filed_date": "2026-01-21",
-   "lag_days": 13,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033845.pdf"
-  },
-  {
-   "id": "C-aa3b8e6d07b5",
-   "source": "congress",
-   "person": "David J. Taylor",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Agriculture",
-     "House Committee on Transportation and Infrastructure"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "AVGO",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-08",
-   "filed_date": "2026-01-21",
-   "lag_days": 13,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033845.pdf"
-  },
-  {
-   "id": "C-6ccfa4642150",
-   "source": "congress",
-   "person": "David J. Taylor",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Agriculture",
-     "House Committee on Transportation and Infrastructure"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "LRCX",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-01-08",
-   "filed_date": "2026-01-21",
-   "lag_days": 13,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033845.pdf"
-  },
-  {
-   "id": "C-5ae86c95b95d",
-   "source": "congress",
-   "person": "David J. Taylor",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Agriculture",
-     "House Committee on Transportation and Infrastructure"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "IBM",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-08",
-   "filed_date": "2026-01-21",
-   "lag_days": 13,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033845.pdf"
-  },
-  {
-   "id": "C-522e156b858c",
-   "source": "congress",
-   "person": "David J. Taylor",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Agriculture",
-     "House Committee on Transportation and Infrastructure"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "MSFT",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-08",
-   "filed_date": "2026-01-21",
-   "lag_days": 13,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033845.pdf"
-  },
-  {
-   "id": "C-342945d94bad",
-   "source": "congress",
-   "person": "David J. Taylor",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Agriculture",
-     "House Committee on Transportation and Infrastructure"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "LRCX",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-01-08",
-   "filed_date": "2026-01-21",
-   "lag_days": 13,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033845.pdf"
-  },
-  {
-   "id": "C-1235f1591dfd",
-   "source": "congress",
-   "person": "David J. Taylor",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Agriculture",
-     "House Committee on Transportation and Infrastructure"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "IBM",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-01-08",
-   "filed_date": "2026-01-21",
-   "lag_days": 13,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033845.pdf"
-  },
-  {
-   "id": "C-008b442af5e7",
-   "source": "congress",
-   "person": "David J. Taylor",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Agriculture",
-     "House Committee on Transportation and Infrastructure"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "AVGO",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-08",
-   "filed_date": "2026-01-21",
-   "lag_days": 13,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033845.pdf"
   }
  ]
 }

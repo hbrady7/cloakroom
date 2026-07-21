@@ -1,9 +1,9 @@
 {
- "as_of": "2026-07-17",
+ "as_of": "2026-07-21",
  "candidates": [
   {
    "ticker": "HON",
-   "score": 14.2,
+   "score": 11.6,
    "signals": {
     "cluster": {
      "fired": false,
@@ -12,7 +12,7 @@
     },
     "committee": {
      "fired": true,
-     "points": 14.1,
+     "points": 11.6,
      "aligned_buyers": [
       "Dan Newhouse",
       "Maria Elvira Salazar"
@@ -62,7 +62,7 @@
   },
   {
    "ticker": "TSM",
-   "score": 9.6,
+   "score": 7.9,
    "signals": {
     "cluster": {
      "fired": true,
@@ -80,7 +80,7 @@
     },
     "convergence": {
      "fired": true,
-     "points": 9.6,
+     "points": 7.9,
      "insider_buyers": [
       "Lin Chris Horng-Dar",
       "Mii Yuh-Jier",
@@ -183,7 +183,7 @@
    "stats": {
     "congress_buys": 8,
     "distinct_buyers": 4,
-    "insider_open_market_buys": 34,
+    "insider_open_market_buys": 37,
     "options_positions": 0
    },
    "name": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
@@ -194,7 +194,7 @@
   },
   {
    "ticker": "IBP",
-   "score": 8.6,
+   "score": 7.0,
    "signals": {
     "cluster": {
      "fired": false,
@@ -203,7 +203,7 @@
     },
     "committee": {
      "fired": true,
-     "points": 2.5,
+     "points": 2.0,
      "aligned_buyers": [
       "David J. Taylor"
      ],
@@ -214,7 +214,7 @@
     },
     "convergence": {
      "fired": true,
-     "points": 5.6,
+     "points": 4.6,
      "insider_buyers": [
       "Hilsheimer Lawrence A.",
       "Miller Michael Thomas",
@@ -229,7 +229,7 @@
     },
     "size": {
      "fired": false,
-     "points": 0.5,
+     "points": 0.4,
      "max_band_mid": 8000
     }
    },
@@ -297,7 +297,7 @@
   },
   {
    "ticker": "MSTR",
-   "score": 8.6,
+   "score": 7.0,
    "signals": {
     "cluster": {
      "fired": false,
@@ -314,7 +314,7 @@
     },
     "convergence": {
      "fired": true,
-     "points": 8.1,
+     "points": 6.7,
      "insider_buyers": [
       "Chow Thomas C.",
       "Le Phong"
@@ -327,7 +327,7 @@
     },
     "size": {
      "fired": false,
-     "points": 0.5,
+     "points": 0.4,
      "max_band_mid": 32500
     }
    },
@@ -358,7 +358,7 @@
   },
   {
    "ticker": "MU",
-   "score": 6.7,
+   "score": 5.5,
    "signals": {
     "cluster": {
      "fired": false,
@@ -367,7 +367,7 @@
     },
     "committee": {
      "fired": true,
-     "points": 6.7,
+     "points": 5.5,
      "aligned_buyers": [
       "John Fetterman",
       "Sheldon Whitehouse"
@@ -417,7 +417,7 @@
   },
   {
    "ticker": "COHR",
-   "score": 5.3,
+   "score": 4.4,
    "signals": {
     "cluster": {
      "fired": false,
@@ -426,7 +426,7 @@
     },
     "committee": {
      "fired": true,
-     "points": 4.0,
+     "points": 3.3,
      "aligned_buyers": [
       "Sheldon Whitehouse"
      ],
@@ -447,7 +447,7 @@
     },
     "size": {
      "fired": true,
-     "points": 1.3,
+     "points": 1.0,
      "max_band_mid": 32500
     }
    },
@@ -475,7 +475,7 @@
   },
   {
    "ticker": "MELI",
-   "score": 5.3,
+   "score": 4.4,
    "signals": {
     "cluster": {
      "fired": false,
@@ -492,7 +492,7 @@
     },
     "convergence": {
      "fired": true,
-     "points": 4.7,
+     "points": 3.9,
      "insider_buyers": [
       "Aguzin Alejandro Nicolas",
       "Melamud Marcelo"
@@ -505,7 +505,7 @@
     },
     "size": {
      "fired": false,
-     "points": 0.6,
+     "points": 0.5,
      "max_band_mid": 32500
     }
    },
@@ -543,66 +543,8 @@
    ]
   },
   {
-   "ticker": "SPCX",
-   "score": 4.7,
-   "signals": {
-    "cluster": {
-     "fired": true,
-     "points": 3.9,
-     "distinct_buyers": 3
-    },
-    "committee": {
-     "fired": false,
-     "points": 0.0,
-     "aligned_buyers": [],
-     "sectors": [
-      "tech"
-     ]
-    },
-    "convergence": {
-     "fired": false,
-     "points": 0.0,
-     "insider_buyers": []
-    },
-    "options": {
-     "fired": false,
-     "points": 0.0,
-     "count": 0
-    },
-    "size": {
-     "fired": false,
-     "points": 0.8,
-     "max_band_mid": 32500
-    }
-   },
-   "evidence": [
-    {
-     "id": "C-91f202d1541f",
-     "signal": "cluster"
-    },
-    {
-     "id": "C-6ad387dafdd4",
-     "signal": "cluster"
-    },
-    {
-     "id": "C-41f4400dc5f7",
-     "signal": "cluster"
-    }
-   ],
-   "stats": {
-    "congress_buys": 3,
-    "distinct_buyers": 3,
-    "insider_open_market_buys": 0,
-    "options_positions": 0
-   },
-   "name": "SPACE EXPLORATION TECHNOLOGIES CORP",
-   "sectors": [
-    "tech"
-   ]
-  },
-  {
    "ticker": "QNT",
-   "score": 4.6,
+   "score": 3.8,
    "signals": {
     "cluster": {
      "fired": false,
@@ -619,7 +561,7 @@
     },
     "convergence": {
      "fired": true,
-     "points": 4.4,
+     "points": 3.6,
      "insider_buyers": [
       "Barron Hal",
       "Bhatia Manish H",
@@ -641,7 +583,7 @@
     },
     "size": {
      "fired": false,
-     "points": 0.3,
+     "points": 0.2,
      "max_band_mid": 8000
     }
    },
@@ -707,12 +649,70 @@
    ]
   },
   {
-   "ticker": "T",
-   "score": 4.5,
+   "ticker": "SPCX",
+   "score": 3.8,
    "signals": {
     "cluster": {
      "fired": true,
-     "points": 3.9,
+     "points": 3.2,
+     "distinct_buyers": 3
+    },
+    "committee": {
+     "fired": false,
+     "points": 0.0,
+     "aligned_buyers": [],
+     "sectors": [
+      "tech"
+     ]
+    },
+    "convergence": {
+     "fired": false,
+     "points": 0.0,
+     "insider_buyers": []
+    },
+    "options": {
+     "fired": false,
+     "points": 0.0,
+     "count": 0
+    },
+    "size": {
+     "fired": false,
+     "points": 0.6,
+     "max_band_mid": 32500
+    }
+   },
+   "evidence": [
+    {
+     "id": "C-91f202d1541f",
+     "signal": "cluster"
+    },
+    {
+     "id": "C-6ad387dafdd4",
+     "signal": "cluster"
+    },
+    {
+     "id": "C-41f4400dc5f7",
+     "signal": "cluster"
+    }
+   ],
+   "stats": {
+    "congress_buys": 3,
+    "distinct_buyers": 3,
+    "insider_open_market_buys": 0,
+    "options_positions": 0
+   },
+   "name": "SPACE EXPLORATION TECHNOLOGIES CORP",
+   "sectors": [
+    "tech"
+   ]
+  },
+  {
+   "ticker": "T",
+   "score": 3.7,
+   "signals": {
+    "cluster": {
+     "fired": true,
+     "points": 3.2,
      "distinct_buyers": 3
     },
     "committee": {
@@ -735,7 +735,7 @@
     },
     "size": {
      "fired": false,
-     "points": 0.6,
+     "points": 0.5,
      "max_band_mid": 75000
     }
    },
@@ -763,70 +763,12 @@
    "sectors": [
     "telecom"
    ]
-  },
-  {
-   "ticker": "VOYG",
-   "score": 3.2,
-   "signals": {
-    "cluster": {
-     "fired": false,
-     "points": 0.0,
-     "distinct_buyers": 1
-    },
-    "committee": {
-     "fired": true,
-     "points": 2.5,
-     "aligned_buyers": [
-      "Maria Elvira Salazar"
-     ],
-     "sectors": [
-      "aerospace",
-      "defense"
-     ]
-    },
-    "convergence": {
-     "fired": false,
-     "points": 0.0,
-     "insider_buyers": []
-    },
-    "options": {
-     "fired": false,
-     "points": 0.0,
-     "count": 0
-    },
-    "size": {
-     "fired": false,
-     "points": 0.8,
-     "max_band_mid": 32500
-    }
-   },
-   "evidence": [
-    {
-     "id": "C-633e9bef14ef",
-     "signal": "committee"
-    },
-    {
-     "id": "C-e59ed2df6e50",
-     "signal": "committee"
-    }
-   ],
-   "stats": {
-    "congress_buys": 2,
-    "distinct_buyers": 1,
-    "insider_open_market_buys": 0,
-    "options_positions": 0
-   },
-   "name": "Voyager Technologies, Inc./TX",
-   "sectors": [
-    "aerospace",
-    "defense"
-   ]
   }
  ],
  "caution": [
   {
    "ticker": "CRWD",
-   "score": 34.3,
+   "score": 28.1,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -835,7 +777,7 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 34.3,
+     "points": 28.1,
      "distinct_sellers": 6,
      "weighted_sellers": 5.0
     },
@@ -953,7 +895,7 @@
   },
   {
    "ticker": "CRDO",
-   "score": 32.6,
+   "score": 26.7,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -962,7 +904,7 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 32.6,
+     "points": 26.7,
      "distinct_sellers": 7,
      "weighted_sellers": 5.5
     },
@@ -1081,7 +1023,7 @@
   },
   {
    "ticker": "MPWR",
-   "score": 32.6,
+   "score": 26.7,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -1090,7 +1032,7 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 32.6,
+     "points": 26.7,
      "distinct_sellers": 8,
      "weighted_sellers": 7.5
     },
@@ -1209,7 +1151,7 @@
   },
   {
    "ticker": "PLTR",
-   "score": 32.6,
+   "score": 26.7,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -1218,7 +1160,7 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 32.6,
+     "points": 26.7,
      "distinct_sellers": 8,
      "weighted_sellers": 6.5
     },
@@ -1336,7 +1278,7 @@
   },
   {
    "ticker": "SMTC",
-   "score": 31.0,
+   "score": 25.5,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -1345,7 +1287,7 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 31.0,
+     "points": 25.5,
      "distinct_sellers": 7,
      "weighted_sellers": 5.0
     },
@@ -1443,6 +1385,6 @@
    ]
   }
  ],
- "universe": 611,
- "generated_at": "2026-07-20T13:30:32Z"
+ "universe": 612,
+ "generated_at": "2026-07-21T12:56:39Z"
 }
