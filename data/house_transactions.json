@@ -1,6 +1,81 @@
 {
- "generated_at": "2026-07-21T12:54:16Z",
+ "generated_at": "2026-07-22T12:59:10Z",
  "transactions": [
+  {
+   "id": "C-f8c74d0def2d",
+   "source": "congress",
+   "person": "James A. Himes",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Permanent Select Committee on Intelligence",
+     "House Committee on Financial Services"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "HD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-07-20",
+   "filed_date": "2026-07-20",
+   "lag_days": 0,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035047.pdf"
+  },
+  {
+   "id": "C-a246a1203d1b",
+   "source": "congress",
+   "person": "James A. Himes",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Permanent Select Committee on Intelligence",
+     "House Committee on Financial Services"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "XOM",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-07-20",
+   "filed_date": "2026-07-20",
+   "lag_days": 0,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035047.pdf"
+  },
+  {
+   "id": "C-12fe148eeb47",
+   "source": "congress",
+   "person": "James A. Himes",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Permanent Select Committee on Intelligence",
+     "House Committee on Financial Services"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "BAC",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-20",
+   "filed_date": "2026-07-20",
+   "lag_days": 0,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035047.pdf"
+  },
   {
    "id": "C-cf6a4dca93c1",
    "source": "congress",
