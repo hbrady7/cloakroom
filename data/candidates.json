@@ -1,9 +1,9 @@
 {
- "as_of": "2026-07-22",
+ "as_of": "2026-07-24",
  "candidates": [
   {
    "ticker": "HON",
-   "score": 11.1,
+   "score": 10.0,
    "signals": {
     "cluster": {
      "fired": false,
@@ -12,7 +12,7 @@
     },
     "committee": {
      "fired": true,
-     "points": 11.0,
+     "points": 10.0,
      "aligned_buyers": [
       "Dan Newhouse",
       "Maria Elvira Salazar"
@@ -62,7 +62,7 @@
   },
   {
    "ticker": "TSM",
-   "score": 7.5,
+   "score": 6.8,
    "signals": {
     "cluster": {
      "fired": true,
@@ -80,7 +80,7 @@
     },
     "convergence": {
      "fired": true,
-     "points": 7.5,
+     "points": 6.8,
      "insider_buyers": [
       "Lin Chris Horng-Dar",
       "Mii Yuh-Jier",
@@ -194,7 +194,7 @@
   },
   {
    "ticker": "IBP",
-   "score": 6.7,
+   "score": 6.1,
    "signals": {
     "cluster": {
      "fired": false,
@@ -203,7 +203,7 @@
     },
     "committee": {
      "fired": true,
-     "points": 1.9,
+     "points": 1.7,
      "aligned_buyers": [
       "David J. Taylor"
      ],
@@ -214,7 +214,7 @@
     },
     "convergence": {
      "fired": true,
-     "points": 4.4,
+     "points": 4.0,
      "insider_buyers": [
       "Hilsheimer Lawrence A.",
       "Miller Michael Thomas",
@@ -229,7 +229,7 @@
     },
     "size": {
      "fired": false,
-     "points": 0.4,
+     "points": 0.3,
      "max_band_mid": 8000
     }
    },
@@ -297,7 +297,7 @@
   },
   {
    "ticker": "MSTR",
-   "score": 6.7,
+   "score": 6.1,
    "signals": {
     "cluster": {
      "fired": false,
@@ -314,7 +314,7 @@
     },
     "convergence": {
      "fired": true,
-     "points": 6.3,
+     "points": 5.7,
      "insider_buyers": [
       "Chow Thomas C.",
       "Le Phong"
@@ -327,7 +327,7 @@
     },
     "size": {
      "fired": false,
-     "points": 0.4,
+     "points": 0.3,
      "max_band_mid": 32500
     }
    },
@@ -358,7 +358,7 @@
   },
   {
    "ticker": "MU",
-   "score": 5.3,
+   "score": 4.8,
    "signals": {
     "cluster": {
      "fired": true,
@@ -367,7 +367,7 @@
     },
     "committee": {
      "fired": true,
-     "points": 5.3,
+     "points": 4.8,
      "aligned_buyers": [
       "John Fetterman",
       "Sheldon Whitehouse"
@@ -428,8 +428,62 @@
    ]
   },
   {
+   "ticker": "COHR",
+   "score": 3.8,
+   "signals": {
+    "cluster": {
+     "fired": false,
+     "points": 0.0,
+     "distinct_buyers": 1
+    },
+    "committee": {
+     "fired": true,
+     "points": 2.9,
+     "aligned_buyers": [
+      "Sheldon Whitehouse"
+     ],
+     "sectors": [
+      "healthcare",
+      "tech"
+     ]
+    },
+    "convergence": {
+     "fired": false,
+     "points": 0.0,
+     "insider_buyers": []
+    },
+    "options": {
+     "fired": false,
+     "points": 0.0,
+     "count": 0
+    },
+    "size": {
+     "fired": false,
+     "points": 0.9,
+     "max_band_mid": 32500
+    }
+   },
+   "evidence": [
+    {
+     "id": "C-9e75498df746",
+     "signal": "committee"
+    }
+   ],
+   "stats": {
+    "congress_buys": 2,
+    "distinct_buyers": 2,
+    "insider_open_market_buys": 0,
+    "options_positions": 0
+   },
+   "name": "COHERENT CORP.",
+   "sectors": [
+    "healthcare",
+    "tech"
+   ]
+  },
+  {
    "ticker": "MELI",
-   "score": 4.2,
+   "score": 3.8,
    "signals": {
     "cluster": {
      "fired": false,
@@ -446,7 +500,7 @@
     },
     "convergence": {
      "fired": true,
-     "points": 3.7,
+     "points": 3.3,
      "insider_buyers": [
       "Aguzin Alejandro Nicolas",
       "Melamud Marcelo"
@@ -459,7 +513,7 @@
     },
     "size": {
      "fired": false,
-     "points": 0.5,
+     "points": 0.4,
      "max_band_mid": 32500
     }
    },
@@ -497,62 +551,8 @@
    ]
   },
   {
-   "ticker": "COHR",
-   "score": 4.1,
-   "signals": {
-    "cluster": {
-     "fired": false,
-     "points": 0.0,
-     "distinct_buyers": 1
-    },
-    "committee": {
-     "fired": true,
-     "points": 3.2,
-     "aligned_buyers": [
-      "Sheldon Whitehouse"
-     ],
-     "sectors": [
-      "healthcare",
-      "tech"
-     ]
-    },
-    "convergence": {
-     "fired": false,
-     "points": 0.0,
-     "insider_buyers": []
-    },
-    "options": {
-     "fired": false,
-     "points": 0.0,
-     "count": 0
-    },
-    "size": {
-     "fired": false,
-     "points": 1.0,
-     "max_band_mid": 32500
-    }
-   },
-   "evidence": [
-    {
-     "id": "C-9e75498df746",
-     "signal": "committee"
-    }
-   ],
-   "stats": {
-    "congress_buys": 2,
-    "distinct_buyers": 2,
-    "insider_open_market_buys": 0,
-    "options_positions": 0
-   },
-   "name": "COHERENT CORP.",
-   "sectors": [
-    "healthcare",
-    "tech"
-   ]
-  },
-  {
    "ticker": "QNT",
-   "score": 3.6,
+   "score": 3.3,
    "signals": {
     "cluster": {
      "fired": false,
@@ -569,7 +569,7 @@
     },
     "convergence": {
      "fired": true,
-     "points": 3.4,
+     "points": 3.1,
      "insider_buyers": [
       "Barron Hal",
       "Bhatia Manish H",
@@ -658,11 +658,11 @@
   },
   {
    "ticker": "SPCX",
-   "score": 3.6,
+   "score": 3.3,
    "signals": {
     "cluster": {
      "fired": true,
-     "points": 3.0,
+     "points": 2.7,
      "distinct_buyers": 3
     },
     "committee": {
@@ -685,7 +685,7 @@
     },
     "size": {
      "fired": false,
-     "points": 0.6,
+     "points": 0.5,
      "max_band_mid": 32500
     }
    },
@@ -716,11 +716,11 @@
   },
   {
    "ticker": "T",
-   "score": 3.5,
+   "score": 3.2,
    "signals": {
     "cluster": {
      "fired": true,
-     "points": 3.1,
+     "points": 2.8,
      "distinct_buyers": 3
     },
     "committee": {
@@ -762,7 +762,7 @@
     }
    ],
    "stats": {
-    "congress_buys": 9,
+    "congress_buys": 8,
     "distinct_buyers": 4,
     "insider_open_market_buys": 0,
     "options_positions": 0
@@ -775,8 +775,130 @@
  ],
  "caution": [
   {
+   "ticker": "MMM",
+   "score": 30.5,
+   "signals": {
+    "sell_cluster": {
+     "fired": false,
+     "points": 0.0,
+     "distinct_sellers": 2
+    },
+    "insider_distribution": {
+     "fired": true,
+     "points": 30.5,
+     "distinct_sellers": 4,
+     "weighted_sellers": 4.0
+    },
+    "committee_sell": {
+     "fired": true,
+     "points": 0.0
+    }
+   },
+   "evidence": [
+    {
+     "id": "I-e6535dc4d982",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-0b79a7c38c24",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-e362816ccb6d",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-3c3bc064d138",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "C-18f26ed36968",
+     "signal": "committee_sell"
+    }
+   ],
+   "stats": {
+    "congress_sells": 4,
+    "insider_sells": 4
+   },
+   "name": "3M CO",
+   "sectors": [
+    "healthcare"
+   ]
+  },
+  {
+   "ticker": "TRV",
+   "score": 27.6,
+   "signals": {
+    "sell_cluster": {
+     "fired": false,
+     "points": 0.0,
+     "distinct_sellers": 0
+    },
+    "insider_distribution": {
+     "fired": true,
+     "points": 27.6,
+     "distinct_sellers": 4,
+     "weighted_sellers": 4.0
+    },
+    "committee_sell": {
+     "fired": false,
+     "points": 0.0
+    }
+   },
+   "evidence": [
+    {
+     "id": "I-c16ac4802fe3",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-b63c338c394a",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-432586273cb7",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-408befb71464",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-28740d2bb83d",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-17599aeedcd8",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-cb383be1fb4c",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-c098aafb658d",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-ac624b25bb9a",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-5fa6743f4965",
+     "signal": "insider_distribution"
+    }
+   ],
+   "stats": {
+    "congress_sells": 0,
+    "insider_sells": 10
+   },
+   "name": "TRAVELERS COMPANIES, INC.",
+   "sectors": [
+    "insurance"
+   ]
+  },
+  {
    "ticker": "HSY",
-   "score": 29.5,
+   "score": 26.7,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -785,13 +907,13 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 24.0,
+     "points": 21.7,
      "distinct_sellers": 3,
      "weighted_sellers": 2.0
     },
     "committee_sell": {
      "fired": true,
-     "points": 5.5
+     "points": 5.0
     }
    },
    "evidence": [
@@ -904,22 +1026,22 @@
   },
   {
    "ticker": "PAYX",
-   "score": 29.2,
+   "score": 26.4,
    "signals": {
     "sell_cluster": {
      "fired": true,
-     "points": 0.2,
+     "points": 0.1,
      "distinct_sellers": 3
     },
     "insider_distribution": {
      "fired": true,
-     "points": 29.0,
+     "points": 26.3,
      "distinct_sellers": 4,
      "weighted_sellers": 4.0
     },
     "committee_sell": {
      "fired": true,
-     "points": 0.1
+     "points": 0.0
     }
    },
    "evidence": [
@@ -967,7 +1089,7 @@
   },
   {
    "ticker": "HOOD",
-   "score": 28.6,
+   "score": 25.9,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -976,7 +1098,7 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 28.6,
+     "points": 25.9,
      "distinct_sellers": 7,
      "weighted_sellers": 3.5
     },
@@ -1092,210 +1214,8 @@
     "fintech",
     "banks"
    ]
-  },
-  {
-   "ticker": "BAC",
-   "score": 26.9,
-   "signals": {
-    "sell_cluster": {
-     "fired": false,
-     "points": 0.0,
-     "distinct_sellers": 1
-    },
-    "insider_distribution": {
-     "fired": true,
-     "points": 17.8,
-     "distinct_sellers": 2,
-     "weighted_sellers": 2.0
-    },
-    "committee_sell": {
-     "fired": true,
-     "points": 9.1
-    }
-   },
-   "evidence": [
-    {
-     "id": "I-0ade37804f29",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-9cea2f1cf442",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-bcc5f707ee0d",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-67d5037fddba",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-6546122d9fd4",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-4a926c5118a4",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-d119a05ff692",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-07ce72c0d23f",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-78593368dc32",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-36c21d180128",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "C-12fe148eeb47",
-     "signal": "committee_sell"
-    }
-   ],
-   "stats": {
-    "congress_sells": 2,
-    "insider_sells": 10
-   },
-   "name": "BANK OF AMERICA CORP /DE/",
-   "sectors": [
-    "banks"
-   ]
-  },
-  {
-   "ticker": "CRWD",
-   "score": 26.7,
-   "signals": {
-    "sell_cluster": {
-     "fired": false,
-     "points": 0.0,
-     "distinct_sellers": 2
-    },
-    "insider_distribution": {
-     "fired": true,
-     "points": 26.7,
-     "distinct_sellers": 6,
-     "weighted_sellers": 5.0
-    },
-    "committee_sell": {
-     "fired": false,
-     "points": 0.0
-    }
-   },
-   "evidence": [
-    {
-     "id": "I-ccc08b781f5e",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-c49a6c531a64",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-c3e95da87531",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-c003c4576cbf",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-b78969b6b4ad",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-60175437a548",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-08c6cfe575b9",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-e401921a43d3",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-e16c13d033b0",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-db1181d4237f",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-9edd9077e080",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-79b3cc7330a2",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-774d20479295",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-75adc77ddb70",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-4905c37d96b1",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-325c6c60b3a3",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-2b8bc73a7eb5",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-1d2001017108",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-ec85a364b4e8",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-e3dd7ad8728d",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-e285c2eeab0e",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-de8d8c5be32b",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-dda78f2625d3",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-924858703813",
-     "signal": "insider_distribution"
-    }
-   ],
-   "stats": {
-    "congress_sells": 2,
-    "insider_sells": 355
-   },
-   "name": "CrowdStrike Holdings, Inc.",
-   "sectors": [
-    "tech"
-   ]
   }
  ],
- "universe": 731,
- "generated_at": "2026-07-23T13:03:29Z"
+ "universe": 730,
+ "generated_at": "2026-07-24T13:00:19Z"
 }
