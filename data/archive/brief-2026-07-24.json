@@ -1,75 +1,78 @@
 {
  "status": "ok",
  "model": "opus",
- "generated_at": "2026-07-24T13:03:55Z",
+ "generated_at": "2026-07-27T14:00:14Z",
  "date": "2026-07-24",
- "regime_note": "SPY closed 738.18 on 2026-07-23, essentially flat over 30 days (+0.63%) and down 1.67% over the last five sessions, sitting about 2.6% below its 90-day high (757.62) and roughly 4.5% above its 90-day low (706.63) — a mildly consolidating tape with no strong directional trend the data can support.",
+ "regime_note": "SPY last closed at 743.08 on 2026-07-27, up 1.20% over the trailing 30 days and 0.13% over five days — a mild upward drift. That leaves the index roughly 14.5 points below its 90-day high of 757.62 and roughly 33 points above its 90-day low of 709.75, i.e. in the upper part of its 90-day range without being at an extreme.",
  "picks": [
   {
    "ticker": "TSM",
    "direction": "long",
-   "conviction": "high",
-   "thesis": "Cleanest convergence in the book: a bipartisan congressional cluster (Fields, Cisneros, Letlow, Allen) sits alongside eleven non-10b5-1 open-market insider buys dated 2026-06-05 (lag 4), led by Chairman/CEO Wei Che-Chia and Co-COO Mii, with VP Yuan adding ~$79k on 06-22. Congress buys are small ($1-15k bands) and older (Jan-May), but the insider wave is fresh and spans the executive bench. Price sits near the 90-day low (415.58 vs 381.77 low, 477.57 high), down 4.8% in 30 days — insiders buying into weakness. Amount bands are ranges, not exact sizes.",
+   "conviction": "medium",
+   "thesis": "Convergence is the cleanest in this dossier: eleven TSM officers, including Chairman/CEO Wei Che-Chia and EVP/Co-COO Mii Yuh-Jier, bought on 2026-06-05 with no 10b5-1 plan flagged and filings four days later; VP Yuan Lipen added 79,190 on 06-22. Six congressional purchases across four members (Fields, Cisneros, Letlow, Allen) run January through May, every one in the 1,001-15,000 band. Honest caveats: the insider dollar amounts are small in absolute terms (3,040-11,402 apart from Yuan), and the congressional leg is stale — the latest buy was 2026-05-08, filed 39 days later. Price context: last close 401.28, -7.75% over 30 days, close to the 90-day low of 391.4233.",
    "evidence_ids": [
-    "C-b56b75fbbf4c",
-    "C-03be4a40a661",
-    "C-2fbce0af5cb6",
-    "C-b5d1eb7ac5c2",
-    "C-203eba300f9f",
-    "C-d6561a502241",
     "I-2b8ac2494d80",
     "I-90b1f7a52641",
+    "I-97b0c8cb367d",
     "I-ad1a57a1ec8d",
+    "I-9907d60cf259",
     "I-8bd22343a6a5",
     "I-6d94e9fbdb71",
     "I-5756cf6e2ff5",
     "I-2677a74770eb",
     "I-14bfd984fa00",
     "I-106a8013b4ee",
-    "I-9907d60cf259",
-    "I-97b0c8cb367d"
+    "C-b56b75fbbf4c",
+    "C-03be4a40a661",
+    "C-2fbce0af5cb6",
+    "C-d6561a502241",
+    "C-b5d1eb7ac5c2",
+    "C-203eba300f9f"
    ],
    "key_risks": [
-    "Congressional legs are small ($1-15k bands) and several are months stale (Jan-May).",
-    "Insider buys all cluster on a single date (06-05), so breadth of timing is narrow.",
-    "Price is near the 90-day low and down over 30 days; buying could be early."
+    "Insider purchase sizes are small relative to senior-executive pay; ten of the eleven are under 12,000 and may reflect routine participation rather than conviction",
+    "All eleven insider buys share a single transaction date (2026-06-05), so they are not eleven independent decisions",
+    "The congressional leg is decayed — nothing disclosed after a 2026-05-08 transaction — and every band is the minimum 1,001-15,000",
+    "Disclosure bands are ranges, not sizes; the congressional exposure could be near 1,001 in each case"
    ],
-   "invalidation": "TSM insiders or the congressional cluster begin filing sales, or the stock breaks below its 90-day low (381.77) without further insider buying.",
+   "invalidation": "Insider buying stops or reverses to sales while price breaks below the 90-day low of 391.4233, or the congressional buyers file offsetting sales.",
    "expression": {
     "simple": "common shares",
-    "defined_risk_note": "A defined-risk call spread could express the convergence view while capping downside, framed here as information only."
+    "defined_risk_note": "For information only: a view resting on evidence this stale on the congressional side is one where a defined-risk structure — a debit call spread with expiry beyond the next disclosure cycle — caps loss at premium rather than requiring a stop below the 90-day low."
    }
   },
   {
    "ticker": "IBP",
    "direction": "long",
    "conviction": "medium",
-   "thesis": "Convergence on a smaller name: Rep. David Taylor bought IBP four times (Jan-Jun, committee-aligned, all $1-15k bands) while four insiders — COO Wheeler and CFO Miller plus director Hilsheimer and officer Niswonger — made non-10b5-1 open-market purchases in May-June (lag 1-4). Only one congressional filer limits breadth, but the insider cluster is genuine and reasonably fresh. Price is well off the 90-day high (222.88 vs 308.40) yet up 5.8% in 30 days, above the 90-day low (195.28). Bands are ranges, not sizes.",
+   "thesis": "Two independent legs. Insider side: COO Brad Wheeler (149,737), director Lawrence Hilsheimer (97,952) and Jason Niswonger (97,734) all bought on 2026-05-11, filed next day, none 10b5-1; CFO Michael Miller added 12,733 on 06-11. Congressional side: Rep. David J. Taylor bought four separate times — 2026-01-29, 03-12, 03-24 and 06-15 — each in the 1,001-15,000 band with lags of 4 to 16 days. The engine flags Taylor as committee-aligned to industrial/real_estate, which raises the stakes and is also why such repeat buying draws scrutiny. The congressional leg rests on one filer only. Last close 230.555, +1.56% over 30 days, between the 90-day low 195.2815 and high 298.906.",
    "evidence_ids": [
-    "C-3e061b6aa658",
-    "C-399a6bced201",
-    "C-806d4b0f5c44",
-    "C-c69a1ec6f09f",
-    "I-ef155e85b6b7",
-    "I-eca44f43db20",
     "I-b5999b979544",
-    "I-5868cac12644"
+    "I-5868cac12644",
+    "I-eca44f43db20",
+    "I-ef155e85b6b7",
+    "C-c69a1ec6f09f",
+    "C-806d4b0f5c44",
+    "C-399a6bced201",
+    "C-3e061b6aa658"
    ],
    "key_risks": [
-    "Only a single congressional buyer; congressional breadth is absent.",
-    "Congressional amounts are small ($1-15k bands).",
-    "Price is far below its 90-day high, signaling a weak trend into the buying."
+    "The entire congressional leg is one member; repetition by a single filer is not a cluster",
+    "Three of the four insider buys share one date (2026-05-11), so they may be a single coordinated event",
+    "Insider dollar amounts are modest (12,733-149,737) for officer-level purchases",
+    "Price sits well below the 90-day high of 298.906, so the May insider buys are not yet confirmed by price"
    ],
-   "invalidation": "IBP insiders switch to selling, or Taylor stops adding while the price breaks below the 90-day low (195.28).",
+   "invalidation": "Taylor files IBP sales, or the officers who bought in May turn sellers while price probes the 90-day low of 195.2815.",
    "expression": {
-    "simple": "common shares"
+    "simple": "common shares",
+    "defined_risk_note": "For information only: because the thesis leans on a single congressional filer, a structure whose maximum loss is known upfront — such as a defined-width call spread — is one way to express it without sizing to a stop."
    }
   },
   {
    "ticker": "MU",
    "direction": "long",
    "conviction": "medium",
-   "thesis": "A four-member congressional cluster (Cisneros, Fetterman, Whitehouse, Armstrong) with committee alignment flagged for Fetterman (Commerce) and Whitehouse in semis/tech. No insider corroboration, and most buys are stale (March), though Whitehouse's is fresh (06-25, lag 13) and Armstrong's filing lagged 116 days. Two independent engine signals — cluster and committee — support a medium read. Price 990.21 is down 5.8% over 30 days but up 16% in five, sitting mid-range between the 90-day low (481.65) and high (1213.37). Amount bands are ranges.",
+   "thesis": "A four-member congressional cluster, but spread out rather than tight: Rep. Cisneros (03-25), Sen. Armstrong (03-27, 15,001-50,000), Sen. Fetterman (03-30) and Sen. Whitehouse (06-25). The engine flags Fetterman and Whitehouse as committee-aligned to semis/tech — that means the buyers help oversee the sector, which raises the stakes and is precisely why these trades attract scrutiny. Freshness is uneven: Fetterman filed within 4 days, Whitehouse within 13, but Armstrong's March purchase was not disclosed for 116 days. No insider Form 4 buying corroborates any of it. Last close 921.22, -24.08% over 30 days, against a 90-day high of 1213.3734 and low of 504.2125.",
    "evidence_ids": [
     "C-228ba8cfe84c",
     "C-e5f65cd46d1b",
@@ -77,161 +80,216 @@
     "C-25c777998ae1"
    ],
    "key_risks": [
-    "No insider buying to confirm the congressional signal.",
-    "Most legs are stale (March); Armstrong's disclosure lagged 116 days.",
-    "Committee alignment on semis draws scrutiny even as it raises the stakes."
+    "No insider open-market buying to confirm the congressional signal",
+    "Armstrong's 116-day filing lag makes that leg nearly worthless as timely information",
+    "Three of the four buys are from late March, i.e. roughly four months stale as of 2026-07-24",
+    "Price is down 24.08% over 30 days — the cluster's March entries are underwater on the 30-day move",
+    "Committee-aligned buying invites scrutiny and potential forced unwinds"
    ],
-   "invalidation": "The cluster's members file sales, or insider distribution emerges while price rolls back toward the 90-day low.",
+   "invalidation": "Cluster members file MU sales, or price continues lower toward the 90-day low of 504.2125 with no fresh congressional or insider buying appearing.",
    "expression": {
-    "simple": "common shares"
+    "simple": "common shares",
+    "defined_risk_note": "For information only: with a -24.08% 30-day move and a 90-day range spanning 504.2125 to 1213.3734, a defined-risk long structure caps the loss at premium in a name whose realized swing is this wide."
    }
   },
   {
    "ticker": "HON",
    "direction": "long",
    "conviction": "medium",
-   "thesis": "Two committee-aligned Republicans bought Honeywell: Newhouse on 2026-07-10 (lag 7 — the freshest congressional buy in the dossier, $1-15k) and Salazar on 03-24 ($15-50k, now roughly four months stale). Engine tags aerospace/defense alignment. Only two filers and no insider corroboration make this thin, and the Salazar leg is decayed. Price is pressed against the 90-day high (246.27 vs 249.46) and up 5.6% over 30 days, so members are paying up rather than fading weakness. Amount bands are ranges.",
+   "thesis": "The freshest congressional evidence in the dossier: Rep. Dan Newhouse bought 2026-07-10 and filed within 7 days, in the 1,001-15,000 band. Rep. Maria Elvira Salazar bought earlier, 2026-03-24 in the larger 15,001-50,000 band, filed 28 days later. The engine flags both as committee-aligned to aerospace/defense — oversight-adjacent buying, which is what makes it interesting and also what makes it contentious. There is no insider Form 4 buying and no cluster: two disclosed buyers only, one of them four months stale. Price has been firm — last close 244.6737, +8.18% over five days and within about five points of the 90-day high of 249.4599.",
    "evidence_ids": [
     "C-c736231999ff",
     "C-4c00a7d41aad"
    ],
    "key_risks": [
-    "Rests on two filers with no insider support; a thin evidence base.",
-    "The Salazar leg is ~4 months old; only the Newhouse buy is fresh.",
-    "Price is at the 90-day high, so entry is into strength.",
-    "Committee-aligned sector buying invites scrutiny."
+    "Only two citable congressional buyers and zero insider corroboration",
+    "Newhouse's band is the minimum 1,001-15,000 — the position could be trivially small",
+    "Salazar's purchase is from 2026-03-24 and was filed 28 days later",
+    "Price already sits near the 90-day high of 249.4599 after an 8.18% five-day move, so the disclosed entries are not at current levels"
    ],
-   "invalidation": "Either member files a sale, or price fails at the 90-day high (249.46) and reverses without further buying.",
+   "invalidation": "Either buyer files HON sales, no third member's purchase appears in subsequent filings, or price breaks back toward the 90-day low of 215.9203.",
    "expression": {
-    "simple": "common shares"
+    "simple": "common shares",
+    "defined_risk_note": "For information only: with price within ~2% of the 90-day high, a defined-risk call structure expresses the same directional view with loss capped at premium rather than at a stop placed inside a narrow range."
    }
   },
   {
    "ticker": "MELI",
    "direction": "long",
-   "conviction": "speculative",
-   "thesis": "Repeat conviction from one congressman plus two insiders: Cisneros bought MercadoLibre three times (Jan-Jun) while Director Aguzin ($836k, 05-22) and CAO Melamud ($200k, 06-11) made non-10b5-1 open-market buys. Only a single congressional filer, so breadth is thin — hence speculative. Price is strong, near the 90-day high (1798.70 vs 1873.88) and up 13.6% in 30 days, meaning buyers are chasing strength rather than fading weakness. Amount bands are ranges, not sizes.",
+   "conviction": "medium",
+   "thesis": "Two officer-level buys of real size, neither on a 10b5-1 plan: director Alejandro Aguzin bought 836,330 on 2026-05-22 (filed in 4 days) and SVP/Chief Accounting Officer Marcelo Melamud bought 200,000 on 2026-06-11 (filed in 4 days). Alongside them, Rep. Gilbert Cisneros bought MELI three times — 01-30, 03-16 and, in the larger 15,001-50,000 band, 06-10 — but that is one filer repeating, not a cluster. Price has already moved: last close 1835.02, +13.33% over 30 days, roughly 39 points below the 90-day high of 1873.88, so both insider entries predate a substantial advance.",
    "evidence_ids": [
-    "C-454782e929b4",
-    "C-4940de3a42f7",
-    "C-ebae25e6f8bc",
+    "I-d6f6262a9945",
     "I-c6657d385530",
-    "I-d6f6262a9945"
+    "C-ebae25e6f8bc",
+    "C-4940de3a42f7",
+    "C-454782e929b4"
    ],
    "key_risks": [
-    "Only one congressional filer; no cluster breadth.",
-    "Price is near the 90-day high, so the entry chases strength.",
-    "Insider buys are two names on separate dates, not a broad wave."
+    "The congressional leg rests entirely on one member",
+    "Only two insider buyers — below the breadth seen in TSM or IBP",
+    "Price is up 13.33% over 30 days and near the 90-day high of 1873.88; the disclosed evidence is from lower levels",
+    "Amount bands cap the congressional exposure at 50,000 and could be far less"
    ],
-   "invalidation": "Cisneros or the insiders file sales, or price rejects the 90-day high (1873.88) and rolls over.",
+   "invalidation": "Aguzin or Melamud file sales, Cisneros exits, or price fails at the 90-day high of 1873.88 and retraces toward the 90-day low of 1546.8101.",
    "expression": {
-    "simple": "common shares"
+    "simple": "common shares",
+    "defined_risk_note": "For information only: entering after a 13.33% 30-day advance is where a defined-risk structure matters most — a call spread bounds the cost of being late in a way a long share position does not."
    }
   },
   {
-   "ticker": "QNT",
+   "ticker": "SPCX",
    "direction": "long",
    "conviction": "speculative",
-   "thesis": "The largest raw insider buying in the book — eleven QNT directors and officers, led by Barron ($15M) and Bhatia ($1.2M), all purchased on a single date, 2026-06-05 (lag 3), accompanied by one small congressional buy (Fields, 06-04, $1-15k). But the single-date concentration reads more like a formation/placement event than dispersed open-market conviction, and the stock has fallen 27% over 30 days to near its 90-day low (56.46 vs 51.40, high 83.17). Speculative until follow-through buying appears at market prices.",
+   "thesis": "A tight three-member cluster: Rep. Daniel Meuser bought 2026-06-15 in the 15,001-50,000 band, Rep. John McGuire the same day in the 1,001-15,000 band, and Rep. Gilbert Cisneros on 06-18, also 1,001-15,000. Filing lags were 17, 23 and 14 days, so all three reached the public record in early July. Three buyers is below the four-member bar and there is no insider Form 4 evidence at all, which is why this is speculative rather than medium. Price has gone against them: last close 110.315, -7.96% over five days and -27.9% over 30, and that close equals the 90-day low of 110.315.",
    "evidence_ids": [
-    "C-7ebce6eb5e21",
-    "I-efc2b616b589",
-    "I-929915b08d34",
-    "I-1c9a3187a6bf",
-    "I-50258cc0212e",
-    "I-562c6086a13a",
-    "I-5cc03212dfa1",
-    "I-45b7b9c4fa76",
-    "I-3ee646b9b718",
-    "I-4d3481266139",
-    "I-2c73635bbd56",
-    "I-b9e32cca41b5"
+    "C-6ad387dafdd4",
+    "C-91f202d1541f",
+    "C-41f4400dc5f7"
    ],
    "key_risks": [
-    "All eleven insider buys share one date, suggesting a placement/formation event rather than dispersed conviction.",
-    "Stock is down 27% in 30 days and near its 90-day low — a falling knife.",
-    "Only one small congressional buy corroborates."
+    "No insider corroboration whatsoever",
+    "Three buyers, not four; two of the three are in the minimum amount band",
+    "Price sits exactly at its 90-day low of 110.315 after a 27.9% 30-day decline — the cluster is underwater since mid-June",
+    "Filing lags of 14-23 days mean the market saw these only after a large part of the drawdown"
    ],
-   "invalidation": "No further insider buying emerges at market prices, or the stock breaks below its 90-day low (51.40).",
+   "invalidation": "Price continues below the 90-day low of 110.315 with no further congressional buying disclosed, or any of the three members files a sale.",
    "expression": {
-    "simple": "common shares"
+    "simple": "common shares",
+    "defined_risk_note": "For information only: with the last close sitting on the 90-day low, there is no intact reference level below to anchor a stop, so a premium-capped structure is the form in which a speculative view of this kind can be bounded."
+   }
+  },
+  {
+   "ticker": "MSTR",
+   "direction": "long",
+   "conviction": "speculative",
+   "thesis": "One genuinely large insider buy: President & CEO Phong Le bought 998,756 on 2026-06-22 and filed the same day, with no 10b5-1 plan flagged — same-day disclosure of a seven-figure open-market purchase is the strongest single data point here. EVP & General Counsel Thomas Chow bought 727 on 06-16, which is too small to carry weight. Rep. Gilbert Cisneros bought on 2026-06-05 in the 15,001-50,000 band but did not file for 27 days. One meaningful insider plus one congressional filer is not convergence. Last close 97.58, +14.36% over 30 days, but roughly half the 90-day high of 195.94 and above the 90-day low of 82.31.",
+   "evidence_ids": [
+    "I-4443703987af",
+    "I-ecad1d7903af",
+    "C-8d6257a09ef1"
+   ],
+   "key_risks": [
+    "Effectively rests on a single insider — Chow's 727 purchase adds nothing",
+    "The congressional leg is one filer with a 27-day lag",
+    "Price is far below the 90-day high of 195.94, so the drawdown context is severe even after a 14.36% 30-day gain",
+    "The engine tags this name to the banks sector; no other insider or member has corroborated"
+   ],
+   "invalidation": "Le or other officers file sales, no additional insider buying appears, or price breaks back toward the 90-day low of 82.31.",
+   "expression": {
+    "simple": "common shares",
+    "defined_risk_note": "For information only: in a name whose 90-day range runs 82.31 to 195.94, a defined-risk structure fixes the maximum loss upfront rather than relying on a stop inside that range."
+   }
+  },
+  {
+   "ticker": "T",
+   "direction": "long",
+   "conviction": "speculative",
+   "thesis": "A cross-chamber three-member cluster with unusually prompt filing: Rep. Tim Moore bought 2026-06-04 in the 50,001-100,000 band and filed the next day — the largest disclosed congressional band among today's buy candidates. Rep. David J. Taylor bought 06-05 (1,001-15,000, filed in 7 days) and Sen. Gary Peters bought 06-29 (1,001-15,000, filed in 3 days). No insider Form 4 buying supports it and none of the three is flagged as committee-aligned to telecom, so this rests on the cluster alone. Price has already responded: last close 24.205, +10.27% over five days and +9.41% over 30, versus a 90-day high of 25.7847.",
+   "evidence_ids": [
+    "C-7b2d3bbe26f2",
+    "C-97706f05a758",
+    "C-07d8095fd78e"
+   ],
+   "key_risks": [
+    "Three members, no insider corroboration, no committee alignment flagged",
+    "Two of the three buys are in the minimum 1,001-15,000 band",
+    "Price has run 10.27% in five days, so entry is well above where the cluster bought in early June",
+    "Bands are ranges — even Moore's position could be near 50,001"
+   ],
+   "invalidation": "Any of the three files a sale, no fourth member's purchase appears, or price fails at the 90-day high of 25.7847 and retraces toward the 90-day low of 20.2094.",
+   "expression": {
+    "simple": "common shares",
+    "defined_risk_note": "For information only: after a 10.27% five-day move, a defined-risk call structure bounds the cost of chasing, which a long share position at 24.205 does not."
    }
   }
  ],
  "caution_list": [
   {
-   "ticker": "MMM",
-   "reason": "Fresh non-10b5-1 insider distribution: four executives (EVP Banovetz, Group President Goralski, Chief Legal Officer Rhodes, CAO Reinseth) sold on 2026-07-22/23 into price pressed against the 90-day high (169.59 vs 170.76). Sen. Tina Smith also sold ($50-100k, 03-31).",
+   "ticker": "STX",
+   "reason": "Broadest distribution in the dossier — the engine counts 8 distinct sellers and 80 insider sells. CEO William Mosley disposed across many 2026-07-01 filings, all flagged 10b5-1, which discounts them; less discountable is EVP & CLO James Lee selling 490,741 on 2026-07-23, filed next day, with no plan flagged. Price is -17.57% over 30 days at a last close of 845.245, against a 90-day high of 1093.2605.",
    "evidence_ids": [
-    "I-e6535dc4d982",
-    "I-0b79a7c38c24",
-    "I-e362816ccb6d",
-    "I-3c3bc064d138",
-    "C-18f26ed36968"
+    "I-44289b134573",
+    "I-9ee75cf9ee0b",
+    "I-decf4278971b",
+    "I-b42fe420a606",
+    "I-fa43a7d2466d",
+    "I-ef8be080a6e9",
+    "I-ea2c8ebaad63",
+    "I-d1c3a3ec6610"
    ]
   },
   {
    "ticker": "TRV",
-   "reason": "Heavy non-10b5-1 insider selling by four executives (CFO Frey, Chief Tech/Ops Officer Lefebvre, President Personal Ins. Klein, and others) on 2026-07-21, with the stock at its 90-day high (376.37) after an 18.7% 30-day run — distribution into strength.",
+   "reason": "Six distinct sellers, none flagged 10b5-1, clustered on 2026-07-21 and 07-22 and filed within two days: CFO Daniel Frey (4,063,427 and 1,105,575), EVP/Chief Tech & Ops Officer Mojgan Lefebvre (3,393,652), EVP Michael Klein (2,150,949), EVP David Rowland (1,858,440), SVP/Controller Paul Munson (564,105) and EVP Andy Bessette (1,067,451), following earlier May sales. The selling lands with price at its 90-day high — last close 388.85 equals high_90d 388.85, after +22.17% over 30 days.",
    "evidence_ids": [
     "I-17599aeedcd8",
     "I-28740d2bb83d",
     "I-b63c338c394a",
+    "I-c16ac4802fe3",
+    "I-f4604b15468b",
+    "I-a0230c7a35d5",
+    "I-a3f3e55a6dc1",
+    "I-368112b4b780",
     "I-408befb71464",
-    "I-c16ac4802fe3"
+    "I-ac624b25bb9a",
+    "I-c098aafb658d",
+    "I-cb383be1fb4c",
+    "I-5fa6743f4965",
+    "I-432586273cb7"
    ]
   },
   {
-   "ticker": "PAYX",
-   "reason": "Sell cluster and insider distribution converge: four congressional sales (Larsen, McClain Delaney, Armstrong) plus non-10b5-1 selling by CFO Schrader, director Mucci, controller Simmons and director Tucci, with price near the 90-day high (110.66 vs 115.20).",
+   "ticker": "PNC",
+   "reason": "Five distinct sellers with no 10b5-1 flags. Director Andrew Feldstein sold 5,073,023, 3,970,192 and 882,265 on 2026-05-26 (filed in 2 days); EVPs Thomas Duane (357,205), Alexander Overstrom (341,956), Stephanie Novosel (411,714) and Deborah Guild (302,634, 2026-07-22) followed. The engine also records one congressional sale. Last close 252.06 is essentially at the 90-day high of 253.1815.",
    "evidence_ids": [
-    "C-efdbf3e4cb07",
-    "C-e5fb7a2d71c2",
-    "C-61954af0ca29",
-    "C-5ed98a0b85a8",
-    "I-d25462115c20",
-    "I-bab5188dc86f",
-    "I-e193550099ff",
-    "I-d564be2bde92"
+    "I-569e60b7173d",
+    "I-9a81774444e2",
+    "I-53f59d70baaf",
+    "I-160ead17a10e",
+    "I-96c5afff8d82",
+    "I-5af54d759246",
+    "I-9dbc5ee171f4"
    ]
   },
   {
-   "ticker": "HSY",
-   "reason": "Very heavy insider selling (71 sales), but overwhelmingly planned 10b5-1 distributions by the Milton Hershey School Trust (10% owner); CFO Voskuil's sale is also 10b5-1. Price already near its 90-day low (172.14 vs 170.27), so much of this is programmatic, not a discretionary bearish signal.",
+   "ticker": "MMM",
+   "reason": "Four insider sells on 2026-07-22 and 07-23, all filed within a day and none flagged 10b5-1: EVP John Banovetz (1,343,067), EVP/Chief Legal Officer Kevin Rhodes (1,312,933), Group President Christian Goralski (835,577) and SVP/CAO Theresa Reinseth (156,544). Separately, Sen. Tina Smith sold in the 50,001-100,000 band on 2026-03-31, filed in 2 days. Last close 177.315 equals the 90-day high of 177.315 after +11.44% in five days.",
    "evidence_ids": [
-    "I-f9158f9110f2",
-    "I-58a1e0ccd9ce",
-    "I-f8cf894fde05",
-    "I-d8e1c0b9aa3b"
+    "I-0b79a7c38c24",
+    "I-e362816ccb6d",
+    "I-3c3bc064d138",
+    "I-e6535dc4d982",
+    "C-18f26ed36968"
    ]
   },
   {
    "ticker": "HOOD",
-   "reason": "Persistent insider distribution (44 sales across seven sellers), but predominantly planned 10b5-1: repeated Robinhood Markets 10% owner sales and CFO Verma's 10b5-1 sales. Price mid-range (101.58, 90-day 71.20-117.55). Programmatic character tempers the signal.",
+   "reason": "Highest sell count by volume — 7 distinct sellers and 48 insider sells — but every cited disposal is flagged 10b5-1, including CFO Shiv Verma's 2026-07-15 sales and the repeated 10% owner sales through 07-23, so the informational content is materially weaker than the raw count suggests. Noted for the scale of supply rather than as a conviction signal. Last close 97.42, +4.23% over 30 days, between the 90-day low 71.2 and high 117.55.",
    "evidence_ids": [
     "I-22e45ae2835e",
     "I-3711d9fce310",
-    "I-e615c2b31b5b",
-    "I-16456172e18e"
+    "I-af29fb0e0add",
+    "I-f0067def7b59",
+    "I-6cc158a8bdc0",
+    "I-339d3c5a354f",
+    "I-6d361479c27a",
+    "I-5859ba60d977",
+    "I-16456172e18e",
+    "I-2164777b414c",
+    "I-1d24c11b0cf2",
+    "I-a167663881a4"
    ]
   }
  ],
  "skipped": [
   {
-   "ticker": "MSTR",
-   "reason": "Convergence rests on one large CEO buy (Le Phong, ~$1M) plus a trivial $727 insider and a single congressional buy, while price is down 9.8% over 30 days near its 90-day low (93.63 vs 82.31) — too thin and too weak a tape to carry a pick."
+   "ticker": "QNT",
+   "reason": "All eleven insider buys share one transaction date (2026-06-05) and one filing batch, which reads as a single coordinated event rather than eleven independent decisions, and the only congressional leg is one filer (Cleo Fields, 1,001-15,000) — with price -21.88% over 30 days and near the 90-day low of 51.4, that is not evidence I can honestly call convergence."
   },
   {
    "ticker": "COHR",
-   "reason": "Single senator (Whitehouse) committee buy with no cluster and no insider corroboration; one filer does not meet even a speculative bar."
-  },
-  {
-   "ticker": "SPCX",
-   "reason": "Fresh three-member congressional cluster but only one signal type, no insider data (private vehicle), and price down 24% over 30 days at its 90-day low — insufficient corroboration."
-  },
-  {
-   "ticker": "T",
-   "reason": "Fresh three-member congressional cluster (Moore, Taylor, Peters) but a single signal type, no committee alignment and no insider support; not enough to lift above the cluster alone."
+   "reason": "Rests on a single congressional purchase (Sen. Whitehouse, 15,001-50,000, 2026-06-25) with zero insider corroboration, while price is -32.32% over 30 days and the last close of 275.615 is the 90-day low — one filer against that tape does not clear the speculative bar."
   }
  ]
 }

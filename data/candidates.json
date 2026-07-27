@@ -49,8 +49,8 @@
     }
    ],
    "stats": {
-    "congress_buys": 4,
-    "distinct_buyers": 4,
+    "congress_buys": 3,
+    "distinct_buyers": 3,
     "insider_open_market_buys": 0,
     "options_positions": 0
    },
@@ -775,6 +775,279 @@
  ],
  "caution": [
   {
+   "ticker": "STX",
+   "score": 34.3,
+   "signals": {
+    "sell_cluster": {
+     "fired": false,
+     "points": 0.0,
+     "distinct_sellers": 0
+    },
+    "insider_distribution": {
+     "fired": true,
+     "points": 34.3,
+     "distinct_sellers": 8,
+     "weighted_sellers": 6.5
+    },
+    "committee_sell": {
+     "fired": false,
+     "points": 0.0
+    }
+   },
+   "evidence": [
+    {
+     "id": "I-44289b134573",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-fa43a7d2466d",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-f4dca5549bd4",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-ef8be080a6e9",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-ea2c8ebaad63",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-e281646cdf11",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-e26ffebc0499",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-decf4278971b",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-d9b2124d0114",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-d1c3a3ec6610",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-c92fb0a86638",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-bc6c32c91835",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-bc19c1c89bd7",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-b42fe420a606",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-aefc3fffa092",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-a6e8671b79cf",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-a43478ad7b20",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-a16ca658bd2d",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-9fc710fb03bb",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-9ee75cf9ee0b",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-96e39f990ef0",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-957136709f6a",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-93daf158e66f",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-92d3d5cd2f7b",
+     "signal": "insider_distribution"
+    }
+   ],
+   "stats": {
+    "congress_sells": 0,
+    "insider_sells": 80
+   },
+   "name": "Seagate Technology Holdings plc",
+   "sectors": [
+    "tech"
+   ]
+  },
+  {
+   "ticker": "PNC",
+   "score": 32.6,
+   "signals": {
+    "sell_cluster": {
+     "fired": false,
+     "points": 0.0,
+     "distinct_sellers": 1
+    },
+    "insider_distribution": {
+     "fired": true,
+     "points": 32.6,
+     "distinct_sellers": 5,
+     "weighted_sellers": 5.0
+    },
+    "committee_sell": {
+     "fired": false,
+     "points": 0.0
+    }
+   },
+   "evidence": [
+    {
+     "id": "I-9dbc5ee171f4",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-160ead17a10e",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-96c5afff8d82",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-5af54d759246",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-9a81774444e2",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-569e60b7173d",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-53f59d70baaf",
+     "signal": "insider_distribution"
+    }
+   ],
+   "stats": {
+    "congress_sells": 1,
+    "insider_sells": 7
+   },
+   "name": "PNC FINANCIAL SERVICES GROUP, INC.",
+   "sectors": [
+    "banks"
+   ]
+  },
+  {
+   "ticker": "TRV",
+   "score": 32.6,
+   "signals": {
+    "sell_cluster": {
+     "fired": false,
+     "points": 0.0,
+     "distinct_sellers": 0
+    },
+    "insider_distribution": {
+     "fired": true,
+     "points": 32.6,
+     "distinct_sellers": 6,
+     "weighted_sellers": 6.0
+    },
+    "committee_sell": {
+     "fired": false,
+     "points": 0.0
+    }
+   },
+   "evidence": [
+    {
+     "id": "I-f4604b15468b",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-a3f3e55a6dc1",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-a0230c7a35d5",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-368112b4b780",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-c16ac4802fe3",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-b63c338c394a",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-432586273cb7",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-408befb71464",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-28740d2bb83d",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-17599aeedcd8",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-cb383be1fb4c",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-c098aafb658d",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-ac624b25bb9a",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-5fa6743f4965",
+     "signal": "insider_distribution"
+    }
+   ],
+   "stats": {
+    "congress_sells": 0,
+    "insider_sells": 14
+   },
+   "name": "TRAVELERS COMPANIES, INC.",
+   "sectors": [
+    "insurance"
+   ]
+  },
+  {
    "ticker": "MMM",
    "score": 30.5,
    "signals": {
@@ -826,270 +1099,8 @@
    ]
   },
   {
-   "ticker": "TRV",
-   "score": 27.6,
-   "signals": {
-    "sell_cluster": {
-     "fired": false,
-     "points": 0.0,
-     "distinct_sellers": 0
-    },
-    "insider_distribution": {
-     "fired": true,
-     "points": 27.6,
-     "distinct_sellers": 4,
-     "weighted_sellers": 4.0
-    },
-    "committee_sell": {
-     "fired": false,
-     "points": 0.0
-    }
-   },
-   "evidence": [
-    {
-     "id": "I-c16ac4802fe3",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-b63c338c394a",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-432586273cb7",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-408befb71464",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-28740d2bb83d",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-17599aeedcd8",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-cb383be1fb4c",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-c098aafb658d",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-ac624b25bb9a",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-5fa6743f4965",
-     "signal": "insider_distribution"
-    }
-   ],
-   "stats": {
-    "congress_sells": 0,
-    "insider_sells": 10
-   },
-   "name": "TRAVELERS COMPANIES, INC.",
-   "sectors": [
-    "insurance"
-   ]
-  },
-  {
-   "ticker": "HSY",
-   "score": 26.7,
-   "signals": {
-    "sell_cluster": {
-     "fired": false,
-     "points": 0.0,
-     "distinct_sellers": 1
-    },
-    "insider_distribution": {
-     "fired": true,
-     "points": 21.7,
-     "distinct_sellers": 3,
-     "weighted_sellers": 2.0
-    },
-    "committee_sell": {
-     "fired": true,
-     "points": 5.0
-    }
-   },
-   "evidence": [
-    {
-     "id": "I-d8e1c0b9aa3b",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-b924a41b4f44",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-58a1e0ccd9ce",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-f9158f9110f2",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-4cc1c0dea041",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-496531608c52",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-22b528658684",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-f529cce048bb",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-5d5ada22ea15",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-4f7470e5dbcf",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-4ddcfd12859f",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-25415e5802cc",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-f8cf894fde05",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-ee40d41aec12",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-bc5ffc12745d",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-b118b5d7fa6c",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-5e0f59e4eca1",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-53e8ffa98061",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-3d10c57ac841",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-302b10e7f796",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-0bae20a27f14",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-fe6fb869726c",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-c78ca7b1f06a",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-b2dc0790c91a",
-     "signal": "insider_distribution"
-    }
-   ],
-   "stats": {
-    "congress_sells": 4,
-    "insider_sells": 71
-   },
-   "name": "HERSHEY CO",
-   "sectors": [
-    "food",
-    "ag"
-   ]
-  },
-  {
-   "ticker": "PAYX",
-   "score": 26.4,
-   "signals": {
-    "sell_cluster": {
-     "fired": true,
-     "points": 0.1,
-     "distinct_sellers": 3
-    },
-    "insider_distribution": {
-     "fired": true,
-     "points": 26.3,
-     "distinct_sellers": 4,
-     "weighted_sellers": 4.0
-    },
-    "committee_sell": {
-     "fired": true,
-     "points": 0.0
-    }
-   },
-   "evidence": [
-    {
-     "id": "C-efdbf3e4cb07",
-     "signal": "sell_cluster"
-    },
-    {
-     "id": "C-e5fb7a2d71c2",
-     "signal": "sell_cluster"
-    },
-    {
-     "id": "C-61954af0ca29",
-     "signal": "sell_cluster"
-    },
-    {
-     "id": "C-5ed98a0b85a8",
-     "signal": "sell_cluster"
-    },
-    {
-     "id": "I-d25462115c20",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-e193550099ff",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-bab5188dc86f",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-d564be2bde92",
-     "signal": "insider_distribution"
-    }
-   ],
-   "stats": {
-    "congress_sells": 8,
-    "insider_sells": 4
-   },
-   "name": "PAYCHEX INC",
-   "sectors": [
-    "industrial"
-   ]
-  },
-  {
    "ticker": "HOOD",
-   "score": 25.9,
+   "score": 28.6,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -1098,7 +1109,7 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 25.9,
+     "points": 28.6,
      "distinct_sellers": 7,
      "weighted_sellers": 3.5
     },
@@ -1108,6 +1119,22 @@
     }
    },
    "evidence": [
+    {
+     "id": "I-6cc158a8bdc0",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-339d3c5a354f",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-6d361479c27a",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-5859ba60d977",
+     "signal": "insider_distribution"
+    },
     {
      "id": "I-e615c2b31b5b",
      "signal": "insider_distribution"
@@ -1187,27 +1214,11 @@
     {
      "id": "I-1d24c11b0cf2",
      "signal": "insider_distribution"
-    },
-    {
-     "id": "I-e3353dfeccdf",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-9ec22f469d1c",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-798d3bf90c59",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-4106844983f6",
-     "signal": "insider_distribution"
     }
    ],
    "stats": {
     "congress_sells": 3,
-    "insider_sells": 44
+    "insider_sells": 48
    },
    "name": "Robinhood Markets, Inc.",
    "sectors": [
@@ -1216,6 +1227,6 @@
    ]
   }
  ],
- "universe": 730,
- "generated_at": "2026-07-24T13:00:19Z"
+ "universe": 729,
+ "generated_at": "2026-07-27T13:56:49Z"
 }

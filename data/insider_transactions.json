@@ -1,6 +1,28 @@
 {
- "generated_at": "2026-07-24T12:59:28Z",
+ "generated_at": "2026-07-27T13:56:02Z",
  "transactions": [
+  {
+   "id": "I-b0c3bc0d92a6",
+   "source": "insider",
+   "person": "Grace William E.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP, CFO",
+   "ticker": "URI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1699732,
+   "amount_high": 1699732,
+   "tx_date": "2026-07-24",
+   "filed_date": "2026-07-24",
+   "lag_days": 0,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1067701/000119312526316294/"
+  },
   {
    "id": "I-e6535dc4d982",
    "source": "insider",
@@ -24,6 +46,94 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/66740/000006674026000256/"
   },
   {
+   "id": "I-ccb36d393646",
+   "source": "insider",
+   "person": "Yates Lloyd M",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "MRSH",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 2107800,
+   "amount_high": 2107800,
+   "tx_date": "2026-07-23",
+   "filed_date": "2026-07-24",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/62709/000006270926000198/"
+  },
+  {
+   "id": "I-6cc158a8bdc0",
+   "source": "insider",
+   "person": "Robinhood Markets, Inc.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "10% owner",
+   "ticker": "HOOD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 274485,
+   "amount_high": 274485,
+   "tx_date": "2026-07-23",
+   "filed_date": "2026-07-24",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1783879/000178387926000101/"
+  },
+  {
+   "id": "I-44289b134573",
+   "source": "insider",
+   "person": "Lee James CI",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP & CLO",
+   "ticker": "STX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 490741,
+   "amount_high": 490741,
+   "tx_date": "2026-07-23",
+   "filed_date": "2026-07-24",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000150/"
+  },
+  {
+   "id": "I-339d3c5a354f",
+   "source": "insider",
+   "person": "Robinhood Markets, Inc.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "10% owner",
+   "ticker": "HOOD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 3161,
+   "amount_high": 3161,
+   "tx_date": "2026-07-23",
+   "filed_date": "2026-07-24",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1783879/000178387926000101/"
+  },
+  {
    "id": "I-0b79a7c38c24",
    "source": "insider",
    "person": "Banovetz John Patrick",
@@ -44,6 +154,182 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/66740/000006674026000255/"
+  },
+  {
+   "id": "I-f86cd1ca0a45",
+   "source": "insider",
+   "person": "Ramani Mohit",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Risk Officer",
+   "ticker": "KEY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 568500,
+   "amount_high": 568500,
+   "tx_date": "2026-07-22",
+   "filed_date": "2026-07-24",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/91576/000205312526000003/"
+  },
+  {
+   "id": "I-f4604b15468b",
+   "source": "insider",
+   "person": "Rowland David Donnay",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP & Co-Chief Invest. Officer",
+   "ticker": "TRV",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1858440,
+   "amount_high": 1858440,
+   "tx_date": "2026-07-22",
+   "filed_date": "2026-07-24",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/86312/000008631226000156/"
+  },
+  {
+   "id": "I-a3f3e55a6dc1",
+   "source": "insider",
+   "person": "Bessette Andy F",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP and Chief Admin Officer",
+   "ticker": "TRV",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1067451,
+   "amount_high": 1067451,
+   "tx_date": "2026-07-22",
+   "filed_date": "2026-07-24",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/86312/000008631226000152/"
+  },
+  {
+   "id": "I-a0230c7a35d5",
+   "source": "insider",
+   "person": "Munson Paul E.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "SVP & Corp. Controller",
+   "ticker": "TRV",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 564105,
+   "amount_high": 564105,
+   "tx_date": "2026-07-22",
+   "filed_date": "2026-07-24",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/86312/000008631226000154/"
+  },
+  {
+   "id": "I-9dbc5ee171f4",
+   "source": "insider",
+   "person": "Deborah Guild",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Executive Vice President",
+   "ticker": "PNC",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 302634,
+   "amount_high": 302634,
+   "tx_date": "2026-07-22",
+   "filed_date": "2026-07-24",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/713676/000162828026049527/"
+  },
+  {
+   "id": "I-6d361479c27a",
+   "source": "insider",
+   "person": "Robinhood Markets, Inc.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "10% owner",
+   "ticker": "HOOD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 430218,
+   "amount_high": 430218,
+   "tx_date": "2026-07-22",
+   "filed_date": "2026-07-24",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1783879/000178387926000101/"
+  },
+  {
+   "id": "I-5859ba60d977",
+   "source": "insider",
+   "person": "Robinhood Markets, Inc.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "10% owner",
+   "ticker": "HOOD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 56993,
+   "amount_high": 56993,
+   "tx_date": "2026-07-22",
+   "filed_date": "2026-07-24",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1783879/000178387926000101/"
+  },
+  {
+   "id": "I-368112b4b780",
+   "source": "insider",
+   "person": "Bessette Andy F",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP and Chief Admin Officer",
+   "ticker": "TRV",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 36886,
+   "amount_high": 36886,
+   "tx_date": "2026-07-22",
+   "filed_date": "2026-07-24",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/86312/000008631226000152/"
   },
   {
    "id": "I-e3bb6d1a5b35",
