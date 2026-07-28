@@ -1,6 +1,495 @@
 {
- "generated_at": "2026-07-27T13:54:50Z",
+ "generated_at": "2026-07-28T13:10:59Z",
  "transactions": [
+  {
+   "id": "C-50a7587b8ff6",
+   "source": "congress",
+   "person": "Sam T. Liccardo",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Financial Services"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "NVDA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-07-21",
+   "filed_date": "2026-07-27",
+   "lag_days": 6,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034736.pdf"
+  },
+  {
+   "id": "C-ff86feccaa5f",
+   "source": "congress",
+   "person": "Jared Moskowitz",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on the Judiciary",
+     "House Select Subcommittee to Investigate the Remaining Questions Surrounding January 6, 2021"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "AMAT",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-18",
+   "filed_date": "2026-07-26",
+   "lag_days": 38,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034963.pdf"
+  },
+  {
+   "id": "C-b80ce6315702",
+   "source": "congress",
+   "person": "Jared Moskowitz",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on the Judiciary",
+     "House Select Subcommittee to Investigate the Remaining Questions Surrounding January 6, 2021"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "AMAT",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-18",
+   "filed_date": "2026-07-26",
+   "lag_days": 38,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034963.pdf"
+  },
+  {
+   "id": "C-24138c7add75",
+   "source": "congress",
+   "person": "Jared Moskowitz",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on the Judiciary",
+     "House Select Subcommittee to Investigate the Remaining Questions Surrounding January 6, 2021"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "AMAT",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-18",
+   "filed_date": "2026-07-26",
+   "lag_days": 38,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034963.pdf"
+  },
+  {
+   "id": "C-fada361806c4",
+   "source": "congress",
+   "person": "Jared Moskowitz",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on the Judiciary",
+     "House Select Subcommittee to Investigate the Remaining Questions Surrounding January 6, 2021"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "HD",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-17",
+   "filed_date": "2026-07-26",
+   "lag_days": 39,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034963.pdf"
+  },
+  {
+   "id": "C-e4fc46ce1a1a",
+   "source": "congress",
+   "person": "Jared Moskowitz",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on the Judiciary",
+     "House Select Subcommittee to Investigate the Remaining Questions Surrounding January 6, 2021"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "HCA",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-17",
+   "filed_date": "2026-07-26",
+   "lag_days": 39,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034963.pdf"
+  },
+  {
+   "id": "C-dd6d11dbcf85",
+   "source": "congress",
+   "person": "Jared Moskowitz",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on the Judiciary",
+     "House Select Subcommittee to Investigate the Remaining Questions Surrounding January 6, 2021"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "META",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-17",
+   "filed_date": "2026-07-26",
+   "lag_days": 39,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034963.pdf"
+  },
+  {
+   "id": "C-bfaf3224b8c6",
+   "source": "congress",
+   "person": "Jared Moskowitz",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on the Judiciary",
+     "House Select Subcommittee to Investigate the Remaining Questions Surrounding January 6, 2021"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MNST",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-17",
+   "filed_date": "2026-07-26",
+   "lag_days": 39,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034963.pdf"
+  },
+  {
+   "id": "C-ad8d6737ad4a",
+   "source": "congress",
+   "person": "Jared Moskowitz",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on the Judiciary",
+     "House Select Subcommittee to Investigate the Remaining Questions Surrounding January 6, 2021"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "SPGI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-17",
+   "filed_date": "2026-07-26",
+   "lag_days": 39,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034963.pdf"
+  },
+  {
+   "id": "C-92ee09528a5a",
+   "source": "congress",
+   "person": "Jared Moskowitz",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on the Judiciary",
+     "House Select Subcommittee to Investigate the Remaining Questions Surrounding January 6, 2021"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MSFT",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-17",
+   "filed_date": "2026-07-26",
+   "lag_days": 39,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034963.pdf"
+  },
+  {
+   "id": "C-8659d7505432",
+   "source": "congress",
+   "person": "Jared Moskowitz",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on the Judiciary",
+     "House Select Subcommittee to Investigate the Remaining Questions Surrounding January 6, 2021"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "SPGI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-17",
+   "filed_date": "2026-07-26",
+   "lag_days": 39,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034963.pdf"
+  },
+  {
+   "id": "C-85051d0d0313",
+   "source": "congress",
+   "person": "Jared Moskowitz",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on the Judiciary",
+     "House Select Subcommittee to Investigate the Remaining Questions Surrounding January 6, 2021"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "META",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-17",
+   "filed_date": "2026-07-26",
+   "lag_days": 39,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034963.pdf"
+  },
+  {
+   "id": "C-6d62780156d3",
+   "source": "congress",
+   "person": "Jared Moskowitz",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on the Judiciary",
+     "House Select Subcommittee to Investigate the Remaining Questions Surrounding January 6, 2021"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "HCA",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-17",
+   "filed_date": "2026-07-26",
+   "lag_days": 39,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034963.pdf"
+  },
+  {
+   "id": "C-48b248bb3288",
+   "source": "congress",
+   "person": "Jared Moskowitz",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on the Judiciary",
+     "House Select Subcommittee to Investigate the Remaining Questions Surrounding January 6, 2021"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "SPGI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-17",
+   "filed_date": "2026-07-26",
+   "lag_days": 39,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034963.pdf"
+  },
+  {
+   "id": "C-3ae8b4a6cb04",
+   "source": "congress",
+   "person": "Jared Moskowitz",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on the Judiciary",
+     "House Select Subcommittee to Investigate the Remaining Questions Surrounding January 6, 2021"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MNST",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-17",
+   "filed_date": "2026-07-26",
+   "lag_days": 39,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034963.pdf"
+  },
+  {
+   "id": "C-3837ff943ade",
+   "source": "congress",
+   "person": "Jared Moskowitz",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on the Judiciary",
+     "House Select Subcommittee to Investigate the Remaining Questions Surrounding January 6, 2021"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MSFT",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-17",
+   "filed_date": "2026-07-26",
+   "lag_days": 39,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034963.pdf"
+  },
+  {
+   "id": "C-0457205444dc",
+   "source": "congress",
+   "person": "Jared Moskowitz",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on the Judiciary",
+     "House Select Subcommittee to Investigate the Remaining Questions Surrounding January 6, 2021"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "SPCX",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-06-12",
+   "filed_date": "2026-07-26",
+   "lag_days": 44,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034963.pdf"
+  },
+  {
+   "id": "C-2d4108c1f249",
+   "source": "congress",
+   "person": "Pete Sessions",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Oversight and Government Reform"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ARCC",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-24",
+   "filed_date": "2026-07-24",
+   "lag_days": 0,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035068.pdf"
+  },
+  {
+   "id": "C-6512ba32c145",
+   "source": "congress",
+   "person": "Robert E. Latta",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Energy and Commerce"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "FMAO",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-20",
+   "filed_date": "2026-07-24",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035065.pdf"
+  },
   {
    "id": "C-f8c74d0def2d",
    "source": "congress",

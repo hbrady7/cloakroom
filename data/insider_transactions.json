@@ -1,6 +1,556 @@
 {
- "generated_at": "2026-07-27T13:56:02Z",
+ "generated_at": "2026-07-28T13:12:17Z",
  "transactions": [
+  {
+   "id": "I-e89b72d05aca",
+   "source": "insider",
+   "person": "Zovighian Bernard J",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO",
+   "ticker": "EW",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 245134,
+   "amount_high": 245134,
+   "tx_date": "2026-07-27",
+   "filed_date": "2026-07-27",
+   "lag_days": 0,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1099800/000122520826006743/"
+  },
+  {
+   "id": "I-db70e0afaae0",
+   "source": "insider",
+   "person": "DeNinno David L",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Exec VP, General Counsel, Sec.",
+   "ticker": "WAB",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 903923,
+   "amount_high": 903923,
+   "tx_date": "2026-07-24",
+   "filed_date": "2026-07-27",
+   "lag_days": 3,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/943452/000094345226000007/"
+  },
+  {
+   "id": "I-c9f33357b63d",
+   "source": "insider",
+   "person": "Hershey Trust Co Trustee In Trust For Milton Hershey School",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "10% owner",
+   "ticker": "HSY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1400017,
+   "amount_high": 1400017,
+   "tx_date": "2026-07-24",
+   "filed_date": "2026-07-27",
+   "lag_days": 3,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002166/"
+  },
+  {
+   "id": "I-c3a13b0fd9e8",
+   "source": "insider",
+   "person": "Gebhardt Eric",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Technology Officer",
+   "ticker": "WAB",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 705174,
+   "amount_high": 705174,
+   "tx_date": "2026-07-24",
+   "filed_date": "2026-07-27",
+   "lag_days": 3,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/943452/000094345226000005/"
+  },
+  {
+   "id": "I-c3977044c7ff",
+   "source": "insider",
+   "person": "Gebhardt Eric",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Technology Officer",
+   "ticker": "WAB",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 609669,
+   "amount_high": 609669,
+   "tx_date": "2026-07-24",
+   "filed_date": "2026-07-27",
+   "lag_days": 3,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/943452/000094345226000005/"
+  },
+  {
+   "id": "I-9aefc793fd36",
+   "source": "insider",
+   "person": "Hershey Trust Co Trustee In Trust For Milton Hershey School",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "10% owner",
+   "ticker": "HSY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 189010,
+   "amount_high": 189010,
+   "tx_date": "2026-07-24",
+   "filed_date": "2026-07-27",
+   "lag_days": 3,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002166/"
+  },
+  {
+   "id": "I-8c7e66293f76",
+   "source": "insider",
+   "person": "Yin Daniel Tei-Hwa",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP & Co-Chief Invest. Officer",
+   "ticker": "TRV",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 2768211,
+   "amount_high": 2768211,
+   "tx_date": "2026-07-24",
+   "filed_date": "2026-07-27",
+   "lag_days": 3,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/86312/000008631226000158/"
+  },
+  {
+   "id": "I-81c299e8a31c",
+   "source": "insider",
+   "person": "GV 2019 GP, L.L.C. et al.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "10% owner",
+   "ticker": "GOOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 442001,
+   "amount_high": 442001,
+   "tx_date": "2026-07-24",
+   "filed_date": "2026-07-27",
+   "lag_days": 3,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1652044/000116840426000039/"
+  },
+  {
+   "id": "I-79ffd2b1c719",
+   "source": "insider",
+   "person": "Hershey Trust Co Trustee In Trust For Milton Hershey School",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "10% owner",
+   "ticker": "HSY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 132836,
+   "amount_high": 132836,
+   "tx_date": "2026-07-24",
+   "filed_date": "2026-07-27",
+   "lag_days": 3,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002166/"
+  },
+  {
+   "id": "I-728b1c56a091",
+   "source": "insider",
+   "person": "Gaur Sameer",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Pres., Global Freight Services",
+   "ticker": "WAB",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 300640,
+   "amount_high": 300640,
+   "tx_date": "2026-07-24",
+   "filed_date": "2026-07-27",
+   "lag_days": 3,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/943452/000094345226000004/"
+  },
+  {
+   "id": "I-492bc8498be3",
+   "source": "insider",
+   "person": "Hershey Trust Co Trustee In Trust For Milton Hershey School",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "10% owner",
+   "ticker": "HSY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 22620,
+   "amount_high": 22620,
+   "tx_date": "2026-07-24",
+   "filed_date": "2026-07-27",
+   "lag_days": 3,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002166/"
+  },
+  {
+   "id": "I-4637b8fe164e",
+   "source": "insider",
+   "person": "Kurtzman Diane",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP & Chief HR Officer",
+   "ticker": "TRV",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1610260,
+   "amount_high": 1610260,
+   "tx_date": "2026-07-24",
+   "filed_date": "2026-07-27",
+   "lag_days": 3,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/86312/000008631226000157/"
+  },
+  {
+   "id": "I-1aeab46b346c",
+   "source": "insider",
+   "person": "Gebhardt Eric",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Technology Officer",
+   "ticker": "WAB",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 329206,
+   "amount_high": 329206,
+   "tx_date": "2026-07-24",
+   "filed_date": "2026-07-27",
+   "lag_days": 3,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/943452/000094345226000005/"
+  },
+  {
+   "id": "I-1970b2c71171",
+   "source": "insider",
+   "person": "Gebhardt Eric",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Technology Officer",
+   "ticker": "WAB",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 480791,
+   "amount_high": 480791,
+   "tx_date": "2026-07-24",
+   "filed_date": "2026-07-27",
+   "lag_days": 3,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/943452/000094345226000005/"
+  },
+  {
+   "id": "I-fa647a59933c",
+   "source": "insider",
+   "person": "Hershey Trust Co Trustee In Trust For Milton Hershey School",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "10% owner",
+   "ticker": "HSY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 242756,
+   "amount_high": 242756,
+   "tx_date": "2026-07-23",
+   "filed_date": "2026-07-27",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002166/"
+  },
+  {
+   "id": "I-ec7fb8dfcde7",
+   "source": "insider",
+   "person": "GV 2019 GP, L.L.C. et al.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "10% owner",
+   "ticker": "GOOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1206270,
+   "amount_high": 1206270,
+   "tx_date": "2026-07-23",
+   "filed_date": "2026-07-27",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1652044/000116840426000039/"
+  },
+  {
+   "id": "I-cda45e7628a1",
+   "source": "insider",
+   "person": "Morgan Peter J. III",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "General Counsel",
+   "ticker": "SCHW",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 709341,
+   "amount_high": 709341,
+   "tx_date": "2026-07-23",
+   "filed_date": "2026-07-27",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/316709/000179291026000006/"
+  },
+  {
+   "id": "I-c6bf0bf1a7d5",
+   "source": "insider",
+   "person": "Procacci Riccardo",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Senior Vice President",
+   "ticker": "GE",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 170819,
+   "amount_high": 170819,
+   "tx_date": "2026-07-23",
+   "filed_date": "2026-07-27",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/40545/000201592926000007/"
+  },
+  {
+   "id": "I-bfbb65ba4116",
+   "source": "insider",
+   "person": "Hershey Trust Co Trustee In Trust For Milton Hershey School",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "10% owner",
+   "ticker": "HSY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 881306,
+   "amount_high": 881306,
+   "tx_date": "2026-07-23",
+   "filed_date": "2026-07-27",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002166/"
+  },
+  {
+   "id": "I-78bda3a12348",
+   "source": "insider",
+   "person": "Hershey Trust Co Trustee In Trust For Milton Hershey School",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "10% owner",
+   "ticker": "HSY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 214923,
+   "amount_high": 214923,
+   "tx_date": "2026-07-23",
+   "filed_date": "2026-07-27",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002166/"
+  },
+  {
+   "id": "I-7038d29afa94",
+   "source": "insider",
+   "person": "Broz Steven",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Information Officer",
+   "ticker": "PGR",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 237177,
+   "amount_high": 237177,
+   "tx_date": "2026-07-23",
+   "filed_date": "2026-07-27",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/80661/000008066126000272/"
+  },
+  {
+   "id": "I-6973b335cfe9",
+   "source": "insider",
+   "person": "Boyer K. David Jr.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "TFC",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 202090,
+   "amount_high": 202090,
+   "tx_date": "2026-07-23",
+   "filed_date": "2026-07-27",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/92230/000147585626000004/"
+  },
+  {
+   "id": "I-68c2780b5593",
+   "source": "insider",
+   "person": "Procacci Riccardo",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Senior Vice President",
+   "ticker": "GE",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 356976,
+   "amount_high": 356976,
+   "tx_date": "2026-07-23",
+   "filed_date": "2026-07-27",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/40545/000201592926000007/"
+  },
+  {
+   "id": "I-49df6e659a54",
+   "source": "insider",
+   "person": "Allen Scott R.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CVP, Chief Accounting Officer",
+   "ticker": "MU",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 879000,
+   "amount_high": 879000,
+   "tx_date": "2026-07-23",
+   "filed_date": "2026-07-27",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/723125/000165214926000005/"
+  },
+  {
+   "id": "I-01e415b8ccea",
+   "source": "insider",
+   "person": "Hershey Trust Co Trustee In Trust For Milton Hershey School",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "10% owner",
+   "ticker": "HSY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 374053,
+   "amount_high": 374053,
+   "tx_date": "2026-07-23",
+   "filed_date": "2026-07-27",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002166/"
+  },
   {
    "id": "I-b0c3bc0d92a6",
    "source": "insider",
@@ -22,6 +572,28 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1067701/000119312526316294/"
+  },
+  {
+   "id": "I-a5f5fff922af",
+   "source": "insider",
+   "person": "Briggs Andrew J",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "FMAO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 91320,
+   "amount_high": 91320,
+   "tx_date": "2026-07-24",
+   "filed_date": "2026-07-24",
+   "lag_days": 0,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/792966/000119312526316406/"
   },
   {
    "id": "I-e6535dc4d982",
@@ -66,6 +638,28 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/62709/000006270926000198/"
+  },
+  {
+   "id": "I-733ce8f0c461",
+   "source": "insider",
+   "person": "Briggs Andrew J",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "FMAO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 89850,
+   "amount_high": 89850,
+   "tx_date": "2026-07-23",
+   "filed_date": "2026-07-24",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/792966/000119312526316406/"
   },
   {
    "id": "I-6cc158a8bdc0",
@@ -838,6 +1432,50 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002145/"
   },
   {
+   "id": "I-46d1b04c71f6",
+   "source": "insider",
+   "person": "Briggs Andrew J",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "FMAO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 92520,
+   "amount_high": 92520,
+   "tx_date": "2026-07-22",
+   "filed_date": "2026-07-22",
+   "lag_days": 0,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/792966/000119312526312607/"
+  },
+  {
+   "id": "I-fb70faecf902",
+   "source": "insider",
+   "person": "Briggs Andrew J",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "FMAO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 92250,
+   "amount_high": 92250,
+   "tx_date": "2026-07-21",
+   "filed_date": "2026-07-22",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/792966/000119312526312607/"
+  },
+  {
    "id": "I-f9158f9110f2",
    "source": "insider",
    "person": "Hershey Trust Co Trustee In Trust For Milton Hershey School",
@@ -1254,6 +1892,28 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002145/"
+  },
+  {
+   "id": "I-51f35162e94d",
+   "source": "insider",
+   "person": "Briggs Andrew J",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "FMAO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 91410,
+   "amount_high": 91410,
+   "tx_date": "2026-07-20",
+   "filed_date": "2026-07-22",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/792966/000119312526312607/"
   },
   {
    "id": "I-4f7470e5dbcf",
@@ -2884,6 +3544,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/723531/000119312526307759/"
   },
   {
+   "id": "I-db7ced334830",
+   "source": "insider",
+   "person": "Briggs Andrew J",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "FMAO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 93180,
+   "amount_high": 93180,
+   "tx_date": "2026-07-17",
+   "filed_date": "2026-07-17",
+   "lag_days": 0,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/792966/000119312526307948/"
+  },
+  {
    "id": "I-d2917dcdceed",
    "source": "insider",
    "person": "Peru Ramiro G",
@@ -2992,6 +3674,28 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1156039/000128792026000006/"
+  },
+  {
+   "id": "I-ec2da15a3bf7",
+   "source": "insider",
+   "person": "Briggs Andrew J",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "FMAO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 90180,
+   "amount_high": 90180,
+   "tx_date": "2026-07-16",
+   "filed_date": "2026-07-17",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/792966/000119312526307948/"
   },
   {
    "id": "I-e2c860553655",
@@ -59996,6 +60700,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/813672/000081367226000078/"
   },
   {
+   "id": "I-2799af8de7a7",
+   "source": "insider",
+   "person": "Carling Guy",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO, EMEA and OSP",
+   "ticker": "MNST",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1727100,
+   "amount_high": 1727100,
+   "tx_date": "2026-06-10",
+   "filed_date": "2026-06-12",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/865752/000174721526000002/"
+  },
+  {
    "id": "I-2763cab842d0",
    "source": "insider",
    "person": "Brennan Ita M",
@@ -91632,6 +92358,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/18230/000110465926062809/"
   },
   {
+   "id": "I-9848f45f8ea9",
+   "source": "insider",
+   "person": "Hall Mark J",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "MNST",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 4633740,
+   "amount_high": 4633740,
+   "tx_date": "2026-05-14",
+   "filed_date": "2026-05-15",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/865752/000128659526000002/"
+  },
+  {
    "id": "I-7cd25c2570c1",
    "source": "insider",
    "person": "Mansueto Joseph D",
@@ -91718,6 +92466,28 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/97476/000009747626000141/"
+  },
+  {
+   "id": "I-6e4e484bf46c",
+   "source": "insider",
+   "person": "Tirre Emelie",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Strategy Officer",
+   "ticker": "MNST",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 857400,
+   "amount_high": 857400,
+   "tx_date": "2026-05-14",
+   "filed_date": "2026-05-15",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/865752/000174709026000002/"
   },
   {
    "id": "I-6d7437549869",
@@ -91872,6 +92642,28 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/18230/000110465926062809/"
+  },
+  {
+   "id": "I-f5daf3df6edf",
+   "source": "insider",
+   "person": "Kelly Thomas J",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Financial Officer",
+   "ticker": "MNST",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 614670,
+   "amount_high": 614670,
+   "tx_date": "2026-05-13",
+   "filed_date": "2026-05-15",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/865752/000128659926000003/"
   },
   {
    "id": "I-f5ab299cbfbe",
@@ -92356,6 +93148,28 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000096/"
+  },
+  {
+   "id": "I-797c11400897",
+   "source": "insider",
+   "person": "Tirre Emelie",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Strategy Officer",
+   "ticker": "MNST",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 7624652,
+   "amount_high": 7624652,
+   "tx_date": "2026-05-13",
+   "filed_date": "2026-05-15",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/865752/000174709026000002/"
   },
   {
    "id": "I-6dbe745af42f",
