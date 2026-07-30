@@ -710,6 +710,292 @@
    ]
   },
   {
+   "ticker": "GL",
+   "score": 34.3,
+   "signals": {
+    "sell_cluster": {
+     "fired": false,
+     "points": 0.0,
+     "distinct_sellers": 0
+    },
+    "insider_distribution": {
+     "fired": true,
+     "points": 34.3,
+     "distinct_sellers": 6,
+     "weighted_sellers": 6.0
+    },
+    "committee_sell": {
+     "fired": false,
+     "points": 0.0
+    }
+   },
+   "evidence": [
+    {
+     "id": "I-300abbd7733d",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-1347424c11f0",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-0b7acda49f43",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-cc2dee84c2b0",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-e07a847ca567",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-bcd7672b2c4e",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-b51614371d2b",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-a5da09547513",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-80ee7239bb1b",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-68d9db1d9bc4",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-193300b1d6db",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-131e1181d49d",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-b3bea9008527",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-28c288e38681",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-66c09c5c7808",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-3088c10f8966",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-5871dcd9d347",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-2ece36d6cfe1",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-f246fd1eed44",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-4cce0a505bab",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-12763c205b19",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-8ff106bccf7b",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-25163994abee",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-13ee92160556",
+     "signal": "insider_distribution"
+    }
+   ],
+   "stats": {
+    "congress_sells": 0,
+    "insider_sells": 26
+   },
+   "name": "GLOBE LIFE INC.",
+   "sectors": [
+    "insurance"
+   ]
+  },
+  {
+   "ticker": "SCHW",
+   "score": 32.4,
+   "signals": {
+    "sell_cluster": {
+     "fired": false,
+     "points": 0.0,
+     "distinct_sellers": 1
+    },
+    "insider_distribution": {
+     "fired": true,
+     "points": 32.4,
+     "distinct_sellers": 6,
+     "weighted_sellers": 4.5
+    },
+    "committee_sell": {
+     "fired": false,
+     "points": 0.0
+    }
+   },
+   "evidence": [
+    {
+     "id": "I-acf241d18667",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-4d064f1f04b3",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-2f40cda90536",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-b268f5eb9da8",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-7a26a89a812a",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-37f3aa0a3a53",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-31d2940ac446",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-cda45e7628a1",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-964e53c7b8e0",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-eb1cdb835b3e",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-e6e48f0ca8f5",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-4f6536943a06",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-c846b2404576",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-0df757fddde2",
+     "signal": "insider_distribution"
+    }
+   ],
+   "stats": {
+    "congress_sells": 1,
+    "insider_sells": 14
+   },
+   "name": "SCHWAB CHARLES CORP",
+   "sectors": [
+    "fintech",
+    "banks"
+   ]
+  },
+  {
+   "ticker": "PGR",
+   "score": 30.5,
+   "signals": {
+    "sell_cluster": {
+     "fired": false,
+     "points": 0.0,
+     "distinct_sellers": 1
+    },
+    "insider_distribution": {
+     "fired": true,
+     "points": 30.5,
+     "distinct_sellers": 7,
+     "weighted_sellers": 4.0
+    },
+    "committee_sell": {
+     "fired": false,
+     "points": 0.0
+    }
+   },
+   "evidence": [
+    {
+     "id": "I-8423fb3b3368",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-ea71e2219965",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-b3836f9d41f0",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-aceb76dc5933",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-ab57df9ada08",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-7038d29afa94",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-25332aeadabe",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-bf235e8c40b1",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-e1fcaf7ddcee",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-b3118b00459f",
+     "signal": "insider_distribution"
+    }
+   ],
+   "stats": {
+    "congress_sells": 2,
+    "insider_sells": 10
+   },
+   "name": "PROGRESSIVE CORP/OH/",
+   "sectors": [
+    "insurance"
+   ]
+  },
+  {
    "ticker": "HOOD",
    "score": 29.0,
    "signals": {
@@ -836,297 +1122,8 @@
     "fintech",
     "banks"
    ]
-  },
-  {
-   "ticker": "TRV",
-   "score": 28.1,
-   "signals": {
-    "sell_cluster": {
-     "fired": false,
-     "points": 0.0,
-     "distinct_sellers": 0
-    },
-    "insider_distribution": {
-     "fired": true,
-     "points": 28.1,
-     "distinct_sellers": 8,
-     "weighted_sellers": 8.0
-    },
-    "committee_sell": {
-     "fired": false,
-     "points": 0.0
-    }
-   },
-   "evidence": [
-    {
-     "id": "I-8c7e66293f76",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-4637b8fe164e",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-f4604b15468b",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-a3f3e55a6dc1",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-a0230c7a35d5",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-368112b4b780",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-c16ac4802fe3",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-b63c338c394a",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-432586273cb7",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-408befb71464",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-28740d2bb83d",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-17599aeedcd8",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-cb383be1fb4c",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-c098aafb658d",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-ac624b25bb9a",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-5fa6743f4965",
-     "signal": "insider_distribution"
-    }
-   ],
-   "stats": {
-    "congress_sells": 0,
-    "insider_sells": 16
-   },
-   "name": "TRAVELERS COMPANIES, INC.",
-   "sectors": [
-    "insurance"
-   ]
-  },
-  {
-   "ticker": "PGR",
-   "score": 27.2,
-   "signals": {
-    "sell_cluster": {
-     "fired": false,
-     "points": 0.0,
-     "distinct_sellers": 1
-    },
-    "insider_distribution": {
-     "fired": true,
-     "points": 27.2,
-     "distinct_sellers": 6,
-     "weighted_sellers": 3.5
-    },
-    "committee_sell": {
-     "fired": false,
-     "points": 0.0
-    }
-   },
-   "evidence": [
-    {
-     "id": "I-ea71e2219965",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-b3836f9d41f0",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-aceb76dc5933",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-ab57df9ada08",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-7038d29afa94",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-25332aeadabe",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-bf235e8c40b1",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-e1fcaf7ddcee",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-b3118b00459f",
-     "signal": "insider_distribution"
-    }
-   ],
-   "stats": {
-    "congress_sells": 2,
-    "insider_sells": 9
-   },
-   "name": "PROGRESSIVE CORP/OH/",
-   "sectors": [
-    "insurance"
-   ]
-  },
-  {
-   "ticker": "STX",
-   "score": 26.7,
-   "signals": {
-    "sell_cluster": {
-     "fired": false,
-     "points": 0.0,
-     "distinct_sellers": 0
-    },
-    "insider_distribution": {
-     "fired": true,
-     "points": 26.7,
-     "distinct_sellers": 8,
-     "weighted_sellers": 6.5
-    },
-    "committee_sell": {
-     "fired": false,
-     "points": 0.0
-    }
-   },
-   "evidence": [
-    {
-     "id": "I-44289b134573",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-fa43a7d2466d",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-f4dca5549bd4",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-ef8be080a6e9",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-ea2c8ebaad63",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-e281646cdf11",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-e26ffebc0499",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-decf4278971b",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-d9b2124d0114",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-d1c3a3ec6610",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-c92fb0a86638",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-bc6c32c91835",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-bc19c1c89bd7",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-b42fe420a606",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-aefc3fffa092",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-a6e8671b79cf",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-a43478ad7b20",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-a16ca658bd2d",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-9fc710fb03bb",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-9ee75cf9ee0b",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-96e39f990ef0",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-957136709f6a",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-93daf158e66f",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-92d3d5cd2f7b",
-     "signal": "insider_distribution"
-    }
-   ],
-   "stats": {
-    "congress_sells": 0,
-    "insider_sells": 80
-   },
-   "name": "Seagate Technology Holdings plc",
-   "sectors": [
-    "tech"
-   ]
   }
  ],
  "universe": 730,
- "generated_at": "2026-07-29T13:18:40Z"
+ "generated_at": "2026-07-30T13:10:03Z"
 }
