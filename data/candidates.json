@@ -1,9 +1,9 @@
 {
- "as_of": "2026-07-29",
+ "as_of": "2026-07-30",
  "candidates": [
   {
    "ticker": "HON",
-   "score": 7.8,
+   "score": 7.4,
    "signals": {
     "cluster": {
      "fired": false,
@@ -12,7 +12,7 @@
     },
     "committee": {
      "fired": true,
-     "points": 7.8,
+     "points": 7.4,
      "aligned_buyers": [
       "Dan Newhouse",
       "Maria Elvira Salazar"
@@ -62,7 +62,7 @@
   },
   {
    "ticker": "TSM",
-   "score": 5.3,
+   "score": 5.0,
    "signals": {
     "cluster": {
      "fired": true,
@@ -80,7 +80,7 @@
     },
     "convergence": {
      "fired": true,
-     "points": 5.3,
+     "points": 5.0,
      "insider_buyers": [
       "Lin Chris Horng-Dar",
       "Mii Yuh-Jier",
@@ -194,7 +194,7 @@
   },
   {
    "ticker": "IBP",
-   "score": 4.7,
+   "score": 4.5,
    "signals": {
     "cluster": {
      "fired": false,
@@ -203,7 +203,7 @@
     },
     "committee": {
      "fired": true,
-     "points": 1.4,
+     "points": 1.3,
      "aligned_buyers": [
       "David J. Taylor"
      ],
@@ -214,7 +214,7 @@
     },
     "convergence": {
      "fired": true,
-     "points": 3.1,
+     "points": 3.0,
      "insider_buyers": [
       "Hilsheimer Lawrence A.",
       "Miller Michael Thomas",
@@ -229,7 +229,7 @@
     },
     "size": {
      "fired": false,
-     "points": 0.3,
+     "points": 0.2,
      "max_band_mid": 8000
     }
    },
@@ -297,7 +297,7 @@
   },
   {
    "ticker": "MSTR",
-   "score": 4.7,
+   "score": 4.5,
    "signals": {
     "cluster": {
      "fired": false,
@@ -314,7 +314,7 @@
     },
     "convergence": {
      "fired": true,
-     "points": 4.5,
+     "points": 4.3,
      "insider_buyers": [
       "Chow Thomas C.",
       "Le Phong"
@@ -327,7 +327,7 @@
     },
     "size": {
      "fired": false,
-     "points": 0.3,
+     "points": 0.2,
      "max_band_mid": 32500
     }
    },
@@ -358,16 +358,16 @@
   },
   {
    "ticker": "SPCX",
-   "score": 4.1,
+   "score": 3.9,
    "signals": {
     "cluster": {
      "fired": true,
-     "points": 2.5,
+     "points": 2.4,
      "distinct_buyers": 4
     },
     "committee": {
      "fired": true,
-     "points": 1.2,
+     "points": 1.1,
      "aligned_buyers": [
       "Jared Moskowitz"
      ],
@@ -426,7 +426,7 @@
   },
   {
    "ticker": "MU",
-   "score": 3.8,
+   "score": 3.6,
    "signals": {
     "cluster": {
      "fired": true,
@@ -435,7 +435,7 @@
     },
     "committee": {
      "fired": true,
-     "points": 3.7,
+     "points": 3.5,
      "aligned_buyers": [
       "John Fetterman",
       "Sheldon Whitehouse"
@@ -497,7 +497,7 @@
   },
   {
    "ticker": "MSFT",
-   "score": 3.2,
+   "score": 3.0,
    "signals": {
     "cluster": {
      "fired": true,
@@ -506,7 +506,7 @@
     },
     "committee": {
      "fired": true,
-     "points": 2.5,
+     "points": 2.4,
      "aligned_buyers": [
       "Jared Moskowitz",
       "John Fetterman"
@@ -624,7 +624,7 @@
  "caution": [
   {
    "ticker": "EW",
-   "score": 34.3,
+   "score": 36.0,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -633,7 +633,7 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 34.3,
+     "points": 36.0,
      "distinct_sellers": 6,
      "weighted_sellers": 5.5
     },
@@ -643,6 +643,10 @@
     }
    },
    "evidence": [
+    {
+     "id": "I-978c5bd802f6",
+     "signal": "insider_distribution"
+    },
     {
      "id": "I-d102a1f1052f",
      "signal": "insider_distribution"
@@ -702,7 +706,7 @@
    ],
    "stats": {
     "congress_sells": 0,
-    "insider_sells": 14
+    "insider_sells": 15
    },
    "name": "Edwards Lifesciences Corp",
    "sectors": [
@@ -711,7 +715,7 @@
   },
   {
    "ticker": "GL",
-   "score": 34.3,
+   "score": 36.0,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -720,9 +724,9 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 34.3,
-     "distinct_sellers": 6,
-     "weighted_sellers": 6.0
+     "points": 36.0,
+     "distinct_sellers": 7,
+     "weighted_sellers": 7.0
     },
     "committee_sell": {
      "fired": false,
@@ -730,6 +734,30 @@
     }
    },
    "evidence": [
+    {
+     "id": "I-edb3fe6f49a8",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-bcec2bf8f662",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-afd03a1d3a9a",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-1fbab229de4c",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-f92fb4cfadab",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-5116528a057d",
+     "signal": "insider_distribution"
+    },
     {
      "id": "I-300abbd7733d",
      "signal": "insider_distribution"
@@ -801,35 +829,11 @@
     {
      "id": "I-2ece36d6cfe1",
      "signal": "insider_distribution"
-    },
-    {
-     "id": "I-f246fd1eed44",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-4cce0a505bab",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-12763c205b19",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-8ff106bccf7b",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-25163994abee",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-13ee92160556",
-     "signal": "insider_distribution"
     }
    ],
    "stats": {
     "congress_sells": 0,
-    "insider_sells": 26
+    "insider_sells": 32
    },
    "name": "GLOBE LIFE INC.",
    "sectors": [
@@ -838,7 +842,7 @@
   },
   {
    "ticker": "SCHW",
-   "score": 32.4,
+   "score": 34.3,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -847,9 +851,9 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 32.4,
-     "distinct_sellers": 6,
-     "weighted_sellers": 4.5
+     "points": 34.3,
+     "distinct_sellers": 8,
+     "weighted_sellers": 6.0
     },
     "committee_sell": {
      "fired": false,
@@ -857,6 +861,22 @@
     }
    },
    "evidence": [
+    {
+     "id": "I-38e28138a784",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-94e017ce9570",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-85de12f6297d",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-24ea06521901",
+     "signal": "insider_distribution"
+    },
     {
      "id": "I-acf241d18667",
      "signal": "insider_distribution"
@@ -916,7 +936,7 @@
    ],
    "stats": {
     "congress_sells": 1,
-    "insider_sells": 14
+    "insider_sells": 18
    },
    "name": "SCHWAB CHARLES CORP",
    "sectors": [
@@ -925,7 +945,7 @@
    ]
   },
   {
-   "ticker": "PGR",
+   "ticker": "DRI",
    "score": 30.5,
    "signals": {
     "sell_cluster": {
@@ -936,7 +956,7 @@
     "insider_distribution": {
      "fired": true,
      "points": 30.5,
-     "distinct_sellers": 7,
+     "distinct_sellers": 4,
      "weighted_sellers": 4.0
     },
     "committee_sell": {
@@ -946,58 +966,54 @@
    },
    "evidence": [
     {
-     "id": "I-8423fb3b3368",
+     "id": "I-caf2dc9a850a",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-ea71e2219965",
+     "id": "I-8240cdcfc4ec",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-b3836f9d41f0",
+     "id": "I-1f70e6c699a1",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-aceb76dc5933",
+     "id": "I-047d9ea1787c",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-ab57df9ada08",
+     "id": "I-fa5761490852",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-7038d29afa94",
+     "id": "I-c07a15dd872a",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-25332aeadabe",
+     "id": "I-3224ea27f0e0",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-bf235e8c40b1",
+     "id": "I-1300a8f233b6",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-e1fcaf7ddcee",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-b3118b00459f",
+     "id": "I-59f63882ee94",
      "signal": "insider_distribution"
     }
    ],
    "stats": {
-    "congress_sells": 2,
-    "insider_sells": 10
+    "congress_sells": 1,
+    "insider_sells": 9
    },
-   "name": "PROGRESSIVE CORP/OH/",
+   "name": "DARDEN RESTAURANTS INC",
    "sectors": [
-    "insurance"
+    "retail"
    ]
   },
   {
    "ticker": "HOOD",
-   "score": 29.0,
+   "score": 30.5,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -1006,7 +1022,7 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 29.0,
+     "points": 30.5,
      "distinct_sellers": 8,
      "weighted_sellers": 4.0
     },
@@ -1016,6 +1032,14 @@
     }
    },
    "evidence": [
+    {
+     "id": "I-4f8e34f03d9f",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-ce4e5c04f46a",
+     "signal": "insider_distribution"
+    },
     {
      "id": "I-ec9e5cd8e83a",
      "signal": "insider_distribution"
@@ -1103,19 +1127,11 @@
     {
      "id": "I-d711aa1f62e3",
      "signal": "insider_distribution"
-    },
-    {
-     "id": "I-0118469cfc86",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-f0067def7b59",
-     "signal": "insider_distribution"
     }
    ],
    "stats": {
     "congress_sells": 3,
-    "insider_sells": 58
+    "insider_sells": 60
    },
    "name": "Robinhood Markets, Inc.",
    "sectors": [
@@ -1125,5 +1141,5 @@
   }
  ],
  "universe": 730,
- "generated_at": "2026-07-30T13:10:03Z"
+ "generated_at": "2026-07-31T13:18:15Z"
 }
