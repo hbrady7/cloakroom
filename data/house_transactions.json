@@ -1,6 +1,30 @@
 {
- "generated_at": "2026-07-31T13:15:55Z",
+ "generated_at": "2026-08-03T13:59:44Z",
  "transactions": [
+  {
+   "id": "C-762ae2ba0bb8",
+   "source": "congress",
+   "person": "Cleo Fields",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Financial Services"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "TSM",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-10",
+   "filed_date": "2026-07-30",
+   "lag_days": 20,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035023.pdf"
+  },
   {
    "id": "C-50a7587b8ff6",
    "source": "congress",

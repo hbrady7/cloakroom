@@ -1,9 +1,175 @@
 {
- "as_of": "2026-07-30",
+ "as_of": "2026-07-31",
  "candidates": [
   {
+   "ticker": "TSM",
+   "score": 28.6,
+   "signals": {
+    "cluster": {
+     "fired": true,
+     "points": 0.0,
+     "distinct_buyers": 3
+    },
+    "committee": {
+     "fired": false,
+     "points": 0.0,
+     "aligned_buyers": [],
+     "sectors": [
+      "semis",
+      "tech"
+     ]
+    },
+    "convergence": {
+     "fired": true,
+     "points": 28.6,
+     "insider_buyers": [
+      "Chang Tzonz-Sheng",
+      "Chen Chih-Ho",
+      "Chen Pei-Hung",
+      "Chin Yung-Pei",
+      "Chuang Juiping",
+      "Hou Yung-Chin",
+      "Jang Syun-Ming",
+      "Ku Yao-Ching",
+      "Lee Chun-Hsien",
+      "Lin Chris Horng-Dar",
+      "Lin Shyue-Shyh",
+      "Mii Yuh-Jier",
+      "Tien Bor-Zen",
+      "Wang Ying-Lang",
+      "Wei Che-Chia",
+      "Wu Shien-Yang",
+      "Wu Yi-Huang",
+      "Yeap Choh Fei",
+      "Yoo Chue-San",
+      "Yuan Lipen",
+      "Zhang Kevin Xiaoqiang"
+     ]
+    },
+    "options": {
+     "fired": false,
+     "points": 0.0,
+     "count": 0
+    },
+    "size": {
+     "fired": false,
+     "points": 0.0,
+     "max_band_mid": 175000
+    }
+   },
+   "evidence": [
+    {
+     "id": "C-03be4a40a661",
+     "signal": "cluster"
+    },
+    {
+     "id": "C-2fbce0af5cb6",
+     "signal": "cluster"
+    },
+    {
+     "id": "C-17f8c4c8bcd3",
+     "signal": "cluster"
+    },
+    {
+     "id": "C-d6561a502241",
+     "signal": "cluster"
+    },
+    {
+     "id": "C-c9c76bf199e2",
+     "signal": "cluster"
+    },
+    {
+     "id": "I-f4ba7fa06221",
+     "signal": "convergence"
+    },
+    {
+     "id": "I-a97690bd241a",
+     "signal": "convergence"
+    },
+    {
+     "id": "I-393d6b8a87e2",
+     "signal": "convergence"
+    },
+    {
+     "id": "I-d9cb3093e4a5",
+     "signal": "convergence"
+    },
+    {
+     "id": "I-d5b108688c64",
+     "signal": "convergence"
+    },
+    {
+     "id": "I-d53035d3d718",
+     "signal": "convergence"
+    },
+    {
+     "id": "I-bbd1f32e66c6",
+     "signal": "convergence"
+    },
+    {
+     "id": "I-b59338114d33",
+     "signal": "convergence"
+    },
+    {
+     "id": "I-8b310bede891",
+     "signal": "convergence"
+    },
+    {
+     "id": "I-837d1fe99f5d",
+     "signal": "convergence"
+    },
+    {
+     "id": "I-7f3c9fea2d24",
+     "signal": "convergence"
+    },
+    {
+     "id": "I-697477196bc6",
+     "signal": "convergence"
+    },
+    {
+     "id": "I-609a9587df1e",
+     "signal": "convergence"
+    },
+    {
+     "id": "I-3efabefb82f8",
+     "signal": "convergence"
+    },
+    {
+     "id": "I-318aecbca39f",
+     "signal": "convergence"
+    },
+    {
+     "id": "I-2cc9a981e34e",
+     "signal": "convergence"
+    },
+    {
+     "id": "I-0c0c445713b1",
+     "signal": "convergence"
+    },
+    {
+     "id": "I-084bbf939084",
+     "signal": "convergence"
+    },
+    {
+     "id": "I-9907d60cf259",
+     "signal": "convergence"
+    }
+   ],
+   "stats": {
+    "congress_buys": 8,
+    "distinct_buyers": 4,
+    "insider_open_market_buys": 47,
+    "options_positions": 0
+   },
+   "name": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "sectors": [
+    "semis",
+    "tech"
+   ]
+  },
+  {
    "ticker": "HON",
-   "score": 7.4,
+   "score": 7.1,
    "signals": {
     "cluster": {
      "fired": false,
@@ -12,7 +178,7 @@
     },
     "committee": {
      "fired": true,
-     "points": 7.4,
+     "points": 7.1,
      "aligned_buyers": [
       "Dan Newhouse",
       "Maria Elvira Salazar"
@@ -61,140 +227,8 @@
    ]
   },
   {
-   "ticker": "TSM",
-   "score": 5.0,
-   "signals": {
-    "cluster": {
-     "fired": true,
-     "points": 0.0,
-     "distinct_buyers": 3
-    },
-    "committee": {
-     "fired": false,
-     "points": 0.0,
-     "aligned_buyers": [],
-     "sectors": [
-      "semis",
-      "tech"
-     ]
-    },
-    "convergence": {
-     "fired": true,
-     "points": 5.0,
-     "insider_buyers": [
-      "Lin Chris Horng-Dar",
-      "Mii Yuh-Jier",
-      "Tien Bor-Zen",
-      "Wang Ying-Lang",
-      "Wei Che-Chia",
-      "Wu Shien-Yang",
-      "Wu Yi-Huang",
-      "Yeap Choh Fei",
-      "Yoo Chue-San",
-      "Yuan Lipen",
-      "Zhang Kevin Xiaoqiang"
-     ]
-    },
-    "options": {
-     "fired": false,
-     "points": 0.0,
-     "count": 0
-    },
-    "size": {
-     "fired": false,
-     "points": 0.0,
-     "max_band_mid": 175000
-    }
-   },
-   "evidence": [
-    {
-     "id": "C-b56b75fbbf4c",
-     "signal": "cluster"
-    },
-    {
-     "id": "C-03be4a40a661",
-     "signal": "cluster"
-    },
-    {
-     "id": "C-2fbce0af5cb6",
-     "signal": "cluster"
-    },
-    {
-     "id": "I-97b0c8cb367d",
-     "signal": "convergence"
-    },
-    {
-     "id": "I-ad1a57a1ec8d",
-     "signal": "convergence"
-    },
-    {
-     "id": "I-9907d60cf259",
-     "signal": "convergence"
-    },
-    {
-     "id": "I-90b1f7a52641",
-     "signal": "convergence"
-    },
-    {
-     "id": "I-8bd22343a6a5",
-     "signal": "convergence"
-    },
-    {
-     "id": "I-6d94e9fbdb71",
-     "signal": "convergence"
-    },
-    {
-     "id": "I-5756cf6e2ff5",
-     "signal": "convergence"
-    },
-    {
-     "id": "I-2b8ac2494d80",
-     "signal": "convergence"
-    },
-    {
-     "id": "I-2677a74770eb",
-     "signal": "convergence"
-    },
-    {
-     "id": "I-14bfd984fa00",
-     "signal": "convergence"
-    },
-    {
-     "id": "I-106a8013b4ee",
-     "signal": "convergence"
-    },
-    {
-     "id": "C-203eba300f9f",
-     "signal": "convergence"
-    },
-    {
-     "id": "C-b5d1eb7ac5c2",
-     "signal": "convergence"
-    },
-    {
-     "id": "C-2fbce0af5cb6",
-     "signal": "convergence"
-    },
-    {
-     "id": "C-d6561a502241",
-     "signal": "convergence"
-    }
-   ],
-   "stats": {
-    "congress_buys": 8,
-    "distinct_buyers": 4,
-    "insider_open_market_buys": 37,
-    "options_positions": 0
-   },
-   "name": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "sectors": [
-    "semis",
-    "tech"
-   ]
-  },
-  {
    "ticker": "IBP",
-   "score": 4.5,
+   "score": 4.3,
    "signals": {
     "cluster": {
      "fired": false,
@@ -203,7 +237,7 @@
     },
     "committee": {
      "fired": true,
-     "points": 1.3,
+     "points": 1.2,
      "aligned_buyers": [
       "David J. Taylor"
      ],
@@ -214,7 +248,7 @@
     },
     "convergence": {
      "fired": true,
-     "points": 3.0,
+     "points": 2.8,
      "insider_buyers": [
       "Hilsheimer Lawrence A.",
       "Miller Michael Thomas",
@@ -247,10 +281,6 @@
      "signal": "committee"
     },
     {
-     "id": "C-c69a1ec6f09f",
-     "signal": "committee"
-    },
-    {
      "id": "I-ef155e85b6b7",
      "signal": "convergence"
     },
@@ -277,14 +307,10 @@
     {
      "id": "C-806d4b0f5c44",
      "signal": "convergence"
-    },
-    {
-     "id": "C-c69a1ec6f09f",
-     "signal": "convergence"
     }
    ],
    "stats": {
-    "congress_buys": 4,
+    "congress_buys": 3,
     "distinct_buyers": 1,
     "insider_open_market_buys": 27,
     "options_positions": 0
@@ -297,7 +323,7 @@
   },
   {
    "ticker": "MSTR",
-   "score": 4.5,
+   "score": 4.3,
    "signals": {
     "cluster": {
      "fired": false,
@@ -314,7 +340,7 @@
     },
     "convergence": {
      "fired": true,
-     "points": 4.3,
+     "points": 4.1,
      "insider_buyers": [
       "Chow Thomas C.",
       "Le Phong"
@@ -358,11 +384,11 @@
   },
   {
    "ticker": "SPCX",
-   "score": 3.9,
+   "score": 3.7,
    "signals": {
     "cluster": {
      "fired": true,
-     "points": 2.4,
+     "points": 2.3,
      "distinct_buyers": 4
     },
     "committee": {
@@ -426,7 +452,7 @@
   },
   {
    "ticker": "MU",
-   "score": 3.6,
+   "score": 3.4,
    "signals": {
     "cluster": {
      "fired": true,
@@ -435,7 +461,7 @@
     },
     "committee": {
      "fired": true,
-     "points": 3.5,
+     "points": 3.4,
      "aligned_buyers": [
       "John Fetterman",
       "Sheldon Whitehouse"
@@ -494,137 +520,12 @@
     "semis",
     "tech"
    ]
-  },
-  {
-   "ticker": "MSFT",
-   "score": 3.0,
-   "signals": {
-    "cluster": {
-     "fired": true,
-     "points": 0.0,
-     "distinct_buyers": 8
-    },
-    "committee": {
-     "fired": true,
-     "points": 2.4,
-     "aligned_buyers": [
-      "Jared Moskowitz",
-      "John Fetterman"
-     ],
-     "sectors": [
-      "tech"
-     ]
-    },
-    "convergence": {
-     "fired": false,
-     "points": 0.0,
-     "insider_buyers": []
-    },
-    "options": {
-     "fired": true,
-     "points": 0.4,
-     "count": 4
-    },
-    "size": {
-     "fired": false,
-     "points": 0.2,
-     "max_band_mid": 750000
-    }
-   },
-   "evidence": [
-    {
-     "id": "C-d7b42db7b09b",
-     "signal": "cluster"
-    },
-    {
-     "id": "C-b13387010f13",
-     "signal": "cluster"
-    },
-    {
-     "id": "C-a5e09924ec1d",
-     "signal": "cluster"
-    },
-    {
-     "id": "C-a43f3edfd83f",
-     "signal": "cluster"
-    },
-    {
-     "id": "C-f2ff3e511f3c",
-     "signal": "cluster"
-    },
-    {
-     "id": "C-e9922c91f265",
-     "signal": "cluster"
-    },
-    {
-     "id": "C-b6fd7a726b9a",
-     "signal": "cluster"
-    },
-    {
-     "id": "C-ff6ee8165a14",
-     "signal": "cluster"
-    },
-    {
-     "id": "C-d298402edcb6",
-     "signal": "cluster"
-    },
-    {
-     "id": "C-581ad587ccfb",
-     "signal": "cluster"
-    },
-    {
-     "id": "C-bd6927cdf00b",
-     "signal": "cluster"
-    },
-    {
-     "id": "C-92ee09528a5a",
-     "signal": "committee"
-    },
-    {
-     "id": "C-3837ff943ade",
-     "signal": "committee"
-    },
-    {
-     "id": "C-56e38c3056d2",
-     "signal": "committee"
-    },
-    {
-     "id": "C-bd6927cdf00b",
-     "signal": "committee"
-    },
-    {
-     "id": "C-4aa1a712b5d0",
-     "signal": "options"
-    },
-    {
-     "id": "C-1f28c502e5a3",
-     "signal": "options"
-    },
-    {
-     "id": "C-ff6ee8165a14",
-     "signal": "options"
-    },
-    {
-     "id": "C-d298402edcb6",
-     "signal": "options"
-    }
-   ],
-   "stats": {
-    "congress_buys": 27,
-    "distinct_buyers": 11,
-    "insider_open_market_buys": 0,
-    "options_positions": 4
-   },
-   "name": "MICROSOFT CORP",
-   "sectors": [
-    "tech"
-   ]
   }
  ],
  "caution": [
   {
    "ticker": "EW",
-   "score": 36.0,
+   "score": 34.3,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -633,7 +534,7 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 36.0,
+     "points": 34.3,
      "distinct_sellers": 6,
      "weighted_sellers": 5.5
     },
@@ -715,7 +616,7 @@
   },
   {
    "ticker": "GL",
-   "score": 36.0,
+   "score": 34.3,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -724,7 +625,7 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 36.0,
+     "points": 34.3,
      "distinct_sellers": 7,
      "weighted_sellers": 7.0
     },
@@ -842,7 +743,7 @@
   },
   {
    "ticker": "SCHW",
-   "score": 34.3,
+   "score": 32.6,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -851,7 +752,7 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 34.3,
+     "points": 32.6,
      "distinct_sellers": 8,
      "weighted_sellers": 6.0
     },
@@ -945,8 +846,8 @@
    ]
   },
   {
-   "ticker": "DRI",
-   "score": 30.5,
+   "ticker": "VRSK",
+   "score": 30.0,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -955,7 +856,74 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 30.5,
+     "points": 30.0,
+     "distinct_sellers": 5,
+     "weighted_sellers": 3.5
+    },
+    "committee_sell": {
+     "fired": false,
+     "points": 0.0
+    }
+   },
+   "evidence": [
+    {
+     "id": "I-1f8045131df0",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-cd82365ec7fc",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-d4f46e3aa8aa",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-85a0c5ba116c",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-ab983f4d3531",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-8a29e30a5438",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-0fdf64af11d4",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-c50097f99a40",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-c9286f535315",
+     "signal": "insider_distribution"
+    }
+   ],
+   "stats": {
+    "congress_sells": 2,
+    "insider_sells": 9
+   },
+   "name": "Verisk Analytics, Inc.",
+   "sectors": [
+    "tech"
+   ]
+  },
+  {
+   "ticker": "DRI",
+   "score": 29.0,
+   "signals": {
+    "sell_cluster": {
+     "fired": false,
+     "points": 0.0,
+     "distinct_sellers": 1
+    },
+    "insider_distribution": {
+     "fired": true,
+     "points": 29.0,
      "distinct_sellers": 4,
      "weighted_sellers": 4.0
     },
@@ -1010,136 +978,8 @@
    "sectors": [
     "retail"
    ]
-  },
-  {
-   "ticker": "HOOD",
-   "score": 30.5,
-   "signals": {
-    "sell_cluster": {
-     "fired": false,
-     "points": 0.0,
-     "distinct_sellers": 1
-    },
-    "insider_distribution": {
-     "fired": true,
-     "points": 30.5,
-     "distinct_sellers": 8,
-     "weighted_sellers": 4.0
-    },
-    "committee_sell": {
-     "fired": false,
-     "points": 0.0
-    }
-   },
-   "evidence": [
-    {
-     "id": "I-4f8e34f03d9f",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-ce4e5c04f46a",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-ec9e5cd8e83a",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-bcd082495667",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-f21388eb2aeb",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-e661766c23df",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-ad4ad71f2834",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-6eba4113a4b3",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-5725c7883045",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-42011b545f8c",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-3d1675c36893",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-0365053e71c1",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-6cc158a8bdc0",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-339d3c5a354f",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-6d361479c27a",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-5859ba60d977",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-e615c2b31b5b",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-3e453e56fd12",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-9c6d07062270",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-24dfbe4934df",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-4d56886cd6c3",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-2164777b414c",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-16456172e18e",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-d711aa1f62e3",
-     "signal": "insider_distribution"
-    }
-   ],
-   "stats": {
-    "congress_sells": 3,
-    "insider_sells": 60
-   },
-   "name": "Robinhood Markets, Inc.",
-   "sectors": [
-    "fintech",
-    "banks"
-   ]
   }
  ],
- "universe": 730,
- "generated_at": "2026-07-31T13:18:15Z"
+ "universe": 728,
+ "generated_at": "2026-08-03T14:01:49Z"
 }
