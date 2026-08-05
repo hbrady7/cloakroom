@@ -1,6 +1,1531 @@
 {
- "generated_at": "2026-08-04T13:17:41Z",
+ "generated_at": "2026-08-05T13:12:32Z",
  "transactions": [
+  {
+   "id": "C-a510ea7ad8a1",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CHRW",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-07-31",
+   "filed_date": "2026-08-03",
+   "lag_days": 3,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-782ae11d2b42",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "FWONK",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-07-31",
+   "filed_date": "2026-08-03",
+   "lag_days": 3,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-708c44a4bea3",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "STE",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-31",
+   "filed_date": "2026-08-03",
+   "lag_days": 3,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-427678559156",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CPAY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-31",
+   "filed_date": "2026-08-03",
+   "lag_days": 3,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-162db53ca7d0",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "LTH",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-07-31",
+   "filed_date": "2026-08-03",
+   "lag_days": 3,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-ebd7a10b9130",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "BWXT",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-30",
+   "filed_date": "2026-08-03",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-ce3d637d36bc",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "SGI",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-07-30",
+   "filed_date": "2026-08-03",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-5b92efc1a332",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "SCI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-30",
+   "filed_date": "2026-08-03",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-44834a29d198",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ENTG",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-30",
+   "filed_date": "2026-08-03",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-3ed6e9c25d25",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CPAY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-30",
+   "filed_date": "2026-08-03",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-214e6efc2aa5",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "LTH",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-30",
+   "filed_date": "2026-08-03",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-dbeee33e74f6",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MKL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-29",
+   "filed_date": "2026-08-03",
+   "lag_days": 5,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-d3efc8723e8b",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "STE",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-29",
+   "filed_date": "2026-08-03",
+   "lag_days": 5,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-cd5e4fda83ee",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "LTH",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-29",
+   "filed_date": "2026-08-03",
+   "lag_days": 5,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-3993017831f6",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "FWONK",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-29",
+   "filed_date": "2026-08-03",
+   "lag_days": 5,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-f31f12094a85",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CLH",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-28",
+   "filed_date": "2026-08-03",
+   "lag_days": 6,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-dcfe36c5ed21",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MKL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-28",
+   "filed_date": "2026-08-03",
+   "lag_days": 6,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-adfd961bdd55",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "TDG",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-28",
+   "filed_date": "2026-08-03",
+   "lag_days": 6,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-987f9874cbe9",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "WAB",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-28",
+   "filed_date": "2026-08-03",
+   "lag_days": 6,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-7360f986cb28",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CPAY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-28",
+   "filed_date": "2026-08-03",
+   "lag_days": 6,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-66d3e2724e62",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "FWONK",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-07-28",
+   "filed_date": "2026-08-03",
+   "lag_days": 6,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-53a59ae4d46a",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "LTH",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-28",
+   "filed_date": "2026-08-03",
+   "lag_days": 6,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-4b8e30302c8d",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CHRW",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-28",
+   "filed_date": "2026-08-03",
+   "lag_days": 6,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-eaac91a4dd62",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "STE",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-27",
+   "filed_date": "2026-08-03",
+   "lag_days": 7,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-b23144637b90",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "BWXT",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-27",
+   "filed_date": "2026-08-03",
+   "lag_days": 7,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-8d2fb10c178f",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "TSCO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-07-27",
+   "filed_date": "2026-08-03",
+   "lag_days": 7,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-7762001d3f4f",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "LTH",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-27",
+   "filed_date": "2026-08-03",
+   "lag_days": 7,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-6c246e70a156",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MKL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-27",
+   "filed_date": "2026-08-03",
+   "lag_days": 7,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-69399958a7e8",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "SCI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-27",
+   "filed_date": "2026-08-03",
+   "lag_days": 7,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-56ad2c68b2bc",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CHRW",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-07-27",
+   "filed_date": "2026-08-03",
+   "lag_days": 7,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-1f603ceb283b",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CLH",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-27",
+   "filed_date": "2026-08-03",
+   "lag_days": 7,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-ea14576d95d7",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CHRW",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-24",
+   "filed_date": "2026-08-03",
+   "lag_days": 10,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-c5dd272633a4",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MKL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-24",
+   "filed_date": "2026-08-03",
+   "lag_days": 10,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-bdfba34de580",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "LTH",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-07-24",
+   "filed_date": "2026-08-03",
+   "lag_days": 10,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-bcf62b4cb5ca",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "BWXT",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-07-24",
+   "filed_date": "2026-08-03",
+   "lag_days": 10,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-ba114baed35a",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CLH",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-24",
+   "filed_date": "2026-08-03",
+   "lag_days": 10,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-47a6397b6467",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MLM",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-07-24",
+   "filed_date": "2026-08-03",
+   "lag_days": 10,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-37082b838324",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "STE",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-24",
+   "filed_date": "2026-08-03",
+   "lag_days": 10,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-1592696d777e",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "FWONK",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-07-24",
+   "filed_date": "2026-08-03",
+   "lag_days": 10,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-90976283839f",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "FWONK",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-07-23",
+   "filed_date": "2026-08-03",
+   "lag_days": 11,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-901e20c32b96",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "HUBB",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-07-23",
+   "filed_date": "2026-08-03",
+   "lag_days": 11,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-7e0f23c71492",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "WAB",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-07-23",
+   "filed_date": "2026-08-03",
+   "lag_days": 11,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-20b399bd6038",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "VIK",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-23",
+   "filed_date": "2026-08-03",
+   "lag_days": 11,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-bc0b475cb3c5",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "FWONK",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-22",
+   "filed_date": "2026-08-03",
+   "lag_days": 12,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-8c73bf99641b",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CHRW",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-22",
+   "filed_date": "2026-08-03",
+   "lag_days": 12,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-b261c01ada3d",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "LYV",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-21",
+   "filed_date": "2026-08-03",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-aa933c234b70",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "LTH",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-21",
+   "filed_date": "2026-08-03",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-ed77f1eab25f",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MLM",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-20",
+   "filed_date": "2026-08-03",
+   "lag_days": 14,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-d6cca519c44a",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "LTH",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-20",
+   "filed_date": "2026-08-03",
+   "lag_days": 14,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-d4c9c602e850",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "SCI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-20",
+   "filed_date": "2026-08-03",
+   "lag_days": 14,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-9ce110a4db69",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CHRW",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-20",
+   "filed_date": "2026-08-03",
+   "lag_days": 14,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-3ab22e3b689d",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "LYV",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-20",
+   "filed_date": "2026-08-03",
+   "lag_days": 14,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-e571feaf8384",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MLM",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-17",
+   "filed_date": "2026-08-03",
+   "lag_days": 17,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-ba007762934e",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CPAY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-17",
+   "filed_date": "2026-08-03",
+   "lag_days": 17,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-936baaf4cd55",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "SCI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-17",
+   "filed_date": "2026-08-03",
+   "lag_days": 17,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-776d5fa32ff5",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "LTH",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-17",
+   "filed_date": "2026-08-03",
+   "lag_days": 17,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-28a9a7ccf98a",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CPAY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-16",
+   "filed_date": "2026-08-03",
+   "lag_days": 18,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-3d4b4c10e684",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CPAY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-15",
+   "filed_date": "2026-08-03",
+   "lag_days": 19,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-810a7a3397c0",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ENTG",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-08",
+   "filed_date": "2026-08-03",
+   "lag_days": 26,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-22a8b11d3990",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "SCI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-08",
+   "filed_date": "2026-08-03",
+   "lag_days": 26,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-0adc4180a631",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "SCI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-02",
+   "filed_date": "2026-08-03",
+   "lag_days": 32,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
   {
    "id": "C-762ae2ba0bb8",
    "source": "congress",

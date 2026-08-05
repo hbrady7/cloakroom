@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-04T13:19:00Z",
+ "generated_at": "2026-08-05T13:14:11Z",
  "tickers": {
   "ZTS": {
    "name": "Zoetis Inc.",
@@ -4291,6 +4291,30 @@
    "sic": "",
    "sic_desc": "",
    "sectors": []
+  },
+  "SGI": {
+   "name": "SOMNIGROUP INTERNATIONAL INC.",
+   "cik": 1206264,
+   "sic": "2510",
+   "sic_desc": "Household Furniture",
+   "sectors": []
+  },
+  "LTH": {
+   "name": "Life Time Group Holdings, Inc.",
+   "cik": 1869198,
+   "sic": "7997",
+   "sic_desc": "Services-Membership Sports & Recreation Clubs",
+   "sectors": []
+  },
+  "FWONK": {
+   "name": "Liberty Media Corp",
+   "cik": 1560385,
+   "sic": "4833",
+   "sic_desc": "Television Broadcasting Stations",
+   "sectors": [
+    "media",
+    "telecom"
+   ]
   }
  }
 }

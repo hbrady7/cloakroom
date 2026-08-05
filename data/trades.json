@@ -1,7 +1,1833 @@
 {
- "generated_at": "2026-08-04T13:19:01Z",
+ "generated_at": "2026-08-05T13:14:13Z",
  "window_days": 180,
  "trades": [
+  {
+   "id": "I-fdd036fcbd93",
+   "source": "insider",
+   "person": "Kirloskar Virendra A",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "SVP & Chief Accounting Officer",
+   "ticker": "KLAC",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 299838,
+   "amount_high": 299838,
+   "tx_date": "2026-08-04",
+   "filed_date": "2026-08-04",
+   "lag_days": 0,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/319201/000119312526333146/"
+  },
+  {
+   "id": "I-f172adb3355c",
+   "source": "insider",
+   "person": "Hyman David A",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Legal Officer",
+   "ticker": "NFLX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 416899,
+   "amount_high": 416899,
+   "tx_date": "2026-08-04",
+   "filed_date": "2026-08-04",
+   "lag_days": 0,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528026000242/"
+  },
+  {
+   "id": "I-b040d3c17287",
+   "source": "insider",
+   "person": "Ohlgart Christiane",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Financial Officer",
+   "ticker": "FTNT",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 63696,
+   "amount_high": 63696,
+   "tx_date": "2026-08-04",
+   "filed_date": "2026-08-04",
+   "lag_days": 0,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1262039/000201681326000018/"
+  },
+  {
+   "id": "I-56cbf6e5497f",
+   "source": "insider",
+   "person": "Sarandos Theodore A",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Co-CEO",
+   "ticker": "NFLX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 2003423,
+   "amount_high": 2003423,
+   "tx_date": "2026-08-04",
+   "filed_date": "2026-08-04",
+   "lag_days": 0,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528026000234/"
+  },
+  {
+   "id": "I-1d2ecd4fd9cc",
+   "source": "insider",
+   "person": "Schwab Charles R.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Co-Chairman",
+   "ticker": "SCHW",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 5054569,
+   "amount_high": 5054569,
+   "tx_date": "2026-08-04",
+   "filed_date": "2026-08-04",
+   "lag_days": 0,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/316709/000092373826000033/"
+  },
+  {
+   "id": "I-1b65f026f536",
+   "source": "insider",
+   "person": "Wilkinson Mary Beth",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP, CLO and Secretary",
+   "ticker": "KLAC",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 822879,
+   "amount_high": 822879,
+   "tx_date": "2026-08-04",
+   "filed_date": "2026-08-04",
+   "lag_days": 0,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/319201/000119312526333148/"
+  },
+  {
+   "id": "I-f9ea0bc42aee",
+   "source": "insider",
+   "person": "Mosley William D",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO",
+   "ticker": "STX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 67038,
+   "amount_high": 67038,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000164/"
+  },
+  {
+   "id": "I-f75f3aa5288c",
+   "source": "insider",
+   "person": "Xie Michael",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "VP, ENGINEERING & CTO",
+   "ticker": "FTNT",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 112252,
+   "amount_high": 112252,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1262039/000147558626000018/"
+  },
+  {
+   "id": "I-f70d0a3a0cf6",
+   "source": "insider",
+   "person": "Mosley William D",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO",
+   "ticker": "STX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 472339,
+   "amount_high": 472339,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000164/"
+  },
+  {
+   "id": "I-f2a0864f4429",
+   "source": "insider",
+   "person": "Xie Ken",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT & CEO",
+   "ticker": "FTNT",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 26647,
+   "amount_high": 26647,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1262039/000147558726000014/"
+  },
+  {
+   "id": "I-f03d6bda21d1",
+   "source": "insider",
+   "person": "Mosley William D",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO",
+   "ticker": "STX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1359725,
+   "amount_high": 1359725,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000164/"
+  },
+  {
+   "id": "I-e68e8ef2e792",
+   "source": "insider",
+   "person": "Welsh Mark A Iii",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "NOC",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 3297,
+   "amount_high": 3297,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1133421/000162828026052370/"
+  },
+  {
+   "id": "I-e49ef61fae66",
+   "source": "insider",
+   "person": "Mosley William D",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO",
+   "ticker": "STX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 675975,
+   "amount_high": 675975,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000163/"
+  },
+  {
+   "id": "I-def753d24af3",
+   "source": "insider",
+   "person": "Xie Michael",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "VP, ENGINEERING & CTO",
+   "ticker": "FTNT",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 32350,
+   "amount_high": 32350,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1262039/000147558626000018/"
+  },
+  {
+   "id": "I-de9b08d376ae",
+   "source": "insider",
+   "person": "Mosley William D",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO",
+   "ticker": "STX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1056814,
+   "amount_high": 1056814,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000164/"
+  },
+  {
+   "id": "I-dc5adf600c56",
+   "source": "insider",
+   "person": "Mosley William D",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO",
+   "ticker": "STX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 325134,
+   "amount_high": 325134,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000163/"
+  },
+  {
+   "id": "I-d9237bf678ff",
+   "source": "insider",
+   "person": "Mosley William D",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO",
+   "ticker": "STX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 166782,
+   "amount_high": 166782,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000164/"
+  },
+  {
+   "id": "I-d6bf483a14a6",
+   "source": "insider",
+   "person": "Mosley William D",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO",
+   "ticker": "STX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 334396,
+   "amount_high": 334396,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000164/"
+  },
+  {
+   "id": "I-d6494ef7398b",
+   "source": "insider",
+   "person": "Mosley William D",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO",
+   "ticker": "STX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1488979,
+   "amount_high": 1488979,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000164/"
+  },
+  {
+   "id": "I-d556f53e0d79",
+   "source": "insider",
+   "person": "Mosley William D",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO",
+   "ticker": "STX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 333090,
+   "amount_high": 333090,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000164/"
+  },
+  {
+   "id": "I-d39594ae604f",
+   "source": "insider",
+   "person": "Mosley William D",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO",
+   "ticker": "STX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 417939,
+   "amount_high": 417939,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000163/"
+  },
+  {
+   "id": "I-d03f25d69304",
+   "source": "insider",
+   "person": "Mosley William D",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO",
+   "ticker": "STX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 359554,
+   "amount_high": 359554,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000163/"
+  },
+  {
+   "id": "I-cdd2f876860c",
+   "source": "insider",
+   "person": "Werner Edward Cooper",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Financial Officer",
+   "ticker": "FFIV",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 243146,
+   "amount_high": 243146,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1048695/000204264726000014/"
+  },
+  {
+   "id": "I-cd652488cde9",
+   "source": "insider",
+   "person": "Mosley William D",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO",
+   "ticker": "STX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 261079,
+   "amount_high": 261079,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000163/"
+  },
+  {
+   "id": "I-c7c6b46fb2da",
+   "source": "insider",
+   "person": "Whalen Chad Michael",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP, Worldwide Sales",
+   "ticker": "FFIV",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 284617,
+   "amount_high": 284617,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1048695/000174664026000008/"
+  },
+  {
+   "id": "I-c799915fb8d6",
+   "source": "insider",
+   "person": "Welsh Mark A Iii",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "NOC",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 10366,
+   "amount_high": 10366,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1133421/000162828026052370/"
+  },
+  {
+   "id": "I-c610d807b2a1",
+   "source": "insider",
+   "person": "Bartlett Daniel J",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Executive Vice President",
+   "ticker": "WMT",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 419601,
+   "amount_high": 419601,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/104169/000157929926000022/"
+  },
+  {
+   "id": "I-c515a98da2be",
+   "source": "insider",
+   "person": "Mosley William D",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO",
+   "ticker": "STX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 563681,
+   "amount_high": 563681,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000163/"
+  },
+  {
+   "id": "I-c30dc91cc1b5",
+   "source": "insider",
+   "person": "Mosley William D",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO",
+   "ticker": "STX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 288750,
+   "amount_high": 288750,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000163/"
+  },
+  {
+   "id": "I-c17ae10a806a",
+   "source": "insider",
+   "person": "Kowalski Kendall A",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Information Officer",
+   "ticker": "HBAN",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 6898,
+   "amount_high": 6898,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/49196/000122520826006929/"
+  },
+  {
+   "id": "I-bc29a52d5006",
+   "source": "insider",
+   "person": "Maddison John Anthony",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Product  Mkting Officer",
+   "ticker": "FFIV",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 405853,
+   "amount_high": 405853,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1048695/000204605426000008/"
+  },
+  {
+   "id": "I-ba19f12081e5",
+   "source": "insider",
+   "person": "Mosley William D",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO",
+   "ticker": "STX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 563626,
+   "amount_high": 563626,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000163/"
+  },
+  {
+   "id": "I-b9aa5829e9b7",
+   "source": "insider",
+   "person": "Xie Michael",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "VP, ENGINEERING & CTO",
+   "ticker": "FTNT",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 231791,
+   "amount_high": 231791,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1262039/000147558626000018/"
+  },
+  {
+   "id": "I-b5f316efed4d",
+   "source": "insider",
+   "person": "Mosley William D",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO",
+   "ticker": "STX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 226142,
+   "amount_high": 226142,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000163/"
+  },
+  {
+   "id": "I-b00f98586f89",
+   "source": "insider",
+   "person": "Xie Ken",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT & CEO",
+   "ticker": "FTNT",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 2947973,
+   "amount_high": 2947973,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1262039/000147558726000014/"
+  },
+  {
+   "id": "I-afd18828cbe6",
+   "source": "insider",
+   "person": "Novakovic Phebe N",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chairman and CEO",
+   "ticker": "GD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 2790988,
+   "amount_high": 2790988,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/40533/000119312526333260/"
+  },
+  {
+   "id": "I-af2e184520e2",
+   "source": "insider",
+   "person": "Mosley William D",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO",
+   "ticker": "STX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 62707,
+   "amount_high": 62707,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000163/"
+  },
+  {
+   "id": "I-ae7998bac992",
+   "source": "insider",
+   "person": "O'Day Daniel Patrick",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chairman & CEO",
+   "ticker": "GILD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 78806,
+   "amount_high": 78806,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/882095/000163864326000028/"
+  },
+  {
+   "id": "I-a8d9aa365f2f",
+   "source": "insider",
+   "person": "Gentleman Courtney",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "See remarks",
+   "ticker": "SYF",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 55322,
+   "amount_high": 55322,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1601712/000203228126000009/"
+  },
+  {
+   "id": "I-a60835a87988",
+   "source": "insider",
+   "person": "Xie Ken",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT & CEO",
+   "ticker": "FTNT",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 3159689,
+   "amount_high": 3159689,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1262039/000147558726000014/"
+  },
+  {
+   "id": "I-a555f5ebd31d",
+   "source": "insider",
+   "person": "Novakovic Phebe N",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chairman and CEO",
+   "ticker": "GD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 2162377,
+   "amount_high": 2162377,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/40533/000119312526333260/"
+  },
+  {
+   "id": "I-a0175f179abe",
+   "source": "insider",
+   "person": "Indelicarto Thomas C",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP, Gen Counsel & Secretary",
+   "ticker": "VRSN",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 146100,
+   "amount_high": 146100,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1014473/000162465126000041/"
+  },
+  {
+   "id": "I-9c6812a39304",
+   "source": "insider",
+   "person": "Mosley William D",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO",
+   "ticker": "STX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 292335,
+   "amount_high": 292335,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000163/"
+  },
+  {
+   "id": "I-9b14515e8b79",
+   "source": "insider",
+   "person": "Kowalski Kendall A",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Information Officer",
+   "ticker": "HBAN",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 474204,
+   "amount_high": 474204,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/49196/000122520826006929/"
+  },
+  {
+   "id": "I-949dd43c48a2",
+   "source": "insider",
+   "person": "Mosley William D",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO",
+   "ticker": "STX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 31445,
+   "amount_high": 31445,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000163/"
+  },
+  {
+   "id": "I-947f77bbb2b5",
+   "source": "insider",
+   "person": "Mosley William D",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO",
+   "ticker": "STX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 348032,
+   "amount_high": 348032,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000163/"
+  },
+  {
+   "id": "I-91728aca26c6",
+   "source": "insider",
+   "person": "Mosley William D",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO",
+   "ticker": "STX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 383648,
+   "amount_high": 383648,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000163/"
+  },
+  {
+   "id": "I-916998e4ec8a",
+   "source": "insider",
+   "person": "Mosley William D",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO",
+   "ticker": "STX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 261861,
+   "amount_high": 261861,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000163/"
+  },
+  {
+   "id": "I-8fb95287b46b",
+   "source": "insider",
+   "person": "Mosley William D",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO",
+   "ticker": "STX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 446795,
+   "amount_high": 446795,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000163/"
+  },
+  {
+   "id": "I-8e8dc30276cd",
+   "source": "insider",
+   "person": "Mosley William D",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO",
+   "ticker": "STX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 327765,
+   "amount_high": 327765,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000164/"
+  },
+  {
+   "id": "I-859e769c0967",
+   "source": "insider",
+   "person": "Welsh Mark A Iii",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "NOC",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 2217,
+   "amount_high": 2217,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1133421/000162828026052370/"
+  },
+  {
+   "id": "I-851c3121a188",
+   "source": "insider",
+   "person": "Wilson Terrance Lane",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "SVP & General Counsel",
+   "ticker": "WMB",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 141300,
+   "amount_high": 141300,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/107263/000170338826000021/"
+  },
+  {
+   "id": "I-84b3248d80a1",
+   "source": "insider",
+   "person": "Mosley William D",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO",
+   "ticker": "STX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1628436,
+   "amount_high": 1628436,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000164/"
+  },
+  {
+   "id": "I-80ffb9129072",
+   "source": "insider",
+   "person": "Mosley William D",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO",
+   "ticker": "STX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 922272,
+   "amount_high": 922272,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000164/"
+  },
+  {
+   "id": "I-7c5b8524e150",
+   "source": "insider",
+   "person": "Welsh Mark A Iii",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "NOC",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 4356,
+   "amount_high": 4356,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1133421/000162828026052370/"
+  },
+  {
+   "id": "I-7b5d1d1c734b",
+   "source": "insider",
+   "person": "Mosley William D",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO",
+   "ticker": "STX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 421427,
+   "amount_high": 421427,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000163/"
+  },
+  {
+   "id": "I-79da9fcf5046",
+   "source": "insider",
+   "person": "Welsh Mark A Iii",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "NOC",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1106,
+   "amount_high": 1106,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1133421/000162828026052370/"
+  },
+  {
+   "id": "I-798fecb8ed1a",
+   "source": "insider",
+   "person": "Coviello Arthur W Jr",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "SYF",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 308680,
+   "amount_high": 308680,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1601712/000120658726000016/"
+  },
+  {
+   "id": "I-768f9415c0b0",
+   "source": "insider",
+   "person": "Welsh Mark A Iii",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "NOC",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 5483,
+   "amount_high": 5483,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1133421/000162828026052370/"
+  },
+  {
+   "id": "I-7659035acc64",
+   "source": "insider",
+   "person": "Welsh Mark A Iii",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "NOC",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1101,
+   "amount_high": 1101,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1133421/000162828026052370/"
+  },
+  {
+   "id": "I-7440edbddd26",
+   "source": "insider",
+   "person": "Mosley William D",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO",
+   "ticker": "STX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 320418,
+   "amount_high": 320418,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000163/"
+  },
+  {
+   "id": "I-70b2ca17d38d",
+   "source": "insider",
+   "person": "Owens Darrell",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "See remarks",
+   "ticker": "SYF",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 46805,
+   "amount_high": 46805,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1601712/000203227726000009/"
+  },
+  {
+   "id": "I-7041e37c73bb",
+   "source": "insider",
+   "person": "Sarandos Theodore A",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Co-CEO",
+   "ticker": "NFLX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 5969731,
+   "amount_high": 5969731,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528026000234/"
+  },
+  {
+   "id": "I-6eaaca45e82f",
+   "source": "insider",
+   "person": "Mosley William D",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO",
+   "ticker": "STX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 321107,
+   "amount_high": 321107,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000163/"
+  },
+  {
+   "id": "I-6e0eb2e3b96c",
+   "source": "insider",
+   "person": "Mosley William D",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO",
+   "ticker": "STX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 310119,
+   "amount_high": 310119,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000163/"
+  },
+  {
+   "id": "I-6bd02b1f6bce",
+   "source": "insider",
+   "person": "Mosley William D",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO",
+   "ticker": "STX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 266248,
+   "amount_high": 266248,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000164/"
+  },
+  {
+   "id": "I-6a4cf31def33",
+   "source": "insider",
+   "person": "Welsh Mark A Iii",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "NOC",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 16970,
+   "amount_high": 16970,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1133421/000162828026052370/"
+  },
+  {
+   "id": "I-6a3c96f80315",
+   "source": "insider",
+   "person": "O'Day Daniel Patrick",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chairman & CEO",
+   "ticker": "GILD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1007177,
+   "amount_high": 1007177,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/882095/000163864326000028/"
+  },
+  {
+   "id": "I-6419f4d1fe14",
+   "source": "insider",
+   "person": "Welsh Mark A Iii",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "NOC",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1108,
+   "amount_high": 1108,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1133421/000162828026052370/"
+  },
+  {
+   "id": "I-63fd32db89ca",
+   "source": "insider",
+   "person": "Schwab Charles R.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Co-Chairman",
+   "ticker": "SCHW",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 10050418,
+   "amount_high": 10050418,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/316709/000092373826000033/"
+  },
+  {
+   "id": "I-5f59b31d683d",
+   "source": "insider",
+   "person": "Russell David Eric",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Sr. Vice President, Controller",
+   "ticker": "YUM",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1219227,
+   "amount_high": 1219227,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1041061/000104106126000155/"
+  },
+  {
+   "id": "I-59d5980ecda9",
+   "source": "insider",
+   "person": "Morris John Christopher",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP & CTO",
+   "ticker": "STX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 137384,
+   "amount_high": 137384,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000165/"
+  },
+  {
+   "id": "I-57e2653dd281",
+   "source": "insider",
+   "person": "Miebach Michael",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President & CEO",
+   "ticker": "MA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 9644240,
+   "amount_high": 9644240,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1141391/000114139126000085/"
+  },
+  {
+   "id": "I-536b2acfbd68",
+   "source": "insider",
+   "person": "Mosley William D",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO",
+   "ticker": "STX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1319314,
+   "amount_high": 1319314,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000164/"
+  },
+  {
+   "id": "I-52614ae1fe04",
+   "source": "insider",
+   "person": "Mosley William D",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO",
+   "ticker": "STX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 151146,
+   "amount_high": 151146,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000164/"
+  },
+  {
+   "id": "I-51880cc45e0d",
+   "source": "insider",
+   "person": "Mosley William D",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO",
+   "ticker": "STX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 605615,
+   "amount_high": 605615,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000163/"
+  },
+  {
+   "id": "I-502bb83ac7db",
+   "source": "insider",
+   "person": "Xie Ken",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT & CEO",
+   "ticker": "FTNT",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 11084853,
+   "amount_high": 11084853,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1262039/000147558726000014/"
+  },
+  {
+   "id": "I-4d7e60e86dd7",
+   "source": "insider",
+   "person": "Okeke Angelique M",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP, General Counsel",
+   "ticker": "FFIV",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 208315,
+   "amount_high": 208315,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1048695/000206065026000008/"
+  },
+  {
+   "id": "I-4d482531c3db",
+   "source": "insider",
+   "person": "Sarandos Theodore A",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Co-CEO",
+   "ticker": "NFLX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1760431,
+   "amount_high": 1760431,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528026000234/"
+  },
+  {
+   "id": "I-4c238880f377",
+   "source": "insider",
+   "person": "Mosley William D",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO",
+   "ticker": "STX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1641120,
+   "amount_high": 1641120,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000164/"
+  },
+  {
+   "id": "I-4a95cdc2ab4f",
+   "source": "insider",
+   "person": "Mosley William D",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO",
+   "ticker": "STX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 297951,
+   "amount_high": 297951,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000163/"
+  },
+  {
+   "id": "I-481258bb325c",
+   "source": "insider",
+   "person": "Mosley William D",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO",
+   "ticker": "STX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 416041,
+   "amount_high": 416041,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000163/"
+  },
+  {
+   "id": "I-439436a4cd12",
+   "source": "insider",
+   "person": "Tanzberger Eric D",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Exec. VP, and CFO",
+   "ticker": "SCI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 4715063,
+   "amount_high": 4715063,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/89089/000162828026052457/"
+  },
   {
    "id": "I-3e14608c2626",
    "source": "insider",
@@ -23,6 +1849,889 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000465/"
+  },
+  {
+   "id": "I-3da6832bc178",
+   "source": "insider",
+   "person": "Novakovic Phebe N",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chairman and CEO",
+   "ticker": "GD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 8677821,
+   "amount_high": 8677821,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/40533/000119312526333260/"
+  },
+  {
+   "id": "I-39b9525ff972",
+   "source": "insider",
+   "person": "Johnson Mercedes",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "TER",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 59453,
+   "amount_high": 59453,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/97210/000090445426000430/"
+  },
+  {
+   "id": "I-38e388814318",
+   "source": "insider",
+   "person": "Xie Michael",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "VP, ENGINEERING & CTO",
+   "ticker": "FTNT",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 131181,
+   "amount_high": 131181,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1262039/000147558626000018/"
+  },
+  {
+   "id": "I-3053fa0645a4",
+   "source": "insider",
+   "person": "Mosley William D",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO",
+   "ticker": "STX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 380977,
+   "amount_high": 380977,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000163/"
+  },
+  {
+   "id": "I-22e36bde8e25",
+   "source": "insider",
+   "person": "Xie Ken",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT & CEO",
+   "ticker": "FTNT",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1189378,
+   "amount_high": 1189378,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1262039/000147558726000014/"
+  },
+  {
+   "id": "I-20145b19542d",
+   "source": "insider",
+   "person": "Mosley William D",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO",
+   "ticker": "STX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 126043,
+   "amount_high": 126043,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000163/"
+  },
+  {
+   "id": "I-1fe651f06383",
+   "source": "insider",
+   "person": "Mosley William D",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO",
+   "ticker": "STX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 519563,
+   "amount_high": 519563,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000163/"
+  },
+  {
+   "id": "I-1e4608546bc7",
+   "source": "insider",
+   "person": "Xie Ken",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT & CEO",
+   "ticker": "FTNT",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 7858337,
+   "amount_high": 7858337,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1262039/000147558726000014/"
+  },
+  {
+   "id": "I-18f3f509f78d",
+   "source": "insider",
+   "person": "Anand Kunal",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Technology Officer",
+   "ticker": "FFIV",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 158615,
+   "amount_high": 158615,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1048695/000201685726000008/"
+  },
+  {
+   "id": "I-154980a05f46",
+   "source": "insider",
+   "person": "Welsh Mark A Iii",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "NOC",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 6011,
+   "amount_high": 6011,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1133421/000162828026052370/"
+  },
+  {
+   "id": "I-139dbb61b100",
+   "source": "insider",
+   "person": "Mosley William D",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO",
+   "ticker": "STX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 94746,
+   "amount_high": 94746,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000163/"
+  },
+  {
+   "id": "I-0eab2a8f4f03",
+   "source": "insider",
+   "person": "Mosley William D",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO",
+   "ticker": "STX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 690947,
+   "amount_high": 690947,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000164/"
+  },
+  {
+   "id": "I-0e95c6b7267b",
+   "source": "insider",
+   "person": "Mosley William D",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO",
+   "ticker": "STX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 516139,
+   "amount_high": 516139,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000163/"
+  },
+  {
+   "id": "I-0c34c3dc61a0",
+   "source": "insider",
+   "person": "Mosley William D",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO",
+   "ticker": "STX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 426580,
+   "amount_high": 426580,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000164/"
+  },
+  {
+   "id": "I-0af8026c7189",
+   "source": "insider",
+   "person": "Novakovic Phebe N",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chairman and CEO",
+   "ticker": "GD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 6097659,
+   "amount_high": 6097659,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/40533/000119312526333260/"
+  },
+  {
+   "id": "I-09e5bc36c77d",
+   "source": "insider",
+   "person": "O'Day Daniel Patrick",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chairman & CEO",
+   "ticker": "GILD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 868711,
+   "amount_high": 868711,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/882095/000163864326000028/"
+  },
+  {
+   "id": "I-08d69b16f70a",
+   "source": "insider",
+   "person": "Shek Bernard",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Legal Officer & Secty",
+   "ticker": "SNDK",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 697296,
+   "amount_high": 697296,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2023554/000136324926000058/"
+  },
+  {
+   "id": "I-08781603e31d",
+   "source": "insider",
+   "person": "Mosley William D",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO",
+   "ticker": "STX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1343421,
+   "amount_high": 1343421,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000164/"
+  },
+  {
+   "id": "I-05071ade7c00",
+   "source": "insider",
+   "person": "Mosley William D",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO",
+   "ticker": "STX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 133883,
+   "amount_high": 133883,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000164/"
+  },
+  {
+   "id": "I-04c484345d06",
+   "source": "insider",
+   "person": "Hawaux Andre J",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "TSCO",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 100264,
+   "amount_high": 100264,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/916365/000132704326000006/"
+  },
+  {
+   "id": "I-01befe13c7c4",
+   "source": "insider",
+   "person": "Mosley William D",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO",
+   "ticker": "STX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 541990,
+   "amount_high": 541990,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000163/"
+  },
+  {
+   "id": "I-d6f81c05e5fd",
+   "source": "insider",
+   "person": "Miebach Michael",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President & CEO",
+   "ticker": "MA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 9439383,
+   "amount_high": 9439383,
+   "tx_date": "2026-07-31",
+   "filed_date": "2026-08-04",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1141391/000114139126000085/"
+  },
+  {
+   "id": "I-d333e2993a0c",
+   "source": "insider",
+   "person": "Akradi Bahram",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "FOUNDER & CEO",
+   "ticker": "LTH",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 19506571,
+   "amount_high": 19506571,
+   "tx_date": "2026-07-31",
+   "filed_date": "2026-08-04",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1869198/000129567926000019/"
+  },
+  {
+   "id": "I-cb65b246b2ee",
+   "source": "insider",
+   "person": "Ryan Thomas L",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO & Chairman",
+   "ticker": "SCI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 20096055,
+   "amount_high": 20096055,
+   "tx_date": "2026-07-31",
+   "filed_date": "2026-08-04",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/89089/000162828026052534/"
+  },
+  {
+   "id": "I-c81d3499021e",
+   "source": "insider",
+   "person": "Buss Eric J",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP & CHIEF ADMIN. OFFICER",
+   "ticker": "LTH",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 21552429,
+   "amount_high": 21552429,
+   "tx_date": "2026-07-31",
+   "filed_date": "2026-08-04",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1869198/000129545826000012/"
+  },
+  {
+   "id": "I-c7be45d5839f",
+   "source": "insider",
+   "person": "Gilliland Marguerite Amy",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Executive Vice President",
+   "ticker": "GD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 9918467,
+   "amount_high": 9918467,
+   "tx_date": "2026-07-31",
+   "filed_date": "2026-08-04",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/40533/000119312526333251/"
+  },
+  {
+   "id": "I-bdcf8a877a1e",
+   "source": "insider",
+   "person": "Faulk John H",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "SVP, COO",
+   "ticker": "SCI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 2106901,
+   "amount_high": 2106901,
+   "tx_date": "2026-07-31",
+   "filed_date": "2026-08-04",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/89089/000162828026052441/"
+  },
+  {
+   "id": "I-abc5eb818400",
+   "source": "insider",
+   "person": "Gilliland Marguerite Amy",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Executive Vice President",
+   "ticker": "GD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 6405191,
+   "amount_high": 6405191,
+   "tx_date": "2026-07-31",
+   "filed_date": "2026-08-04",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/40533/000119312526333251/"
+  },
+  {
+   "id": "I-9d3d352764f0",
+   "source": "insider",
+   "person": "Javaheri Parham",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP &PRESIDENT CLUB OPERATIONS",
+   "ticker": "LTH",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 2849697,
+   "amount_high": 2849697,
+   "tx_date": "2026-07-31",
+   "filed_date": "2026-08-04",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1869198/000188406226000017/"
+  },
+  {
+   "id": "I-8cdda94ff450",
+   "source": "insider",
+   "person": "Alford Peggy",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "META",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 252212,
+   "amount_high": 252212,
+   "tx_date": "2026-07-31",
+   "filed_date": "2026-08-04",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326011909/"
+  },
+  {
+   "id": "I-88d9123dc578",
+   "source": "insider",
+   "person": "Ryan Thomas L",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO & Chairman",
+   "ticker": "SCI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1505899,
+   "amount_high": 1505899,
+   "tx_date": "2026-07-31",
+   "filed_date": "2026-08-04",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/89089/000162828026052534/"
+  },
+  {
+   "id": "I-83a4507831f9",
+   "source": "insider",
+   "person": "Weaver Erik",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP & Chief Financial Officer",
+   "ticker": "LTH",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 2139110,
+   "amount_high": 2139110,
+   "tx_date": "2026-07-31",
+   "filed_date": "2026-08-04",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1869198/000192353826000012/"
+  },
+  {
+   "id": "I-4d31dbc6c7da",
+   "source": "insider",
+   "person": "Akradi Bahram",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "FOUNDER & CEO",
+   "ticker": "LTH",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 227863,
+   "amount_high": 227863,
+   "tx_date": "2026-07-31",
+   "filed_date": "2026-08-04",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1869198/000129567926000019/"
+  },
+  {
+   "id": "I-040c343d998c",
+   "source": "insider",
+   "person": "Wilson Donta L",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Consumer & SB BK Officer",
+   "ticker": "TFC",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 688618,
+   "amount_high": 688618,
+   "tx_date": "2026-07-31",
+   "filed_date": "2026-08-04",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/92230/000168132926000006/"
+  },
+  {
+   "id": "C-adec07d0260a",
+   "source": "congress",
+   "person": "Shelley M Capito",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Committee on Appropriations",
+     "Senate Committee on Commerce, Science, and Transportation",
+     "Senate Committee on Environment and Public Works",
+     "Senate Committee on Rules and Administration"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "INTC",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-21",
+   "filed_date": "2026-08-04",
+   "lag_days": 14,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/60c01547-0cf9-46c6-9ce6-f0102f5941f6/"
+  },
+  {
+   "id": "C-a7124fb57fec",
+   "source": "congress",
+   "person": "Shelley M Capito",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Committee on Appropriations",
+     "Senate Committee on Commerce, Science, and Transportation",
+     "Senate Committee on Environment and Public Works",
+     "Senate Committee on Rules and Administration"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MSFT",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-07-21",
+   "filed_date": "2026-08-04",
+   "lag_days": 14,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/60c01547-0cf9-46c6-9ce6-f0102f5941f6/"
+  },
+  {
+   "id": "C-8f263a30c827",
+   "source": "congress",
+   "person": "Shelley M Capito",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Committee on Appropriations",
+     "Senate Committee on Commerce, Science, and Transportation",
+     "Senate Committee on Environment and Public Works",
+     "Senate Committee on Rules and Administration"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CSCO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-21",
+   "filed_date": "2026-08-04",
+   "lag_days": 14,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/60c01547-0cf9-46c6-9ce6-f0102f5941f6/"
+  },
+  {
+   "id": "C-6076b040a36a",
+   "source": "congress",
+   "person": "Shelley M Capito",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Committee on Appropriations",
+     "Senate Committee on Commerce, Science, and Transportation",
+     "Senate Committee on Environment and Public Works",
+     "Senate Committee on Rules and Administration"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "KO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-21",
+   "filed_date": "2026-08-04",
+   "lag_days": 14,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/60c01547-0cf9-46c6-9ce6-f0102f5941f6/"
+  },
+  {
+   "id": "C-2144072404a3",
+   "source": "congress",
+   "person": "Shelley M Capito",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Committee on Appropriations",
+     "Senate Committee on Commerce, Science, and Transportation",
+     "Senate Committee on Environment and Public Works",
+     "Senate Committee on Rules and Administration"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "AAPL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-21",
+   "filed_date": "2026-08-04",
+   "lag_days": 14,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/60c01547-0cf9-46c6-9ce6-f0102f5941f6/"
   },
   {
    "id": "I-c6c6f77af1cd",
@@ -89,6 +2798,28 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/773840/000200422226000009/"
+  },
+  {
+   "id": "I-a0259701345e",
+   "source": "insider",
+   "person": "Robertson Andrea",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "CLH",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 247754,
+   "amount_high": 247754,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-03",
+   "lag_days": 0,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/822818/000129524826000005/"
   },
   {
    "id": "I-4bcbc0ec288b",
@@ -443,6 +3174,131 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002252/"
   },
   {
+   "id": "C-a510ea7ad8a1",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CHRW",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-07-31",
+   "filed_date": "2026-08-03",
+   "lag_days": 3,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-782ae11d2b42",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "FWONK",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-07-31",
+   "filed_date": "2026-08-03",
+   "lag_days": 3,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-708c44a4bea3",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "STE",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-31",
+   "filed_date": "2026-08-03",
+   "lag_days": 3,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-427678559156",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CPAY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-31",
+   "filed_date": "2026-08-03",
+   "lag_days": 3,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-162db53ca7d0",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "LTH",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-07-31",
+   "filed_date": "2026-08-03",
+   "lag_days": 3,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
    "id": "I-dd99caa53040",
    "source": "insider",
    "person": "Hershey Trust Co Trustee In Trust For Milton Hershey School",
@@ -795,6 +3651,1081 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002252/"
   },
   {
+   "id": "C-ebd7a10b9130",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "BWXT",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-30",
+   "filed_date": "2026-08-03",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-ce3d637d36bc",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "SGI",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-07-30",
+   "filed_date": "2026-08-03",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-5b92efc1a332",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "SCI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-30",
+   "filed_date": "2026-08-03",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-44834a29d198",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ENTG",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-30",
+   "filed_date": "2026-08-03",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-3ed6e9c25d25",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CPAY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-30",
+   "filed_date": "2026-08-03",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-214e6efc2aa5",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "LTH",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-30",
+   "filed_date": "2026-08-03",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-dbeee33e74f6",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MKL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-29",
+   "filed_date": "2026-08-03",
+   "lag_days": 5,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-d3efc8723e8b",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "STE",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-29",
+   "filed_date": "2026-08-03",
+   "lag_days": 5,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-cd5e4fda83ee",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "LTH",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-29",
+   "filed_date": "2026-08-03",
+   "lag_days": 5,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-3993017831f6",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "FWONK",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-29",
+   "filed_date": "2026-08-03",
+   "lag_days": 5,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-f31f12094a85",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CLH",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-28",
+   "filed_date": "2026-08-03",
+   "lag_days": 6,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-dcfe36c5ed21",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MKL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-28",
+   "filed_date": "2026-08-03",
+   "lag_days": 6,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-adfd961bdd55",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "TDG",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-28",
+   "filed_date": "2026-08-03",
+   "lag_days": 6,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-987f9874cbe9",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "WAB",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-28",
+   "filed_date": "2026-08-03",
+   "lag_days": 6,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-7360f986cb28",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CPAY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-28",
+   "filed_date": "2026-08-03",
+   "lag_days": 6,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-66d3e2724e62",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "FWONK",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-07-28",
+   "filed_date": "2026-08-03",
+   "lag_days": 6,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-53a59ae4d46a",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "LTH",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-28",
+   "filed_date": "2026-08-03",
+   "lag_days": 6,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-4b8e30302c8d",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CHRW",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-28",
+   "filed_date": "2026-08-03",
+   "lag_days": 6,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-eaac91a4dd62",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "STE",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-27",
+   "filed_date": "2026-08-03",
+   "lag_days": 7,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-b23144637b90",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "BWXT",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-27",
+   "filed_date": "2026-08-03",
+   "lag_days": 7,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-8d2fb10c178f",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "TSCO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-07-27",
+   "filed_date": "2026-08-03",
+   "lag_days": 7,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-7762001d3f4f",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "LTH",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-27",
+   "filed_date": "2026-08-03",
+   "lag_days": 7,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-6c246e70a156",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MKL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-27",
+   "filed_date": "2026-08-03",
+   "lag_days": 7,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-69399958a7e8",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "SCI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-27",
+   "filed_date": "2026-08-03",
+   "lag_days": 7,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-56ad2c68b2bc",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CHRW",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-07-27",
+   "filed_date": "2026-08-03",
+   "lag_days": 7,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-1f603ceb283b",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CLH",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-27",
+   "filed_date": "2026-08-03",
+   "lag_days": 7,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-ea14576d95d7",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CHRW",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-24",
+   "filed_date": "2026-08-03",
+   "lag_days": 10,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-c5dd272633a4",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MKL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-24",
+   "filed_date": "2026-08-03",
+   "lag_days": 10,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-bdfba34de580",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "LTH",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-07-24",
+   "filed_date": "2026-08-03",
+   "lag_days": 10,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-bcf62b4cb5ca",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "BWXT",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-07-24",
+   "filed_date": "2026-08-03",
+   "lag_days": 10,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-ba114baed35a",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CLH",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-24",
+   "filed_date": "2026-08-03",
+   "lag_days": 10,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-47a6397b6467",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MLM",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-07-24",
+   "filed_date": "2026-08-03",
+   "lag_days": 10,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-37082b838324",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "STE",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-24",
+   "filed_date": "2026-08-03",
+   "lag_days": 10,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-1592696d777e",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "FWONK",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-07-24",
+   "filed_date": "2026-08-03",
+   "lag_days": 10,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-90976283839f",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "FWONK",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-07-23",
+   "filed_date": "2026-08-03",
+   "lag_days": 11,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-901e20c32b96",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "HUBB",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-07-23",
+   "filed_date": "2026-08-03",
+   "lag_days": 11,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-7e0f23c71492",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "WAB",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-07-23",
+   "filed_date": "2026-08-03",
+   "lag_days": 11,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-20b399bd6038",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "VIK",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-23",
+   "filed_date": "2026-08-03",
+   "lag_days": 11,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-bc0b475cb3c5",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "FWONK",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-22",
+   "filed_date": "2026-08-03",
+   "lag_days": 12,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-8c73bf99641b",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CHRW",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-22",
+   "filed_date": "2026-08-03",
+   "lag_days": 12,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-b261c01ada3d",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "LYV",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-21",
+   "filed_date": "2026-08-03",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-aa933c234b70",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "LTH",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-21",
+   "filed_date": "2026-08-03",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-ed77f1eab25f",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MLM",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-20",
+   "filed_date": "2026-08-03",
+   "lag_days": 14,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
    "id": "C-eb1e8ddd1ae5",
    "source": "congress",
    "person": "Sheldon Whitehouse",
@@ -822,6 +4753,331 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://efdsearch.senate.gov/search/view/ptr/96db6e64-f7c3-4483-b0aa-af10ba2bdbbd/"
+  },
+  {
+   "id": "C-d6cca519c44a",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "LTH",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-20",
+   "filed_date": "2026-08-03",
+   "lag_days": 14,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-d4c9c602e850",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "SCI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-20",
+   "filed_date": "2026-08-03",
+   "lag_days": 14,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-9ce110a4db69",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CHRW",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-20",
+   "filed_date": "2026-08-03",
+   "lag_days": 14,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-3ab22e3b689d",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "LYV",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-20",
+   "filed_date": "2026-08-03",
+   "lag_days": 14,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-e571feaf8384",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MLM",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-17",
+   "filed_date": "2026-08-03",
+   "lag_days": 17,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-ba007762934e",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CPAY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-17",
+   "filed_date": "2026-08-03",
+   "lag_days": 17,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-936baaf4cd55",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "SCI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-17",
+   "filed_date": "2026-08-03",
+   "lag_days": 17,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-776d5fa32ff5",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "LTH",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-17",
+   "filed_date": "2026-08-03",
+   "lag_days": 17,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-28a9a7ccf98a",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CPAY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-16",
+   "filed_date": "2026-08-03",
+   "lag_days": 18,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-3d4b4c10e684",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CPAY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-15",
+   "filed_date": "2026-08-03",
+   "lag_days": 19,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-810a7a3397c0",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ENTG",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-08",
+   "filed_date": "2026-08-03",
+   "lag_days": 26,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-22a8b11d3990",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "SCI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-08",
+   "filed_date": "2026-08-03",
+   "lag_days": 26,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
+  },
+  {
+   "id": "C-0adc4180a631",
+   "source": "congress",
+   "person": "April McClain Delaney",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Science, Space, and Technology"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "SCI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-02",
+   "filed_date": "2026-08-03",
+   "lag_days": 32,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
   },
   {
    "id": "I-ee26b954fdc8",
@@ -58540,6 +62796,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/88941/000162828026045737/"
   },
   {
+   "id": "I-1458a5ba0a55",
+   "source": "insider",
+   "person": "Singh Ritadhwaja Jebens",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP & CHIEF DIGITAL OFFICER",
+   "ticker": "LTH",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 2618576,
+   "amount_high": 2618576,
+   "tx_date": "2026-06-24",
+   "filed_date": "2026-06-26",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1869198/000188499626000018/"
+  },
+  {
    "id": "I-09f8a519b156",
    "source": "insider",
    "person": "Myers Franklin",
@@ -74674,6 +78952,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1690820/000170245526000008/"
   },
   {
+   "id": "I-0376b635ad8c",
+   "source": "insider",
+   "person": "Wilm Renee L",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Legal/Admin Officer",
+   "ticker": "FWONK",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1044774,
+   "amount_high": 1044774,
+   "tx_date": "2026-06-15",
+   "filed_date": "2026-06-16",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1560385/000122520826006073/"
+  },
+  {
    "id": "I-0272e1f62f58",
    "source": "insider",
    "person": "Reiss Joel",
@@ -84370,6 +88670,28 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/6281/000090072926000010/"
+  },
+  {
+   "id": "I-4e422d5a92f3",
+   "source": "insider",
+   "person": "Almendares Jimena",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "LTH",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1363527,
+   "amount_high": 1363527,
+   "tx_date": "2026-06-10",
+   "filed_date": "2026-06-12",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1869198/000188378426000004/"
   },
   {
    "id": "I-48ca6b68813a",
@@ -97708,6 +102030,50 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/849399/000162828026041329/"
   },
   {
+   "id": "I-8ad8f5183990",
+   "source": "insider",
+   "person": "Galashan John Kristofer",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "LTH",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 63165388,
+   "amount_high": 63165388,
+   "tx_date": "2026-06-04",
+   "filed_date": "2026-06-05",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1869198/000119312526259615/"
+  },
+  {
+   "id": "I-4d4607c115eb",
+   "source": "insider",
+   "person": "Green LTF Holdings II LP et al.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "LTH",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 105048,
+   "amount_high": 105048,
+   "tx_date": "2026-06-04",
+   "filed_date": "2026-06-05",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1869198/000119312526259609/"
+  },
+  {
    "id": "I-42a651b8dc4d",
    "source": "insider",
    "person": "Raja Prabu G.",
@@ -97728,6 +102094,50 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/6951/000162828026041314/"
+  },
+  {
+   "id": "I-3d70964d6099",
+   "source": "insider",
+   "person": "Green LTF Holdings II LP et al.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "LTH",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1046817,
+   "amount_high": 1046817,
+   "tx_date": "2026-06-04",
+   "filed_date": "2026-06-05",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1869198/000119312526259609/"
+  },
+  {
+   "id": "I-3a76130777bf",
+   "source": "insider",
+   "person": "Danhakl John G",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "LTH",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 63165388,
+   "amount_high": 63165388,
+   "tx_date": "2026-06-04",
+   "filed_date": "2026-06-05",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1869198/000119312526259618/"
   },
   {
    "id": "I-326532e74d4a",
@@ -97816,6 +102226,50 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/6951/000162828026041314/"
+  },
+  {
+   "id": "I-1577feb2cb9c",
+   "source": "insider",
+   "person": "Partners Group Private Equity Fund, LLC et al.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Insider",
+   "ticker": "LTH",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 9435741,
+   "amount_high": 9435741,
+   "tx_date": "2026-06-04",
+   "filed_date": "2026-06-05",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1869198/000119312526259605/"
+  },
+  {
+   "id": "I-14df290f6d84",
+   "source": "insider",
+   "person": "Green LTF Holdings II LP et al.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "LTH",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 62013523,
+   "amount_high": 62013523,
+   "tx_date": "2026-06-04",
+   "filed_date": "2026-06-05",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1869198/000119312526259609/"
   },
   {
    "id": "I-0fdae8cec7c2",
@@ -108348,6 +112802,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1140859/000120235826000004/"
   },
   {
+   "id": "I-fd8ae5d17f19",
+   "source": "insider",
+   "person": "Carey Chase",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "FWONK",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 8895659,
+   "amount_high": 8895659,
+   "tx_date": "2026-05-27",
+   "filed_date": "2026-05-28",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1560385/000122520826005628/"
+  },
+  {
    "id": "I-9f2cf9811ad4",
    "source": "insider",
    "person": "Hardy Rhoman J",
@@ -108500,6 +112976,28 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1467858/000149215426000009/"
+  },
+  {
+   "id": "I-0d85293130d6",
+   "source": "insider",
+   "person": "Carey Chase",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "FWONK",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 132492,
+   "amount_high": 132492,
+   "tx_date": "2026-05-27",
+   "filed_date": "2026-05-28",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1560385/000122520826005628/"
   },
   {
    "id": "I-fd9d2666eca0",
@@ -114009,6 +118507,50 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1018724/000155797926000006/"
   },
   {
+   "id": "I-1e89eb30d1bb",
+   "source": "insider",
+   "person": "Rusing Steven H",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President & CEO  Mattress Firm",
+   "ticker": "SGI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 87730,
+   "amount_high": 87730,
+   "tx_date": "2026-05-22",
+   "filed_date": "2026-05-26",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1206264/000142856326000007/"
+  },
+  {
+   "id": "I-1521c6a7f628",
+   "source": "insider",
+   "person": "Rusing Steven H",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President & CEO  Mattress Firm",
+   "ticker": "SGI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 357808,
+   "amount_high": 357808,
+   "tx_date": "2026-05-22",
+   "filed_date": "2026-05-26",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1206264/000142856326000007/"
+  },
+  {
    "id": "I-12763c205b19",
    "source": "insider",
    "person": "Kalmbach Thomas Peter",
@@ -114053,6 +118595,50 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1018724/000137454526000008/"
   },
   {
+   "id": "I-ead57b3e5e12",
+   "source": "insider",
+   "person": "Partners Group Private Equity Fund, LLC et al.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Insider",
+   "ticker": "LTH",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 14628200,
+   "amount_high": 14628200,
+   "tx_date": "2026-05-21",
+   "filed_date": "2026-05-26",
+   "lag_days": 5,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1869198/000119312526239984/"
+  },
+  {
+   "id": "I-dfcd685c7342",
+   "source": "insider",
+   "person": "Green LTF Holdings II LP et al.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "LTH",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1619616,
+   "amount_high": 1619616,
+   "tx_date": "2026-05-21",
+   "filed_date": "2026-05-26",
+   "lag_days": 5,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1869198/000119312526239981/"
+  },
+  {
    "id": "I-dd252b72cafd",
    "source": "insider",
    "person": "Zapolsky David",
@@ -114073,6 +118659,28 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1018724/000155797926000006/"
+  },
+  {
+   "id": "I-d60efcd0d9a6",
+   "source": "insider",
+   "person": "Green LTF Holdings II LP et al.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "LTH",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 162517,
+   "amount_high": 162517,
+   "tx_date": "2026-05-21",
+   "filed_date": "2026-05-26",
+   "lag_days": 5,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1869198/000119312526239981/"
   },
   {
    "id": "I-ce113dbb42a9",
@@ -114227,6 +118835,28 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1018724/000137454526000008/"
+  },
+  {
+   "id": "I-9ac56ec54427",
+   "source": "insider",
+   "person": "Danhakl John G",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "LTH",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 97728311,
+   "amount_high": 97728311,
+   "tx_date": "2026-05-21",
+   "filed_date": "2026-05-26",
+   "lag_days": 5,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1869198/000119312526239972/"
   },
   {
    "id": "I-7e876e89995c",
@@ -114625,6 +119255,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1018724/000155797926000006/"
   },
   {
+   "id": "I-14ef9efef3f0",
+   "source": "insider",
+   "person": "Galashan John Kristofer",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "LTH",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 97728311,
+   "amount_high": 97728311,
+   "tx_date": "2026-05-21",
+   "filed_date": "2026-05-26",
+   "lag_days": 5,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1869198/000119312526239975/"
+  },
+  {
    "id": "I-127de073b2ad",
    "source": "insider",
    "person": "Freier Jon",
@@ -114667,6 +119319,28 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1018724/000137454526000008/"
+  },
+  {
+   "id": "I-0b4d634c356f",
+   "source": "insider",
+   "person": "Green LTF Holdings II LP et al.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "LTH",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 95946178,
+   "amount_high": 95946178,
+   "tx_date": "2026-05-21",
+   "filed_date": "2026-05-26",
+   "lag_days": 5,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1869198/000119312526239981/"
   },
   {
    "id": "I-010a0c021af5",
@@ -166169,33 +170843,6 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033947.pdf"
-  },
-  {
-   "id": "C-7d1f51372bad",
-   "source": "congress",
-   "person": "Shelley M Capito",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": [
-     "Senate Committee on Appropriations",
-     "Senate Committee on Commerce, Science, and Transportation",
-     "Senate Committee on Environment and Public Works",
-     "Senate Committee on Rules and Administration"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "SBUX",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-28",
-   "filed_date": "2026-02-05",
-   "lag_days": 8,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/863cb85f-ff3b-41b2-ac1b-7d82f427c7b4/"
   }
  ]
 }

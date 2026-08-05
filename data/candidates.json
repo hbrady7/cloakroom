@@ -168,6 +168,288 @@
    ]
   },
   {
+   "ticker": "MLM",
+   "score": 9.2,
+   "signals": {
+    "cluster": {
+     "fired": false,
+     "points": 0.0,
+     "distinct_buyers": 1
+    },
+    "committee": {
+     "fired": true,
+     "points": 7.0,
+     "aligned_buyers": [
+      "April McClain Delaney"
+     ],
+     "sectors": [
+      "mining",
+      "commodities"
+     ]
+    },
+    "convergence": {
+     "fired": false,
+     "points": 0.0,
+     "insider_buyers": []
+    },
+    "options": {
+     "fired": false,
+     "points": 0.0,
+     "count": 0
+    },
+    "size": {
+     "fired": true,
+     "points": 2.2,
+     "max_band_mid": 32500
+    }
+   },
+   "evidence": [
+    {
+     "id": "C-47a6397b6467",
+     "signal": "committee"
+    },
+    {
+     "id": "C-ed77f1eab25f",
+     "signal": "committee"
+    },
+    {
+     "id": "C-e571feaf8384",
+     "signal": "committee"
+    },
+    {
+     "id": "C-12f6659ebf8b",
+     "signal": "committee"
+    },
+    {
+     "id": "C-1dc54ceffff6",
+     "signal": "committee"
+    },
+    {
+     "id": "C-47a6397b6467",
+     "signal": "size"
+    }
+   ],
+   "stats": {
+    "congress_buys": 5,
+    "distinct_buyers": 1,
+    "insider_open_market_buys": 0,
+    "options_positions": 0
+   },
+   "name": "MARTIN MARIETTA MATERIALS INC",
+   "sectors": [
+    "mining",
+    "commodities"
+   ]
+  },
+  {
+   "ticker": "HUBB",
+   "score": 8.7,
+   "signals": {
+    "cluster": {
+     "fired": false,
+     "points": 0.0,
+     "distinct_buyers": 1
+    },
+    "committee": {
+     "fired": true,
+     "points": 6.6,
+     "aligned_buyers": [
+      "April McClain Delaney"
+     ],
+     "sectors": [
+      "semis",
+      "tech"
+     ]
+    },
+    "convergence": {
+     "fired": false,
+     "points": 0.0,
+     "insider_buyers": []
+    },
+    "options": {
+     "fired": false,
+     "points": 0.0,
+     "count": 0
+    },
+    "size": {
+     "fired": true,
+     "points": 2.1,
+     "max_band_mid": 32500
+    }
+   },
+   "evidence": [
+    {
+     "id": "C-901e20c32b96",
+     "signal": "committee"
+    },
+    {
+     "id": "C-9ccbcfe83096",
+     "signal": "committee"
+    },
+    {
+     "id": "C-b3be99b7f6ae",
+     "signal": "committee"
+    },
+    {
+     "id": "C-51a682d5fdb2",
+     "signal": "committee"
+    },
+    {
+     "id": "C-6a1e05e887fb",
+     "signal": "committee"
+    },
+    {
+     "id": "C-9b64a07abf5a",
+     "signal": "committee"
+    },
+    {
+     "id": "C-c48f2538868c",
+     "signal": "committee"
+    },
+    {
+     "id": "C-1b1ccddef927",
+     "signal": "committee"
+    },
+    {
+     "id": "C-5ca60d7943a5",
+     "signal": "committee"
+    },
+    {
+     "id": "C-f09c60c80cff",
+     "signal": "committee"
+    },
+    {
+     "id": "C-238c71336446",
+     "signal": "committee"
+    },
+    {
+     "id": "C-4b573859b012",
+     "signal": "committee"
+    },
+    {
+     "id": "C-901e20c32b96",
+     "signal": "size"
+    }
+   ],
+   "stats": {
+    "congress_buys": 13,
+    "distinct_buyers": 2,
+    "insider_open_market_buys": 0,
+    "options_positions": 0
+   },
+   "name": "HUBBELL INC",
+   "sectors": [
+    "semis",
+    "tech"
+   ]
+  },
+  {
+   "ticker": "TDG",
+   "score": 8.5,
+   "signals": {
+    "cluster": {
+     "fired": true,
+     "points": 0.0,
+     "distinct_buyers": 3
+    },
+    "committee": {
+     "fired": true,
+     "points": 8.5,
+     "aligned_buyers": [
+      "April McClain Delaney"
+     ],
+     "sectors": [
+      "aerospace",
+      "defense"
+     ]
+    },
+    "convergence": {
+     "fired": false,
+     "points": 0.0,
+     "insider_buyers": []
+    },
+    "options": {
+     "fired": false,
+     "points": 0.0,
+     "count": 0
+    },
+    "size": {
+     "fired": false,
+     "points": 0.0,
+     "max_band_mid": 32500
+    }
+   },
+   "evidence": [
+    {
+     "id": "C-ee8f76bf7453",
+     "signal": "cluster"
+    },
+    {
+     "id": "C-e70a08a4153f",
+     "signal": "cluster"
+    },
+    {
+     "id": "C-ee3f05865c0f",
+     "signal": "cluster"
+    },
+    {
+     "id": "C-adfd961bdd55",
+     "signal": "committee"
+    },
+    {
+     "id": "C-ce6d4557089e",
+     "signal": "committee"
+    },
+    {
+     "id": "C-5b2e6b9821f0",
+     "signal": "committee"
+    },
+    {
+     "id": "C-0c252772c98e",
+     "signal": "committee"
+    },
+    {
+     "id": "C-c95dcd882f45",
+     "signal": "committee"
+    },
+    {
+     "id": "C-68985096cfcb",
+     "signal": "committee"
+    },
+    {
+     "id": "C-4f6e47712942",
+     "signal": "committee"
+    },
+    {
+     "id": "C-0ef7f67bef5b",
+     "signal": "committee"
+    },
+    {
+     "id": "C-1910ae2ca67c",
+     "signal": "committee"
+    },
+    {
+     "id": "C-620ad4cd4c0a",
+     "signal": "committee"
+    },
+    {
+     "id": "C-ee3f05865c0f",
+     "signal": "committee"
+    }
+   ],
+   "stats": {
+    "congress_buys": 14,
+    "distinct_buyers": 3,
+    "insider_open_market_buys": 0,
+    "options_positions": 0
+   },
+   "name": "TransDigm Group INC",
+   "sectors": [
+    "aerospace",
+    "defense"
+   ]
+  },
+  {
    "ticker": "HON",
    "score": 5.8,
    "signals": {
@@ -383,6 +665,200 @@
    ]
   },
   {
+   "ticker": "CHRW",
+   "score": 3.1,
+   "signals": {
+    "cluster": {
+     "fired": false,
+     "points": 0.0,
+     "distinct_buyers": 1
+    },
+    "committee": {
+     "fired": false,
+     "points": 0.0,
+     "aligned_buyers": [],
+     "sectors": [
+      "transport"
+     ]
+    },
+    "convergence": {
+     "fired": false,
+     "points": 0.0,
+     "insider_buyers": []
+    },
+    "options": {
+     "fired": false,
+     "points": 0.0,
+     "count": 0
+    },
+    "size": {
+     "fired": true,
+     "points": 3.1,
+     "max_band_mid": 32500
+    }
+   },
+   "evidence": [
+    {
+     "id": "C-a510ea7ad8a1",
+     "signal": "size"
+    }
+   ],
+   "stats": {
+    "congress_buys": 13,
+    "distinct_buyers": 1,
+    "insider_open_market_buys": 0,
+    "options_positions": 0
+   },
+   "name": "C. H. ROBINSON WORLDWIDE, INC.",
+   "sectors": [
+    "transport"
+   ]
+  },
+  {
+   "ticker": "FWONK",
+   "score": 3.1,
+   "signals": {
+    "cluster": {
+     "fired": false,
+     "points": 0.0,
+     "distinct_buyers": 1
+    },
+    "committee": {
+     "fired": false,
+     "points": 0.0,
+     "aligned_buyers": [],
+     "sectors": [
+      "media",
+      "telecom"
+     ]
+    },
+    "convergence": {
+     "fired": false,
+     "points": 0.0,
+     "insider_buyers": []
+    },
+    "options": {
+     "fired": false,
+     "points": 0.0,
+     "count": 0
+    },
+    "size": {
+     "fired": true,
+     "points": 3.1,
+     "max_band_mid": 32500
+    }
+   },
+   "evidence": [
+    {
+     "id": "C-782ae11d2b42",
+     "signal": "size"
+    }
+   ],
+   "stats": {
+    "congress_buys": 6,
+    "distinct_buyers": 1,
+    "insider_open_market_buys": 0,
+    "options_positions": 0
+   },
+   "name": "Liberty Media Corp",
+   "sectors": [
+    "media",
+    "telecom"
+   ]
+  },
+  {
+   "ticker": "LTH",
+   "score": 3.1,
+   "signals": {
+    "cluster": {
+     "fired": false,
+     "points": 0.0,
+     "distinct_buyers": 1
+    },
+    "committee": {
+     "fired": false,
+     "points": 0.0,
+     "aligned_buyers": [],
+     "sectors": []
+    },
+    "convergence": {
+     "fired": false,
+     "points": 0.0,
+     "insider_buyers": []
+    },
+    "options": {
+     "fired": false,
+     "points": 0.0,
+     "count": 0
+    },
+    "size": {
+     "fired": true,
+     "points": 3.1,
+     "max_band_mid": 32500
+    }
+   },
+   "evidence": [
+    {
+     "id": "C-162db53ca7d0",
+     "signal": "size"
+    }
+   ],
+   "stats": {
+    "congress_buys": 9,
+    "distinct_buyers": 1,
+    "insider_open_market_buys": 0,
+    "options_positions": 0
+   },
+   "name": "Life Time Group Holdings, Inc.",
+   "sectors": []
+  },
+  {
+   "ticker": "SGI",
+   "score": 3.0,
+   "signals": {
+    "cluster": {
+     "fired": false,
+     "points": 0.0,
+     "distinct_buyers": 1
+    },
+    "committee": {
+     "fired": false,
+     "points": 0.0,
+     "aligned_buyers": [],
+     "sectors": []
+    },
+    "convergence": {
+     "fired": false,
+     "points": 0.0,
+     "insider_buyers": []
+    },
+    "options": {
+     "fired": false,
+     "points": 0.0,
+     "count": 0
+    },
+    "size": {
+     "fired": true,
+     "points": 3.0,
+     "max_band_mid": 32500
+    }
+   },
+   "evidence": [
+    {
+     "id": "C-ce3d637d36bc",
+     "signal": "size"
+    }
+   ],
+   "stats": {
+    "congress_buys": 5,
+    "distinct_buyers": 1,
+    "insider_open_market_buys": 0,
+    "options_positions": 0
+   },
+   "name": "SOMNIGROUP INTERNATIONAL INC.",
+   "sectors": []
+  },
+  {
    "ticker": "SPCX",
    "score": 3.0,
    "signals": {
@@ -453,424 +929,8 @@
  ],
  "caution": [
   {
-   "ticker": "GL",
-   "score": 29.5,
-   "signals": {
-    "sell_cluster": {
-     "fired": false,
-     "points": 0.0,
-     "distinct_sellers": 0
-    },
-    "insider_distribution": {
-     "fired": true,
-     "points": 29.5,
-     "distinct_sellers": 8,
-     "weighted_sellers": 8.0
-    },
-    "committee_sell": {
-     "fired": false,
-     "points": 0.0
-    }
-   },
-   "evidence": [
-    {
-     "id": "I-e3bc556eb3aa",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-3dc7a6901d7b",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-edb3fe6f49a8",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-bcec2bf8f662",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-afd03a1d3a9a",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-1fbab229de4c",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-f92fb4cfadab",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-5116528a057d",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-300abbd7733d",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-1347424c11f0",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-0b7acda49f43",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-cc2dee84c2b0",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-e07a847ca567",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-bcd7672b2c4e",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-b51614371d2b",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-a5da09547513",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-80ee7239bb1b",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-68d9db1d9bc4",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-193300b1d6db",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-131e1181d49d",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-b3bea9008527",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-28c288e38681",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-66c09c5c7808",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-3088c10f8966",
-     "signal": "insider_distribution"
-    }
-   ],
-   "stats": {
-    "congress_sells": 0,
-    "insider_sells": 34
-   },
-   "name": "GLOBE LIFE INC.",
-   "sectors": [
-    "insurance"
-   ]
-  },
-  {
-   "ticker": "VRSK",
-   "score": 28.6,
-   "signals": {
-    "sell_cluster": {
-     "fired": false,
-     "points": 0.0,
-     "distinct_sellers": 1
-    },
-    "insider_distribution": {
-     "fired": true,
-     "points": 28.6,
-     "distinct_sellers": 5,
-     "weighted_sellers": 3.5
-    },
-    "committee_sell": {
-     "fired": false,
-     "points": 0.0
-    }
-   },
-   "evidence": [
-    {
-     "id": "I-48e369713784",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-1f8045131df0",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-cd82365ec7fc",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-d4f46e3aa8aa",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-85a0c5ba116c",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-ab983f4d3531",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-8a29e30a5438",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-0fdf64af11d4",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-c50097f99a40",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-c9286f535315",
-     "signal": "insider_distribution"
-    }
-   ],
-   "stats": {
-    "congress_sells": 2,
-    "insider_sells": 10
-   },
-   "name": "Verisk Analytics, Inc.",
-   "sectors": [
-    "tech"
-   ]
-  },
-  {
-   "ticker": "EW",
-   "score": 28.1,
-   "signals": {
-    "sell_cluster": {
-     "fired": false,
-     "points": 0.0,
-     "distinct_sellers": 0
-    },
-    "insider_distribution": {
-     "fired": true,
-     "points": 28.1,
-     "distinct_sellers": 6,
-     "weighted_sellers": 5.5
-    },
-    "committee_sell": {
-     "fired": false,
-     "points": 0.0
-    }
-   },
-   "evidence": [
-    {
-     "id": "I-978c5bd802f6",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-d102a1f1052f",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-e89b72d05aca",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-b72b2dd369e6",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-c86dd2915851",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-bf3f5fce385f",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-68af1f3b1101",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-e65e59858ee1",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-93bea7a3a623",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-345656098127",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-dee0e1ec66f8",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-5f2efe5fccd2",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-ba9b7bb0360b",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-5dcc171f01e8",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-1ce74df6462c",
-     "signal": "insider_distribution"
-    }
-   ],
-   "stats": {
-    "congress_sells": 0,
-    "insider_sells": 15
-   },
-   "name": "Edwards Lifesciences Corp",
-   "sectors": [
-    "healthcare"
-   ]
-  },
-  {
-   "ticker": "STX",
-   "score": 28.1,
-   "signals": {
-    "sell_cluster": {
-     "fired": false,
-     "points": 0.0,
-     "distinct_sellers": 0
-    },
-    "insider_distribution": {
-     "fired": true,
-     "points": 28.1,
-     "distinct_sellers": 8,
-     "weighted_sellers": 6.5
-    },
-    "committee_sell": {
-     "fired": false,
-     "points": 0.0
-    }
-   },
-   "evidence": [
-    {
-     "id": "I-b411d45e3b0b",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-44289b134573",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-fa43a7d2466d",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-f4dca5549bd4",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-ef8be080a6e9",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-ea2c8ebaad63",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-e281646cdf11",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-e26ffebc0499",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-decf4278971b",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-d9b2124d0114",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-d1c3a3ec6610",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-c92fb0a86638",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-bc6c32c91835",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-bc19c1c89bd7",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-b42fe420a606",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-aefc3fffa092",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-a6e8671b79cf",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-a43478ad7b20",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-a16ca658bd2d",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-9fc710fb03bb",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-9ee75cf9ee0b",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-96e39f990ef0",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-957136709f6a",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-93daf158e66f",
-     "signal": "insider_distribution"
-    }
-   ],
-   "stats": {
-    "congress_sells": 0,
-    "insider_sells": 81
-   },
-   "name": "Seagate Technology Holdings plc",
-   "sectors": [
-    "tech"
-   ]
-  },
-  {
    "ticker": "SCHW",
-   "score": 26.7,
+   "score": 36.0,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -879,7 +939,7 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 26.7,
+     "points": 36.0,
      "distinct_sellers": 8,
      "weighted_sellers": 6.0
     },
@@ -889,6 +949,14 @@
     }
    },
    "evidence": [
+    {
+     "id": "I-1d2ecd4fd9cc",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-63fd32db89ca",
+     "signal": "insider_distribution"
+    },
     {
      "id": "I-38e28138a784",
      "signal": "insider_distribution"
@@ -964,15 +1032,393 @@
    ],
    "stats": {
     "congress_sells": 1,
-    "insider_sells": 18
+    "insider_sells": 20
    },
    "name": "SCHWAB CHARLES CORP",
    "sectors": [
     "fintech",
     "banks"
    ]
+  },
+  {
+   "ticker": "STX",
+   "score": 34.3,
+   "signals": {
+    "sell_cluster": {
+     "fired": false,
+     "points": 0.0,
+     "distinct_sellers": 0
+    },
+    "insider_distribution": {
+     "fired": true,
+     "points": 34.3,
+     "distinct_sellers": 8,
+     "weighted_sellers": 6.5
+    },
+    "committee_sell": {
+     "fired": false,
+     "points": 0.0
+    }
+   },
+   "evidence": [
+    {
+     "id": "I-f9ea0bc42aee",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-f70d0a3a0cf6",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-f03d6bda21d1",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-e49ef61fae66",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-de9b08d376ae",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-dc5adf600c56",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-d9237bf678ff",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-d6bf483a14a6",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-d6494ef7398b",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-d556f53e0d79",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-d39594ae604f",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-d03f25d69304",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-cd652488cde9",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-c515a98da2be",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-c30dc91cc1b5",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-ba19f12081e5",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-b5f316efed4d",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-af2e184520e2",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-9c6812a39304",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-949dd43c48a2",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-947f77bbb2b5",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-91728aca26c6",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-916998e4ec8a",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-8fb95287b46b",
+     "signal": "insider_distribution"
+    }
+   ],
+   "stats": {
+    "congress_sells": 0,
+    "insider_sells": 130
+   },
+   "name": "Seagate Technology Holdings plc",
+   "sectors": [
+    "tech"
+   ]
+  },
+  {
+   "ticker": "FFIV",
+   "score": 32.4,
+   "signals": {
+    "sell_cluster": {
+     "fired": false,
+     "points": 0.0,
+     "distinct_sellers": 0
+    },
+    "insider_distribution": {
+     "fired": true,
+     "points": 32.4,
+     "distinct_sellers": 7,
+     "weighted_sellers": 4.5
+    },
+    "committee_sell": {
+     "fired": false,
+     "points": 0.0
+    }
+   },
+   "evidence": [
+    {
+     "id": "I-cdd2f876860c",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-c7c6b46fb2da",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-bc29a52d5006",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-4d7e60e86dd7",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-18f3f509f78d",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-d73fd4b4306e",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-b62a8188f370",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-8b94b373a918",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-78635bcc350e",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-617566db463b",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-4fd5f7778581",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-d3b3a6dae1ce",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-6cf39fd47811",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-687617035777",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-38fba0b3b57d",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-8968c2804f5f",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-f1a2bf170d9e",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-6f135e363d80",
+     "signal": "insider_distribution"
+    }
+   ],
+   "stats": {
+    "congress_sells": 0,
+    "insider_sells": 18
+   },
+   "name": "F5, INC.",
+   "sectors": [
+    "tech"
+   ]
+  },
+  {
+   "ticker": "GD",
+   "score": 30.5,
+   "signals": {
+    "sell_cluster": {
+     "fired": false,
+     "points": 0.0,
+     "distinct_sellers": 1
+    },
+    "insider_distribution": {
+     "fired": true,
+     "points": 30.5,
+     "distinct_sellers": 4,
+     "weighted_sellers": 4.0
+    },
+    "committee_sell": {
+     "fired": false,
+     "points": 0.0
+    }
+   },
+   "evidence": [
+    {
+     "id": "I-afd18828cbe6",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-a555f5ebd31d",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-3da6832bc178",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-0af8026c7189",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-c7be45d5839f",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-abc5eb818400",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-ca37dad79626",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-50dac6b28931",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-ef6ad1b0e2ac",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-eda0b91ec54d",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-684b4fc88b1e",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-07b7f3f0586d",
+     "signal": "insider_distribution"
+    }
+   ],
+   "stats": {
+    "congress_sells": 2,
+    "insider_sells": 12
+   },
+   "name": "GENERAL DYNAMICS CORP",
+   "sectors": [
+    "transport",
+    "industrial"
+   ]
+  },
+  {
+   "ticker": "KLAC",
+   "score": 30.0,
+   "signals": {
+    "sell_cluster": {
+     "fired": false,
+     "points": 0.0,
+     "distinct_sellers": 1
+    },
+    "insider_distribution": {
+     "fired": true,
+     "points": 30.0,
+     "distinct_sellers": 5,
+     "weighted_sellers": 3.5
+    },
+    "committee_sell": {
+     "fired": false,
+     "points": 0.0
+    }
+   },
+   "evidence": [
+    {
+     "id": "I-fdd036fcbd93",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-1b65f026f536",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-fe7530d92cd2",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-e0f622e9b516",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-577e261889fb",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-f91fa60b0af1",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-a6603d3c2d8c",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-e854bddd4597",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-c3962c1400cf",
+     "signal": "insider_distribution"
+    }
+   ],
+   "stats": {
+    "congress_sells": 1,
+    "insider_sells": 9
+   },
+   "name": "KLA CORP",
+   "sectors": [
+    "healthcare",
+    "tech"
+   ]
   }
  ],
- "universe": 728,
- "generated_at": "2026-08-04T13:19:47Z"
+ "universe": 730,
+ "generated_at": "2026-08-05T13:15:10Z"
 }

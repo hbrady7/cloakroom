@@ -1,7 +1,142 @@
 {
- "generated_at": "2026-08-04T13:17:40Z",
+ "generated_at": "2026-08-05T13:12:30Z",
  "mode": "efd",
  "transactions": [
+  {
+   "id": "C-adec07d0260a",
+   "source": "congress",
+   "person": "Shelley M Capito",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Committee on Appropriations",
+     "Senate Committee on Commerce, Science, and Transportation",
+     "Senate Committee on Environment and Public Works",
+     "Senate Committee on Rules and Administration"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "INTC",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-21",
+   "filed_date": "2026-08-04",
+   "lag_days": 14,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/60c01547-0cf9-46c6-9ce6-f0102f5941f6/"
+  },
+  {
+   "id": "C-a7124fb57fec",
+   "source": "congress",
+   "person": "Shelley M Capito",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Committee on Appropriations",
+     "Senate Committee on Commerce, Science, and Transportation",
+     "Senate Committee on Environment and Public Works",
+     "Senate Committee on Rules and Administration"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MSFT",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-07-21",
+   "filed_date": "2026-08-04",
+   "lag_days": 14,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/60c01547-0cf9-46c6-9ce6-f0102f5941f6/"
+  },
+  {
+   "id": "C-8f263a30c827",
+   "source": "congress",
+   "person": "Shelley M Capito",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Committee on Appropriations",
+     "Senate Committee on Commerce, Science, and Transportation",
+     "Senate Committee on Environment and Public Works",
+     "Senate Committee on Rules and Administration"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CSCO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-21",
+   "filed_date": "2026-08-04",
+   "lag_days": 14,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/60c01547-0cf9-46c6-9ce6-f0102f5941f6/"
+  },
+  {
+   "id": "C-6076b040a36a",
+   "source": "congress",
+   "person": "Shelley M Capito",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Committee on Appropriations",
+     "Senate Committee on Commerce, Science, and Transportation",
+     "Senate Committee on Environment and Public Works",
+     "Senate Committee on Rules and Administration"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "KO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-21",
+   "filed_date": "2026-08-04",
+   "lag_days": 14,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/60c01547-0cf9-46c6-9ce6-f0102f5941f6/"
+  },
+  {
+   "id": "C-2144072404a3",
+   "source": "congress",
+   "person": "Shelley M Capito",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Committee on Appropriations",
+     "Senate Committee on Commerce, Science, and Transportation",
+     "Senate Committee on Environment and Public Works",
+     "Senate Committee on Rules and Administration"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "AAPL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-21",
+   "filed_date": "2026-08-04",
+   "lag_days": 14,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/60c01547-0cf9-46c6-9ce6-f0102f5941f6/"
+  },
   {
    "id": "C-eb1e8ddd1ae5",
    "source": "congress",
@@ -15882,33 +16017,6 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://efdsearch.senate.gov/search/view/ptr/83722654-25b1-499e-8ad5-4a1349d993a6/"
-  },
-  {
-   "id": "C-7d1f51372bad",
-   "source": "congress",
-   "person": "Shelley M Capito",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": [
-     "Senate Committee on Appropriations",
-     "Senate Committee on Commerce, Science, and Transportation",
-     "Senate Committee on Environment and Public Works",
-     "Senate Committee on Rules and Administration"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "SBUX",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-28",
-   "filed_date": "2026-02-05",
-   "lag_days": 8,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/863cb85f-ff3b-41b2-ac1b-7d82f427c7b4/"
   }
  ]
 }
