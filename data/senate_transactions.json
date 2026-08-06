@@ -1,7 +1,4627 @@
 {
- "generated_at": "2026-08-05T13:12:30Z",
+ "generated_at": "2026-08-06T13:11:40Z",
  "mode": "efd",
  "transactions": [
+  {
+   "id": "C-db2c548bf41e",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "XLU",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2025-12-17",
+   "filed_date": "2026-08-05",
+   "lag_days": 231,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/57cf1745-e3dd-4afd-8685-228153848631/"
+  },
+  {
+   "id": "C-960060c76a54",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "XLV",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2025-12-17",
+   "filed_date": "2026-08-05",
+   "lag_days": 231,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/57cf1745-e3dd-4afd-8685-228153848631/"
+  },
+  {
+   "id": "C-82134f0d47a4",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "AAPL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 50001,
+   "amount_high": 100000,
+   "tx_date": "2025-12-17",
+   "filed_date": "2026-08-05",
+   "lag_days": 231,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/57cf1745-e3dd-4afd-8685-228153848631/"
+  },
+  {
+   "id": "C-1a7e9824aaeb",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "GOOGL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-12-17",
+   "filed_date": "2026-08-05",
+   "lag_days": 231,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/57cf1745-e3dd-4afd-8685-228153848631/"
+  },
+  {
+   "id": "C-0b40ad0bb370",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "XLP",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2025-12-17",
+   "filed_date": "2026-08-05",
+   "lag_days": 231,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/57cf1745-e3dd-4afd-8685-228153848631/"
+  },
+  {
+   "id": "C-762778c06326",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "AAPL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2025-10-07",
+   "filed_date": "2026-08-05",
+   "lag_days": 302,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/1a5e6752-653a-4b11-82b6-efd51d466bb6/"
+  },
+  {
+   "id": "C-6dafd8f3e973",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "PEP",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2025-10-07",
+   "filed_date": "2026-08-05",
+   "lag_days": 302,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/1a5e6752-653a-4b11-82b6-efd51d466bb6/"
+  },
+  {
+   "id": "C-679c12704b9f",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "GOOGL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2025-10-07",
+   "filed_date": "2026-08-05",
+   "lag_days": 302,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/1a5e6752-653a-4b11-82b6-efd51d466bb6/"
+  },
+  {
+   "id": "C-559b94289dfe",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "OC",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2025-10-07",
+   "filed_date": "2026-08-05",
+   "lag_days": 302,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/1a5e6752-653a-4b11-82b6-efd51d466bb6/"
+  },
+  {
+   "id": "C-1c98ce126b6e",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ORCL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2025-10-07",
+   "filed_date": "2026-08-05",
+   "lag_days": 302,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/1a5e6752-653a-4b11-82b6-efd51d466bb6/"
+  },
+  {
+   "id": "C-103ef5617071",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MSFT",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2025-10-07",
+   "filed_date": "2026-08-05",
+   "lag_days": 302,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/1a5e6752-653a-4b11-82b6-efd51d466bb6/"
+  },
+  {
+   "id": "C-e5af7ba587af",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "BMY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-04-15",
+   "filed_date": "2026-08-05",
+   "lag_days": 477,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/014817f0-9809-457f-8ac5-048948608e02/"
+  },
+  {
+   "id": "C-e22612c529ce",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "LLY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2025-04-15",
+   "filed_date": "2026-08-05",
+   "lag_days": 477,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/014817f0-9809-457f-8ac5-048948608e02/"
+  },
+  {
+   "id": "C-c81f037bc674",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "USIG",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 50001,
+   "amount_high": 100000,
+   "tx_date": "2025-04-15",
+   "filed_date": "2026-08-05",
+   "lag_days": 477,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/014817f0-9809-457f-8ac5-048948608e02/"
+  },
+  {
+   "id": "C-b327fcd3c4c0",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "AAPL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2025-04-15",
+   "filed_date": "2026-08-05",
+   "lag_days": 477,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/014817f0-9809-457f-8ac5-048948608e02/"
+  },
+  {
+   "id": "C-8f2508ef2877",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "STZ",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2025-04-15",
+   "filed_date": "2026-08-05",
+   "lag_days": 477,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/014817f0-9809-457f-8ac5-048948608e02/"
+  },
+  {
+   "id": "C-828d72402963",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MSFT",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2025-04-15",
+   "filed_date": "2026-08-05",
+   "lag_days": 477,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/014817f0-9809-457f-8ac5-048948608e02/"
+  },
+  {
+   "id": "C-79e3d017f729",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2025-04-15",
+   "filed_date": "2026-08-05",
+   "lag_days": 477,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/014817f0-9809-457f-8ac5-048948608e02/"
+  },
+  {
+   "id": "C-72031abdc2f5",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "JPM",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2025-04-15",
+   "filed_date": "2026-08-05",
+   "lag_days": 477,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/014817f0-9809-457f-8ac5-048948608e02/"
+  },
+  {
+   "id": "C-71771df98273",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "GS",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2025-04-15",
+   "filed_date": "2026-08-05",
+   "lag_days": 477,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/014817f0-9809-457f-8ac5-048948608e02/"
+  },
+  {
+   "id": "C-56099b8bc058",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CSX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2025-04-15",
+   "filed_date": "2026-08-05",
+   "lag_days": 477,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/014817f0-9809-457f-8ac5-048948608e02/"
+  },
+  {
+   "id": "C-4b234794e48a",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ADM",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2025-04-15",
+   "filed_date": "2026-08-05",
+   "lag_days": 477,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/014817f0-9809-457f-8ac5-048948608e02/"
+  },
+  {
+   "id": "C-469fd502859b",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "DUK",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2025-04-15",
+   "filed_date": "2026-08-05",
+   "lag_days": 477,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/014817f0-9809-457f-8ac5-048948608e02/"
+  },
+  {
+   "id": "C-39d2e26d5915",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "GOOGL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2025-04-15",
+   "filed_date": "2026-08-05",
+   "lag_days": 477,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/014817f0-9809-457f-8ac5-048948608e02/"
+  },
+  {
+   "id": "C-3937a8b2e1e9",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "AMGN",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2025-04-15",
+   "filed_date": "2026-08-05",
+   "lag_days": 477,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/014817f0-9809-457f-8ac5-048948608e02/"
+  },
+  {
+   "id": "C-2efee6d8374e",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "PYPL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2025-04-15",
+   "filed_date": "2026-08-05",
+   "lag_days": 477,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/014817f0-9809-457f-8ac5-048948608e02/"
+  },
+  {
+   "id": "C-a52d061b68b0",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CARR",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-01-10",
+   "filed_date": "2026-08-05",
+   "lag_days": 572,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/d1afafd0-a78f-44ef-ae47-da99dfb01317/"
+  },
+  {
+   "id": "C-7829ae680715",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "TSCO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2025-01-10",
+   "filed_date": "2026-08-05",
+   "lag_days": 572,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/d1afafd0-a78f-44ef-ae47-da99dfb01317/"
+  },
+  {
+   "id": "C-5ddd39d98f46",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "TXN",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2025-01-10",
+   "filed_date": "2026-08-05",
+   "lag_days": 572,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/d1afafd0-a78f-44ef-ae47-da99dfb01317/"
+  },
+  {
+   "id": "C-4785e5d3967c",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "DEO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2025-01-10",
+   "filed_date": "2026-08-05",
+   "lag_days": 572,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/d1afafd0-a78f-44ef-ae47-da99dfb01317/"
+  },
+  {
+   "id": "C-3bf9649e620f",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MSFT",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2025-01-10",
+   "filed_date": "2026-08-05",
+   "lag_days": 572,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/d1afafd0-a78f-44ef-ae47-da99dfb01317/"
+  },
+  {
+   "id": "C-383781aab5be",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "AAPL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2025-01-10",
+   "filed_date": "2026-08-05",
+   "lag_days": 572,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/d1afafd0-a78f-44ef-ae47-da99dfb01317/"
+  },
+  {
+   "id": "C-e4f64b928582",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ADBE",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2024-10-29",
+   "filed_date": "2026-08-05",
+   "lag_days": 645,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/cce52b36-d00c-4710-a8ee-e84893fb4be1/"
+  },
+  {
+   "id": "C-da8430bd7961",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MSFT",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2024-10-29",
+   "filed_date": "2026-08-05",
+   "lag_days": 645,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/cce52b36-d00c-4710-a8ee-e84893fb4be1/"
+  },
+  {
+   "id": "C-d81ae6463914",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "AAPL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2024-10-29",
+   "filed_date": "2026-08-05",
+   "lag_days": 645,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/2b076d77-6bc1-4b67-8be9-8f45a787479f/"
+  },
+  {
+   "id": "C-babb7b8c03dd",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MCD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2024-10-29",
+   "filed_date": "2026-08-05",
+   "lag_days": 645,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/2b076d77-6bc1-4b67-8be9-8f45a787479f/"
+  },
+  {
+   "id": "C-b5710c2e52fa",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "HON",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2024-10-29",
+   "filed_date": "2026-08-05",
+   "lag_days": 645,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/2b076d77-6bc1-4b67-8be9-8f45a787479f/"
+  },
+  {
+   "id": "C-a7b77d890b27",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "JNJ",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2024-10-29",
+   "filed_date": "2026-08-05",
+   "lag_days": 645,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/cce52b36-d00c-4710-a8ee-e84893fb4be1/"
+  },
+  {
+   "id": "C-9f89815df69b",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "AAPL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2024-10-29",
+   "filed_date": "2026-08-05",
+   "lag_days": 645,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/cce52b36-d00c-4710-a8ee-e84893fb4be1/"
+  },
+  {
+   "id": "C-908a4c63bff7",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CTVA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-10-29",
+   "filed_date": "2026-08-05",
+   "lag_days": 645,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/2b076d77-6bc1-4b67-8be9-8f45a787479f/"
+  },
+  {
+   "id": "C-64f9fe19fa9b",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "OC",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2024-10-29",
+   "filed_date": "2026-08-05",
+   "lag_days": 645,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/cce52b36-d00c-4710-a8ee-e84893fb4be1/"
+  },
+  {
+   "id": "C-6172267ef2eb",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MSFT",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2024-10-29",
+   "filed_date": "2026-08-05",
+   "lag_days": 645,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/2b076d77-6bc1-4b67-8be9-8f45a787479f/"
+  },
+  {
+   "id": "C-612bdbfceae9",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "JNJ",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2024-10-29",
+   "filed_date": "2026-08-05",
+   "lag_days": 645,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/2b076d77-6bc1-4b67-8be9-8f45a787479f/"
+  },
+  {
+   "id": "C-5cbf4b735017",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MCD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2024-10-29",
+   "filed_date": "2026-08-05",
+   "lag_days": 645,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/cce52b36-d00c-4710-a8ee-e84893fb4be1/"
+  },
+  {
+   "id": "C-489346525b99",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "KMB",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2024-10-29",
+   "filed_date": "2026-08-05",
+   "lag_days": 645,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/cce52b36-d00c-4710-a8ee-e84893fb4be1/"
+  },
+  {
+   "id": "C-3b0f3a843c25",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "TRV",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2024-10-29",
+   "filed_date": "2026-08-05",
+   "lag_days": 645,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/cce52b36-d00c-4710-a8ee-e84893fb4be1/"
+  },
+  {
+   "id": "C-2d94fc4cfdc7",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "OC",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2024-10-29",
+   "filed_date": "2026-08-05",
+   "lag_days": 645,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/2b076d77-6bc1-4b67-8be9-8f45a787479f/"
+  },
+  {
+   "id": "C-2c5902f085fb",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ADBE",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2024-10-29",
+   "filed_date": "2026-08-05",
+   "lag_days": 645,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/2b076d77-6bc1-4b67-8be9-8f45a787479f/"
+  },
+  {
+   "id": "C-1ea03a5a6263",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "KMB",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2024-10-29",
+   "filed_date": "2026-08-05",
+   "lag_days": 645,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/2b076d77-6bc1-4b67-8be9-8f45a787479f/"
+  },
+  {
+   "id": "C-1d342cb1571f",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CTVA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-10-29",
+   "filed_date": "2026-08-05",
+   "lag_days": 645,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/cce52b36-d00c-4710-a8ee-e84893fb4be1/"
+  },
+  {
+   "id": "C-187438e36b25",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "HON",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2024-10-29",
+   "filed_date": "2026-08-05",
+   "lag_days": 645,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/cce52b36-d00c-4710-a8ee-e84893fb4be1/"
+  },
+  {
+   "id": "C-02670fd08729",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "TRV",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2024-10-29",
+   "filed_date": "2026-08-05",
+   "lag_days": 645,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/2b076d77-6bc1-4b67-8be9-8f45a787479f/"
+  },
+  {
+   "id": "C-e8d247836bd1",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "AAPL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2024-08-26",
+   "filed_date": "2026-08-05",
+   "lag_days": 709,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/2758f09a-fda9-4fb4-a465-270173a8125d/"
+  },
+  {
+   "id": "C-bedb92272641",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CVS",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-08-26",
+   "filed_date": "2026-08-05",
+   "lag_days": 709,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/2758f09a-fda9-4fb4-a465-270173a8125d/"
+  },
+  {
+   "id": "C-7cf219d85415",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "UPS",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2024-08-26",
+   "filed_date": "2026-08-05",
+   "lag_days": 709,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/2758f09a-fda9-4fb4-a465-270173a8125d/"
+  },
+  {
+   "id": "C-64186a4e2608",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ABNFX",
+   "asset_type": "other",
+   "side": "buy",
+   "amount_low": 50001,
+   "amount_high": 100000,
+   "tx_date": "2024-08-26",
+   "filed_date": "2026-08-05",
+   "lag_days": 709,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/2758f09a-fda9-4fb4-a465-270173a8125d/"
+  },
+  {
+   "id": "C-0e9057a91b05",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "EIBLX",
+   "asset_type": "other",
+   "side": "sell",
+   "amount_low": 50001,
+   "amount_high": 100000,
+   "tx_date": "2024-08-26",
+   "filed_date": "2026-08-05",
+   "lag_days": 709,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/2758f09a-fda9-4fb4-a465-270173a8125d/"
+  },
+  {
+   "id": "C-0b2c1555a882",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MDT",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2024-08-26",
+   "filed_date": "2026-08-05",
+   "lag_days": 709,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/2758f09a-fda9-4fb4-a465-270173a8125d/"
+  },
+  {
+   "id": "C-f5e8443f343b",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "INTC",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 100001,
+   "amount_high": 250000,
+   "tx_date": "2024-05-13",
+   "filed_date": "2026-08-05",
+   "lag_days": 814,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-eb46d7b344ea",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "INTC",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 100001,
+   "amount_high": 250000,
+   "tx_date": "2024-05-13",
+   "filed_date": "2026-08-05",
+   "lag_days": 814,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-e76e85820978",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CLF",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 100001,
+   "amount_high": 250000,
+   "tx_date": "2024-05-13",
+   "filed_date": "2026-08-05",
+   "lag_days": 814,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-000d57f25323",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CLF",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 100001,
+   "amount_high": 250000,
+   "tx_date": "2024-05-13",
+   "filed_date": "2026-08-05",
+   "lag_days": 814,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-e4cb585c5223",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CLF",
+   "asset_type": "option",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-05-10",
+   "filed_date": "2026-08-05",
+   "lag_days": 817,
+   "option_detail": "Cleveland-Cliffs Inc Option Type: Call Strike price: $17.00 Expires: 06/21/2024",
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-e1bd95e1a121",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "GILD",
+   "asset_type": "option",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-05-10",
+   "filed_date": "2026-08-05",
+   "lag_days": 817,
+   "option_detail": "Gilead Sciences Inc Option Type: Put Strike price: $70.00 Expires: 11/15/2024",
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-db1e8abf44bd",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "INTC",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 100001,
+   "amount_high": 250000,
+   "tx_date": "2024-05-10",
+   "filed_date": "2026-08-05",
+   "lag_days": 817,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-da4f8945d3d4",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CLF",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 50001,
+   "amount_high": 100000,
+   "tx_date": "2024-05-10",
+   "filed_date": "2026-08-05",
+   "lag_days": 817,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-d30b23da4f7a",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "GILD",
+   "asset_type": "option",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-05-10",
+   "filed_date": "2026-08-05",
+   "lag_days": 817,
+   "option_detail": "Gilead Sciences Inc Option Type: Put Strike price: $70.00 Expires: 11/15/2024",
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-d09db2e4bfda",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "PARA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 100001,
+   "amount_high": 250000,
+   "tx_date": "2024-05-10",
+   "filed_date": "2026-08-05",
+   "lag_days": 817,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-c510e266f18c",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "GILD",
+   "asset_type": "option",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-05-10",
+   "filed_date": "2026-08-05",
+   "lag_days": 817,
+   "option_detail": "Gilead Sciences Inc Option Type: Put Strike price: $70.00 Expires: 11/15/2024",
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-af1be2361466",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CLF",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 100001,
+   "amount_high": 250000,
+   "tx_date": "2024-05-10",
+   "filed_date": "2026-08-05",
+   "lag_days": 817,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-ac8de234e926",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CLF",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 50001,
+   "amount_high": 100000,
+   "tx_date": "2024-05-10",
+   "filed_date": "2026-08-05",
+   "lag_days": 817,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-aab61db6755b",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CLF",
+   "asset_type": "option",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-05-10",
+   "filed_date": "2026-08-05",
+   "lag_days": 817,
+   "option_detail": "Cleveland-Cliffs Inc Option Type: Call Strike price: $17.00 Expires: 06/21/2024",
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-9c945dbfc529",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CLF",
+   "asset_type": "option",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-05-10",
+   "filed_date": "2026-08-05",
+   "lag_days": 817,
+   "option_detail": "Cleveland-Cliffs Inc Option Type: Call Strike price: $17.00 Expires: 06/21/2024",
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-73fdba6f3bcf",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ARKK",
+   "asset_type": "option",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-05-10",
+   "filed_date": "2026-08-05",
+   "lag_days": 817,
+   "option_detail": "Ark Innovation ETF Option Type: Put Strike price: $45.00 Expires: 09/20/2024",
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-4f2876fb6cc0",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CLF",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-05-10",
+   "filed_date": "2026-08-05",
+   "lag_days": 817,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-47cb87e8cc76",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CLF",
+   "asset_type": "option",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-05-10",
+   "filed_date": "2026-08-05",
+   "lag_days": 817,
+   "option_detail": "Cleveland-Cliffs Inc Option Type: Call Strike price: $17.00 Expires: 06/21/2024",
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-30a02bc00938",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CLF",
+   "asset_type": "option",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-05-10",
+   "filed_date": "2026-08-05",
+   "lag_days": 817,
+   "option_detail": "Cleveland-Cliffs Inc Option Type: Put Strike price: $17.00 Expires: 01/17/2025",
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-2c382c6b7d19",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CLF",
+   "asset_type": "option",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-05-10",
+   "filed_date": "2026-08-05",
+   "lag_days": 817,
+   "option_detail": "Cleveland-Cliffs Inc Option Type: Call Strike price: $20.00 Expires: 01/17/2025",
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-24f9ed5cfe18",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CLF",
+   "asset_type": "option",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-05-10",
+   "filed_date": "2026-08-05",
+   "lag_days": 817,
+   "option_detail": "Cleveland-Cliffs Inc Option Type: Call Strike price: $20.00 Expires: 07/19/2024",
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-15baac2ef899",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CLF",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2024-05-10",
+   "filed_date": "2026-08-05",
+   "lag_days": 817,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-b3b40bd5d45e",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "KEY",
+   "asset_type": "option",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-05-09",
+   "filed_date": "2026-08-05",
+   "lag_days": 818,
+   "option_detail": "Keycorp Option Type: Put Strike price: $15.00 Expires: 09/20/2024",
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-9ac2979ece8e",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "INTC",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 50001,
+   "amount_high": 100000,
+   "tx_date": "2024-05-09",
+   "filed_date": "2026-08-05",
+   "lag_days": 818,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-d9937c1edb5c",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "XBI",
+   "asset_type": "option",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-05-08",
+   "filed_date": "2026-08-05",
+   "lag_days": 819,
+   "option_detail": "S&P Biotech SPDR Option Type: Call Strike price: $100.00 Expires: 10/18/2024",
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-d0f95a6e15cf",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "XBI",
+   "asset_type": "option",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-05-08",
+   "filed_date": "2026-08-05",
+   "lag_days": 819,
+   "option_detail": "S&P Biotech SPDR Option Type: Put Strike price: $90.00 Expires: 10/18/2024",
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-9d2c3fa4aebe",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "GOLD",
+   "asset_type": "option",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-05-08",
+   "filed_date": "2026-08-05",
+   "lag_days": 819,
+   "option_detail": "Barrick Gold Corp Option Type: Put Strike price: $17.00 Expires: 01/17/2025",
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-78440a597212",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "GILD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-05-08",
+   "filed_date": "2026-08-05",
+   "lag_days": 819,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-3718bfeac05c",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "GOLD",
+   "asset_type": "option",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-05-08",
+   "filed_date": "2026-08-05",
+   "lag_days": 819,
+   "option_detail": "Barrick Gold Corp Option Type: Put Strike price: $17.00 Expires: 01/17/2025",
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-16faa5dd7c58",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ADBE",
+   "asset_type": "option",
+   "side": "buy",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2024-05-08",
+   "filed_date": "2026-08-05",
+   "lag_days": 819,
+   "option_detail": "Adobe Systems Inc Option Type: Put Strike price: $500.00 Expires: 12/20/2024",
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-08044167b976",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "SWKS",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-05-08",
+   "filed_date": "2026-08-05",
+   "lag_days": 819,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-0792149ed705",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "INTC",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 100001,
+   "amount_high": 250000,
+   "tx_date": "2024-05-08",
+   "filed_date": "2026-08-05",
+   "lag_days": 819,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-c4512dfca9ab",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CVX",
+   "asset_type": "option",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-05-07",
+   "filed_date": "2026-08-05",
+   "lag_days": 820,
+   "option_detail": "Chevron Corporation Common Stock Option Type: Put Strike price: $145.00 Expires: 09/20/2024",
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-bd1814225dd9",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "INTC",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 100001,
+   "amount_high": 250000,
+   "tx_date": "2024-05-07",
+   "filed_date": "2026-08-05",
+   "lag_days": 820,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-b2b828f6e8eb",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "WMS",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-05-07",
+   "filed_date": "2026-08-05",
+   "lag_days": 820,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-83670404570d",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "FITB",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2024-05-07",
+   "filed_date": "2026-08-05",
+   "lag_days": 820,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-618e5bcaed03",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "FITB",
+   "asset_type": "option",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-05-07",
+   "filed_date": "2026-08-05",
+   "lag_days": 820,
+   "option_detail": "Fifth Third Bancorp - Common Stock Option Type: Call Strike price: $30.00 Expires: 05/17/2024",
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-600181ba71a8",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ARKK",
+   "asset_type": "option",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-05-07",
+   "filed_date": "2026-08-05",
+   "lag_days": 820,
+   "option_detail": "Ark Innovation ETF Option Type: Call Strike price: $51.00 Expires: 12/20/2024",
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-509d01597d8b",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "GOLD",
+   "asset_type": "option",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-05-07",
+   "filed_date": "2026-08-05",
+   "lag_days": 820,
+   "option_detail": "Barrick Gold Corp Option Type: Call Strike price: $20.00 Expires: 01/17/2025",
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-4d07f10a45ef",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CCJ",
+   "asset_type": "option",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-05-07",
+   "filed_date": "2026-08-05",
+   "lag_days": 820,
+   "option_detail": "Cameco Corporation Common Stock Option Type: Put Strike price: $45.00 Expires: 09/20/2024",
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-2a5b3422d180",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "LSCC",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-05-07",
+   "filed_date": "2026-08-05",
+   "lag_days": 820,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-28c087f66512",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "GOLD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 100001,
+   "amount_high": 250000,
+   "tx_date": "2024-05-07",
+   "filed_date": "2026-08-05",
+   "lag_days": 820,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-1ceaea618f65",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CLF",
+   "asset_type": "option",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-05-07",
+   "filed_date": "2026-08-05",
+   "lag_days": 820,
+   "option_detail": "Cleveland-Cliffs Inc Option Type: Call Strike price: $20.00 Expires: 06/21/2024",
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-0e06724ded9c",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CLF",
+   "asset_type": "option",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-05-07",
+   "filed_date": "2026-08-05",
+   "lag_days": 820,
+   "option_detail": "Cleveland-Cliffs Inc Option Type: Call Strike price: $20.00 Expires: 11/15/2024",
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-ff406dfb03fe",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "VRSK",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-05-03",
+   "filed_date": "2026-08-05",
+   "lag_days": 824,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-fd7ec64717e0",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "GLPI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-05-03",
+   "filed_date": "2026-08-05",
+   "lag_days": 824,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-fcf62812fe4c",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "JKHY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-05-03",
+   "filed_date": "2026-08-05",
+   "lag_days": 824,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-f8ff2dbfda18",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CBSH",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-05-03",
+   "filed_date": "2026-08-05",
+   "lag_days": 824,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-f6a69fc1985a",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "RELX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-05-03",
+   "filed_date": "2026-08-05",
+   "lag_days": 824,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-f113d99800e7",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "DECK",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-05-03",
+   "filed_date": "2026-08-05",
+   "lag_days": 824,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-eeaeb02fb117",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "A",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-05-03",
+   "filed_date": "2026-08-05",
+   "lag_days": 824,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-e6bcd3d0f9d1",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "PEP",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-05-03",
+   "filed_date": "2026-08-05",
+   "lag_days": 824,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-e0a4c9564116",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ELS",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-05-03",
+   "filed_date": "2026-08-05",
+   "lag_days": 824,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-dfd77a526679",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "INFY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-05-03",
+   "filed_date": "2026-08-05",
+   "lag_days": 824,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-dc25b247ba3c",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ITW",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-05-03",
+   "filed_date": "2026-08-05",
+   "lag_days": 824,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-dbc7a1327a4d",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "SOLV",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-05-03",
+   "filed_date": "2026-08-05",
+   "lag_days": 824,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-d57e033a059b",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-05-03",
+   "filed_date": "2026-08-05",
+   "lag_days": 824,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-d3c1e0b6f348",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "NDSN",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-05-03",
+   "filed_date": "2026-08-05",
+   "lag_days": 824,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-c8969be45a5a",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "BRO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-05-03",
+   "filed_date": "2026-08-05",
+   "lag_days": 824,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-c7f0bd4ac6e3",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "QLYS",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-05-03",
+   "filed_date": "2026-08-05",
+   "lag_days": 824,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-c3d91ffa5ea3",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "HUMA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2024-05-03",
+   "filed_date": "2026-08-05",
+   "lag_days": 824,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-bc15aab2bd1c",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "WAT",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-05-03",
+   "filed_date": "2026-08-05",
+   "lag_days": 824,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-b67cb1125703",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "UI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-05-03",
+   "filed_date": "2026-08-05",
+   "lag_days": 824,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-b1a6d87c3784",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CDNS",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-05-03",
+   "filed_date": "2026-08-05",
+   "lag_days": 824,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-a91614e41026",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "NFLX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-05-03",
+   "filed_date": "2026-08-05",
+   "lag_days": 824,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-a4a08f0d7d40",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "HUMA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-05-03",
+   "filed_date": "2026-08-05",
+   "lag_days": 824,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-9da52f3ad59c",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "TEL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-05-03",
+   "filed_date": "2026-08-05",
+   "lag_days": 824,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-9a825bb6a71f",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "VRTX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-05-03",
+   "filed_date": "2026-08-05",
+   "lag_days": 824,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-8d9229e307a1",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MCO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-05-03",
+   "filed_date": "2026-08-05",
+   "lag_days": 824,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-8d7350ad7d41",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "KLAC",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-05-03",
+   "filed_date": "2026-08-05",
+   "lag_days": 824,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-89c0b80aa95d",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "PFE",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2024-05-03",
+   "filed_date": "2026-08-05",
+   "lag_days": 824,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-893659552a12",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "NXPI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-05-03",
+   "filed_date": "2026-08-05",
+   "lag_days": 824,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-7fed4328a3af",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "RMD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-05-03",
+   "filed_date": "2026-08-05",
+   "lag_days": 824,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-7e669dffa5fc",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CTAS",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-05-03",
+   "filed_date": "2026-08-05",
+   "lag_days": 824,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-6bb8310e33df",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "PAYX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-05-03",
+   "filed_date": "2026-08-05",
+   "lag_days": 824,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-5f91af6daf97",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CPRT",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-05-03",
+   "filed_date": "2026-08-05",
+   "lag_days": 824,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-4342c152118b",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "V",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-05-03",
+   "filed_date": "2026-08-05",
+   "lag_days": 824,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-4135c83331c9",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "HSY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-05-03",
+   "filed_date": "2026-08-05",
+   "lag_days": 824,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-3130c8189d0f",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "SNPS",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-05-03",
+   "filed_date": "2026-08-05",
+   "lag_days": 824,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-2ef35b1f3e6c",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MPWR",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-05-03",
+   "filed_date": "2026-08-05",
+   "lag_days": 824,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-2be50171dff8",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ASML",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2024-05-03",
+   "filed_date": "2026-08-05",
+   "lag_days": 824,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-2bab58c82709",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "GRMN",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-05-03",
+   "filed_date": "2026-08-05",
+   "lag_days": 824,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-28dbb8cc348a",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "TER",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-05-03",
+   "filed_date": "2026-08-05",
+   "lag_days": 824,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-223ab81732bd",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "PYPL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 100001,
+   "amount_high": 250000,
+   "tx_date": "2024-05-03",
+   "filed_date": "2026-08-05",
+   "lag_days": 824,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-21f87c73b854",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ODFL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-05-03",
+   "filed_date": "2026-08-05",
+   "lag_days": 824,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-12c3e62b7108",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "PG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-05-03",
+   "filed_date": "2026-08-05",
+   "lag_days": 824,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-1290b18c0b3f",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "FDS",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-05-03",
+   "filed_date": "2026-08-05",
+   "lag_days": 824,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-0f57306cf156",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MSI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-05-03",
+   "filed_date": "2026-08-05",
+   "lag_days": 824,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-0b922cf5743e",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "DOW",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-05-03",
+   "filed_date": "2026-08-05",
+   "lag_days": 824,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-0a4cbc1d39cd",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "GGG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-05-03",
+   "filed_date": "2026-08-05",
+   "lag_days": 824,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-0541eb52a801",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "LULU",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-05-03",
+   "filed_date": "2026-08-05",
+   "lag_days": 824,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/"
+  },
+  {
+   "id": "C-f1b15536898d",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "PARA",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2024-03-21",
+   "filed_date": "2026-08-05",
+   "lag_days": 867,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/548cacbf-7cf2-42cb-9f23-71250938caae/"
+  },
+  {
+   "id": "C-d6f018bb5227",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "HUMA",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2024-03-21",
+   "filed_date": "2026-08-05",
+   "lag_days": 867,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/548cacbf-7cf2-42cb-9f23-71250938caae/"
+  },
+  {
+   "id": "C-88dff84061d7",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "HUMA",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-03-21",
+   "filed_date": "2026-08-05",
+   "lag_days": 867,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/548cacbf-7cf2-42cb-9f23-71250938caae/"
+  },
+  {
+   "id": "C-7b4950ee72ca",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "HUMA",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-03-21",
+   "filed_date": "2026-08-05",
+   "lag_days": 867,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/548cacbf-7cf2-42cb-9f23-71250938caae/"
+  },
+  {
+   "id": "C-6e4dcabf164b",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "WBA",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2024-03-21",
+   "filed_date": "2026-08-05",
+   "lag_days": 867,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/548cacbf-7cf2-42cb-9f23-71250938caae/"
+  },
+  {
+   "id": "C-fcc9d23ae167",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "QCOM",
+   "asset_type": "option",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2024-03-13",
+   "filed_date": "2026-08-05",
+   "lag_days": 875,
+   "option_detail": "QUALCOMM Incorporated - Common Stock Option Type: Put Strike price: $155.00 Expires: 12/20/2024",
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/548cacbf-7cf2-42cb-9f23-71250938caae/"
+  },
+  {
+   "id": "C-f7d8d363ba3b",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ADBE",
+   "asset_type": "option",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-03-13",
+   "filed_date": "2026-08-05",
+   "lag_days": 875,
+   "option_detail": "Adobe Systems Inc Option Type: Put Strike price: $500.00 Expires: 12/20/2024",
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/548cacbf-7cf2-42cb-9f23-71250938caae/"
+  },
+  {
+   "id": "C-bcee907dc762",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ADBE",
+   "asset_type": "option",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-03-13",
+   "filed_date": "2026-08-05",
+   "lag_days": 875,
+   "option_detail": "Adobe Systems Inc Option Type: Put Strike price: $500.00 Expires: 12/20/2024",
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/548cacbf-7cf2-42cb-9f23-71250938caae/"
+  },
+  {
+   "id": "C-616dab7fa1ff",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ADBE",
+   "asset_type": "option",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-03-13",
+   "filed_date": "2026-08-05",
+   "lag_days": 875,
+   "option_detail": "Adobe Systems Inc Option Type: Put Strike price: $500.00 Expires: 12/20/2024",
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/548cacbf-7cf2-42cb-9f23-71250938caae/"
+  },
+  {
+   "id": "C-084eda9a921e",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ADBE",
+   "asset_type": "option",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-03-13",
+   "filed_date": "2026-08-05",
+   "lag_days": 875,
+   "option_detail": "Adobe Systems Inc Option Type: Put Strike price: $500.00 Expires: 12/20/2024",
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/548cacbf-7cf2-42cb-9f23-71250938caae/"
+  },
+  {
+   "id": "C-c01291172f3c",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "TXN",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-03-12",
+   "filed_date": "2026-08-05",
+   "lag_days": 876,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/548cacbf-7cf2-42cb-9f23-71250938caae/"
+  },
+  {
+   "id": "C-9eec7a10eca1",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CSX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2024-03-12",
+   "filed_date": "2026-08-05",
+   "lag_days": 876,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/548cacbf-7cf2-42cb-9f23-71250938caae/"
+  },
+  {
+   "id": "C-750f5ca025f6",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ACN",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-03-12",
+   "filed_date": "2026-08-05",
+   "lag_days": 876,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/548cacbf-7cf2-42cb-9f23-71250938caae/"
+  },
+  {
+   "id": "C-373ba0e67f95",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "JPM",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-03-12",
+   "filed_date": "2026-08-05",
+   "lag_days": 876,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/548cacbf-7cf2-42cb-9f23-71250938caae/"
+  },
+  {
+   "id": "C-3253922099df",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "AAPL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2024-03-12",
+   "filed_date": "2026-08-05",
+   "lag_days": 876,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/548cacbf-7cf2-42cb-9f23-71250938caae/"
+  },
+  {
+   "id": "C-f1d03b967da5",
+   "source": "congress",
+   "person": "Thomas H Tuberville",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Special Committee on Aging",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Health, Education, Labor, and Pensions",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "AMAT",
+   "asset_type": "option",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2024-03-08",
+   "filed_date": "2026-08-05",
+   "lag_days": 880,
+   "option_detail": "Applied Materials, Inc. - Common Stock Option Type: Put Strike price: $175.00 Expires: 01/17/2025",
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/548cacbf-7cf2-42cb-9f23-71250938caae/"
+  },
   {
    "id": "C-adec07d0260a",
    "source": "congress",
@@ -15909,114 +20529,6 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://efdsearch.senate.gov/search/view/ptr/bd886067-927f-48a8-9d43-8ab6fa713f98/"
-  },
-  {
-   "id": "C-f521c221a31a",
-   "source": "congress",
-   "person": "John W Hickenlooper",
-   "role": {
-    "chamber": "senate",
-    "party": "Democrat",
-    "committees": [
-     "Senate Committee on Commerce, Science, and Transportation",
-     "Senate Committee on Energy and Natural Resources",
-     "Senate Committee on Health, Education, Labor, and Pensions",
-     "Senate Committee on Small Business and Entrepreneurship"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "ETN",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 50001,
-   "amount_high": 100000,
-   "tx_date": "2026-01-14",
-   "filed_date": "2026-02-06",
-   "lag_days": 23,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/83722654-25b1-499e-8ad5-4a1349d993a6/"
-  },
-  {
-   "id": "C-b333b0fe77f2",
-   "source": "congress",
-   "person": "John W Hickenlooper",
-   "role": {
-    "chamber": "senate",
-    "party": "Democrat",
-    "committees": [
-     "Senate Committee on Commerce, Science, and Transportation",
-     "Senate Committee on Energy and Natural Resources",
-     "Senate Committee on Health, Education, Labor, and Pensions",
-     "Senate Committee on Small Business and Entrepreneurship"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "LOW",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 50001,
-   "amount_high": 100000,
-   "tx_date": "2026-01-14",
-   "filed_date": "2026-02-06",
-   "lag_days": 23,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/83722654-25b1-499e-8ad5-4a1349d993a6/"
-  },
-  {
-   "id": "C-7305b4c2a8ba",
-   "source": "congress",
-   "person": "John W Hickenlooper",
-   "role": {
-    "chamber": "senate",
-    "party": "Democrat",
-    "committees": [
-     "Senate Committee on Commerce, Science, and Transportation",
-     "Senate Committee on Energy and Natural Resources",
-     "Senate Committee on Health, Education, Labor, and Pensions",
-     "Senate Committee on Small Business and Entrepreneurship"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "TJX",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 50001,
-   "amount_high": 100000,
-   "tx_date": "2026-01-14",
-   "filed_date": "2026-02-06",
-   "lag_days": 23,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/83722654-25b1-499e-8ad5-4a1349d993a6/"
-  },
-  {
-   "id": "C-2640f72722ae",
-   "source": "congress",
-   "person": "John W Hickenlooper",
-   "role": {
-    "chamber": "senate",
-    "party": "Democrat",
-    "committees": [
-     "Senate Committee on Commerce, Science, and Transportation",
-     "Senate Committee on Energy and Natural Resources",
-     "Senate Committee on Health, Education, Labor, and Pensions",
-     "Senate Committee on Small Business and Entrepreneurship"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "UBER",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 100001,
-   "amount_high": 250000,
-   "tx_date": "2026-01-14",
-   "filed_date": "2026-02-06",
-   "lag_days": 23,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/83722654-25b1-499e-8ad5-4a1349d993a6/"
   }
  ]
 }
