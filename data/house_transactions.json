@@ -1,6 +1,2084 @@
 {
- "generated_at": "2026-08-06T13:11:40Z",
+ "generated_at": "2026-08-07T12:10:03Z",
  "transactions": [
+  {
+   "id": "C-42973033249b",
+   "source": "congress",
+   "person": "Lloyd Doggett",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on the Budget",
+     "House Committee on Ways and Means",
+     "Joint Committee on Taxation"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "KO",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-01",
+   "filed_date": "2026-08-05",
+   "lag_days": 35,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035136.pdf"
+  },
+  {
+   "id": "C-b2c3e5713f65",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CMS",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-12-08",
+   "filed_date": "2026-08-05",
+   "lag_days": 240,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-8f083520ed45",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "NOW",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-12-08",
+   "filed_date": "2026-08-05",
+   "lag_days": 240,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-6b1179b29809",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "PEG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-12-08",
+   "filed_date": "2026-08-05",
+   "lag_days": 240,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-5b40422f202c",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "NOW",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-12-08",
+   "filed_date": "2026-08-05",
+   "lag_days": 240,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-24df67c2965a",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "PEG",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-12-08",
+   "filed_date": "2026-08-05",
+   "lag_days": 240,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-04f04e0cd8e0",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CMS",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-12-08",
+   "filed_date": "2026-08-05",
+   "lag_days": 240,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-bc432043d84f",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "BA",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-12-02",
+   "filed_date": "2026-08-05",
+   "lag_days": 246,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-0502fe6369ae",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "BA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-12-02",
+   "filed_date": "2026-08-05",
+   "lag_days": 246,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-f0a19bdab966",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MDLZ",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-10-30",
+   "filed_date": "2026-08-05",
+   "lag_days": 279,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-ddd59ef1c367",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ADBE",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-10-30",
+   "filed_date": "2026-08-05",
+   "lag_days": 279,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-a550261c4a35",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "VRSK",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-10-30",
+   "filed_date": "2026-08-05",
+   "lag_days": 279,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-8cc43abbbd55",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "IP",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-10-30",
+   "filed_date": "2026-08-05",
+   "lag_days": 279,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-50645a26eb04",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ADBE",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-10-30",
+   "filed_date": "2026-08-05",
+   "lag_days": 279,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-4c318d189a5b",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "DGX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-10-30",
+   "filed_date": "2026-08-05",
+   "lag_days": 279,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-439394fb51d6",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MDLZ",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-10-30",
+   "filed_date": "2026-08-05",
+   "lag_days": 279,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-40f8713609d4",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "VRSK",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-10-30",
+   "filed_date": "2026-08-05",
+   "lag_days": 279,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-13c7160049ce",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "IP",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-10-30",
+   "filed_date": "2026-08-05",
+   "lag_days": 279,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-0a5c1ee757a3",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "DGX",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-10-30",
+   "filed_date": "2026-08-05",
+   "lag_days": 279,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-fc27db1e2a15",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ALK",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-10-21",
+   "filed_date": "2026-08-05",
+   "lag_days": 288,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-f9fa2c5986b5",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "DE",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-10-21",
+   "filed_date": "2026-08-05",
+   "lag_days": 288,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-f11b2a8aeabb",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "FFIV",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-10-21",
+   "filed_date": "2026-08-05",
+   "lag_days": 288,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-d32165888a42",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "GEN",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-10-21",
+   "filed_date": "2026-08-05",
+   "lag_days": 288,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-5aa69e4ba3bc",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ALK",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-10-21",
+   "filed_date": "2026-08-05",
+   "lag_days": 288,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-50bee1756ab8",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "WY",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-10-21",
+   "filed_date": "2026-08-05",
+   "lag_days": 288,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-44de4d23352f",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "FFIV",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-10-21",
+   "filed_date": "2026-08-05",
+   "lag_days": 288,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-2bfc4e591654",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "GEN",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-10-21",
+   "filed_date": "2026-08-05",
+   "lag_days": 288,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-26d608266ed2",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "WY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-10-21",
+   "filed_date": "2026-08-05",
+   "lag_days": 288,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-21ad4bb6a1f8",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "DE",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-10-21",
+   "filed_date": "2026-08-05",
+   "lag_days": 288,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-e8d53e744408",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "VRSN",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-10-03",
+   "filed_date": "2026-08-05",
+   "lag_days": 306,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-9d9d4f5d20fa",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "KR",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-10-03",
+   "filed_date": "2026-08-05",
+   "lag_days": 306,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-965a76f3c115",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CARR",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-10-03",
+   "filed_date": "2026-08-05",
+   "lag_days": 306,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-63bd986720c3",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "FISV",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-10-03",
+   "filed_date": "2026-08-05",
+   "lag_days": 306,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-5e8877ea487c",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "VRSN",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-10-03",
+   "filed_date": "2026-08-05",
+   "lag_days": 306,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-5be7496846f6",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CARR",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-10-03",
+   "filed_date": "2026-08-05",
+   "lag_days": 306,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-58d20326a446",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "FISV",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-10-03",
+   "filed_date": "2026-08-05",
+   "lag_days": 306,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-15459c24e894",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "KR",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-10-03",
+   "filed_date": "2026-08-05",
+   "lag_days": 306,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-f3aa74ee159c",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "KEY",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-f24175c7b94d",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "AEE",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-ec222e61e793",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "SRE",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-dbdec68eca6a",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "KEY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-d2c63012c87f",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ROL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-c0bc945392bc",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "A",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-bf05a97bf5a7",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MNST",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-b54540aec6af",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "AEE",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-b34673b7a6e7",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "A",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-b041e5f2c15b",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "WEC",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-a32ae59cad5e",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "DVA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-9fe33b789fb0",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CI",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-9a10eff76306",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "PAYC",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-9546d2df4a99",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MKC",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-94b33fb111f9",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "PAYC",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-8d99efba1f11",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "EQIX",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-8b3c8cd615ed",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "EQIX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-74a3d9835ac3",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-6c0e972b7a37",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-6b12c284bb9a",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "SRE",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-69717957746c",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "HON",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-627bd77cce27",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "UDR",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-55463346448d",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "HON",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-428bfdab30b7",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "TAP",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-42356b7d50b0",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ROL",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-3a9565b1a1cb",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "LYB",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-37869269a48e",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CL",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-373445ee6394",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "AOS",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-3479adc6f462",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MNST",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-30ac5f6a8bac",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "LYB",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-303c05bc02aa",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "TAP",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-2fd18381a050",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "PAYX",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-2aff7632b69f",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MKC",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-29d09d4c5b82",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "PAYX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-27fe2f02445d",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "AOS",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-20467b50dde2",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "UDR",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-0f39c022b9cc",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "WEC",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-06d395a5e69c",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "DVA",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-aea2d3ca991b",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MDT",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-05-07",
+   "filed_date": "2026-08-05",
+   "lag_days": 455,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-36139cc6ae3e",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MMM",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-03-15",
+   "filed_date": "2026-08-05",
+   "lag_days": 508,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
   {
    "id": "C-a510ea7ad8a1",
    "source": "congress",

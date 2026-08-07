@@ -1,7 +1,689 @@
 {
- "generated_at": "2026-08-06T13:13:31Z",
+ "generated_at": "2026-08-07T12:11:40Z",
  "window_days": 180,
  "trades": [
+  {
+   "id": "I-b2939e4c136c",
+   "source": "insider",
+   "person": "Peters Gregory K",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Co-CEO",
+   "ticker": "NFLX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 2008606,
+   "amount_high": 2008606,
+   "tx_date": "2026-08-06",
+   "filed_date": "2026-08-06",
+   "lag_days": 0,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528026000247/"
+  },
+  {
+   "id": "I-2303f897f623",
+   "source": "insider",
+   "person": "Gerken David R",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP/CLO",
+   "ticker": "FMAO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 33720,
+   "amount_high": 33720,
+   "tx_date": "2026-08-06",
+   "filed_date": "2026-08-06",
+   "lag_days": 0,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/792966/000119312526338293/"
+  },
+  {
+   "id": "I-eaf3703f2fac",
+   "source": "insider",
+   "person": "Santana Rafael",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President and CEO",
+   "ticker": "WAB",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 57863,
+   "amount_high": 57863,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-06",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/943452/000094345226000009/"
+  },
+  {
+   "id": "I-e56e28d9cf3d",
+   "source": "insider",
+   "person": "Sachin J. Mehra",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Business Officer",
+   "ticker": "MA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 252451,
+   "amount_high": 252451,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-06",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1141391/000114139126000099/"
+  },
+  {
+   "id": "I-e3c9f7860d36",
+   "source": "insider",
+   "person": "Wallace Noel R.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chairman, President & CEO",
+   "ticker": "CL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 14897904,
+   "amount_high": 14897904,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-06",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/21665/000122520826007020/"
+  },
+  {
+   "id": "I-e2d49c790ea2",
+   "source": "insider",
+   "person": "Santana Rafael",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President and CEO",
+   "ticker": "WAB",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 117569,
+   "amount_high": 117569,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-06",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/943452/000094345226000009/"
+  },
+  {
+   "id": "I-df16feca955c",
+   "source": "insider",
+   "person": "Sachin J. Mehra",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Business Officer",
+   "ticker": "MA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 160352,
+   "amount_high": 160352,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-06",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1141391/000114139126000099/"
+  },
+  {
+   "id": "I-d9849078f0c7",
+   "source": "insider",
+   "person": "Sachin J. Mehra",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Business Officer",
+   "ticker": "MA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 502817,
+   "amount_high": 502817,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-06",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1141391/000114139126000099/"
+  },
+  {
+   "id": "I-d356fa44f8d3",
+   "source": "insider",
+   "person": "Damico Jennifer B.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "SVP & Controller",
+   "ticker": "PFE",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 83261,
+   "amount_high": 83261,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-06",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/78003/000122520826007004/"
+  },
+  {
+   "id": "I-cc47a53d01e0",
+   "source": "insider",
+   "person": "Stringer Robert Adrian",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "See Remarks",
+   "ticker": "SONY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 2261302,
+   "amount_high": 2261302,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-06",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/313838/000119312526337792/"
+  },
+  {
+   "id": "I-cb4c52565e19",
+   "source": "insider",
+   "person": "Locoh-Donou Francois",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President, CEO & Director",
+   "ticker": "FFIV",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 452035,
+   "amount_high": 452035,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-06",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1048695/000152662426000017/"
+  },
+  {
+   "id": "I-c69920128276",
+   "source": "insider",
+   "person": "Althoff Judson",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO Microsoft Commercial",
+   "ticker": "MSFT",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 4878930,
+   "amount_high": 4878930,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-06",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/789019/000078901926000143/"
+  },
+  {
+   "id": "I-c68e35e6c4ce",
+   "source": "insider",
+   "person": "Voskuil Steven E",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "SVP, Chief Financial Officer",
+   "ticker": "HSY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 171000,
+   "amount_high": 171000,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-06",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/47111/000004711126000228/"
+  },
+  {
+   "id": "I-c67e2a5f8d98",
+   "source": "insider",
+   "person": "Sachin J. Mehra",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Business Officer",
+   "ticker": "MA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 136602,
+   "amount_high": 136602,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-06",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1141391/000114139126000099/"
+  },
+  {
+   "id": "I-c43bc0869d7c",
+   "source": "insider",
+   "person": "Dean Robert W Ii",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Interim CFO",
+   "ticker": "MPWR",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 141148,
+   "amount_high": 141148,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-06",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1280452/000121465926009739/"
+  },
+  {
+   "id": "I-b1ec450c0ef6",
+   "source": "insider",
+   "person": "Locoh-Donou Francois",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President, CEO & Director",
+   "ticker": "FFIV",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 81936,
+   "amount_high": 81936,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-06",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1048695/000152662426000017/"
+  },
+  {
+   "id": "I-ad67f35915ac",
+   "source": "insider",
+   "person": "Regnery David S",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chair and CEO",
+   "ticker": "TT",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 20794550,
+   "amount_high": 20794550,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-06",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1466258/000162828026054280/"
+  },
+  {
+   "id": "I-ac7dc251885b",
+   "source": "insider",
+   "person": "Locoh-Donou Francois",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President, CEO & Director",
+   "ticker": "FFIV",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 16673,
+   "amount_high": 16673,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-06",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1048695/000152662426000017/"
+  },
+  {
+   "id": "I-a5dff4162e9c",
+   "source": "insider",
+   "person": "Santana Rafael",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President and CEO",
+   "ticker": "WAB",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 153874,
+   "amount_high": 153874,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-06",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/943452/000094345226000009/"
+  },
+  {
+   "id": "I-a44a723830bd",
+   "source": "insider",
+   "person": "Sachin J. Mehra",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Business Officer",
+   "ticker": "MA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 501959,
+   "amount_high": 501959,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-06",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1141391/000114139126000099/"
+  },
+  {
+   "id": "I-9870ea8c5e12",
+   "source": "insider",
+   "person": "Fountain Thomas Dean",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP Global Services & Strategy",
+   "ticker": "FFIV",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 500873,
+   "amount_high": 500873,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-06",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1048695/000172833026000016/"
+  },
+  {
+   "id": "I-93102a7e85db",
+   "source": "insider",
+   "person": "Santana Rafael",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President and CEO",
+   "ticker": "WAB",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 16138,
+   "amount_high": 16138,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-06",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/943452/000094345226000009/"
+  },
+  {
+   "id": "I-78604e48c103",
+   "source": "insider",
+   "person": "Locoh-Donou Francois",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President, CEO & Director",
+   "ticker": "FFIV",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 117870,
+   "amount_high": 117870,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-06",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1048695/000152662426000017/"
+  },
+  {
+   "id": "I-6cd542ba2181",
+   "source": "insider",
+   "person": "Barton Richard N",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "NFLX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 162216,
+   "amount_high": 162216,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-06",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528026000246/"
+  },
+  {
+   "id": "I-697762df8b84",
+   "source": "insider",
+   "person": "Sachin J. Mehra",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Business Officer",
+   "ticker": "MA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 115265,
+   "amount_high": 115265,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-06",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1141391/000114139126000099/"
+  },
+  {
+   "id": "I-59eebddea4a6",
+   "source": "insider",
+   "person": "Stringer Robert Adrian",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "See Remarks",
+   "ticker": "SONY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 10008050,
+   "amount_high": 10008050,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-06",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/313838/000119312526337792/"
+  },
+  {
+   "id": "I-56b04d33679d",
+   "source": "insider",
+   "person": "Locoh-Donou Francois",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President, CEO & Director",
+   "ticker": "FFIV",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 132512,
+   "amount_high": 132512,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-06",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1048695/000152662426000017/"
+  },
+  {
+   "id": "I-50ff8a23f412",
+   "source": "insider",
+   "person": "Sachin J. Mehra",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Business Officer",
+   "ticker": "MA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 46156,
+   "amount_high": 46156,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-06",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1141391/000114139126000099/"
+  },
+  {
+   "id": "I-40564803fd8a",
+   "source": "insider",
+   "person": "Farrell Peter C",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "RMD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1800000,
+   "amount_high": 1800000,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-06",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/943819/000094381926000040/"
+  },
+  {
+   "id": "I-3ffe5f3ffc55",
+   "source": "insider",
+   "person": "Locoh-Donou Francois",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President, CEO & Director",
+   "ticker": "FFIV",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 264390,
+   "amount_high": 264390,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-06",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1048695/000152662426000017/"
+  },
+  {
+   "id": "I-30015c53c9bd",
+   "source": "insider",
+   "person": "Locoh-Donou Francois",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President, CEO & Director",
+   "ticker": "FFIV",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 83193,
+   "amount_high": 83193,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-06",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1048695/000152662426000017/"
+  },
   {
    "id": "I-28fd70a305c0",
    "source": "insider",
@@ -23,6 +705,402 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1094517/000094787126000750/"
+  },
+  {
+   "id": "I-1bc7fcb2870f",
+   "source": "insider",
+   "person": "Brewer Brady",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "ceo, International",
+   "ticker": "SBUX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 236252,
+   "amount_high": 236252,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-06",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/829224/000082922426000133/"
+  },
+  {
+   "id": "I-11f38126a3be",
+   "source": "insider",
+   "person": "Locoh-Donou Francois",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President, CEO & Director",
+   "ticker": "FFIV",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 411244,
+   "amount_high": 411244,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-06",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1048695/000152662426000017/"
+  },
+  {
+   "id": "I-1149c17e7b62",
+   "source": "insider",
+   "person": "Miebach Michael",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President & CEO",
+   "ticker": "MA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 8838900,
+   "amount_high": 8838900,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-06",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1141391/000114139126000097/"
+  },
+  {
+   "id": "I-0c840cfa5c45",
+   "source": "insider",
+   "person": "Chavez Rodriguez Beatriz Karina",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Group President",
+   "ticker": "MMM",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 663430,
+   "amount_high": 663430,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-06",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/66740/000006674026000259/"
+  },
+  {
+   "id": "I-ee63702252fe",
+   "source": "insider",
+   "person": "Santana Rafael",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President and CEO",
+   "ticker": "WAB",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 188511,
+   "amount_high": 188511,
+   "tx_date": "2026-08-04",
+   "filed_date": "2026-08-06",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/943452/000094345226000009/"
+  },
+  {
+   "id": "I-caee4eba6f68",
+   "source": "insider",
+   "person": "Leslie Ericka T",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Administrative Officer",
+   "ticker": "GS",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 38963,
+   "amount_high": 38963,
+   "tx_date": "2026-08-04",
+   "filed_date": "2026-08-06",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/886982/000191038826000007/"
+  },
+  {
+   "id": "I-af8ecfe7a441",
+   "source": "insider",
+   "person": "Andreessen Marc L",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "META",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 25977,
+   "amount_high": 25977,
+   "tx_date": "2026-08-04",
+   "filed_date": "2026-08-06",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000116007726000008/"
+  },
+  {
+   "id": "I-aaa609b02e3e",
+   "source": "insider",
+   "person": "Leslie Ericka T",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Administrative Officer",
+   "ticker": "GS",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 135989,
+   "amount_high": 135989,
+   "tx_date": "2026-08-04",
+   "filed_date": "2026-08-06",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/886982/000191038826000007/"
+  },
+  {
+   "id": "I-a80d94c8664f",
+   "source": "insider",
+   "person": "Jones Nicole S",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "See Remarks",
+   "ticker": "CI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 5369584,
+   "amount_high": 5369584,
+   "tx_date": "2026-08-04",
+   "filed_date": "2026-08-06",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1739940/000173994026000067/"
+  },
+  {
+   "id": "I-882793402842",
+   "source": "insider",
+   "person": "Santana Rafael",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President and CEO",
+   "ticker": "WAB",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 23717,
+   "amount_high": 23717,
+   "tx_date": "2026-08-04",
+   "filed_date": "2026-08-06",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/943452/000094345226000009/"
+  },
+  {
+   "id": "I-6ee3aeda8f55",
+   "source": "insider",
+   "person": "Andreessen Marc L",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "META",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 26626,
+   "amount_high": 26626,
+   "tx_date": "2026-08-04",
+   "filed_date": "2026-08-06",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000116007726000008/"
+  },
+  {
+   "id": "I-6da0111c94d2",
+   "source": "insider",
+   "person": "Andreessen Marc L",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "META",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 51264,
+   "amount_high": 51264,
+   "tx_date": "2026-08-04",
+   "filed_date": "2026-08-06",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000116007726000008/"
+  },
+  {
+   "id": "I-5a7f822ee9cd",
+   "source": "insider",
+   "person": "Wallace Noel R.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chairman, President & CEO",
+   "ticker": "CL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 14800712,
+   "amount_high": 14800712,
+   "tx_date": "2026-08-04",
+   "filed_date": "2026-08-06",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/21665/000122520826007020/"
+  },
+  {
+   "id": "I-4c09b60964c2",
+   "source": "insider",
+   "person": "Santana Rafael",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President and CEO",
+   "ticker": "WAB",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 99831,
+   "amount_high": 99831,
+   "tx_date": "2026-08-04",
+   "filed_date": "2026-08-06",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/943452/000094345226000009/"
+  },
+  {
+   "id": "I-47529421204a",
+   "source": "insider",
+   "person": "Andreessen Marc L",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "META",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 147040,
+   "amount_high": 147040,
+   "tx_date": "2026-08-04",
+   "filed_date": "2026-08-06",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000116007726000008/"
+  },
+  {
+   "id": "I-34c876678a44",
+   "source": "insider",
+   "person": "Santana Rafael",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President and CEO",
+   "ticker": "WAB",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 35721,
+   "amount_high": 35721,
+   "tx_date": "2026-08-04",
+   "filed_date": "2026-08-06",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/943452/000094345226000009/"
+  },
+  {
+   "id": "I-235eecec8f2e",
+   "source": "insider",
+   "person": "Roller David L.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Senior Vice President",
+   "ticker": "CBSH",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 50030,
+   "amount_high": 50030,
+   "tx_date": "2026-08-04",
+   "filed_date": "2026-08-06",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/22356/000002235626000192/"
+  },
+  {
+   "id": "I-194dccfff342",
+   "source": "insider",
+   "person": "Leslie Ericka T",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Administrative Officer",
+   "ticker": "GS",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 9493,
+   "amount_high": 9493,
+   "tx_date": "2026-08-04",
+   "filed_date": "2026-08-06",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/886982/000191038826000007/"
   },
   {
    "id": "I-cab45ad56426",
@@ -1741,6 +2819,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/93410/000009341026000164/"
   },
   {
+   "id": "I-16b1eeb27d95",
+   "source": "insider",
+   "person": "Moehn Michael L",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Group President, Utilities",
+   "ticker": "AEE",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 708240,
+   "amount_high": 708240,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-05",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1002910/000100291026000026/"
+  },
+  {
    "id": "I-069af868c693",
    "source": "insider",
    "person": "Hershey Trust Co Trustee In Trust For Milton Hershey School",
@@ -1783,6 +2883,32 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002270/"
+  },
+  {
+   "id": "C-42973033249b",
+   "source": "congress",
+   "person": "Lloyd Doggett",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on the Budget",
+     "House Committee on Ways and Means",
+     "Joint Committee on Taxation"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "KO",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-01",
+   "filed_date": "2026-08-05",
+   "lag_days": 35,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035136.pdf"
   },
   {
    "id": "C-db2c548bf41e",
@@ -1923,6 +3049,762 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://efdsearch.senate.gov/search/view/ptr/57cf1745-e3dd-4afd-8685-228153848631/"
+  },
+  {
+   "id": "C-b2c3e5713f65",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CMS",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-12-08",
+   "filed_date": "2026-08-05",
+   "lag_days": 240,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-8f083520ed45",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "NOW",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-12-08",
+   "filed_date": "2026-08-05",
+   "lag_days": 240,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-6b1179b29809",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "PEG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-12-08",
+   "filed_date": "2026-08-05",
+   "lag_days": 240,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-5b40422f202c",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "NOW",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-12-08",
+   "filed_date": "2026-08-05",
+   "lag_days": 240,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-24df67c2965a",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "PEG",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-12-08",
+   "filed_date": "2026-08-05",
+   "lag_days": 240,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-04f04e0cd8e0",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CMS",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-12-08",
+   "filed_date": "2026-08-05",
+   "lag_days": 240,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-bc432043d84f",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "BA",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-12-02",
+   "filed_date": "2026-08-05",
+   "lag_days": 246,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-0502fe6369ae",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "BA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-12-02",
+   "filed_date": "2026-08-05",
+   "lag_days": 246,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-f0a19bdab966",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MDLZ",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-10-30",
+   "filed_date": "2026-08-05",
+   "lag_days": 279,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-ddd59ef1c367",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ADBE",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-10-30",
+   "filed_date": "2026-08-05",
+   "lag_days": 279,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-a550261c4a35",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "VRSK",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-10-30",
+   "filed_date": "2026-08-05",
+   "lag_days": 279,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-8cc43abbbd55",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "IP",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-10-30",
+   "filed_date": "2026-08-05",
+   "lag_days": 279,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-50645a26eb04",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ADBE",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-10-30",
+   "filed_date": "2026-08-05",
+   "lag_days": 279,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-4c318d189a5b",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "DGX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-10-30",
+   "filed_date": "2026-08-05",
+   "lag_days": 279,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-439394fb51d6",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MDLZ",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-10-30",
+   "filed_date": "2026-08-05",
+   "lag_days": 279,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-40f8713609d4",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "VRSK",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-10-30",
+   "filed_date": "2026-08-05",
+   "lag_days": 279,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-13c7160049ce",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "IP",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-10-30",
+   "filed_date": "2026-08-05",
+   "lag_days": 279,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-0a5c1ee757a3",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "DGX",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-10-30",
+   "filed_date": "2026-08-05",
+   "lag_days": 279,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-fc27db1e2a15",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ALK",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-10-21",
+   "filed_date": "2026-08-05",
+   "lag_days": 288,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-f9fa2c5986b5",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "DE",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-10-21",
+   "filed_date": "2026-08-05",
+   "lag_days": 288,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-f11b2a8aeabb",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "FFIV",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-10-21",
+   "filed_date": "2026-08-05",
+   "lag_days": 288,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-d32165888a42",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "GEN",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-10-21",
+   "filed_date": "2026-08-05",
+   "lag_days": 288,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-5aa69e4ba3bc",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ALK",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-10-21",
+   "filed_date": "2026-08-05",
+   "lag_days": 288,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-50bee1756ab8",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "WY",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-10-21",
+   "filed_date": "2026-08-05",
+   "lag_days": 288,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-44de4d23352f",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "FFIV",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-10-21",
+   "filed_date": "2026-08-05",
+   "lag_days": 288,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-2bfc4e591654",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "GEN",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-10-21",
+   "filed_date": "2026-08-05",
+   "lag_days": 288,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-26d608266ed2",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "WY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-10-21",
+   "filed_date": "2026-08-05",
+   "lag_days": 288,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-21ad4bb6a1f8",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "DE",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-10-21",
+   "filed_date": "2026-08-05",
+   "lag_days": 288,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
   },
   {
    "id": "C-762778c06326",
@@ -2091,6 +3973,1275 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://efdsearch.senate.gov/search/view/ptr/1a5e6752-653a-4b11-82b6-efd51d466bb6/"
+  },
+  {
+   "id": "C-e8d53e744408",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "VRSN",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-10-03",
+   "filed_date": "2026-08-05",
+   "lag_days": 306,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-9d9d4f5d20fa",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "KR",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-10-03",
+   "filed_date": "2026-08-05",
+   "lag_days": 306,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-965a76f3c115",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CARR",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-10-03",
+   "filed_date": "2026-08-05",
+   "lag_days": 306,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-63bd986720c3",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "FISV",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-10-03",
+   "filed_date": "2026-08-05",
+   "lag_days": 306,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-5e8877ea487c",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "VRSN",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-10-03",
+   "filed_date": "2026-08-05",
+   "lag_days": 306,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-5be7496846f6",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CARR",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-10-03",
+   "filed_date": "2026-08-05",
+   "lag_days": 306,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-58d20326a446",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "FISV",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-10-03",
+   "filed_date": "2026-08-05",
+   "lag_days": 306,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-15459c24e894",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "KR",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-10-03",
+   "filed_date": "2026-08-05",
+   "lag_days": 306,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-f3aa74ee159c",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "KEY",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-f24175c7b94d",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "AEE",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-ec222e61e793",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "SRE",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-dbdec68eca6a",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "KEY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-d2c63012c87f",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ROL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-c0bc945392bc",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "A",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-bf05a97bf5a7",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MNST",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-b54540aec6af",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "AEE",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-b34673b7a6e7",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "A",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-b041e5f2c15b",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "WEC",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-a32ae59cad5e",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "DVA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-9fe33b789fb0",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CI",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-9a10eff76306",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "PAYC",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-9546d2df4a99",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MKC",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-94b33fb111f9",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "PAYC",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-8d99efba1f11",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "EQIX",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-8b3c8cd615ed",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "EQIX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-74a3d9835ac3",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-6c0e972b7a37",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-6b12c284bb9a",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "SRE",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-69717957746c",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "HON",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-627bd77cce27",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "UDR",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-55463346448d",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "HON",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-428bfdab30b7",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "TAP",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-42356b7d50b0",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ROL",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-3a9565b1a1cb",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "LYB",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-37869269a48e",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CL",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-373445ee6394",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "AOS",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-3479adc6f462",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MNST",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-30ac5f6a8bac",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "LYB",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-303c05bc02aa",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "TAP",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-2fd18381a050",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "PAYX",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-2aff7632b69f",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MKC",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-29d09d4c5b82",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "PAYX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-27fe2f02445d",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "AOS",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-20467b50dde2",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "UDR",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-0f39c022b9cc",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "WEC",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-06d395a5e69c",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "DVA",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-09-23",
+   "filed_date": "2026-08-05",
+   "lag_days": 316,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
+  },
+  {
+   "id": "C-aea2d3ca991b",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MDT",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-05-07",
+   "filed_date": "2026-08-05",
+   "lag_days": 455,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
   },
   {
    "id": "C-e5af7ba587af",
@@ -2511,6 +5662,33 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://efdsearch.senate.gov/search/view/ptr/014817f0-9809-457f-8ac5-048948608e02/"
+  },
+  {
+   "id": "C-36139cc6ae3e",
+   "source": "congress",
+   "person": "Julie Johnson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on House Administration",
+     "House Committee on Homeland Security",
+     "Joint Committee of Congress on the Library"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MMM",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-03-15",
+   "filed_date": "2026-08-05",
+   "lag_days": 508,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf"
   },
   {
    "id": "C-a52d061b68b0",
@@ -6471,6 +9649,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1262039/000201681326000018/"
   },
   {
+   "id": "I-8fdcd0277675",
+   "source": "insider",
+   "person": "Goughnour Holly G.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "VP & Chief Accounting Officer",
+   "ticker": "IP",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 146860,
+   "amount_high": 146860,
+   "tx_date": "2026-08-04",
+   "filed_date": "2026-08-04",
+   "lag_days": 0,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/51434/000005143426000118/"
+  },
+  {
    "id": "I-56cbf6e5497f",
    "source": "insider",
    "person": "Sarandos Theodore A",
@@ -7613,6 +10813,28 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1059556/000148115326000016/"
+  },
+  {
+   "id": "I-86f0cab5b740",
+   "source": "insider",
+   "person": "Harrison Andrew R",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP AND CCO",
+   "ticker": "ALK",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 263256,
+   "amount_high": 263256,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/766421/000154403026000010/"
   },
   {
    "id": "I-859e769c0967",
@@ -8759,6 +11981,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/40533/000119312526333260/"
   },
   {
+   "id": "I-0a05dd5a3a14",
+   "source": "insider",
+   "person": "LaRossa Ralph A",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chair, President and CEO",
+   "ticker": "PEG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 159290,
+   "amount_high": 159290,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/788784/000122520826006912/"
+  },
+  {
    "id": "I-09e5bc36c77d",
    "source": "insider",
    "person": "O'Day Daniel Patrick",
@@ -8933,6 +12177,28 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1869198/000129567926000019/"
+  },
+  {
+   "id": "I-d1fb0043dddb",
+   "source": "insider",
+   "person": "BERKSHIRE HATHAWAY INC et al.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "10% owner",
+   "ticker": "DVA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 36513293,
+   "amount_high": 36513293,
+   "tx_date": "2026-07-31",
+   "filed_date": "2026-08-04",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/927066/000119312526333151/"
   },
   {
    "id": "I-cb65b246b2ee",
@@ -9400,6 +12666,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/822818/000129524826000005/"
   },
   {
+   "id": "I-869c343fa884",
+   "source": "insider",
+   "person": "Paisley Christopher B",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "EQIX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 4077120,
+   "amount_high": 4077120,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-03",
+   "lag_days": 0,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123926000149/"
+  },
+  {
    "id": "I-4bcbc0ec288b",
    "source": "insider",
    "person": "Allen Gregory R",
@@ -9486,6 +12774,28 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1467858/000186671026000007/"
+  },
+  {
+   "id": "I-f7a879a8b7e6",
+   "source": "insider",
+   "person": "Maddipati Srikanth",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP/CFO",
+   "ticker": "CMS",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 14491,
+   "amount_high": 14491,
+   "tx_date": "2026-07-31",
+   "filed_date": "2026-08-03",
+   "lag_days": 3,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/811156/000213791326000008/"
   },
   {
    "id": "I-e3bc556eb3aa",
@@ -13816,6 +17126,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002193/"
   },
   {
+   "id": "I-80a8cbde93ff",
+   "source": "insider",
+   "person": "Delaney Mark E",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "SVP & Chief Commercial Officer",
+   "ticker": "DGX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 376288,
+   "amount_high": 376288,
+   "tx_date": "2026-07-28",
+   "filed_date": "2026-07-29",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1022079/000102207926000087/"
+  },
+  {
    "id": "I-8045856bceaf",
    "source": "insider",
    "person": "Schapiro Mary L",
@@ -17290,6 +20622,28 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002166/"
+  },
+  {
+   "id": "I-8f698cd81187",
+   "source": "insider",
+   "person": "Conway Michael Aaron",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "MKC",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 55227,
+   "amount_high": 55227,
+   "tx_date": "2026-07-23",
+   "filed_date": "2026-07-27",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/63754/000006375426000284/"
   },
   {
    "id": "I-78bda3a12348",
@@ -59303,6 +62657,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000111/"
   },
   {
+   "id": "I-9729803ffffb",
+   "source": "insider",
+   "person": "LaRossa Ralph A",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chair, President and CEO",
+   "ticker": "PEG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 167704,
+   "amount_high": 167704,
+   "tx_date": "2026-07-01",
+   "filed_date": "2026-07-02",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/788784/000122520826006359/"
+  },
+  {
    "id": "I-96e39f990ef0",
    "source": "insider",
    "person": "Mosley William D",
@@ -70472,6 +73848,28 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/936395/000208015726000004/"
+  },
+  {
+   "id": "I-472cc5616540",
+   "source": "insider",
+   "person": "Hanemann Kim C",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President and COO - PSE&G",
+   "ticker": "PEG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 248870,
+   "amount_high": 248870,
+   "tx_date": "2026-06-24",
+   "filed_date": "2026-06-26",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/788784/000122520826006199/"
   },
   {
    "id": "I-3e5c53dd3c2a",
@@ -82345,6 +85743,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1800/000138526226000017/"
   },
   {
+   "id": "I-d64893980cec",
+   "source": "insider",
+   "person": "Winn Caroline Ann",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Executive Vice President",
+   "ticker": "SRE",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 715424,
+   "amount_high": 715424,
+   "tx_date": "2026-06-17",
+   "filed_date": "2026-06-17",
+   "lag_days": 0,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1032208/000192269926000011/"
+  },
+  {
    "id": "I-bf3f5fce385f",
    "source": "insider",
    "person": "Zovighian Bernard J",
@@ -82387,6 +85807,28 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/100591/000162751926000010/"
+  },
+  {
+   "id": "I-94f596b33300",
+   "source": "insider",
+   "person": "Winn Caroline Ann",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Executive Vice President",
+   "ticker": "SRE",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 8985,
+   "amount_high": 8985,
+   "tx_date": "2026-06-17",
+   "filed_date": "2026-06-17",
+   "lag_days": 0,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1032208/000192269926000011/"
   },
   {
    "id": "I-81ab90a29398",
@@ -87200,6 +90642,28 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/943452/000162828026043483/"
+  },
+  {
+   "id": "I-f0f9c13d8a50",
+   "source": "insider",
+   "person": "Kates Jamie G",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Accounting Officer",
+   "ticker": "CI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 268452,
+   "amount_high": 268452,
+   "tx_date": "2026-06-12",
+   "filed_date": "2026-06-16",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1739940/000173994026000047/"
   },
   {
    "id": "I-f030f6fa085d",
@@ -102890,6 +106354,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1466258/000162828026041967/"
   },
   {
+   "id": "I-f9cc3485f312",
+   "source": "insider",
+   "person": "Morandi Brandi Galvin",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief People Officer",
+   "ticker": "EQIX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 4010517,
+   "amount_high": 4010517,
+   "tx_date": "2026-06-08",
+   "filed_date": "2026-06-08",
+   "lag_days": 0,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123926000123/"
+  },
+  {
    "id": "I-0b69d3ccaf01",
    "source": "insider",
    "person": "Holmes Rob C",
@@ -113637,6 +117123,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/946581/000094658126000049/"
   },
   {
+   "id": "I-fff74b392f13",
+   "source": "insider",
+   "person": "Fox-Martin Adaire",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO and President",
+   "ticker": "EQIX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 126270,
+   "amount_high": 126270,
+   "tx_date": "2026-06-02",
+   "filed_date": "2026-06-03",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123926000119/"
+  },
+  {
    "id": "I-ff08cfbe2650",
    "source": "insider",
    "person": "Goldstein Lainie",
@@ -113657,6 +117165,160 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/946581/000094658126000044/"
+  },
+  {
+   "id": "I-feb52bfaa3b8",
+   "source": "insider",
+   "person": "Abdel Raouf",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP, Global Operations",
+   "ticker": "EQIX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 20082,
+   "amount_high": 20082,
+   "tx_date": "2026-06-02",
+   "filed_date": "2026-06-03",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123926000120/"
+  },
+  {
+   "id": "I-f8b5922638ff",
+   "source": "insider",
+   "person": "Pletcher Kurt",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Legal Officer",
+   "ticker": "EQIX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 8480,
+   "amount_high": 8480,
+   "tx_date": "2026-06-02",
+   "filed_date": "2026-06-03",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123926000122/"
+  },
+  {
+   "id": "I-f820fa2181a8",
+   "source": "insider",
+   "person": "Abdel Raouf",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP, Global Operations",
+   "ticker": "EQIX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 13767,
+   "amount_high": 13767,
+   "tx_date": "2026-06-02",
+   "filed_date": "2026-06-03",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123926000120/"
+  },
+  {
+   "id": "I-e50bee72acec",
+   "source": "insider",
+   "person": "Pletcher Kurt",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Legal Officer",
+   "ticker": "EQIX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 4232,
+   "amount_high": 4232,
+   "tx_date": "2026-06-02",
+   "filed_date": "2026-06-03",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123926000122/"
+  },
+  {
+   "id": "I-dca75dcefdde",
+   "source": "insider",
+   "person": "Lin Jonathan",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Business Officer",
+   "ticker": "EQIX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 535,
+   "amount_high": 535,
+   "tx_date": "2026-06-02",
+   "filed_date": "2026-06-03",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123926000121/"
+  },
+  {
+   "id": "I-d7c57e01c403",
+   "source": "insider",
+   "person": "Pletcher Kurt",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Legal Officer",
+   "ticker": "EQIX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 10570,
+   "amount_high": 10570,
+   "tx_date": "2026-06-02",
+   "filed_date": "2026-06-03",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123926000122/"
+  },
+  {
+   "id": "I-d4459b27b1c3",
+   "source": "insider",
+   "person": "Abdel Raouf",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP, Global Operations",
+   "ticker": "EQIX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 13822,
+   "amount_high": 13822,
+   "tx_date": "2026-06-02",
+   "filed_date": "2026-06-03",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123926000120/"
   },
   {
    "id": "I-c5ffa15ebd73",
@@ -113681,6 +117343,50 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/62709/000006270926000164/"
   },
   {
+   "id": "I-c292ad349ee7",
+   "source": "insider",
+   "person": "Lin Jonathan",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Business Officer",
+   "ticker": "EQIX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 8464,
+   "amount_high": 8464,
+   "tx_date": "2026-06-02",
+   "filed_date": "2026-06-03",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123926000121/"
+  },
+  {
+   "id": "I-c108a2f7a078",
+   "source": "insider",
+   "person": "Lin Jonathan",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Business Officer",
+   "ticker": "EQIX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 13025,
+   "amount_high": 13025,
+   "tx_date": "2026-06-02",
+   "filed_date": "2026-06-03",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123926000121/"
+  },
+  {
    "id": "I-befe354641ec",
    "source": "insider",
    "person": "Xie Ken",
@@ -113701,6 +117407,28 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1262039/000147558726000012/"
+  },
+  {
+   "id": "I-bb1b08fb6a58",
+   "source": "insider",
+   "person": "Lin Jonathan",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Business Officer",
+   "ticker": "EQIX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 525,
+   "amount_high": 525,
+   "tx_date": "2026-06-02",
+   "filed_date": "2026-06-03",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123926000121/"
   },
   {
    "id": "I-b793f3336c1f",
@@ -113747,6 +117475,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1262039/000147558726000012/"
   },
   {
+   "id": "I-a8146642ef2c",
+   "source": "insider",
+   "person": "Lin Jonathan",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Business Officer",
+   "ticker": "EQIX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15048,
+   "amount_high": 15048,
+   "tx_date": "2026-06-02",
+   "filed_date": "2026-06-03",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123926000121/"
+  },
+  {
    "id": "I-a1c44a81487d",
    "source": "insider",
    "person": "Cotter Martin",
@@ -113767,6 +117517,28 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/6281/000000628126000060/"
+  },
+  {
+   "id": "I-9fd437240ccc",
+   "source": "insider",
+   "person": "Lin Jonathan",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Business Officer",
+   "ticker": "EQIX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15370,
+   "amount_high": 15370,
+   "tx_date": "2026-06-02",
+   "filed_date": "2026-06-03",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123926000121/"
   },
   {
    "id": "I-99c1575ae6db",
@@ -113813,6 +117585,72 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1262039/000147558726000012/"
   },
   {
+   "id": "I-91bb26d242f6",
+   "source": "insider",
+   "person": "Pletcher Kurt",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Legal Officer",
+   "ticker": "EQIX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 6379,
+   "amount_high": 6379,
+   "tx_date": "2026-06-02",
+   "filed_date": "2026-06-03",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123926000122/"
+  },
+  {
+   "id": "I-8faf24bbbfee",
+   "source": "insider",
+   "person": "Fox-Martin Adaire",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO and President",
+   "ticker": "EQIX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 423036,
+   "amount_high": 423036,
+   "tx_date": "2026-06-02",
+   "filed_date": "2026-06-03",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123926000119/"
+  },
+  {
+   "id": "I-8ef70686ab47",
+   "source": "insider",
+   "person": "Fox-Martin Adaire",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO and President",
+   "ticker": "EQIX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 843494,
+   "amount_high": 843494,
+   "tx_date": "2026-06-02",
+   "filed_date": "2026-06-03",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123926000119/"
+  },
+  {
    "id": "I-8968c2804f5f",
    "source": "insider",
    "person": "Werner Edward Cooper",
@@ -113857,6 +117695,116 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1639920/000162828026040495/"
   },
   {
+   "id": "I-80fad5072c4e",
+   "source": "insider",
+   "person": "Lin Jonathan",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Business Officer",
+   "ticker": "EQIX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 31007,
+   "amount_high": 31007,
+   "tx_date": "2026-06-02",
+   "filed_date": "2026-06-03",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123926000121/"
+  },
+  {
+   "id": "I-7ed6f2255f0a",
+   "source": "insider",
+   "person": "Abdel Raouf",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP, Global Operations",
+   "ticker": "EQIX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 5273,
+   "amount_high": 5273,
+   "tx_date": "2026-06-02",
+   "filed_date": "2026-06-03",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123926000120/"
+  },
+  {
+   "id": "I-78d22c683d52",
+   "source": "insider",
+   "person": "Abdel Raouf",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP, Global Operations",
+   "ticker": "EQIX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 535,
+   "amount_high": 535,
+   "tx_date": "2026-06-02",
+   "filed_date": "2026-06-03",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123926000120/"
+  },
+  {
+   "id": "I-77840fbf8fc5",
+   "source": "insider",
+   "person": "Abdel Raouf",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP, Global Operations",
+   "ticker": "EQIX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 2130,
+   "amount_high": 2130,
+   "tx_date": "2026-06-02",
+   "filed_date": "2026-06-03",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123926000120/"
+  },
+  {
+   "id": "I-7716740042fb",
+   "source": "insider",
+   "person": "Abdel Raouf",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP, Global Operations",
+   "ticker": "EQIX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 9472,
+   "amount_high": 9472,
+   "tx_date": "2026-06-02",
+   "filed_date": "2026-06-03",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123926000120/"
+  },
+  {
    "id": "I-75f7374afd82",
    "source": "insider",
    "person": "Bidzos D James",
@@ -113877,6 +117825,28 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1014473/000120481626000012/"
+  },
+  {
+   "id": "I-73531bcb7ee7",
+   "source": "insider",
+   "person": "Pletcher Kurt",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Legal Officer",
+   "ticker": "EQIX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 268,
+   "amount_high": 268,
+   "tx_date": "2026-06-02",
+   "filed_date": "2026-06-03",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123926000122/"
   },
   {
    "id": "I-6e18dd4a62c9",
@@ -113921,6 +117891,160 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1262039/000147558726000012/"
+  },
+  {
+   "id": "I-69c025fe6047",
+   "source": "insider",
+   "person": "Abdel Raouf",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP, Global Operations",
+   "ticker": "EQIX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 9522,
+   "amount_high": 9522,
+   "tx_date": "2026-06-02",
+   "filed_date": "2026-06-03",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123926000120/"
+  },
+  {
+   "id": "I-68b3c6307eca",
+   "source": "insider",
+   "person": "Abdel Raouf",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP, Global Operations",
+   "ticker": "EQIX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15840,
+   "amount_high": 15840,
+   "tx_date": "2026-06-02",
+   "filed_date": "2026-06-03",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123926000120/"
+  },
+  {
+   "id": "I-6600a6cb50a9",
+   "source": "insider",
+   "person": "Fox-Martin Adaire",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO and President",
+   "ticker": "EQIX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 312991,
+   "amount_high": 312991,
+   "tx_date": "2026-06-02",
+   "filed_date": "2026-06-03",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123926000119/"
+  },
+  {
+   "id": "I-63eb59ab9eec",
+   "source": "insider",
+   "person": "Pletcher Kurt",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Legal Officer",
+   "ticker": "EQIX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 16038,
+   "amount_high": 16038,
+   "tx_date": "2026-06-02",
+   "filed_date": "2026-06-03",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123926000122/"
+  },
+  {
+   "id": "I-6259b3059982",
+   "source": "insider",
+   "person": "Lin Jonathan",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Business Officer",
+   "ticker": "EQIX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 13767,
+   "amount_high": 13767,
+   "tx_date": "2026-06-02",
+   "filed_date": "2026-06-03",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123926000121/"
+  },
+  {
+   "id": "I-6216e7bf7d1b",
+   "source": "insider",
+   "person": "Lin Jonathan",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Business Officer",
+   "ticker": "EQIX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 11590,
+   "amount_high": 11590,
+   "tx_date": "2026-06-02",
+   "filed_date": "2026-06-03",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123926000121/"
+  },
+  {
+   "id": "I-60e955e0b442",
+   "source": "insider",
+   "person": "Pletcher Kurt",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Legal Officer",
+   "ticker": "EQIX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 8448,
+   "amount_high": 8448,
+   "tx_date": "2026-06-02",
+   "filed_date": "2026-06-03",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123926000122/"
   },
   {
    "id": "I-60741f91f493",
@@ -113989,6 +118113,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1014473/000120481626000012/"
   },
   {
+   "id": "I-5805bcc0a071",
+   "source": "insider",
+   "person": "Abdel Raouf",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP, Global Operations",
+   "ticker": "EQIX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 3200,
+   "amount_high": 3200,
+   "tx_date": "2026-06-02",
+   "filed_date": "2026-06-03",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123926000120/"
+  },
+  {
    "id": "I-553efd7b1e94",
    "source": "insider",
    "person": "Xie Ken",
@@ -114009,6 +118155,50 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1262039/000147558726000012/"
+  },
+  {
+   "id": "I-5526544c3377",
+   "source": "insider",
+   "person": "Abdel Raouf",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP, Global Operations",
+   "ticker": "EQIX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 11684,
+   "amount_high": 11684,
+   "tx_date": "2026-06-02",
+   "filed_date": "2026-06-03",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123926000120/"
+  },
+  {
+   "id": "I-54185e2838c2",
+   "source": "insider",
+   "person": "Fox-Martin Adaire",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO and President",
+   "ticker": "EQIX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 332744,
+   "amount_high": 332744,
+   "tx_date": "2026-06-02",
+   "filed_date": "2026-06-03",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123926000119/"
   },
   {
    "id": "I-524211435a16",
@@ -114055,6 +118245,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1262039/000147558726000012/"
   },
   {
+   "id": "I-500495684940",
+   "source": "insider",
+   "person": "Pletcher Kurt",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Legal Officer",
+   "ticker": "EQIX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 7413,
+   "amount_high": 7413,
+   "tx_date": "2026-06-02",
+   "filed_date": "2026-06-03",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123926000122/"
+  },
+  {
    "id": "I-4c6bf85b92d6",
    "source": "insider",
    "person": "Boroditsky Marc",
@@ -114097,6 +118309,116 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1513845/000151384526000068/"
+  },
+  {
+   "id": "I-46c5bab5dbe6",
+   "source": "insider",
+   "person": "Lin Jonathan",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Business Officer",
+   "ticker": "EQIX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 8420,
+   "amount_high": 8420,
+   "tx_date": "2026-06-02",
+   "filed_date": "2026-06-03",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123926000121/"
+  },
+  {
+   "id": "I-4603139d33a2",
+   "source": "insider",
+   "person": "Pletcher Kurt",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Legal Officer",
+   "ticker": "EQIX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 6107,
+   "amount_high": 6107,
+   "tx_date": "2026-06-02",
+   "filed_date": "2026-06-03",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123926000122/"
+  },
+  {
+   "id": "I-427db0ff390c",
+   "source": "insider",
+   "person": "Pletcher Kurt",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Legal Officer",
+   "ticker": "EQIX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1065,
+   "amount_high": 1065,
+   "tx_date": "2026-06-02",
+   "filed_date": "2026-06-03",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123926000122/"
+  },
+  {
+   "id": "I-3e3214b81e11",
+   "source": "insider",
+   "person": "Abdel Raouf",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP, Global Operations",
+   "ticker": "EQIX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 12644,
+   "amount_high": 12644,
+   "tx_date": "2026-06-02",
+   "filed_date": "2026-06-03",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123926000120/"
+  },
+  {
+   "id": "I-3d7e4797ab8d",
+   "source": "insider",
+   "person": "Abdel Raouf",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP, Global Operations",
+   "ticker": "EQIX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 525,
+   "amount_high": 525,
+   "tx_date": "2026-06-02",
+   "filed_date": "2026-06-03",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123926000120/"
   },
   {
    "id": "I-335f76cc6f68",
@@ -114143,6 +118465,116 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/927653/000092765326000138/"
   },
   {
+   "id": "I-2f87d9978e29",
+   "source": "insider",
+   "person": "Abdel Raouf",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP, Global Operations",
+   "ticker": "EQIX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 33145,
+   "amount_high": 33145,
+   "tx_date": "2026-06-02",
+   "filed_date": "2026-06-03",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123926000120/"
+  },
+  {
+   "id": "I-2f308d8a5a5d",
+   "source": "insider",
+   "person": "Lin Jonathan",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Business Officer",
+   "ticker": "EQIX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 19290,
+   "amount_high": 19290,
+   "tx_date": "2026-06-02",
+   "filed_date": "2026-06-03",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123926000121/"
+  },
+  {
+   "id": "I-2507a3de8e68",
+   "source": "insider",
+   "person": "Abdel Raouf",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP, Global Operations",
+   "ticker": "EQIX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 16165,
+   "amount_high": 16165,
+   "tx_date": "2026-06-02",
+   "filed_date": "2026-06-03",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123926000120/"
+  },
+  {
+   "id": "I-24daf19fc894",
+   "source": "insider",
+   "person": "Pletcher Kurt",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Legal Officer",
+   "ticker": "EQIX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1067,
+   "amount_high": 1067,
+   "tx_date": "2026-06-02",
+   "filed_date": "2026-06-03",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123926000122/"
+  },
+  {
+   "id": "I-213870c3af91",
+   "source": "insider",
+   "person": "Pletcher Kurt",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Legal Officer",
+   "ticker": "EQIX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 4210,
+   "amount_high": 4210,
+   "tx_date": "2026-06-02",
+   "filed_date": "2026-06-03",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123926000122/"
+  },
+  {
    "id": "I-1fafec53901f",
    "source": "insider",
    "person": "Emerson Daniel P",
@@ -114163,6 +118595,72 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/946581/000094658126000042/"
+  },
+  {
+   "id": "I-1f3ea382e577",
+   "source": "insider",
+   "person": "Fox-Martin Adaire",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO and President",
+   "ticker": "EQIX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 126414,
+   "amount_high": 126414,
+   "tx_date": "2026-06-02",
+   "filed_date": "2026-06-03",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123926000119/"
+  },
+  {
+   "id": "I-1cdce2646e78",
+   "source": "insider",
+   "person": "Lin Jonathan",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Business Officer",
+   "ticker": "EQIX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 5273,
+   "amount_high": 5273,
+   "tx_date": "2026-06-02",
+   "filed_date": "2026-06-03",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123926000121/"
+  },
+  {
+   "id": "I-177b9b4cb860",
+   "source": "insider",
+   "person": "Lin Jonathan",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Business Officer",
+   "ticker": "EQIX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 2130,
+   "amount_high": 2130,
+   "tx_date": "2026-06-02",
+   "filed_date": "2026-06-03",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123926000121/"
   },
   {
    "id": "I-14b27ce0095b",
@@ -114187,6 +118685,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1262039/000147558726000012/"
   },
   {
+   "id": "I-135a02784d0e",
+   "source": "insider",
+   "person": "Pletcher Kurt",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Legal Officer",
+   "ticker": "EQIX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 6322,
+   "amount_high": 6322,
+   "tx_date": "2026-06-02",
+   "filed_date": "2026-06-03",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123926000122/"
+  },
+  {
    "id": "I-106572711490",
    "source": "insider",
    "person": "Bidzos D James",
@@ -114207,6 +118727,50 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1014473/000120481626000012/"
+  },
+  {
+   "id": "I-0cd6a9f84dd2",
+   "source": "insider",
+   "person": "Pletcher Kurt",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Legal Officer",
+   "ticker": "EQIX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 3164,
+   "amount_high": 3164,
+   "tx_date": "2026-06-02",
+   "filed_date": "2026-06-03",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123926000122/"
+  },
+  {
+   "id": "I-0c2ce2293f20",
+   "source": "insider",
+   "person": "Fox-Martin Adaire",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO and President",
+   "ticker": "EQIX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 300746,
+   "amount_high": 300746,
+   "tx_date": "2026-06-02",
+   "filed_date": "2026-06-03",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123926000119/"
   },
   {
    "id": "I-09a5531b1e5b",
@@ -114231,6 +118795,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1014473/000120481626000012/"
   },
   {
+   "id": "I-08f7203e3ce8",
+   "source": "insider",
+   "person": "Fox-Martin Adaire",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO and President",
+   "ticker": "EQIX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 636915,
+   "amount_high": 636915,
+   "tx_date": "2026-06-02",
+   "filed_date": "2026-06-03",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123926000119/"
+  },
+  {
    "id": "I-0718dffdfc09",
    "source": "insider",
    "person": "George James Case",
@@ -114253,6 +118839,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1845338/000117891326003075/"
   },
   {
+   "id": "I-06524e93ca5d",
+   "source": "insider",
+   "person": "Lin Jonathan",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Business Officer",
+   "ticker": "EQIX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 3200,
+   "amount_high": 3200,
+   "tx_date": "2026-06-02",
+   "filed_date": "2026-06-03",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123926000121/"
+  },
+  {
    "id": "I-0576ba44ba75",
    "source": "insider",
    "person": "Buehler Patrick James",
@@ -114273,6 +118881,50 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1274494/000127449426000153/"
+  },
+  {
+   "id": "I-04b9b673f413",
+   "source": "insider",
+   "person": "Lin Jonathan",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Business Officer",
+   "ticker": "EQIX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 11684,
+   "amount_high": 11684,
+   "tx_date": "2026-06-02",
+   "filed_date": "2026-06-03",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123926000121/"
+  },
+  {
+   "id": "I-03b437085cf9",
+   "source": "insider",
+   "person": "Pletcher Kurt",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Legal Officer",
+   "ticker": "EQIX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 262,
+   "amount_high": 262,
+   "tx_date": "2026-06-02",
+   "filed_date": "2026-06-03",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123926000122/"
   },
   {
    "id": "I-0143183c6cb9",
@@ -118013,6 +122665,28 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1059556/000199025826000011/"
+  },
+  {
+   "id": "I-1142ee4fbcb0",
+   "source": "insider",
+   "person": "LaRossa Ralph A",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chair, President and CEO",
+   "ticker": "PEG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 160420,
+   "amount_high": 160420,
+   "tx_date": "2026-06-01",
+   "filed_date": "2026-06-02",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/788784/000122520826005746/"
   },
   {
    "id": "I-0ce1fd6d0052",
@@ -123816,6 +128490,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/927653/000092765326000124/"
   },
   {
+   "id": "I-001980ee6038",
+   "source": "insider",
+   "person": "Hofmeister Brandon J.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Senior Vice President",
+   "ticker": "CMS",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 222930,
+   "amount_high": 222930,
+   "tx_date": "2026-05-26",
+   "filed_date": "2026-05-27",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/811156/000171065126000013/"
+  },
+  {
    "id": "I-ff4884c2db44",
    "source": "insider",
    "person": "Teng Chin-Chi",
@@ -126755,6 +131451,28 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1041061/000104106126000130/"
+  },
+  {
+   "id": "I-f52342d4b3e1",
+   "source": "insider",
+   "person": "Abdel Raouf",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP, Global Operations",
+   "ticker": "EQIX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 2210279,
+   "amount_high": 2210279,
+   "tx_date": "2026-05-22",
+   "filed_date": "2026-05-26",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123926000118/"
   },
   {
    "id": "I-f246fd1eed44",

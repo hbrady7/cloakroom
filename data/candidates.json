@@ -463,6 +463,7 @@
      "points": 5.3,
      "aligned_buyers": [
       "Dan Newhouse",
+      "Julie Johnson",
       "Maria Elvira Salazar"
      ],
      "sectors": [
@@ -488,6 +489,10 @@
    },
    "evidence": [
     {
+     "id": "C-69717957746c",
+     "signal": "committee"
+    },
+    {
      "id": "C-c736231999ff",
      "signal": "committee"
     },
@@ -497,8 +502,8 @@
     }
    ],
    "stats": {
-    "congress_buys": 3,
-    "distinct_buyers": 3,
+    "congress_buys": 4,
+    "distinct_buyers": 4,
     "insider_open_market_buys": 0,
     "options_positions": 0
    },
@@ -667,8 +672,8 @@
  ],
  "caution": [
   {
-   "ticker": "SCHW",
-   "score": 32.6,
+   "ticker": "FFIV",
+   "score": 34.3,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -677,124 +682,8 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 32.6,
-     "distinct_sellers": 8,
-     "weighted_sellers": 6.0
-    },
-    "committee_sell": {
-     "fired": false,
-     "points": 0.0
-    }
-   },
-   "evidence": [
-    {
-     "id": "I-6dc70d94fe78",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-1d2ecd4fd9cc",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-63fd32db89ca",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-38e28138a784",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-94e017ce9570",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-85de12f6297d",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-24ea06521901",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-acf241d18667",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-4d064f1f04b3",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-2f40cda90536",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-b268f5eb9da8",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-7a26a89a812a",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-37f3aa0a3a53",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-31d2940ac446",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-cda45e7628a1",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-964e53c7b8e0",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-eb1cdb835b3e",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-e6e48f0ca8f5",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-4f6536943a06",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-c846b2404576",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-0df757fddde2",
-     "signal": "insider_distribution"
-    }
-   ],
-   "stats": {
-    "congress_sells": 1,
-    "insider_sells": 21
-   },
-   "name": "SCHWAB CHARLES CORP",
-   "sectors": [
-    "fintech",
-    "banks"
-   ]
-  },
-  {
-   "ticker": "SONY",
-   "score": 32.6,
-   "signals": {
-    "sell_cluster": {
-     "fired": false,
-     "points": 0.0,
-     "distinct_sellers": 0
-    },
-    "insider_distribution": {
-     "fired": true,
-     "points": 32.6,
-     "distinct_sellers": 6,
+     "points": 34.3,
+     "distinct_sellers": 9,
      "weighted_sellers": 5.5
     },
     "committee_sell": {
@@ -804,54 +693,169 @@
    },
    "evidence": [
     {
-     "id": "I-dfe0085cfe5e",
+     "id": "I-cb4c52565e19",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-57c7565140f6",
+     "id": "I-b1ec450c0ef6",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-b0bd2aaf67eb",
+     "id": "I-ac7dc251885b",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-7d28b66de4a7",
+     "id": "I-9870ea8c5e12",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-d01bba64b84c",
+     "id": "I-78604e48c103",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-1a2e1c3d04c7",
+     "id": "I-56b04d33679d",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-60cfadcd6305",
+     "id": "I-3ffe5f3ffc55",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-2b883751f5b0",
+     "id": "I-30015c53c9bd",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-1951aa60e329",
+     "id": "I-11f38126a3be",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-cdd2f876860c",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-c7c6b46fb2da",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-bc29a52d5006",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-4d7e60e86dd7",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-18f3f509f78d",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-d73fd4b4306e",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-b62a8188f370",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-8b94b373a918",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-78635bcc350e",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-617566db463b",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-4fd5f7778581",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-d3b3a6dae1ce",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-6cf39fd47811",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-687617035777",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-38fba0b3b57d",
      "signal": "insider_distribution"
     }
    ],
    "stats": {
-    "congress_sells": 0,
-    "insider_sells": 9
+    "congress_sells": 1,
+    "insider_sells": 27
    },
-   "name": "Sony Group Corp",
+   "name": "F5, INC.",
    "sectors": [
-    "industrial"
+    "tech"
+   ]
+  },
+  {
+   "ticker": "MMM",
+   "score": 34.3,
+   "signals": {
+    "sell_cluster": {
+     "fired": false,
+     "points": 0.0,
+     "distinct_sellers": 2
+    },
+    "insider_distribution": {
+     "fired": true,
+     "points": 34.3,
+     "distinct_sellers": 5,
+     "weighted_sellers": 5.0
+    },
+    "committee_sell": {
+     "fired": true,
+     "points": 0.0
+    }
+   },
+   "evidence": [
+    {
+     "id": "I-0c840cfa5c45",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-e6535dc4d982",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-0b79a7c38c24",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-e362816ccb6d",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-3c3bc064d138",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "C-18f26ed36968",
+     "signal": "committee_sell"
+    }
+   ],
+   "stats": {
+    "congress_sells": 4,
+    "insider_sells": 5
+   },
+   "name": "3M CO",
+   "sectors": [
+    "healthcare"
    ]
   },
   {
    "ticker": "MPWR",
-   "score": 31.0,
+   "score": 34.3,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -860,7 +864,7 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 31.0,
+     "points": 34.3,
      "distinct_sellers": 8,
      "weighted_sellers": 7.5
     },
@@ -870,6 +874,10 @@
     }
    },
    "evidence": [
+    {
+     "id": "I-c43bc0869d7c",
+     "signal": "insider_distribution"
+    },
     {
      "id": "I-fd92bfaa35eb",
      "signal": "insider_distribution"
@@ -961,15 +969,11 @@
     {
      "id": "I-7643e6a9408d",
      "signal": "insider_distribution"
-    },
-    {
-     "id": "I-193d529a7514",
-     "signal": "insider_distribution"
     }
    ],
    "stats": {
     "congress_sells": 3,
-    "insider_sells": 64
+    "insider_sells": 65
    },
    "name": "MONOLITHIC POWER SYSTEMS, INC.",
    "sectors": [
@@ -978,8 +982,8 @@
    ]
   },
   {
-   "ticker": "STX",
-   "score": 31.0,
+   "ticker": "SONY",
+   "score": 34.3,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -988,8 +992,8 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 31.0,
-     "distinct_sellers": 8,
+     "points": 34.3,
+     "distinct_sellers": 7,
      "weighted_sellers": 6.5
     },
     "committee_sell": {
@@ -999,125 +1003,73 @@
    },
    "evidence": [
     {
-     "id": "I-f9ea0bc42aee",
+     "id": "I-cc47a53d01e0",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-f70d0a3a0cf6",
+     "id": "I-59eebddea4a6",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-f03d6bda21d1",
+     "id": "I-dfe0085cfe5e",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-e49ef61fae66",
+     "id": "I-57c7565140f6",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-de9b08d376ae",
+     "id": "I-b0bd2aaf67eb",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-dc5adf600c56",
+     "id": "I-7d28b66de4a7",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-d9237bf678ff",
+     "id": "I-d01bba64b84c",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-d6bf483a14a6",
+     "id": "I-1a2e1c3d04c7",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-d6494ef7398b",
+     "id": "I-60cfadcd6305",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-d556f53e0d79",
+     "id": "I-2b883751f5b0",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-d39594ae604f",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-d03f25d69304",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-cd652488cde9",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-c515a98da2be",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-c30dc91cc1b5",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-ba19f12081e5",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-b5f316efed4d",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-af2e184520e2",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-9c6812a39304",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-949dd43c48a2",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-947f77bbb2b5",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-91728aca26c6",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-916998e4ec8a",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-8fb95287b46b",
+     "id": "I-1951aa60e329",
      "signal": "insider_distribution"
     }
    ],
    "stats": {
     "congress_sells": 0,
-    "insider_sells": 130
+    "insider_sells": 11
    },
-   "name": "Seagate Technology Holdings plc",
+   "name": "Sony Group Corp",
    "sectors": [
-    "tech"
+    "industrial"
    ]
   },
   {
-   "ticker": "FFIV",
-   "score": 29.3,
+   "ticker": "CBSH",
+   "score": 32.6,
    "signals": {
     "sell_cluster": {
      "fired": false,
      "points": 0.0,
-     "distinct_sellers": 0
+     "distinct_sellers": 1
     },
     "insider_distribution": {
      "fired": true,
-     "points": 29.3,
-     "distinct_sellers": 7,
-     "weighted_sellers": 4.5
+     "points": 32.6,
+     "distinct_sellers": 6,
+     "weighted_sellers": 6.0
     },
     "committee_sell": {
      "fired": false,
@@ -1126,88 +1078,40 @@
    },
    "evidence": [
     {
-     "id": "I-cdd2f876860c",
+     "id": "I-235eecec8f2e",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-c7c6b46fb2da",
+     "id": "I-7ed9039832d2",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-bc29a52d5006",
+     "id": "I-67b300f28f13",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-4d7e60e86dd7",
+     "id": "I-e243669f9ffe",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-18f3f509f78d",
+     "id": "I-fb30bc98f896",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-d73fd4b4306e",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-b62a8188f370",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-8b94b373a918",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-78635bcc350e",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-617566db463b",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-4fd5f7778581",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-d3b3a6dae1ce",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-6cf39fd47811",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-687617035777",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-38fba0b3b57d",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-8968c2804f5f",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-f1a2bf170d9e",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-6f135e363d80",
+     "id": "I-33cb54802772",
      "signal": "insider_distribution"
     }
    ],
    "stats": {
-    "congress_sells": 0,
-    "insider_sells": 18
+    "congress_sells": 1,
+    "insider_sells": 6
    },
-   "name": "F5, INC.",
+   "name": "COMMERCE BANCSHARES INC /MO/",
    "sectors": [
-    "tech"
+    "banks"
    ]
   }
  ],
- "universe": 760,
- "generated_at": "2026-08-06T13:14:12Z"
+ "universe": 769,
+ "generated_at": "2026-08-07T12:12:33Z"
 }
