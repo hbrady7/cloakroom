@@ -1,7 +1,34 @@
 {
- "generated_at": "2026-08-07T12:09:59Z",
+ "generated_at": "2026-08-10T12:10:12Z",
  "mode": "efd",
  "transactions": [
+  {
+   "id": "C-51d2ec5cf3db",
+   "source": "congress",
+   "person": "Gary C Peters",
+   "role": {
+    "chamber": "senate",
+    "party": "Democrat",
+    "committees": [
+     "Senate Committee on Appropriations",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Commerce, Science, and Transportation",
+     "Senate Committee on Homeland Security and Governmental Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "O",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-23",
+   "filed_date": "2026-08-07",
+   "lag_days": 15,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/328a9b36-1205-4117-bdc4-cd7c3ccbcbbc/"
+  },
   {
    "id": "C-db2c548bf41e",
    "source": "congress",

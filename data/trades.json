@@ -1,7 +1,1926 @@
 {
- "generated_at": "2026-08-07T12:11:40Z",
+ "generated_at": "2026-08-10T12:11:32Z",
  "window_days": 180,
  "trades": [
+  {
+   "id": "I-fac55f4ade7c",
+   "source": "insider",
+   "person": "Wu Yi-Huang",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "VP",
+   "ticker": "TSM",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 3006,
+   "amount_high": 3006,
+   "tx_date": "2026-08-07",
+   "filed_date": "2026-08-10",
+   "lag_days": 3,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000530/"
+  },
+  {
+   "id": "I-f2b292a482db",
+   "source": "insider",
+   "person": "Wang Ying-Lang",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "SVP",
+   "ticker": "TSM",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 4032,
+   "amount_high": 4032,
+   "tx_date": "2026-08-07",
+   "filed_date": "2026-08-10",
+   "lag_days": 3,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000522/"
+  },
+  {
+   "id": "I-efee545ef637",
+   "source": "insider",
+   "person": "Jang Syun-Ming",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "VP",
+   "ticker": "TSM",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 3666,
+   "amount_high": 3666,
+   "tx_date": "2026-08-07",
+   "filed_date": "2026-08-10",
+   "lag_days": 3,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000503/"
+  },
+  {
+   "id": "I-eec0b0e3f9b9",
+   "source": "insider",
+   "person": "Tien Bor-Zen",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "VP",
+   "ticker": "TSM",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 513,
+   "amount_high": 513,
+   "tx_date": "2026-08-07",
+   "filed_date": "2026-08-10",
+   "lag_days": 3,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000519/"
+  },
+  {
+   "id": "I-eba50bff8161",
+   "source": "insider",
+   "person": "Lu Chin-Sheng",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "VP",
+   "ticker": "TSM",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 2859,
+   "amount_high": 2859,
+   "tx_date": "2026-08-07",
+   "filed_date": "2026-08-10",
+   "lag_days": 3,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000509/"
+  },
+  {
+   "id": "I-e7e9c64afc8b",
+   "source": "insider",
+   "person": "Yoo Chue-San",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "VP",
+   "ticker": "TSM",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 3739,
+   "amount_high": 3739,
+   "tx_date": "2026-08-07",
+   "filed_date": "2026-08-10",
+   "lag_days": 3,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000529/"
+  },
+  {
+   "id": "I-c74c819d17a8",
+   "source": "insider",
+   "person": "Lin Chris Horng-Dar",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "VP and CIO",
+   "ticker": "TSM",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 3592,
+   "amount_high": 3592,
+   "tx_date": "2026-08-07",
+   "filed_date": "2026-08-10",
+   "lag_days": 3,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000513/"
+  },
+  {
+   "id": "I-a4ca836b80e2",
+   "source": "insider",
+   "person": "Lee Chun-Hsien",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "SVP",
+   "ticker": "TSM",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 3959,
+   "amount_high": 3959,
+   "tx_date": "2026-08-07",
+   "filed_date": "2026-08-10",
+   "lag_days": 3,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000510/"
+  },
+  {
+   "id": "I-91e25f4287f4",
+   "source": "insider",
+   "person": "Wei Che-Chia",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chairman and CEO",
+   "ticker": "TSM",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 11143,
+   "amount_high": 11143,
+   "tx_date": "2026-08-07",
+   "filed_date": "2026-08-10",
+   "lag_days": 3,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000521/"
+  },
+  {
+   "id": "I-908a5a87c3d5",
+   "source": "insider",
+   "person": "Lin Shyue-Shyh",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "VP",
+   "ticker": "TSM",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 3446,
+   "amount_high": 3446,
+   "tx_date": "2026-08-07",
+   "filed_date": "2026-08-10",
+   "lag_days": 3,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000511/"
+  },
+  {
+   "id": "I-8ad22a0ebc8a",
+   "source": "insider",
+   "person": "Tien Bor-Zen",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "VP",
+   "ticker": "TSM",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 3079,
+   "amount_high": 3079,
+   "tx_date": "2026-08-07",
+   "filed_date": "2026-08-10",
+   "lag_days": 3,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000519/"
+  },
+  {
+   "id": "I-8aa8d27f67fe",
+   "source": "insider",
+   "person": "Zhang Kevin Xiaoqiang",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "SVP and Deputy Co-COO",
+   "ticker": "TSM",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 4619,
+   "amount_high": 4619,
+   "tx_date": "2026-08-07",
+   "filed_date": "2026-08-10",
+   "lag_days": 3,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000532/"
+  },
+  {
+   "id": "I-7ebf9523ed41",
+   "source": "insider",
+   "person": "Yuan Lipen",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "VP",
+   "ticker": "TSM",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 3079,
+   "amount_high": 3079,
+   "tx_date": "2026-08-07",
+   "filed_date": "2026-08-10",
+   "lag_days": 3,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000531/"
+  },
+  {
+   "id": "I-765632b6d7e9",
+   "source": "insider",
+   "person": "Wu Shien-Yang",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "SVP",
+   "ticker": "TSM",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 4179,
+   "amount_high": 4179,
+   "tx_date": "2026-08-07",
+   "filed_date": "2026-08-10",
+   "lag_days": 3,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000520/"
+  },
+  {
+   "id": "I-555df2f854d5",
+   "source": "insider",
+   "person": "Yeap Choh Fei",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "SVP",
+   "ticker": "TSM",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 4179,
+   "amount_high": 4179,
+   "tx_date": "2026-08-07",
+   "filed_date": "2026-08-10",
+   "lag_days": 3,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000533/"
+  },
+  {
+   "id": "I-50ee3283da5c",
+   "source": "insider",
+   "person": "Lu Lee-Chung",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "VP",
+   "ticker": "TSM",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 3812,
+   "amount_high": 3812,
+   "tx_date": "2026-08-07",
+   "filed_date": "2026-08-10",
+   "lag_days": 3,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000512/"
+  },
+  {
+   "id": "I-3bbd1d77e56c",
+   "source": "insider",
+   "person": "Mii Yuh-Jier",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP and Co-COO",
+   "ticker": "TSM",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 5278,
+   "amount_high": 5278,
+   "tx_date": "2026-08-07",
+   "filed_date": "2026-08-10",
+   "lag_days": 3,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000523/"
+  },
+  {
+   "id": "I-4043b9ac028c",
+   "source": "insider",
+   "person": "Zaks Tal Zvi",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "TEVA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 593,
+   "amount_high": 593,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-10",
+   "lag_days": 5,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/818686/000119312526341086/"
+  },
+  {
+   "id": "I-8fdd77c9050c",
+   "source": "insider",
+   "person": "Briggs Andrew J",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "FMAO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 102240,
+   "amount_high": 102240,
+   "tx_date": "2026-08-07",
+   "filed_date": "2026-08-07",
+   "lag_days": 0,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/792966/000119312526340562/"
+  },
+  {
+   "id": "I-f7ec679ee3c2",
+   "source": "insider",
+   "person": "Grygiel Nancy A.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "SVP & CCO",
+   "ticker": "AMGN",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 792255,
+   "amount_high": 792255,
+   "tx_date": "2026-08-06",
+   "filed_date": "2026-08-07",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/318154/000031815426000129/"
+  },
+  {
+   "id": "I-f6f18fb85dca",
+   "source": "insider",
+   "person": "Casper Marc N",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chairman & CEO",
+   "ticker": "TMO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 688008,
+   "amount_high": 688008,
+   "tx_date": "2026-08-06",
+   "filed_date": "2026-08-07",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/97745/000121605526000007/"
+  },
+  {
+   "id": "I-f27326678a9c",
+   "source": "insider",
+   "person": "Forminard Elizabeth",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP, Chief Legal Officer",
+   "ticker": "JNJ",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 2408463,
+   "amount_high": 2408463,
+   "tx_date": "2026-08-06",
+   "filed_date": "2026-08-07",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/200406/000020040626000169/"
+  },
+  {
+   "id": "I-f1a87fc4b6c2",
+   "source": "insider",
+   "person": "Casper Marc N",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chairman & CEO",
+   "ticker": "TMO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 68893,
+   "amount_high": 68893,
+   "tx_date": "2026-08-06",
+   "filed_date": "2026-08-07",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/97745/000121605526000007/"
+  },
+  {
+   "id": "I-e6f5a15bdb3e",
+   "source": "insider",
+   "person": "Sanofi",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "10% owner",
+   "ticker": "SNY",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 5100000,
+   "amount_high": 5100000,
+   "tx_date": "2026-08-06",
+   "filed_date": "2026-08-07",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1121404/000119312526340173/"
+  },
+  {
+   "id": "I-e5152073bcd8",
+   "source": "insider",
+   "person": "Briggs Andrew J",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "FMAO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 102720,
+   "amount_high": 102720,
+   "tx_date": "2026-08-06",
+   "filed_date": "2026-08-07",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/792966/000119312526340562/"
+  },
+  {
+   "id": "I-de8ae290746d",
+   "source": "insider",
+   "person": "Cahill John T",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "CL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 389358,
+   "amount_high": 389358,
+   "tx_date": "2026-08-06",
+   "filed_date": "2026-08-07",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/21665/000122520826007035/"
+  },
+  {
+   "id": "I-ddba444c6efe",
+   "source": "insider",
+   "person": "Casper Marc N",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chairman & CEO",
+   "ticker": "TMO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 180349,
+   "amount_high": 180349,
+   "tx_date": "2026-08-06",
+   "filed_date": "2026-08-07",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/97745/000121605526000007/"
+  },
+  {
+   "id": "I-ce94971459c4",
+   "source": "insider",
+   "person": "Grygiel Nancy A.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "SVP & CCO",
+   "ticker": "AMGN",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 402160,
+   "amount_high": 402160,
+   "tx_date": "2026-08-06",
+   "filed_date": "2026-08-07",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/318154/000031815426000129/"
+  },
+  {
+   "id": "I-c4bd88116b32",
+   "source": "insider",
+   "person": "Miller Derek",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "SVP, Human Resources",
+   "ticker": "AMGN",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 733033,
+   "amount_high": 733033,
+   "tx_date": "2026-08-06",
+   "filed_date": "2026-08-07",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/318154/000031815426000130/"
+  },
+  {
+   "id": "I-bdf6fd388fd4",
+   "source": "insider",
+   "person": "Casper Marc N",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chairman & CEO",
+   "ticker": "TMO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 185753,
+   "amount_high": 185753,
+   "tx_date": "2026-08-06",
+   "filed_date": "2026-08-07",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/97745/000121605526000007/"
+  },
+  {
+   "id": "I-bc5eb70ee085",
+   "source": "insider",
+   "person": "Casper Marc N",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chairman & CEO",
+   "ticker": "TMO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 928805,
+   "amount_high": 928805,
+   "tx_date": "2026-08-06",
+   "filed_date": "2026-08-07",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/97745/000121605526000007/"
+  },
+  {
+   "id": "I-a1271a207e11",
+   "source": "insider",
+   "person": "Casper Marc N",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chairman & CEO",
+   "ticker": "TMO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 377738,
+   "amount_high": 377738,
+   "tx_date": "2026-08-06",
+   "filed_date": "2026-08-07",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/97745/000121605526000007/"
+  },
+  {
+   "id": "I-99cab44811a1",
+   "source": "insider",
+   "person": "Casper Marc N",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chairman & CEO",
+   "ticker": "TMO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 137040,
+   "amount_high": 137040,
+   "tx_date": "2026-08-06",
+   "filed_date": "2026-08-07",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/97745/000121605526000007/"
+  },
+  {
+   "id": "I-988dbfeed548",
+   "source": "insider",
+   "person": "Casper Marc N",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chairman & CEO",
+   "ticker": "TMO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 276701,
+   "amount_high": 276701,
+   "tx_date": "2026-08-06",
+   "filed_date": "2026-08-07",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/97745/000121605526000007/"
+  },
+  {
+   "id": "I-956029b7c567",
+   "source": "insider",
+   "person": "Britt Lisa P.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Sr. VP and Chief HR Officer",
+   "ticker": "TMO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 3393000,
+   "amount_high": 3393000,
+   "tx_date": "2026-08-06",
+   "filed_date": "2026-08-07",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/97745/000009774526000146/"
+  },
+  {
+   "id": "I-8f3a947657cf",
+   "source": "insider",
+   "person": "Casper Marc N",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chairman & CEO",
+   "ticker": "TMO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 260421,
+   "amount_high": 260421,
+   "tx_date": "2026-08-06",
+   "filed_date": "2026-08-07",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/97745/000121605526000007/"
+  },
+  {
+   "id": "I-66ae93806065",
+   "source": "insider",
+   "person": "Casper Marc N",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chairman & CEO",
+   "ticker": "TMO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1245295,
+   "amount_high": 1245295,
+   "tx_date": "2026-08-06",
+   "filed_date": "2026-08-07",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/97745/000121605526000007/"
+  },
+  {
+   "id": "I-651233084306",
+   "source": "insider",
+   "person": "Casper Marc N",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chairman & CEO",
+   "ticker": "TMO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1459634,
+   "amount_high": 1459634,
+   "tx_date": "2026-08-06",
+   "filed_date": "2026-08-07",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/97745/000121605526000007/"
+  },
+  {
+   "id": "I-5cb7c831c843",
+   "source": "insider",
+   "person": "Forminard Elizabeth",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP, Chief Legal Officer",
+   "ticker": "JNJ",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1682497,
+   "amount_high": 1682497,
+   "tx_date": "2026-08-06",
+   "filed_date": "2026-08-07",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/200406/000020040626000169/"
+  },
+  {
+   "id": "I-57271518ad6e",
+   "source": "insider",
+   "person": "Casper Marc N",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chairman & CEO",
+   "ticker": "TMO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 578874,
+   "amount_high": 578874,
+   "tx_date": "2026-08-06",
+   "filed_date": "2026-08-07",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/97745/000121605526000007/"
+  },
+  {
+   "id": "I-504e37e1b639",
+   "source": "insider",
+   "person": "McCalman Jennifer",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "VP, Chief Accounting Officer",
+   "ticker": "HSY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 128354,
+   "amount_high": 128354,
+   "tx_date": "2026-08-06",
+   "filed_date": "2026-08-07",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/47111/000004711126000230/"
+  },
+  {
+   "id": "I-448c8876b4af",
+   "source": "insider",
+   "person": "Ortega Luisa",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Insider",
+   "ticker": "KO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1713681,
+   "amount_high": 1713681,
+   "tx_date": "2026-08-06",
+   "filed_date": "2026-08-07",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/21344/000002134426000161/"
+  },
+  {
+   "id": "I-39f936634d4e",
+   "source": "insider",
+   "person": "Casper Marc N",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chairman & CEO",
+   "ticker": "TMO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 933633,
+   "amount_high": 933633,
+   "tx_date": "2026-08-06",
+   "filed_date": "2026-08-07",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/97745/000121605526000007/"
+  },
+  {
+   "id": "I-394a7e304ee9",
+   "source": "insider",
+   "person": "Ortega Luisa",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Insider",
+   "ticker": "KO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 3114214,
+   "amount_high": 3114214,
+   "tx_date": "2026-08-06",
+   "filed_date": "2026-08-07",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/21344/000002134426000161/"
+  },
+  {
+   "id": "I-2fc159f48132",
+   "source": "insider",
+   "person": "Casper Marc N",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chairman & CEO",
+   "ticker": "TMO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 73661,
+   "amount_high": 73661,
+   "tx_date": "2026-08-06",
+   "filed_date": "2026-08-07",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/97745/000121605526000007/"
+  },
+  {
+   "id": "I-2f01c88eca0e",
+   "source": "insider",
+   "person": "Casper Marc N",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chairman & CEO",
+   "ticker": "TMO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 208503,
+   "amount_high": 208503,
+   "tx_date": "2026-08-06",
+   "filed_date": "2026-08-07",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/97745/000121605526000007/"
+  },
+  {
+   "id": "I-297391f15778",
+   "source": "insider",
+   "person": "Casper Marc N",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chairman & CEO",
+   "ticker": "TMO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 129620,
+   "amount_high": 129620,
+   "tx_date": "2026-08-06",
+   "filed_date": "2026-08-07",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/97745/000121605526000007/"
+  },
+  {
+   "id": "I-23d7b07d8ba7",
+   "source": "insider",
+   "person": "Casper Marc N",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chairman & CEO",
+   "ticker": "TMO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 274104,
+   "amount_high": 274104,
+   "tx_date": "2026-08-06",
+   "filed_date": "2026-08-07",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/97745/000121605526000007/"
+  },
+  {
+   "id": "I-1ceda32b9980",
+   "source": "insider",
+   "person": "Kuebler Christopher A",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "WAT",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1442930,
+   "amount_high": 1442930,
+   "tx_date": "2026-08-06",
+   "filed_date": "2026-08-07",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1000697/000100069726000127/"
+  },
+  {
+   "id": "I-1054ae8645ea",
+   "source": "insider",
+   "person": "Miller Derek",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "SVP, Human Resources",
+   "ticker": "AMGN",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 832864,
+   "amount_high": 832864,
+   "tx_date": "2026-08-06",
+   "filed_date": "2026-08-07",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/318154/000031815426000130/"
+  },
+  {
+   "id": "I-0c72948b3828",
+   "source": "insider",
+   "person": "Casper Marc N",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chairman & CEO",
+   "ticker": "TMO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 609935,
+   "amount_high": 609935,
+   "tx_date": "2026-08-06",
+   "filed_date": "2026-08-07",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/97745/000121605526000007/"
+  },
+  {
+   "id": "I-f3c865ef9b69",
+   "source": "insider",
+   "person": "McCartney Philip",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP: CHIEF INN,PROD&DSG OFCR",
+   "ticker": "NKE",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 21798,
+   "amount_high": 21798,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-07",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/320187/000032018726000105/"
+  },
+  {
+   "id": "I-eb2bcd9d9ca1",
+   "source": "insider",
+   "person": "Duato Joaquin",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO and Chairman of the Board",
+   "ticker": "JNJ",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 10827256,
+   "amount_high": 10827256,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-07",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/200406/000020040626000171/"
+  },
+  {
+   "id": "I-def5640f23e3",
+   "source": "insider",
+   "person": "Casper Marc N",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chairman & CEO",
+   "ticker": "TMO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1687826,
+   "amount_high": 1687826,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-07",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/97745/000121605526000006/"
+  },
+  {
+   "id": "I-dc00abbc4da4",
+   "source": "insider",
+   "person": "Friend Matthew",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP: CFO",
+   "ticker": "NKE",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 102461,
+   "amount_high": 102461,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-07",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/320187/000032018726000103/"
+  },
+  {
+   "id": "I-c9d93500caac",
+   "source": "insider",
+   "person": "Casper Marc N",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chairman & CEO",
+   "ticker": "TMO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 38862,
+   "amount_high": 38862,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-07",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/97745/000121605526000006/"
+  },
+  {
+   "id": "I-c1faba21c167",
+   "source": "insider",
+   "person": "Alagirisamy Venkatesh",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP: CHIEF OPERATING OFFICER",
+   "ticker": "NKE",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 37024,
+   "amount_high": 37024,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-07",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/320187/000032018726000107/"
+  },
+  {
+   "id": "I-b4c51f4edf82",
+   "source": "insider",
+   "person": "Casper Marc N",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chairman & CEO",
+   "ticker": "TMO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1485312,
+   "amount_high": 1485312,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-07",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/97745/000121605526000006/"
+  },
+  {
+   "id": "I-ad21b548f0c6",
+   "source": "insider",
+   "person": "Leinwand Robert",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP: Chief Legal Officer",
+   "ticker": "NKE",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 34154,
+   "amount_high": 34154,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-07",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/320187/000032018726000109/"
+  },
+  {
+   "id": "I-a9e839c17047",
+   "source": "insider",
+   "person": "Casper Marc N",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chairman & CEO",
+   "ticker": "TMO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 43317,
+   "amount_high": 43317,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-07",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/97745/000121605526000006/"
+  },
+  {
+   "id": "I-a4b9d73b44ea",
+   "source": "insider",
+   "person": "Casper Marc N",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chairman & CEO",
+   "ticker": "TMO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1278181,
+   "amount_high": 1278181,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-07",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/97745/000121605526000006/"
+  },
+  {
+   "id": "I-9a6bbd197599",
+   "source": "insider",
+   "person": "Casper Marc N",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chairman & CEO",
+   "ticker": "TMO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 88901,
+   "amount_high": 88901,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-07",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/97745/000121605526000006/"
+  },
+  {
+   "id": "I-90e2128adb91",
+   "source": "insider",
+   "person": "Casper Marc N",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chairman & CEO",
+   "ticker": "TMO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 77151,
+   "amount_high": 77151,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-07",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/97745/000121605526000006/"
+  },
+  {
+   "id": "I-8a4d96640266",
+   "source": "insider",
+   "person": "Conway Patrick Hugh",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Executive Officer, Optum",
+   "ticker": "UNH",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 205000,
+   "amount_high": 205000,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-07",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/731766/000073176626000196/"
+  },
+  {
+   "id": "I-7f3421cbe370",
+   "source": "insider",
+   "person": "Casper Marc N",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chairman & CEO",
+   "ticker": "TMO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 743534,
+   "amount_high": 743534,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-07",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/97745/000121605526000006/"
+  },
+  {
+   "id": "I-773e487c8c07",
+   "source": "insider",
+   "person": "Viljoen Natascha",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President & CEO",
+   "ticker": "NEM",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 807456,
+   "amount_high": 807456,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-07",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1164727/000199413126000008/"
+  },
+  {
+   "id": "I-76ef20934e57",
+   "source": "insider",
+   "person": "Casper Marc N",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chairman & CEO",
+   "ticker": "TMO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 123785,
+   "amount_high": 123785,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-07",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/97745/000121605526000006/"
+  },
+  {
+   "id": "I-70824a74cc16",
+   "source": "insider",
+   "person": "Casper Marc N",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chairman & CEO",
+   "ticker": "TMO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 843337,
+   "amount_high": 843337,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-07",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/97745/000121605526000006/"
+  },
+  {
+   "id": "I-6ac7782ece56",
+   "source": "insider",
+   "person": "Casper Marc N",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chairman & CEO",
+   "ticker": "TMO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 338678,
+   "amount_high": 338678,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-07",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/97745/000121605526000006/"
+  },
+  {
+   "id": "I-4c79fddf2f5e",
+   "source": "insider",
+   "person": "Wirth Michael K",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chairman and CEO",
+   "ticker": "CVX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1037266,
+   "amount_high": 1037266,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-07",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/93410/000009341026000169/"
+  },
+  {
+   "id": "I-4c462f0b58e1",
+   "source": "insider",
+   "person": "Casper Marc N",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chairman & CEO",
+   "ticker": "TMO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 21370,
+   "amount_high": 21370,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-07",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/97745/000121605526000006/"
+  },
+  {
+   "id": "I-4ab14a4c2211",
+   "source": "insider",
+   "person": "Casper Marc N",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chairman & CEO",
+   "ticker": "TMO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 37484,
+   "amount_high": 37484,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-07",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/97745/000121605526000006/"
+  },
+  {
+   "id": "I-4a41edb79a88",
+   "source": "insider",
+   "person": "Casper Marc N",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chairman & CEO",
+   "ticker": "TMO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 22788,
+   "amount_high": 22788,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-07",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/97745/000121605526000006/"
+  },
+  {
+   "id": "I-378670b0179a",
+   "source": "insider",
+   "person": "Duato Joaquin",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO and Chairman of the Board",
+   "ticker": "JNJ",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1687754,
+   "amount_high": 1687754,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-07",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/200406/000020040626000171/"
+  },
+  {
+   "id": "I-36754775e3d3",
+   "source": "insider",
+   "person": "Schwab-Pomerantz Carolyn",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "SCHW",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1999016,
+   "amount_high": 1999016,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-07",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/316709/000195078726000014/"
+  },
+  {
+   "id": "I-2ef43312bc44",
+   "source": "insider",
+   "person": "Tabolt Brian",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Financial Officer",
+   "ticker": "NEM",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1202755,
+   "amount_high": 1202755,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-07",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1164727/000160066426000010/"
+  },
+  {
+   "id": "I-2625d53c6700",
+   "source": "insider",
+   "person": "Craig Jonathan M.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "MD, Head of Retail Investing",
+   "ticker": "SCHW",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 2327752,
+   "amount_high": 2327752,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-07",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/316709/000173306526000011/"
+  },
+  {
+   "id": "I-1d2d04198cac",
+   "source": "insider",
+   "person": "Casper Marc N",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chairman & CEO",
+   "ticker": "TMO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 680800,
+   "amount_high": 680800,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-07",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/97745/000121605526000006/"
+  },
+  {
+   "id": "I-176b322cee32",
+   "source": "insider",
+   "person": "Casper Marc N",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chairman & CEO",
+   "ticker": "TMO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 21627,
+   "amount_high": 21627,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-07",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/97745/000121605526000006/"
+  },
+  {
+   "id": "I-158c126dc808",
+   "source": "insider",
+   "person": "Stat Lauren Elaina Friedman",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "PLTR",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 500280,
+   "amount_high": 500280,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-07",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1321655/000184024426000015/"
+  },
+  {
+   "id": "I-11ac63d78a2f",
+   "source": "insider",
+   "person": "Casper Marc N",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chairman & CEO",
+   "ticker": "TMO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 44735,
+   "amount_high": 44735,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-07",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/97745/000121605526000006/"
+  },
+  {
+   "id": "I-10b70a6a08de",
+   "source": "insider",
+   "person": "Casper Marc N",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chairman & CEO",
+   "ticker": "TMO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 246997,
+   "amount_high": 246997,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-07",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/97745/000121605526000006/"
+  },
+  {
+   "id": "I-0797dfb1d807",
+   "source": "insider",
+   "person": "Casper Marc N",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chairman & CEO",
+   "ticker": "TMO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 73830,
+   "amount_high": 73830,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-07",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/97745/000121605526000006/"
+  },
+  {
+   "id": "I-073b82bc468e",
+   "source": "insider",
+   "person": "Casper Marc N",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chairman & CEO",
+   "ticker": "TMO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 639953,
+   "amount_high": 639953,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-07",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/97745/000121605526000006/"
+  },
+  {
+   "id": "I-071daf0def1f",
+   "source": "insider",
+   "person": "Casper Marc N",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chairman & CEO",
+   "ticker": "TMO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 59770,
+   "amount_high": 59770,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-07",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/97745/000121605526000006/"
+  },
+  {
+   "id": "I-00533c37965e",
+   "source": "insider",
+   "person": "Casper Marc N",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chairman & CEO",
+   "ticker": "TMO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 30197,
+   "amount_high": 30197,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-07",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/97745/000121605526000006/"
+  },
+  {
+   "id": "C-51d2ec5cf3db",
+   "source": "congress",
+   "person": "Gary C Peters",
+   "role": {
+    "chamber": "senate",
+    "party": "Democrat",
+    "committees": [
+     "Senate Committee on Appropriations",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Commerce, Science, and Transportation",
+     "Senate Committee on Homeland Security and Governmental Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "O",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-23",
+   "filed_date": "2026-08-07",
+   "lag_days": 15,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/328a9b36-1205-4117-bdc4-cd7c3ccbcbbc/"
+  },
   {
    "id": "I-b2939e4c136c",
    "source": "insider",
@@ -1101,6 +3020,256 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/886982/000191038826000007/"
+  },
+  {
+   "id": "C-e0e24ba5eb5d",
+   "source": "congress",
+   "person": "David J. Taylor",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Transportation and Infrastructure"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MPC",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-24",
+   "filed_date": "2026-08-06",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035146.pdf"
+  },
+  {
+   "id": "C-c4fca34f7e88",
+   "source": "congress",
+   "person": "David J. Taylor",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Transportation and Infrastructure"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MSFT",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-24",
+   "filed_date": "2026-08-06",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035146.pdf"
+  },
+  {
+   "id": "C-a73cf2ba2193",
+   "source": "congress",
+   "person": "David J. Taylor",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Transportation and Infrastructure"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "KR",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-24",
+   "filed_date": "2026-08-06",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035146.pdf"
+  },
+  {
+   "id": "C-96108859cdaa",
+   "source": "congress",
+   "person": "David J. Taylor",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Transportation and Infrastructure"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "FITB",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-24",
+   "filed_date": "2026-08-06",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035146.pdf"
+  },
+  {
+   "id": "C-904acba959ae",
+   "source": "congress",
+   "person": "David J. Taylor",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Transportation and Infrastructure"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "FITB",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-24",
+   "filed_date": "2026-08-06",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035146.pdf"
+  },
+  {
+   "id": "C-883a987adc9c",
+   "source": "congress",
+   "person": "David J. Taylor",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Transportation and Infrastructure"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MPC",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-24",
+   "filed_date": "2026-08-06",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035146.pdf"
+  },
+  {
+   "id": "C-40c11b179b8f",
+   "source": "congress",
+   "person": "David J. Taylor",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Transportation and Infrastructure"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "AVGO",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-24",
+   "filed_date": "2026-08-06",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035146.pdf"
+  },
+  {
+   "id": "C-28a0ee345dc9",
+   "source": "congress",
+   "person": "David J. Taylor",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Transportation and Infrastructure"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MSFT",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-24",
+   "filed_date": "2026-08-06",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035146.pdf"
+  },
+  {
+   "id": "C-23d972ceb824",
+   "source": "congress",
+   "person": "David J. Taylor",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Transportation and Infrastructure"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "KR",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-24",
+   "filed_date": "2026-08-06",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035146.pdf"
+  },
+  {
+   "id": "C-c032a1b19d3e",
+   "source": "congress",
+   "person": "David J. Taylor",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Transportation and Infrastructure"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "GOOGL",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-17",
+   "filed_date": "2026-08-06",
+   "lag_days": 20,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035146.pdf"
   },
   {
    "id": "I-cab45ad56426",
@@ -43415,6 +45584,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1596532/000159653226000162/"
   },
   {
+   "id": "I-0014b0ea1d86",
+   "source": "insider",
+   "person": "Brazeal Mark David",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Legal & Corp Affairs Ofc",
+   "ticker": "AVGO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 10033225,
+   "amount_high": 10033225,
+   "tx_date": "2026-07-10",
+   "filed_date": "2026-07-14",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1730168/000173016826000070/"
+  },
+  {
    "id": "I-e8d3fdcd0481",
    "source": "insider",
    "person": "Kurtz George",
@@ -47243,6 +49434,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1571996/000119312526301087/"
   },
   {
+   "id": "I-f03d761595da",
+   "source": "insider",
+   "person": "Delly Gayla J",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "AVGO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 728368,
+   "amount_high": 728368,
+   "tx_date": "2026-07-08",
+   "filed_date": "2026-07-10",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1730168/000173016826000068/"
+  },
+  {
    "id": "I-ecb1a1af21bf",
    "source": "insider",
    "person": "Silver Lake Partners IV, L.P. et al.",
@@ -49001,6 +51214,28 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000240/"
+  },
+  {
+   "id": "I-353cf90d72fe",
+   "source": "insider",
+   "person": "Brazeal Mark David",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Legal & Corp Affairs Ofc",
+   "ticker": "AVGO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 9479700,
+   "amount_high": 9479700,
+   "tx_date": "2026-07-08",
+   "filed_date": "2026-07-10",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1730168/000173016826000066/"
   },
   {
    "id": "I-344d5fd63b2a",
@@ -69174,6 +71409,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000108/"
   },
   {
+   "id": "I-45be0a91b75b",
+   "source": "insider",
+   "person": "Page Justine",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "AVGO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 598916,
+   "amount_high": 598916,
+   "tx_date": "2026-06-29",
+   "filed_date": "2026-07-01",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1730168/000135956126000004/"
+  },
+  {
    "id": "I-39b71e48b3ef",
    "source": "insider",
    "person": "Hou Hong Q",
@@ -72046,6 +74303,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000095010326009729/"
   },
   {
+   "id": "I-e9ff5ef9810f",
+   "source": "insider",
+   "person": "Brazeal Mark David",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Legal & Corp Affairs Ofc",
+   "ticker": "AVGO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 9675000,
+   "amount_high": 9675000,
+   "tx_date": "2026-06-25",
+   "filed_date": "2026-06-29",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1730168/000173016826000064/"
+  },
+  {
    "id": "I-d9c2c40cc951",
    "source": "insider",
    "person": "Jiang Fang",
@@ -73652,6 +75931,50 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/3197/000119312526285709/"
   },
   {
+   "id": "I-f5b44e90f131",
+   "source": "insider",
+   "person": "Samueli Henry",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "AVGO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 8158157,
+   "amount_high": 8158157,
+   "tx_date": "2026-06-24",
+   "filed_date": "2026-06-26",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1730168/000110465926078348/"
+  },
+  {
+   "id": "I-f444aafe9207",
+   "source": "insider",
+   "person": "Samueli Henry",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "AVGO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 11527596,
+   "amount_high": 11527596,
+   "tx_date": "2026-06-24",
+   "filed_date": "2026-06-26",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1730168/000110465926078348/"
+  },
+  {
    "id": "I-f1588f322aa7",
    "source": "insider",
    "person": "Henley Jeffrey",
@@ -73718,6 +76041,116 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1341439/000134143926000064/"
   },
   {
+   "id": "I-dfe7b42c7d71",
+   "source": "insider",
+   "person": "Samueli Henry",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "AVGO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 84233,
+   "amount_high": 84233,
+   "tx_date": "2026-06-24",
+   "filed_date": "2026-06-26",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1730168/000110465926078348/"
+  },
+  {
+   "id": "I-d4a113e85e8a",
+   "source": "insider",
+   "person": "Samueli Henry",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "AVGO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 13174103,
+   "amount_high": 13174103,
+   "tx_date": "2026-06-24",
+   "filed_date": "2026-06-26",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1730168/000110465926078348/"
+  },
+  {
+   "id": "I-bb0d8429d66d",
+   "source": "insider",
+   "person": "Samueli Henry",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "AVGO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 18646408,
+   "amount_high": 18646408,
+   "tx_date": "2026-06-24",
+   "filed_date": "2026-06-26",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1730168/000110465926078348/"
+  },
+  {
+   "id": "I-b93c8eb95e5e",
+   "source": "insider",
+   "person": "Samueli Henry",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "AVGO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 2503034,
+   "amount_high": 2503034,
+   "tx_date": "2026-06-24",
+   "filed_date": "2026-06-26",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1730168/000110465926078348/"
+  },
+  {
+   "id": "I-ab1559d24301",
+   "source": "insider",
+   "person": "Samueli Henry",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "AVGO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 9616771,
+   "amount_high": 9616771,
+   "tx_date": "2026-06-24",
+   "filed_date": "2026-06-26",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1730168/000110465926078348/"
+  },
+  {
    "id": "I-a980d2a5918f",
    "source": "insider",
    "person": "Henley Jeffrey",
@@ -73738,6 +76171,28 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1341439/000134143926000064/"
+  },
+  {
+   "id": "I-9ed324397483",
+   "source": "insider",
+   "person": "Samueli Henry",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "AVGO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 10288538,
+   "amount_high": 10288538,
+   "tx_date": "2026-06-24",
+   "filed_date": "2026-06-26",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1730168/000110465926078348/"
   },
   {
    "id": "I-9d52990a37fc",
@@ -73782,6 +76237,138 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/3197/000119312526285709/"
+  },
+  {
+   "id": "I-8bb29d0ce428",
+   "source": "insider",
+   "person": "Samueli Henry",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "AVGO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 9140277,
+   "amount_high": 9140277,
+   "tx_date": "2026-06-24",
+   "filed_date": "2026-06-26",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1730168/000110465926078348/"
+  },
+  {
+   "id": "I-7e5586d5002f",
+   "source": "insider",
+   "person": "Samueli Henry",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "AVGO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 20713592,
+   "amount_high": 20713592,
+   "tx_date": "2026-06-24",
+   "filed_date": "2026-06-26",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1730168/000110465926078348/"
+  },
+  {
+   "id": "I-7de6bd92e3a6",
+   "source": "insider",
+   "person": "Samueli Henry",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "AVGO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 11738761,
+   "amount_high": 11738761,
+   "tx_date": "2026-06-24",
+   "filed_date": "2026-06-26",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1730168/000110465926078348/"
+  },
+  {
+   "id": "I-600eed0ac922",
+   "source": "insider",
+   "person": "Samueli Henry",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "AVGO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15881373,
+   "amount_high": 15881373,
+   "tx_date": "2026-06-24",
+   "filed_date": "2026-06-26",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1730168/000110465926078348/"
+  },
+  {
+   "id": "I-58c32c86b2f7",
+   "source": "insider",
+   "person": "Samueli Henry",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "AVGO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 2426529,
+   "amount_high": 2426529,
+   "tx_date": "2026-06-24",
+   "filed_date": "2026-06-26",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1730168/000110465926078348/"
+  },
+  {
+   "id": "I-583b76b15a5c",
+   "source": "insider",
+   "person": "Samueli Henry",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "AVGO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 8780565,
+   "amount_high": 8780565,
+   "tx_date": "2026-06-24",
+   "filed_date": "2026-06-26",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1730168/000110465926078348/"
   },
   {
    "id": "I-54350c34a90f",
@@ -73872,6 +76459,50 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/788784/000122520826006199/"
   },
   {
+   "id": "I-467a95095c9c",
+   "source": "insider",
+   "person": "Samueli Henry",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "AVGO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 18320331,
+   "amount_high": 18320331,
+   "tx_date": "2026-06-24",
+   "filed_date": "2026-06-26",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1730168/000110465926078348/"
+  },
+  {
+   "id": "I-3ebd18938d66",
+   "source": "insider",
+   "person": "Samueli Henry",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "AVGO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 12642586,
+   "amount_high": 12642586,
+   "tx_date": "2026-06-24",
+   "filed_date": "2026-06-26",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1730168/000110465926078348/"
+  },
+  {
    "id": "I-3e5c53dd3c2a",
    "source": "insider",
    "person": "Fang Andy",
@@ -73892,6 +76523,28 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1792789/000183239026000013/"
+  },
+  {
+   "id": "I-3d33a14c42dd",
+   "source": "insider",
+   "person": "Samueli Henry",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "AVGO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 12621794,
+   "amount_high": 12621794,
+   "tx_date": "2026-06-24",
+   "filed_date": "2026-06-26",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1730168/000110465926078348/"
   },
   {
    "id": "I-3b033bf38630",
@@ -73936,6 +76589,50 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1341439/000134143926000064/"
+  },
+  {
+   "id": "I-2d28df6c480c",
+   "source": "insider",
+   "person": "Samueli Henry",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "AVGO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 13884974,
+   "amount_high": 13884974,
+   "tx_date": "2026-06-24",
+   "filed_date": "2026-06-26",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1730168/000110465926078348/"
+  },
+  {
+   "id": "I-2c698dc33fe4",
+   "source": "insider",
+   "person": "Samueli Henry",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "AVGO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 16653083,
+   "amount_high": 16653083,
+   "tx_date": "2026-06-24",
+   "filed_date": "2026-06-26",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1730168/000110465926078348/"
   },
   {
    "id": "I-27c145ae7e95",
@@ -74004,6 +76701,50 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/88941/000162828026045737/"
   },
   {
+   "id": "I-16b0926da1ba",
+   "source": "insider",
+   "person": "Samueli Henry",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "AVGO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 13992770,
+   "amount_high": 13992770,
+   "tx_date": "2026-06-24",
+   "filed_date": "2026-06-26",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1730168/000110465926078348/"
+  },
+  {
+   "id": "I-162d4ed2c08e",
+   "source": "insider",
+   "person": "Samueli Henry",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "AVGO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 256087,
+   "amount_high": 256087,
+   "tx_date": "2026-06-24",
+   "filed_date": "2026-06-26",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1730168/000110465926078348/"
+  },
+  {
    "id": "I-1458a5ba0a55",
    "source": "insider",
    "person": "Singh Ritadhwaja Jebens",
@@ -74068,6 +76809,28 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1341439/000134143926000064/"
+  },
+  {
+   "id": "I-0230679c8a00",
+   "source": "insider",
+   "person": "Samueli Henry",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "AVGO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 18954289,
+   "amount_high": 18954289,
+   "tx_date": "2026-06-24",
+   "filed_date": "2026-06-26",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1730168/000110465926078348/"
   },
   {
    "id": "C-4970365f0b1a",
@@ -83509,6 +86272,50 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528026000191/"
   },
   {
+   "id": "I-f542b2705b1f",
+   "source": "insider",
+   "person": "Brazeal Mark David",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Legal & Corp Affairs Ofc",
+   "ticker": "AVGO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 14410,
+   "amount_high": 14410,
+   "tx_date": "2026-06-17",
+   "filed_date": "2026-06-18",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1730168/000173016826000062/"
+  },
+  {
+   "id": "I-f04f02c5e767",
+   "source": "insider",
+   "person": "Brazeal Mark David",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Legal & Corp Affairs Ofc",
+   "ticker": "AVGO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 254223,
+   "amount_high": 254223,
+   "tx_date": "2026-06-17",
+   "filed_date": "2026-06-18",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1730168/000173016826000062/"
+  },
+  {
    "id": "I-d2bc6d40df6c",
    "source": "insider",
    "person": "Baugher Joshua Scott",
@@ -83553,6 +86360,50 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/60667/000112588126000008/"
   },
   {
+   "id": "I-c64a47624dea",
+   "source": "insider",
+   "person": "Brazeal Mark David",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Legal & Corp Affairs Ofc",
+   "ticker": "AVGO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 84953,
+   "amount_high": 84953,
+   "tx_date": "2026-06-17",
+   "filed_date": "2026-06-18",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1730168/000173016826000062/"
+  },
+  {
+   "id": "I-c3880756a02d",
+   "source": "insider",
+   "person": "Brazeal Mark David",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Legal & Corp Affairs Ofc",
+   "ticker": "AVGO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 42785,
+   "amount_high": 42785,
+   "tx_date": "2026-06-17",
+   "filed_date": "2026-06-18",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1730168/000173016826000062/"
+  },
+  {
    "id": "I-a46efdb8636c",
    "source": "insider",
    "person": "Duffield David A",
@@ -83573,6 +86424,28 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1327811/000093807126000035/"
+  },
+  {
+   "id": "I-9b11f0e9891a",
+   "source": "insider",
+   "person": "Brazeal Mark David",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Legal & Corp Affairs Ofc",
+   "ticker": "AVGO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 316591,
+   "amount_high": 316591,
+   "tx_date": "2026-06-17",
+   "filed_date": "2026-06-18",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1730168/000173016826000062/"
   },
   {
    "id": "I-8f90d8eab1c8",
@@ -83619,6 +86492,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/100591/000206621326000010/"
   },
   {
+   "id": "I-82397dddd2fe",
+   "source": "insider",
+   "person": "Brazeal Mark David",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Legal & Corp Affairs Ofc",
+   "ticker": "AVGO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 107335,
+   "amount_high": 107335,
+   "tx_date": "2026-06-17",
+   "filed_date": "2026-06-18",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1730168/000173016826000062/"
+  },
+  {
    "id": "I-818bc961ef8f",
    "source": "insider",
    "person": "Smucker Mark T",
@@ -83639,6 +86534,28 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/91419/000009141926000067/"
+  },
+  {
+   "id": "I-7ef582a96aba",
+   "source": "insider",
+   "person": "Brazeal Mark David",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Legal & Corp Affairs Ofc",
+   "ticker": "AVGO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 227002,
+   "amount_high": 227002,
+   "tx_date": "2026-06-17",
+   "filed_date": "2026-06-18",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1730168/000173016826000062/"
   },
   {
    "id": "I-7c468290845c",
@@ -83663,6 +86580,50 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528026000191/"
   },
   {
+   "id": "I-725644661188",
+   "source": "insider",
+   "person": "Brazeal Mark David",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Legal & Corp Affairs Ofc",
+   "ticker": "AVGO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 275384,
+   "amount_high": 275384,
+   "tx_date": "2026-06-17",
+   "filed_date": "2026-06-18",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1730168/000173016826000062/"
+  },
+  {
+   "id": "I-70ebeaadd7f9",
+   "source": "insider",
+   "person": "Brazeal Mark David",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Legal & Corp Affairs Ofc",
+   "ticker": "AVGO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 160362,
+   "amount_high": 160362,
+   "tx_date": "2026-06-17",
+   "filed_date": "2026-06-18",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1730168/000173016826000062/"
+  },
+  {
    "id": "I-6cb9dcba7708",
    "source": "insider",
    "person": "Tyler Brian S.",
@@ -83685,6 +86646,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/927653/000092765326000175/"
   },
   {
+   "id": "I-6c3aa1d6dd06",
+   "source": "insider",
+   "person": "Brazeal Mark David",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Legal & Corp Affairs Ofc",
+   "ticker": "AVGO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 11170,
+   "amount_high": 11170,
+   "tx_date": "2026-06-17",
+   "filed_date": "2026-06-18",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1730168/000173016826000062/"
+  },
+  {
    "id": "I-60cfadcd6305",
    "source": "insider",
    "person": "Kodera Tsuyoshi",
@@ -83705,6 +86688,28 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/313838/000119312526275633/"
+  },
+  {
+   "id": "I-5ae615e176b2",
+   "source": "insider",
+   "person": "Brazeal Mark David",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Legal & Corp Affairs Ofc",
+   "ticker": "AVGO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 142507,
+   "amount_high": 142507,
+   "tx_date": "2026-06-17",
+   "filed_date": "2026-06-18",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1730168/000173016826000062/"
   },
   {
    "id": "I-52e174b9d0f3",
@@ -83749,6 +86754,50 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/798354/000161250826000007/"
+  },
+  {
+   "id": "I-501a69925782",
+   "source": "insider",
+   "person": "Brazeal Mark David",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Legal & Corp Affairs Ofc",
+   "ticker": "AVGO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 94522,
+   "amount_high": 94522,
+   "tx_date": "2026-06-17",
+   "filed_date": "2026-06-18",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1730168/000173016826000062/"
+  },
+  {
+   "id": "I-4f27df33537e",
+   "source": "insider",
+   "person": "Brazeal Mark David",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Legal & Corp Affairs Ofc",
+   "ticker": "AVGO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 145026,
+   "amount_high": 145026,
+   "tx_date": "2026-06-17",
+   "filed_date": "2026-06-18",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1730168/000173016826000062/"
   },
   {
    "id": "I-46d7a5efba42",
@@ -83905,6 +86954,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1065088/000106508826000159/"
   },
   {
+   "id": "I-0501c957749a",
+   "source": "insider",
+   "person": "Brazeal Mark David",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Legal & Corp Affairs Ofc",
+   "ticker": "AVGO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 29184,
+   "amount_high": 29184,
+   "tx_date": "2026-06-17",
+   "filed_date": "2026-06-18",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1730168/000173016826000062/"
+  },
+  {
    "id": "I-f844f42c382b",
    "source": "insider",
    "person": "Vivas Eduardo",
@@ -83991,6 +87062,50 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1441816/000162828026044370/"
+  },
+  {
+   "id": "I-eebea115aab2",
+   "source": "insider",
+   "person": "Brazeal Mark David",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Legal & Corp Affairs Ofc",
+   "ticker": "AVGO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 140325,
+   "amount_high": 140325,
+   "tx_date": "2026-06-16",
+   "filed_date": "2026-06-18",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1730168/000173016826000062/"
+  },
+  {
+   "id": "I-ebad7019a5fa",
+   "source": "insider",
+   "person": "Brazeal Mark David",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Legal & Corp Affairs Ofc",
+   "ticker": "AVGO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 104505,
+   "amount_high": 104505,
+   "tx_date": "2026-06-16",
+   "filed_date": "2026-06-18",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1730168/000173016826000062/"
   },
   {
    "id": "I-e828e05ae4e7",
@@ -84101,6 +87216,28 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1751008/000184849326000007/"
+  },
+  {
+   "id": "I-d785a9d29007",
+   "source": "insider",
+   "person": "Brazeal Mark David",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Legal & Corp Affairs Ofc",
+   "ticker": "AVGO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 66032,
+   "amount_high": 66032,
+   "tx_date": "2026-06-16",
+   "filed_date": "2026-06-18",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1730168/000173016826000062/"
   },
   {
    "id": "I-d70da4254b61",
@@ -84389,6 +87526,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1441816/000162828026044370/"
   },
   {
+   "id": "I-bb813efe539d",
+   "source": "insider",
+   "person": "Brazeal Mark David",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Legal & Corp Affairs Ofc",
+   "ticker": "AVGO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 40430,
+   "amount_high": 40430,
+   "tx_date": "2026-06-16",
+   "filed_date": "2026-06-18",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1730168/000173016826000062/"
+  },
+  {
    "id": "I-b7ae25f81677",
    "source": "insider",
    "person": "Barra Mary T",
@@ -84431,6 +87590,28 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/000162828026044250/"
+  },
+  {
+   "id": "I-b471bac146f8",
+   "source": "insider",
+   "person": "Brazeal Mark David",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Legal & Corp Affairs Ofc",
+   "ticker": "AVGO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 28145,
+   "amount_high": 28145,
+   "tx_date": "2026-06-16",
+   "filed_date": "2026-06-18",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1730168/000173016826000062/"
   },
   {
    "id": "I-b41f252e9323",
@@ -84785,6 +87966,50 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1751008/000184849326000007/"
   },
   {
+   "id": "I-76f23245f044",
+   "source": "insider",
+   "person": "Brazeal Mark David",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Legal & Corp Affairs Ofc",
+   "ticker": "AVGO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 173843,
+   "amount_high": 173843,
+   "tx_date": "2026-06-16",
+   "filed_date": "2026-06-18",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1730168/000173016826000062/"
+  },
+  {
+   "id": "I-7628579fefbf",
+   "source": "insider",
+   "person": "Brazeal Mark David",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Legal & Corp Affairs Ofc",
+   "ticker": "AVGO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 77518,
+   "amount_high": 77518,
+   "tx_date": "2026-06-16",
+   "filed_date": "2026-06-18",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1730168/000173016826000062/"
+  },
+  {
    "id": "I-750388a6dc49",
    "source": "insider",
    "person": "Pomel Olivier",
@@ -84981,6 +88206,28 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1751008/000184849326000007/"
+  },
+  {
+   "id": "I-5b614396915b",
+   "source": "insider",
+   "person": "Brazeal Mark David",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Legal & Corp Affairs Ofc",
+   "ticker": "AVGO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 116408,
+   "amount_high": 116408,
+   "tx_date": "2026-06-16",
+   "filed_date": "2026-06-18",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1730168/000173016826000062/"
   },
   {
    "id": "I-5b5768751e54",
@@ -85181,6 +88428,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1441816/000162828026044370/"
   },
   {
+   "id": "I-3d7755825ecb",
+   "source": "insider",
+   "person": "Brazeal Mark David",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Legal & Corp Affairs Ofc",
+   "ticker": "AVGO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 72403,
+   "amount_high": 72403,
+   "tx_date": "2026-06-16",
+   "filed_date": "2026-06-18",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1730168/000173016826000062/"
+  },
+  {
    "id": "I-3b18479af408",
    "source": "insider",
    "person": "Vivas Eduardo",
@@ -85269,6 +88538,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1751008/000184849326000007/"
   },
   {
+   "id": "I-34a92850ac80",
+   "source": "insider",
+   "person": "Brazeal Mark David",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Legal & Corp Affairs Ofc",
+   "ticker": "AVGO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 294435,
+   "amount_high": 294435,
+   "tx_date": "2026-06-16",
+   "filed_date": "2026-06-18",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1730168/000173016826000062/"
+  },
+  {
    "id": "I-33cb54802772",
    "source": "insider",
    "person": "Fowler June Mcallister",
@@ -85311,6 +88602,50 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000224/"
+  },
+  {
+   "id": "I-2cc911979a59",
+   "source": "insider",
+   "person": "Brazeal Mark David",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Legal & Corp Affairs Ofc",
+   "ticker": "AVGO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15587,
+   "amount_high": 15587,
+   "tx_date": "2026-06-16",
+   "filed_date": "2026-06-18",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1730168/000173016826000062/"
+  },
+  {
+   "id": "I-28ed718f7822",
+   "source": "insider",
+   "person": "Brazeal Mark David",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Legal & Corp Affairs Ofc",
+   "ticker": "AVGO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 140834,
+   "amount_high": 140834,
+   "tx_date": "2026-06-16",
+   "filed_date": "2026-06-18",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1730168/000173016826000062/"
   },
   {
    "id": "I-23e2453f94b1",
@@ -96622,6 +99957,28 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/792966/000119312526271321/"
+  },
+  {
+   "id": "I-4b692d302f9e",
+   "source": "insider",
+   "person": "You Harry L.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "AVGO",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 373570,
+   "amount_high": 373570,
+   "tx_date": "2026-06-11",
+   "filed_date": "2026-06-15",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1730168/000173016826000056/"
   },
   {
    "id": "I-4989491a48fa",
@@ -160614,72 +163971,6 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1616707/000161670726000099/"
   },
   {
-   "id": "I-67200fe3ec79",
-   "source": "insider",
-   "person": "Golten Alex S",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "CHIEF RISK OFFICER",
-   "ticker": "GS",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 501140,
-   "amount_high": 501140,
-   "tx_date": "2026-04-23",
-   "filed_date": "2026-04-24",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/886982/000205084926000015/"
-  },
-  {
-   "id": "I-4f31d6881571",
-   "source": "insider",
-   "person": "Cutillo Joseph A",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Chief Executive Officer",
-   "ticker": "STRL",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 24878635,
-   "amount_high": 24878635,
-   "tx_date": "2026-04-23",
-   "filed_date": "2026-04-24",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/874238/000087423826000049/"
-  },
-  {
-   "id": "I-069b294a1d09",
-   "source": "insider",
-   "person": "Golten Alex S",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "CHIEF RISK OFFICER",
-   "ticker": "GS",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 543642,
-   "amount_high": 543642,
-   "tx_date": "2026-04-23",
-   "filed_date": "2026-04-24",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/886982/000205084926000015/"
-  },
-  {
    "id": "C-84d421678d9b",
    "source": "congress",
    "person": "Robert E. Latta",
@@ -183922,131 +187213,6 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033920.pdf"
-  },
-  {
-   "id": "C-5bcbf13b6191",
-   "source": "congress",
-   "person": "John McGuire",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Oversight and Government Reform"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "NVDA",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-30",
-   "filed_date": "2026-02-10",
-   "lag_days": 11,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033956.pdf"
-  },
-  {
-   "id": "C-14aea82ee15e",
-   "source": "congress",
-   "person": "John McGuire",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Oversight and Government Reform"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "MSFT",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-30",
-   "filed_date": "2026-02-10",
-   "lag_days": 11,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033956.pdf"
-  },
-  {
-   "id": "C-d57667475bfa",
-   "source": "congress",
-   "person": "John McGuire",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Oversight and Government Reform"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "MSFT",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-21",
-   "filed_date": "2026-02-10",
-   "lag_days": 20,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033956.pdf"
-  },
-  {
-   "id": "C-094d5c1aa065",
-   "source": "congress",
-   "person": "John McGuire",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Oversight and Government Reform"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "WMT",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-20",
-   "filed_date": "2026-02-10",
-   "lag_days": 21,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033956.pdf"
-  },
-  {
-   "id": "C-b630b0883166",
-   "source": "congress",
-   "person": "Steve Cohen",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Permanent Select Committee on Intelligence",
-     "House Committee on the Judiciary"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "SONY",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-12-26",
-   "filed_date": "2026-02-09",
-   "lag_days": 0,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033889.pdf"
   }
  ]
 }
