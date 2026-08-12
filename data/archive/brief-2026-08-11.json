@@ -1,237 +1,212 @@
 {
  "status": "ok",
  "model": "opus",
- "generated_at": "2026-08-11T12:16:59Z",
+ "generated_at": "2026-08-12T12:15:58Z",
  "date": "2026-08-11",
- "regime_note": "SPY last closed 773.03 on 2026-08-10, up 2.39% over the past 30 days and 2.03% over five days, sitting essentially on its 90-day high of 773.26 and roughly 6.8% above the 90-day low of 723.57. The index tape is firm and extended rather than stressed.",
+ "regime_note": "SPY last closed 770.56 on 2026-08-11, up 2.86% over 30 days and essentially flat over the last five sessions (-0.10%). That leaves the index roughly 0.3% below its 90-day high of 773.26 and about 6.5% above its 90-day low of 723.57 — signals are being read near the top of the recent range.",
  "picks": [
   {
    "ticker": "TSM",
    "direction": "long",
    "conviction": "medium",
-   "thesis": "Convergence of two independent buyer sets. Three House members bought TSM in Jan-Feb 2026 - Gilbert Cisneros three times, including a $100,001-250,000 band on 2026-02-09, plus Julia Letlow and Richard W. Allen in $1,001-15,000 bands. Separately, TSM officers bought on the open market with no 10b5-1 plan: a broad 2026-08-07 block filed 2026-08-10 (lag 3 days) including Chairman and CEO Wei Che-Chia and a dozen VP/SVP-level filers, plus 2026-07-07 buys by Chin Yung-Pei and Hou Yung-Chin. Breadth is the signal, not size - individual insider lines run $513 to $11,143. The congressional leg is about six months stale. TSM closed 418.47, -3.6% over 30 days, between a 90-day low of 374.67 and high of 477.57.",
+   "thesis": "Convergence. Three House members bought TSM in Jan-Feb 2026 — Cisneros three times, including a $100,001-250,000 band on 2026-02-09, plus Letlow and Allen at $1,001-15,000. Separately, 23 named officers filed open-market buys, most dated 2026-08-07 and filed 2026-08-10, a 3-day lag, led by Chairman/CEO Wei Che-Chia. Freshness is asymmetric: the insider leg is days old, the congressional leg roughly six months stale, and each insider ticket is small ($513-$11,143). TSM last closed 422.06 on 2026-08-11, +0.11% over 30 days, between a 90-day low of 374.67 and a high of 477.57. Cisneros sits on Armed Services and Small Business; the engine scored no sector alignment here.",
    "evidence_ids": [
     "C-03be4a40a661",
-    "C-17f8c4c8bcd3",
-    "C-c9c76bf199e2",
     "C-2fbce0af5cb6",
+    "C-17f8c4c8bcd3",
     "C-d6561a502241",
+    "C-c9c76bf199e2",
     "I-91e25f4287f4",
     "I-3bbd1d77e56c",
+    "I-bbd1f32e66c6",
+    "I-b59338114d33",
     "I-8aa8d27f67fe",
     "I-a4ca836b80e2",
-    "I-555df2f854d5",
     "I-765632b6d7e9",
     "I-f2b292a482db",
-    "I-7ebf9523ed41",
-    "I-e7e9c64afc8b",
-    "I-eba50bff8161",
-    "I-50ee3283da5c",
-    "I-908a5a87c3d5",
+    "I-555df2f854d5",
     "I-c74c819d17a8",
+    "I-908a5a87c3d5",
+    "I-50ee3283da5c",
+    "I-eba50bff8161",
+    "I-7ebf9523ed41",
     "I-efee545ef637",
+    "I-e7e9c64afc8b",
     "I-fac55f4ade7c",
     "I-eec0b0e3f9b9",
-    "I-393d6b8a87e2",
-    "I-bbd1f32e66c6",
-    "I-b59338114d33"
+    "I-393d6b8a87e2"
    ],
    "key_risks": [
-    "The congressional buys are from January and February 2026 and may no longer reflect current positioning; only the insider leg is fresh.",
-    "Insider purchase sizes are very small ($513-$11,143 per line) and may reflect routine or programmatic accumulation rather than discretionary conviction.",
-    "Disclosed congressional amounts are bands, not exact sizes, so the $100,001-250,000 Cisneros line could sit anywhere in that range.",
-    "Price is down 3.6% over 30 days and roughly 12% below the 90-day high of 477.57, so the buying has not yet been confirmed by the tape."
+    "Individual insider purchases are very small in dollar terms ($513-$11,143 each); breadth is doing all the work, not size.",
+    "The congressional leg is roughly six months old and its disclosed bands are ranges, not confirmed sizes.",
+    "The 2026-08-07 insider buys cluster on a single date, which may reflect a routine program rather than independent decisions; the filings do not say.",
+    "Price is 0.11% changed over 30 days and well below its 90-day high of 477.57 — no confirming trend."
    ],
-   "invalidation": "The August insider buying stops and reverses into Form 4 sales, or the same members file TSM sales, while price breaks below the 90-day low of 374.67.",
+   "invalidation": "The August insider buying stops with no follow-on Form 4 purchases, or officers who bought on 2026-08-07 begin filing sales, while price breaks below the 90-day low of 374.67.",
    "expression": {
     "simple": "common shares",
-    "defined_risk_note": "For information only: a view like this can be expressed with a defined-risk structure such as a long call spread, where the maximum loss is the premium paid, rather than with unhedged leverage."
+    "defined_risk_note": "For information only: a defined-risk structure such as a long call spread caps loss at premium paid, which is one way to hold exposure to a thesis whose congressional leg is already six months stale."
    }
   },
   {
    "ticker": "TDG",
    "direction": "long",
    "conviction": "speculative",
-   "thesis": "A cluster, not a convergence. Three filers bought TransDigm: April McClain Delaney repeatedly between 2026-04-15 and 2026-07-28 (mostly $1,001-15,000 bands, one $15,001-50,000 on 2026-04-16), Gilbert Cisneros on 2026-03-16, and Senator Alan Armstrong on 2026-03-27 - disclosed 116 days later. Cisneros sits on House Armed Services, which oversees the defense sector tagged here; that alignment raises the stakes and is also why such trades attract scrutiny. No Form 4 insider buying corroborates. Most of the disclosed buying is one member's steady drip in small bands, and the freshest filing carries a 6-day lag. TDG closed 1,223.48, -5.26% over 30 days, above its 90-day low of 1,148.97 and below the 1,348.49 high.",
+   "thesis": "Cluster of three, but thin. April McClain Delaney filed eleven TDG buys between 2026-04-15 and 2026-07-28, one at $15,001-50,000 and the rest $1,001-15,000; Cisneros bought 2026-03-16 and Senator Armstrong 2026-03-27. Depth is one filer — the other two legs are about five months old and Armstrong's disclosure lagged 116 days. No insider buying supports it. Delaney's committees are Agriculture and Science, Space, and Technology, not defense, so the engine's committee credit rests on a loose sector map; Cisneros's Armed Services seat is the genuine oversight overlap, and it is also the stalest leg. TDG last closed 1242.04 on 2026-08-11, +0.57% over 30 days, below its 90-day high of 1348.49.",
    "evidence_ids": [
     "C-ee8f76bf7453",
     "C-e70a08a4153f",
     "C-ee3f05865c0f",
-    "C-620ad4cd4c0a",
-    "C-1910ae2ca67c",
-    "C-0ef7f67bef5b",
-    "C-4f6e47712942",
-    "C-68985096cfcb",
-    "C-c95dcd882f45",
-    "C-0c252772c98e",
-    "C-5b2e6b9821f0",
+    "C-adfd961bdd55",
     "C-ce6d4557089e",
-    "C-adfd961bdd55"
+    "C-5b2e6b9821f0",
+    "C-0c252772c98e",
+    "C-c95dcd882f45",
+    "C-68985096cfcb",
+    "C-4f6e47712942",
+    "C-0ef7f67bef5b",
+    "C-1910ae2ca67c",
+    "C-620ad4cd4c0a"
    ],
    "key_risks": [
-    "The pattern rests overwhelmingly on one filer's repeated small purchases, which resembles a scheduled accumulation program rather than an event-driven signal.",
-    "Alan Armstrong's buy was disclosed 116 days after the transaction, so that leg is heavily decayed.",
-    "No insider Form 4 buying supports the congressional activity - the second independent signal is absent.",
-    "Bands are small ($1,001-15,000 for most lines), so the dollar conviction may be trivial.",
-    "Committee alignment cuts both ways: it is why the trades matter and why they draw scrutiny."
+    "Eleven of the fourteen disclosed buys come from one member; this is closer to one filer's program than a genuine three-member cluster.",
+    "Armstrong's 2026-03-27 trade was disclosed 116 days late, so it carries little timing information.",
+    "No Form 4 insider buying appears anywhere in the evidence to corroborate the congressional side.",
+    "The committee-alignment score attaches to a member whose listed committees are Agriculture and Science, Space, and Technology."
    ],
-   "invalidation": "The recurring buyer stops filing purchases or begins filing TDG sales, or price breaks below the 90-day low of 1,148.97 with no new disclosed buying.",
+   "invalidation": "Delaney's filings stop or turn to sales in the next disclosure cycle, leaving no fresh leg, or price breaks below the 90-day low of 1148.97.",
    "expression": {
-    "simple": "common shares, sized as a speculative position",
-    "defined_risk_note": "For information only: given the single-filer concentration, a defined-risk structure whose maximum loss is capped at the premium paid is one way such a low-confidence view could be expressed."
+    "simple": "common shares",
+    "defined_risk_note": "For information only: because the evidence rests largely on one filer, a defined-risk options structure would bound the loss to premium in a way an outright share position does not."
+   }
+  },
+  {
+   "ticker": "HUBB",
+   "direction": "long",
+   "conviction": "speculative",
+   "thesis": "Persistent single-filer accumulation. April McClain Delaney filed twelve HUBB buys between 2026-05-13 and 2026-07-23, the most recent at $15,001-50,000 with an 11-day lag, and she sits on the House Committee on Science, Space, and Technology — sector-adjacent oversight, which is also precisely why such trades attract scrutiny. Everything rests on one filer: no insider buying and no second member appear in the evidence, and ten of the twelve bands are $1,001-15,000. HUBB last closed 519.62 on 2026-08-11, up 8.93% over 30 days and near its 90-day high of 539.39, so the disclosed purchases already sit behind a move rather than ahead of one.",
+   "evidence_ids": [
+    "C-4b573859b012",
+    "C-238c71336446",
+    "C-f09c60c80cff",
+    "C-5ca60d7943a5",
+    "C-1b1ccddef927",
+    "C-c48f2538868c",
+    "C-9b64a07abf5a",
+    "C-6a1e05e887fb",
+    "C-51a682d5fdb2",
+    "C-b3be99b7f6ae",
+    "C-9ccbcfe83096",
+    "C-901e20c32b96"
+   ],
+   "key_risks": [
+    "One filer only — there is no independent second signal in the evidence.",
+    "Disclosed bands are small; the largest is $15,001-50,000 and the amounts are ranges, not exact sizes.",
+    "The stock is up 8.93% over 30 days and within about 4% of its 90-day high, so the disclosures arrive after the move.",
+    "Committee proximity cuts both ways: it raises the informational stakes and the disclosure risk attached to the trades."
+   ],
+   "invalidation": "Delaney's next filings show HUBB sales, or the buying pattern simply stops while price falls back toward the 90-day low of 459.60.",
+   "expression": {
+    "simple": "common shares",
+    "defined_risk_note": "For information only: with price near the top of its 90-day range, a defined-risk structure such as a call spread caps downside at premium paid, unlike an outright share position."
    }
   }
  ],
  "caution_list": [
   {
-   "ticker": "NFLX",
-   "reason": "Seven distinct insider sellers across 11 Form 4 sales; Co-CEO Sarandos, Co-CEO Peters, CFO Neumann and Chief Legal Officer Hyman all sold in early August, several not under 10b5-1 plans.",
+   "ticker": "SCHW",
+   "reason": "Nine distinct insiders sold, 27 sales in the evidence set, and much of it is not 10b5-1: Bettinger sold $19,999,927 on 2026-07-27 and $4.39M/$4.02M/$1.36M on 2026-07-28, Charles R. Schwab sold on 2026-07-24, 07-28, 07-29, 08-03, 08-04 and again on 2026-08-11 ($5,005,717, filed same day), and Schwab-Pomerantz sold on 2026-08-04 and 08-05. Distribution is running right into a price of 107.70 that sits within 0.3% of the 90-day high of 108.02.",
    "evidence_ids": [
-    "I-4bd6c602d878",
-    "I-b2939e4c136c",
-    "I-6cd542ba2181",
-    "I-f172adb3355c",
-    "I-56cbf6e5497f",
-    "I-7041e37c73bb",
-    "I-4d482531c3db",
-    "I-f8e209a7abb6",
-    "I-7c468290845c",
-    "I-59ab59176807",
-    "I-3f414f0e65ff"
+    "I-a686fcbe5b87",
+    "I-37f3aa0a3a53",
+    "I-4d064f1f04b3",
+    "I-acf241d18667",
+    "I-2f40cda90536",
+    "I-31d2940ac446",
+    "I-24ea06521901",
+    "I-38e28138a784",
+    "I-63fd32db89ca",
+    "I-1d2ecd4fd9cc",
+    "I-6dc70d94fe78",
+    "I-36754775e3d3",
+    "I-cda45e7628a1"
    ]
   },
   {
-   "ticker": "SCHW",
-   "reason": "Nine distinct sellers across 26 sales; Co-Chairmen Schwab and Bettinger sold tens of millions in late July and early August, not under 10b5-1, with price at the 90-day high (107.99 vs 108.02).",
+   "ticker": "TTWO",
+   "reason": "Nine distinct sellers and 56 insider sales. Zelnick (Chairman, CEO) filed a stack of sales all dated 2026-08-10 and filed 2026-08-11 — $2,627,545, $2,423,101, $1,511,481, $1,131,795, $508,900, $508,860, $482,444, $405,472, $403,952, $76,536, $25,505 — none flagged 10b5-1, alongside director sales by Dornemann and Moses. Price last closed 250.50, near the 90-day high of 258.41.",
    "evidence_ids": [
-    "I-47542c709e0a",
-    "I-bd59172784a2",
-    "I-71b68de31474",
-    "I-36754775e3d3",
-    "I-2625d53c6700",
-    "I-6dc70d94fe78",
-    "I-1d2ecd4fd9cc",
-    "I-63fd32db89ca",
-    "I-38e28138a784",
-    "I-94e017ce9570",
-    "I-85de12f6297d",
-    "I-24ea06521901",
-    "I-acf241d18667",
-    "I-4d064f1f04b3",
-    "I-2f40cda90536",
-    "I-b268f5eb9da8",
-    "I-7a26a89a812a",
-    "I-37f3aa0a3a53",
-    "I-31d2940ac446",
-    "I-cda45e7628a1",
-    "I-964e53c7b8e0",
-    "I-eb1cdb835b3e",
-    "I-e6e48f0ca8f5",
-    "I-4f6536943a06"
+    "I-afaeb0dbe49b",
+    "I-de1e71f63cf6",
+    "I-4f9132a43e2e",
+    "I-5c6c16e1b4c0",
+    "I-16a763da139c",
+    "I-f9738884c2c3",
+    "I-c91bcfee81dc",
+    "I-b6865f46d1d3",
+    "I-c581a4feb094",
+    "I-8d1c51097c79",
+    "I-a87fbe5844b3",
+    "I-101a92443f36",
+    "I-39d0cdcf2433"
    ]
   },
   {
    "ticker": "KO",
-   "reason": "Six distinct sellers across 19 sales; Chairman Quincey and President/CFO Murphy filed large lines in June and July, some outside 10b5-1, with price near the 90-day high of 89.08.",
+   "reason": "Seven distinct sellers. Quincey (Chairman) sold $34,959,133 on 2026-06-05 and $34,319,637 on 2026-07-28 under 10b5-1, but several of the largest tickets are not flagged as planned: Murphy (President and CFO) $13,313,580 on 2026-07-31, Quincey $15,780,900 on 2026-05-07, Ortega $3,114,214 and $1,713,681 on 2026-08-06, and Ray $861,367 on 2026-08-10. Price 86.48, below the 90-day high of 89.08.",
    "evidence_ids": [
-    "I-448c8876b4af",
-    "I-394a7e304ee9",
-    "I-b68e33953e09",
-    "I-6cf06603846c",
-    "I-69445e269810",
-    "I-bc9d90a96670",
-    "I-adc3d0cf1cde",
-    "I-929fbeb213ac",
-    "I-f0b1b9bb09e6",
-    "I-ea1e84f707f9",
-    "I-d527ca2f2aec",
-    "I-ae369a5bc0b8",
-    "I-55eb4d04c46e",
-    "I-d1830b61a0f2",
-    "I-204a672a8c88",
     "I-e3f4f3cedc72",
-    "I-e1ae780557eb",
-    "I-b5aec6f8a482",
-    "I-b6d20c9911f0"
+    "I-69445e269810",
+    "I-6cf06603846c",
+    "I-b68e33953e09",
+    "I-b6d20c9911f0",
+    "I-394a7e304ee9",
+    "I-448c8876b4af",
+    "I-85d8f798ffaf",
+    "I-b5aec6f8a482"
    ]
   },
   {
-   "ticker": "PLTR",
-   "reason": "Eight distinct sellers across 55 insider sales, concentrated in Shyam Sankar and Director Alexander Moore, continuing into a 90-day high of 175.23 after a 38.2% 30-day gain.",
+   "ticker": "SNA",
+   "reason": "Six distinct sellers, 17 sales, no congressional selling. Chambers sold $3,812,368 on 2026-07-28 (10b5-1), while the most recent tape is not flagged as planned: Lemerand sold $940,416, $808,105 and $51,740 on 2026-08-11, filed same day, and Arregui sold $1,026,829, $231,502, $219,367 and $154,332 on 2026-06-10. Price 411.78, near the 90-day high of 419.31.",
    "evidence_ids": [
-    "I-fe045c81f290",
-    "I-f2f08dff6ecb",
-    "I-e66123b229bc",
-    "I-cd6a4a06c1e1",
-    "I-4bc77a5d736e",
-    "I-158c126dc808",
-    "I-cb715386493d",
-    "I-8400839d3102",
-    "I-801b23e7cd2f",
-    "I-343661905e23",
-    "I-e85398a05017",
-    "I-db19c5846a12",
-    "I-f819d3388811",
-    "I-d62d21207181",
-    "I-c5b9444ab656",
-    "I-ba0803aad424",
-    "I-1eb9b0b24ecb",
-    "I-12aff71e388e",
-    "I-a9bfb23e026f",
-    "I-6e90a3f3217a",
-    "I-79105fcc03d0",
-    "I-fd1c7540e128",
-    "I-fc34f4e75a1e",
-    "I-f76000c9c8e5"
+    "I-aff0c025d6ca",
+    "I-6df47f0fc9c4",
+    "I-c6ebcf823ba6",
+    "I-973eef290a50",
+    "I-de41e2d93679",
+    "I-a70b2c501fca",
+    "I-2e2904a347ba",
+    "I-2dc6d7c2c171",
+    "I-4d56704aceda"
    ]
   },
   {
-   "ticker": "PINS",
-   "reason": "The only caution name pairing insider distribution with a committee-aligned congressional sell: Christian D. Menefee sold a $15,001-50,000 band on 2026-08-07, alongside 23 insider sales led by Silbermann.",
+   "ticker": "NFLX",
+   "reason": "Seven distinct sellers. Most of the largest sales are 10b5-1 — Hastings $28,579,559 on 2026-06-01, Sarandos $5,969,731 and $1,760,431 on 2026-08-03 — which weakens the signal, but three recent tickets are not flagged as planned: Neumann (CFO) $700,907 on 2026-08-10, Peters (Co-CEO) $2,008,606 on 2026-08-06, and Hyman $416,899 on 2026-08-04. Price 74.79, well below the 90-day high of 89.65 and nearer the low of 67.60.",
    "evidence_ids": [
-    "C-1ad52b04c975",
-    "I-95a45190a879",
-    "I-db6b0dc65559",
-    "I-f1f4aa0e5141",
-    "I-db0790f8f7b6",
-    "I-9def22f0e542",
-    "I-84d16f7df4cf",
-    "I-c55207af7cb2",
-    "I-1aa7cd821479",
-    "I-13a7a14aa03d",
-    "I-59d96b1796ff",
-    "I-b6a03abce83c",
-    "I-8f05dc993894",
-    "I-9e025ba32c6e",
-    "I-8d3097bae762",
-    "I-4ece0ff43893",
-    "I-11f529679c91",
-    "I-f264d6f34085",
-    "I-9605925838a0",
-    "I-56695e1b9b64",
-    "I-921797b36f31",
-    "I-4899b41d042f",
-    "I-6808598c2a89",
-    "I-74efb66ed276"
+    "I-3f414f0e65ff",
+    "I-7041e37c73bb",
+    "I-4d482531c3db",
+    "I-4bd6c602d878",
+    "I-b2939e4c136c",
+    "I-f172adb3355c",
+    "I-6cd542ba2181"
    ]
   }
  ],
  "skipped": [
   {
    "ticker": "MLM",
-   "reason": "All five disclosed buys come from a single filer, April McClain Delaney, in small bands with no insider corroboration - one-filer evidence does not clear the bar for a pick."
-  },
-  {
-   "ticker": "HUBB",
-   "reason": "Thirteen buys but every evidence record is April McClain Delaney's recurring small-band drip; no second independent filer appears in the evidence and no Form 4 buying supports it."
+   "reason": "All five buys come from one member (April McClain Delaney, 2026-03-09 to 2026-07-24) with no insider corroboration, and the engine's committee credit maps her Agriculture and Science, Space, and Technology seats onto mining/commodities — too loose a nexus to build a thesis on."
   },
   {
    "ticker": "BRK.B",
-   "reason": "Only two evidence records, both Maria Elvira Salazar on 2026-07-28; the engine's listed insider buyer has no supporting evidence ID in the input, so the convergence cannot be checked."
+   "reason": "The scored evidence is two filings by a single member (Maria Elvira Salazar, both 2026-07-28), and the insider buyer the engine names has no evidence ID in the input, so there is nothing citable behind the convergence claim."
   },
   {
    "ticker": "HON",
-   "reason": "Three buyers but the evidence is badly split on freshness - Julie Johnson's 2025-09-23 trade was filed with a 316-day lag, leaving only two usable filings and no insider buying."
+   "reason": "Three members but three disconnected trades: Johnson's 2025-09-23 purchase was disclosed 316 days later, Salazar's dates to 2026-03-24, and only Newhouse's 2026-07-10 buy is fresh — no cluster in time, and price fell 7.5% over the last five sessions."
   }
  ]
 }
