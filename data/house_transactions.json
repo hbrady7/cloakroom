@@ -1,6 +1,177 @@
 {
- "generated_at": "2026-08-14T12:09:26Z",
+ "generated_at": "2026-08-17T11:52:11Z",
  "transactions": [
+  {
+   "id": "C-3181b20c14f4",
+   "source": "congress",
+   "person": "Shri Thanedar",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Homeland Security"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "AAPL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 100001,
+   "amount_high": 250000,
+   "tx_date": "2026-01-09",
+   "filed_date": "2026-08-13",
+   "lag_days": 216,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033910.pdf"
+  },
+  {
+   "id": "C-c5c4491cd1b9",
+   "source": "congress",
+   "person": "Shri Thanedar",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Homeland Security"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MSTR",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2025-10-21",
+   "filed_date": "2026-08-13",
+   "lag_days": 296,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033910.pdf"
+  },
+  {
+   "id": "C-b0940708a9c4",
+   "source": "congress",
+   "person": "Derek Tran",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Small Business"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "LTC",
+   "asset_type": "other",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-07-28",
+   "filed_date": "2026-08-13",
+   "lag_days": 381,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035183.pdf"
+  },
+  {
+   "id": "C-c6619f9fe02f",
+   "source": "congress",
+   "person": "Carol Devine Miller",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "PFE",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2025-03-10",
+   "filed_date": "2026-08-13",
+   "lag_days": 521,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033779.pdf"
+  },
+  {
+   "id": "C-bb11f1820e2b",
+   "source": "congress",
+   "person": "Carol Devine Miller",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "DGX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2025-03-10",
+   "filed_date": "2026-08-13",
+   "lag_days": 521,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033779.pdf"
+  },
+  {
+   "id": "C-7ec4e00b6ddb",
+   "source": "congress",
+   "person": "Carol Devine Miller",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "USB",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2025-03-10",
+   "filed_date": "2026-08-13",
+   "lag_days": 521,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033779.pdf"
+  },
+  {
+   "id": "C-072583462724",
+   "source": "congress",
+   "person": "Carol Devine Miller",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "TGT",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2025-03-10",
+   "filed_date": "2026-08-13",
+   "lag_days": 521,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033779.pdf"
+  },
   {
    "id": "C-94246262938d",
    "source": "congress",
@@ -59402,408 +59573,6 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033755.pdf"
-  },
-  {
-   "id": "C-e14f346fa2a0",
-   "source": "congress",
-   "person": "Jonathan Jackson",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Agriculture",
-     "House Committee on Foreign Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "PLTR",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2025-12-22",
-   "filed_date": "2026-01-08",
-   "lag_days": 17,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033739.pdf"
-  },
-  {
-   "id": "C-7a90add48347",
-   "source": "congress",
-   "person": "Jonathan Jackson",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Agriculture",
-     "House Committee on Foreign Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "HOOD",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2025-12-22",
-   "filed_date": "2026-01-08",
-   "lag_days": 17,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033739.pdf"
-  },
-  {
-   "id": "C-e19c7a7cb022",
-   "source": "congress",
-   "person": "Jonathan Jackson",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Agriculture",
-     "House Committee on Foreign Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "THC",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2025-12-10",
-   "filed_date": "2026-01-08",
-   "lag_days": 29,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033739.pdf"
-  },
-  {
-   "id": "C-7b33253d9b65",
-   "source": "congress",
-   "person": "Jonathan Jackson",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Agriculture",
-     "House Committee on Foreign Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "MELI",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2025-12-10",
-   "filed_date": "2026-01-08",
-   "lag_days": 29,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033739.pdf"
-  },
-  {
-   "id": "C-8a326ec4925e",
-   "source": "congress",
-   "person": "Jonathan Jackson",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Agriculture",
-     "House Committee on Foreign Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "SHOP",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 50001,
-   "amount_high": 100000,
-   "tx_date": "2025-12-08",
-   "filed_date": "2026-01-08",
-   "lag_days": 31,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033739.pdf"
-  },
-  {
-   "id": "C-5f963173fb68",
-   "source": "congress",
-   "person": "Jonathan Jackson",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Agriculture",
-     "House Committee on Foreign Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "NFLX",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 50001,
-   "amount_high": 100000,
-   "tx_date": "2025-12-08",
-   "filed_date": "2026-01-08",
-   "lag_days": 31,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033739.pdf"
-  },
-  {
-   "id": "C-38f1d1db17ae",
-   "source": "congress",
-   "person": "Tim Moore",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on the Budget"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "CBRL",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2025-12-31",
-   "filed_date": "2026-01-07",
-   "lag_days": 7,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033746.pdf"
-  },
-  {
-   "id": "C-3ef63ad85729",
-   "source": "congress",
-   "person": "Byron Donalds",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on Oversight and Government Reform"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "BTC",
-   "asset_type": "other",
-   "side": "buy",
-   "amount_low": 50001,
-   "amount_high": 100000,
-   "tx_date": "2025-12-18",
-   "filed_date": "2026-01-07",
-   "lag_days": 20,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033747.pdf"
-  },
-  {
-   "id": "C-2162927e9154",
-   "source": "congress",
-   "person": "Tim Moore",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on the Budget"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "GNPX",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2025-12-18",
-   "filed_date": "2026-01-07",
-   "lag_days": 20,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033746.pdf"
-  },
-  {
-   "id": "C-0edbd8352131",
-   "source": "congress",
-   "person": "Tim Moore",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on the Budget"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "HOG",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2025-12-18",
-   "filed_date": "2026-01-07",
-   "lag_days": 20,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033746.pdf"
-  },
-  {
-   "id": "C-e77711f86ab5",
-   "source": "congress",
-   "person": "David Rouzer",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Agriculture",
-     "House Committee on Transportation and Infrastructure",
-     "House Committee on Science, Space, and Technology"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "BA",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2025-12-09",
-   "filed_date": "2026-01-07",
-   "lag_days": 29,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033759.pdf"
-  },
-  {
-   "id": "C-150d8657e251",
-   "source": "congress",
-   "person": "David Rouzer",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Agriculture",
-     "House Committee on Transportation and Infrastructure",
-     "House Committee on Science, Space, and Technology"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "BA",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2025-12-09",
-   "filed_date": "2026-01-07",
-   "lag_days": 29,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033758.pdf"
-  },
-  {
-   "id": "C-5e7f94dcfd37",
-   "source": "congress",
-   "person": "Byron Donalds",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on Oversight and Government Reform"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "ABT",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2025-12-04",
-   "filed_date": "2026-01-07",
-   "lag_days": 34,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033747.pdf"
-  },
-  {
-   "id": "C-5b483361e5a7",
-   "source": "congress",
-   "person": "Byron Donalds",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on Oversight and Government Reform"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "FIX",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2025-12-04",
-   "filed_date": "2026-01-07",
-   "lag_days": 34,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033747.pdf"
-  },
-  {
-   "id": "C-57ebda44571d",
-   "source": "congress",
-   "person": "Byron Donalds",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on Oversight and Government Reform"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "FIX",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2025-12-04",
-   "filed_date": "2026-01-07",
-   "lag_days": 34,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033747.pdf"
-  },
-  {
-   "id": "C-3f16a0554015",
-   "source": "congress",
-   "person": "Byron Donalds",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on Oversight and Government Reform"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "ABT",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2025-12-04",
-   "filed_date": "2026-01-07",
-   "lag_days": 34,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033747.pdf"
   }
  ]
 }

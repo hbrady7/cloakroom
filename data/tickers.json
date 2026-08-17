@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-14T12:10:34Z",
+ "generated_at": "2026-08-17T11:53:30Z",
  "tickers": {
   "ZTS": {
    "name": "Zoetis Inc.",
@@ -4902,6 +4902,34 @@
    "sic": "2844",
    "sic_desc": "Perfumes, Cosmetics & Other Toilet Preparations",
    "sectors": []
+  },
+  "USB": {
+   "name": "US BANCORP \\DE\\",
+   "cik": 36104,
+   "sic": "6021",
+   "sic_desc": "National Commercial Banks",
+   "sectors": [
+    "banks"
+   ]
+  },
+  "TGT": {
+   "name": "TARGET CORP",
+   "cik": 27419,
+   "sic": "5331",
+   "sic_desc": "Retail-Variety Stores",
+   "sectors": [
+    "retail"
+   ]
+  },
+  "LTC": {
+   "name": "LTC PROPERTIES INC",
+   "cik": 887905,
+   "sic": "6798",
+   "sic_desc": "Real Estate Investment Trusts",
+   "sectors": [
+    "real_estate",
+    "banks"
+   ]
   }
  }
 }

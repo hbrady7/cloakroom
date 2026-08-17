@@ -1,7 +1,601 @@
 {
- "generated_at": "2026-08-14T12:10:35Z",
+ "generated_at": "2026-08-17T11:53:32Z",
  "window_days": 180,
  "trades": [
+  {
+   "id": "I-ad288969f612",
+   "source": "insider",
+   "person": "Briggs Andrew J",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "FMAO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 106140,
+   "amount_high": 106140,
+   "tx_date": "2026-08-14",
+   "filed_date": "2026-08-14",
+   "lag_days": 0,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/792966/000119312526351514/"
+  },
+  {
+   "id": "I-6f8cbce4de55",
+   "source": "insider",
+   "person": "Zaslav David",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Executive Officer & Pres",
+   "ticker": "WBD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 5463872,
+   "amount_high": 5463872,
+   "tx_date": "2026-08-14",
+   "filed_date": "2026-08-14",
+   "lag_days": 0,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1437107/000131828526000017/"
+  },
+  {
+   "id": "I-fe2825f25c6b",
+   "source": "insider",
+   "person": "Duato Joaquin",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO and Chairman of the Board",
+   "ticker": "JNJ",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 26704215,
+   "amount_high": 26704215,
+   "tx_date": "2026-08-13",
+   "filed_date": "2026-08-14",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/200406/000020040626000173/"
+  },
+  {
+   "id": "I-e1b01945a179",
+   "source": "insider",
+   "person": "Colella Joseph",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "SVP and General Counsel",
+   "ticker": "ENTG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 644104,
+   "amount_high": 644104,
+   "tx_date": "2026-08-13",
+   "filed_date": "2026-08-14",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1101302/000181106126000002/"
+  },
+  {
+   "id": "I-d984f0699b37",
+   "source": "insider",
+   "person": "Rezvan Mitra",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Accounting Officer",
+   "ticker": "SAIL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 24280,
+   "amount_high": 24280,
+   "tx_date": "2026-08-13",
+   "filed_date": "2026-08-14",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2030781/000191724626000010/"
+  },
+  {
+   "id": "I-d8d503aa8eda",
+   "source": "insider",
+   "person": "Lorig Brian",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP, KLA Global Services",
+   "ticker": "KLAC",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 12401634,
+   "amount_high": 12401634,
+   "tx_date": "2026-08-13",
+   "filed_date": "2026-08-14",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/319201/000119312526352187/"
+  },
+  {
+   "id": "I-cc9e0c18a204",
+   "source": "insider",
+   "person": "Zaslav David",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Executive Officer & Pres",
+   "ticker": "WBD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 2657368,
+   "amount_high": 2657368,
+   "tx_date": "2026-08-13",
+   "filed_date": "2026-08-14",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1437107/000131828526000017/"
+  },
+  {
+   "id": "I-c36112758294",
+   "source": "insider",
+   "person": "Farrelly Joseph W",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "CPAY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 726718,
+   "amount_high": 726718,
+   "tx_date": "2026-08-13",
+   "filed_date": "2026-08-14",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1175454/000119312526352221/"
+  },
+  {
+   "id": "I-c257490acdde",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 406908,
+   "amount_high": 406908,
+   "tx_date": "2026-08-13",
+   "filed_date": "2026-08-14",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000141/"
+  },
+  {
+   "id": "I-b58fb7f0c26f",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 378858,
+   "amount_high": 378858,
+   "tx_date": "2026-08-13",
+   "filed_date": "2026-08-14",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000141/"
+  },
+  {
+   "id": "I-b1d36cf60a57",
+   "source": "insider",
+   "person": "Briggs Andrew J",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "FMAO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 105570,
+   "amount_high": 105570,
+   "tx_date": "2026-08-13",
+   "filed_date": "2026-08-14",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/792966/000119312526351514/"
+  },
+  {
+   "id": "I-86839c56bae0",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 581981,
+   "amount_high": 581981,
+   "tx_date": "2026-08-13",
+   "filed_date": "2026-08-14",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000141/"
+  },
+  {
+   "id": "I-6858bf982457",
+   "source": "insider",
+   "person": "Zaslav David",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Executive Officer & Pres",
+   "ticker": "WBD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 18998259,
+   "amount_high": 18998259,
+   "tx_date": "2026-08-13",
+   "filed_date": "2026-08-14",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1437107/000131828526000017/"
+  },
+  {
+   "id": "I-659ce17955ac",
+   "source": "insider",
+   "person": "Teh Ban Seng",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP & Chief Commercial Officer",
+   "ticker": "STX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 5522680,
+   "amount_high": 5522680,
+   "tx_date": "2026-08-13",
+   "filed_date": "2026-08-14",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000173/"
+  },
+  {
+   "id": "I-630d5df1bff8",
+   "source": "insider",
+   "person": "Duato Joaquin",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO and Chairman of the Board",
+   "ticker": "JNJ",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 5495712,
+   "amount_high": 5495712,
+   "tx_date": "2026-08-13",
+   "filed_date": "2026-08-14",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/200406/000020040626000173/"
+  },
+  {
+   "id": "I-56d670f7d932",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 622872,
+   "amount_high": 622872,
+   "tx_date": "2026-08-13",
+   "filed_date": "2026-08-14",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000141/"
+  },
+  {
+   "id": "I-3ccdb63aad28",
+   "source": "insider",
+   "person": "Merchant Fazal F",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "WBD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1985207,
+   "amount_high": 1985207,
+   "tx_date": "2026-08-13",
+   "filed_date": "2026-08-14",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1437107/000143710726000077/"
+  },
+  {
+   "id": "I-3192421a6b02",
+   "source": "insider",
+   "person": "CASCADE INVESTMENT, L.L.C. et al.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "10% owner",
+   "ticker": "RSG",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 33885466,
+   "amount_high": 33885466,
+   "tx_date": "2026-08-13",
+   "filed_date": "2026-08-14",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1060391/000110465926097181/"
+  },
+  {
+   "id": "I-2589fa662f04",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 26485,
+   "amount_high": 26485,
+   "tx_date": "2026-08-13",
+   "filed_date": "2026-08-14",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000141/"
+  },
+  {
+   "id": "I-1515d30b85fe",
+   "source": "insider",
+   "person": "CASCADE INVESTMENT, L.L.C. et al.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "10% owner",
+   "ticker": "RSG",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 6786480,
+   "amount_high": 6786480,
+   "tx_date": "2026-08-13",
+   "filed_date": "2026-08-14",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1060391/000110465926097181/"
+  },
+  {
+   "id": "I-033caec5c389",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 227283,
+   "amount_high": 227283,
+   "tx_date": "2026-08-13",
+   "filed_date": "2026-08-14",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000141/"
+  },
+  {
+   "id": "I-02907aa23342",
+   "source": "insider",
+   "person": "Teh Ban Seng",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP & Chief Commercial Officer",
+   "ticker": "STX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1255348,
+   "amount_high": 1255348,
+   "tx_date": "2026-08-13",
+   "filed_date": "2026-08-14",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000173/"
+  },
+  {
+   "id": "I-ffdddf765b45",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 683791,
+   "amount_high": 683791,
+   "tx_date": "2026-08-12",
+   "filed_date": "2026-08-14",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000141/"
+  },
+  {
+   "id": "I-f5b80020d897",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 349915,
+   "amount_high": 349915,
+   "tx_date": "2026-08-12",
+   "filed_date": "2026-08-14",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000141/"
+  },
+  {
+   "id": "I-e47e8c328794",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 131448,
+   "amount_high": 131448,
+   "tx_date": "2026-08-12",
+   "filed_date": "2026-08-14",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000141/"
+  },
+  {
+   "id": "I-d63d224b751c",
+   "source": "insider",
+   "person": "CASCADE INVESTMENT, L.L.C. et al.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "10% owner",
+   "ticker": "RSG",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 14885292,
+   "amount_high": 14885292,
+   "tx_date": "2026-08-12",
+   "filed_date": "2026-08-14",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1060391/000110465926097181/"
+  },
+  {
+   "id": "I-d3e9ff49b5f7",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 169523,
+   "amount_high": 169523,
+   "tx_date": "2026-08-12",
+   "filed_date": "2026-08-14",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000141/"
+  },
   {
    "id": "I-c895913650ad",
    "source": "insider",
@@ -23,6 +617,292 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1022837/000095010326012369/"
+  },
+  {
+   "id": "I-a9f375c3e570",
+   "source": "insider",
+   "person": "Farrelly Joseph W",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "CPAY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 717125,
+   "amount_high": 717125,
+   "tx_date": "2026-08-12",
+   "filed_date": "2026-08-14",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1175454/000119312526352221/"
+  },
+  {
+   "id": "I-9175f09b6eda",
+   "source": "insider",
+   "person": "Howard Ayanna",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "MSI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 321618,
+   "amount_high": 321618,
+   "tx_date": "2026-08-12",
+   "filed_date": "2026-08-14",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/68505/000178889926000006/"
+  },
+  {
+   "id": "I-7f595fd5d9a6",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 17974,
+   "amount_high": 17974,
+   "tx_date": "2026-08-12",
+   "filed_date": "2026-08-14",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000141/"
+  },
+  {
+   "id": "I-7c1ccd81d17f",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 650786,
+   "amount_high": 650786,
+   "tx_date": "2026-08-12",
+   "filed_date": "2026-08-14",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000141/"
+  },
+  {
+   "id": "I-78d07f210ac9",
+   "source": "insider",
+   "person": "CASCADE INVESTMENT, L.L.C. et al.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "10% owner",
+   "ticker": "RSG",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1107603,
+   "amount_high": 1107603,
+   "tx_date": "2026-08-12",
+   "filed_date": "2026-08-14",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1060391/000110465926097181/"
+  },
+  {
+   "id": "I-622ae2001b2f",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 213918,
+   "amount_high": 213918,
+   "tx_date": "2026-08-12",
+   "filed_date": "2026-08-14",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000141/"
+  },
+  {
+   "id": "I-616ad551709e",
+   "source": "insider",
+   "person": "CASCADE INVESTMENT, L.L.C. et al.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "10% owner",
+   "ticker": "RSG",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 15117802,
+   "amount_high": 15117802,
+   "tx_date": "2026-08-12",
+   "filed_date": "2026-08-14",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1060391/000110465926097181/"
+  },
+  {
+   "id": "I-5ce73891aaa5",
+   "source": "insider",
+   "person": "Farrelly Joseph W",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "CPAY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 729162,
+   "amount_high": 729162,
+   "tx_date": "2026-08-12",
+   "filed_date": "2026-08-14",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1175454/000119312526352221/"
+  },
+  {
+   "id": "I-55f1d1ab6827",
+   "source": "insider",
+   "person": "Fisher Richard W",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "WBD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 549200,
+   "amount_high": 549200,
+   "tx_date": "2026-08-12",
+   "filed_date": "2026-08-14",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1437107/000128751026000007/"
+  },
+  {
+   "id": "I-2b2f317cad42",
+   "source": "insider",
+   "person": "CASCADE INVESTMENT, L.L.C. et al.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "10% owner",
+   "ticker": "RSG",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 5604118,
+   "amount_high": 5604118,
+   "tx_date": "2026-08-12",
+   "filed_date": "2026-08-14",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1060391/000110465926097181/"
+  },
+  {
+   "id": "I-18560abbb118",
+   "source": "insider",
+   "person": "CASCADE INVESTMENT, L.L.C. et al.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "10% owner",
+   "ticker": "RSG",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 942417,
+   "amount_high": 942417,
+   "tx_date": "2026-08-12",
+   "filed_date": "2026-08-14",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1060391/000110465926097181/"
+  },
+  {
+   "id": "I-0a1942af7bca",
+   "source": "insider",
+   "person": "Henschen Michael A II",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Ex VP, Refining",
+   "ticker": "MPC",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 2053099,
+   "amount_high": 2053099,
+   "tx_date": "2026-08-12",
+   "filed_date": "2026-08-14",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1510295/000119312526352231/"
+  },
+  {
+   "id": "I-f716fbe6a0b4",
+   "source": "insider",
+   "person": "Tan Lip Bu",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO",
+   "ticker": "INTC",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 9999985,
+   "amount_high": 9999985,
+   "tx_date": "2026-08-11",
+   "filed_date": "2026-08-14",
+   "lag_days": 3,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000177/"
   },
   {
    "id": "I-ef8a770d6855",
@@ -399,6 +1279,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1486957/000112329226001111/"
   },
   {
+   "id": "I-2cc85624a8e4",
+   "source": "insider",
+   "person": "Gruber David L",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "LTC",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 19150,
+   "amount_high": 19150,
+   "tx_date": "2026-08-12",
+   "filed_date": "2026-08-13",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/887905/000198705826000003/"
+  },
+  {
    "id": "I-fa903c8d9da2",
    "source": "insider",
    "person": "Bidzos D James",
@@ -617,6 +1519,28 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1014473/000120481626000032/"
+  },
+  {
+   "id": "I-6b342b1ca39c",
+   "source": "insider",
+   "person": "Gruber David L",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "LTC",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 134050,
+   "amount_high": 134050,
+   "tx_date": "2026-08-11",
+   "filed_date": "2026-08-13",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/887905/000198705826000003/"
   },
   {
    "id": "I-506fcde6fe80",
@@ -1255,6 +2179,177 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000495/"
+  },
+  {
+   "id": "C-3181b20c14f4",
+   "source": "congress",
+   "person": "Shri Thanedar",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Homeland Security"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "AAPL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 100001,
+   "amount_high": 250000,
+   "tx_date": "2026-01-09",
+   "filed_date": "2026-08-13",
+   "lag_days": 216,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033910.pdf"
+  },
+  {
+   "id": "C-c5c4491cd1b9",
+   "source": "congress",
+   "person": "Shri Thanedar",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Homeland Security"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MSTR",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2025-10-21",
+   "filed_date": "2026-08-13",
+   "lag_days": 296,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033910.pdf"
+  },
+  {
+   "id": "C-b0940708a9c4",
+   "source": "congress",
+   "person": "Derek Tran",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Small Business"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "LTC",
+   "asset_type": "other",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-07-28",
+   "filed_date": "2026-08-13",
+   "lag_days": 381,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035183.pdf"
+  },
+  {
+   "id": "C-c6619f9fe02f",
+   "source": "congress",
+   "person": "Carol Devine Miller",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "PFE",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2025-03-10",
+   "filed_date": "2026-08-13",
+   "lag_days": 521,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033779.pdf"
+  },
+  {
+   "id": "C-bb11f1820e2b",
+   "source": "congress",
+   "person": "Carol Devine Miller",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "DGX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2025-03-10",
+   "filed_date": "2026-08-13",
+   "lag_days": 521,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033779.pdf"
+  },
+  {
+   "id": "C-7ec4e00b6ddb",
+   "source": "congress",
+   "person": "Carol Devine Miller",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "USB",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2025-03-10",
+   "filed_date": "2026-08-13",
+   "lag_days": 521,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033779.pdf"
+  },
+  {
+   "id": "C-072583462724",
+   "source": "congress",
+   "person": "Carol Devine Miller",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "TGT",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2025-03-10",
+   "filed_date": "2026-08-13",
+   "lag_days": 521,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033779.pdf"
   },
   {
    "id": "I-eedd998f51b1",
@@ -5623,6 +6718,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000530/"
   },
   {
+   "id": "I-faaf98b38062",
+   "source": "insider",
+   "person": "Patten Jarrod M",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "MSTR",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 94988,
+   "amount_high": 94988,
+   "tx_date": "2026-08-07",
+   "filed_date": "2026-08-10",
+   "lag_days": 3,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526342315/"
+  },
+  {
    "id": "I-f56db3818efd",
    "source": "insider",
    "person": "Kurtz George",
@@ -5975,6 +7092,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/97745/000121605526000009/"
   },
   {
+   "id": "I-d59cc6bcb9c3",
+   "source": "insider",
+   "person": "Patten Jarrod M",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "MSTR",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 96232,
+   "amount_high": 96232,
+   "tx_date": "2026-08-07",
+   "filed_date": "2026-08-10",
+   "lag_days": 3,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526342315/"
+  },
+  {
    "id": "I-c9a1bf8ec660",
    "source": "insider",
    "person": "Casper Marc N",
@@ -5995,6 +7134,28 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/97745/000121605526000009/"
+  },
+  {
+   "id": "I-c8a266b486b7",
+   "source": "insider",
+   "person": "Patten Jarrod M",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "MSTR",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 197925,
+   "amount_high": 197925,
+   "tx_date": "2026-08-07",
+   "filed_date": "2026-08-10",
+   "lag_days": 3,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526342315/"
   },
   {
    "id": "I-c74c819d17a8",
@@ -31345,6 +32506,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000127/"
   },
   {
+   "id": "I-e37e8a02191b",
+   "source": "insider",
+   "person": "Patten Jarrod M",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "MSTR",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 192036,
+   "amount_high": 192036,
+   "tx_date": "2026-07-27",
+   "filed_date": "2026-07-28",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526321074/"
+  },
+  {
    "id": "I-bcd082495667",
    "source": "insider",
    "person": "Robinhood Markets, Inc.",
@@ -31717,6 +32900,28 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1783879/000187091426000021/"
+  },
+  {
+   "id": "I-f161e9d3276a",
+   "source": "insider",
+   "person": "Patten Jarrod M",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "MSTR",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 180287,
+   "amount_high": 180287,
+   "tx_date": "2026-07-24",
+   "filed_date": "2026-07-28",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526321074/"
   },
   {
    "id": "I-f11ee0f38786",
@@ -34318,6 +35523,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1783879/000178387926000101/"
   },
   {
+   "id": "I-555ac2df491e",
+   "source": "insider",
+   "person": "Chosy James L",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Senior EVP and General Counsel",
+   "ticker": "USB",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1453415,
+   "amount_high": 1453415,
+   "tx_date": "2026-07-23",
+   "filed_date": "2026-07-24",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/36104/000122520826006739/"
+  },
+  {
    "id": "I-4604e96c1e81",
    "source": "insider",
    "person": "Kurtz George",
@@ -35088,6 +36315,28 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1652044/000116840426000036/"
+  },
+  {
+   "id": "I-78bdb1884ffb",
+   "source": "insider",
+   "person": "Patten Jarrod M",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "MSTR",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 125000,
+   "amount_high": 125000,
+   "tx_date": "2026-07-22",
+   "filed_date": "2026-07-23",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526314630/"
   },
   {
    "id": "I-58b7195dfa6c",
@@ -36364,6 +37613,28 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326011028/"
+  },
+  {
+   "id": "I-b5432dd4b861",
+   "source": "insider",
+   "person": "Philipson Stephen L",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Vice Chair",
+   "ticker": "USB",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 2327920,
+   "amount_high": 2327920,
+   "tx_date": "2026-07-20",
+   "filed_date": "2026-07-22",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/36104/000122520826006705/"
   },
   {
    "id": "I-9c6d07062270",
@@ -57148,6 +58419,28 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1061983/000106198326000077/"
+  },
+  {
+   "id": "I-a1755d2730dd",
+   "source": "insider",
+   "person": "Triche Timothy",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "LTC",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 123562,
+   "amount_high": 123562,
+   "tx_date": "2026-07-13",
+   "filed_date": "2026-07-14",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/887905/000119842626000002/"
   },
   {
    "id": "I-a167663881a4",
@@ -84255,6 +85548,28 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/91419/000009141926000071/"
+  },
+  {
+   "id": "I-01e174356c5c",
+   "source": "insider",
+   "person": "Roath Lisa R",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Executive Officer",
+   "ticker": "TGT",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 966490,
+   "amount_high": 966490,
+   "tx_date": "2026-06-29",
+   "filed_date": "2026-06-30",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/27419/000211040126000016/"
   },
   {
    "id": "I-fed0651d858c",
@@ -131555,6 +132870,50 @@
    "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034473.pdf"
   },
   {
+   "id": "I-d243bbcb9288",
+   "source": "insider",
+   "person": "Boitano David M",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP & CIO",
+   "ticker": "LTC",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 174250,
+   "amount_high": 174250,
+   "tx_date": "2026-06-04",
+   "filed_date": "2026-06-04",
+   "lag_days": 0,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/887905/000119567926000003/"
+  },
+  {
+   "id": "I-a8947748ef9b",
+   "source": "insider",
+   "person": "Boitano David M",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP & CIO",
+   "ticker": "LTC",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 173450,
+   "amount_high": 173450,
+   "tx_date": "2026-06-04",
+   "filed_date": "2026-06-04",
+   "lag_days": 0,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/887905/000119567926000003/"
+  },
+  {
    "id": "I-527233cdb6db",
    "source": "insider",
    "person": "Arumugavelu Shankar",
@@ -173178,182 +174537,6 @@
    "source_url": "https://efdsearch.senate.gov/search/view/ptr/747b4aac-bbc9-4636-bf0f-95b0454e39d9/"
   },
   {
-   "id": "I-d108a5ff3f9b",
-   "source": "insider",
-   "person": "Wassil Jim",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "CHIEF OPERATING OFFICER",
-   "ticker": "PCVX",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 127870,
-   "amount_high": 127870,
-   "tx_date": "2026-05-01",
-   "filed_date": "2026-05-01",
-   "lag_days": 0,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1649094/000181379826000010/"
-  },
-  {
-   "id": "I-eba45f63ecdf",
-   "source": "insider",
-   "person": "Roberts Mark T.",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Sr. Vice President",
-   "ticker": "TXN",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 5697031,
-   "amount_high": 5697031,
-   "tx_date": "2026-04-30",
-   "filed_date": "2026-05-01",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/97476/000009747626000126/"
-  },
-  {
-   "id": "I-1dd63f6c7f81",
-   "source": "insider",
-   "person": "Gary Mark",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Sr. Vice President",
-   "ticker": "TXN",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 3822671,
-   "amount_high": 3822671,
-   "tx_date": "2026-04-30",
-   "filed_date": "2026-05-01",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/97476/000009747626000127/"
-  },
-  {
-   "id": "I-10deaa75209d",
-   "source": "insider",
-   "person": "Roberts Mark T.",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Sr. Vice President",
-   "ticker": "TXN",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 2174903,
-   "amount_high": 2174903,
-   "tx_date": "2026-04-30",
-   "filed_date": "2026-05-01",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/97476/000009747626000126/"
-  },
-  {
-   "id": "I-0ad7b9364a2b",
-   "source": "insider",
-   "person": "Forusz Jillian",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "SVP & CAO",
-   "ticker": "ADBE",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 185915,
-   "amount_high": 185915,
-   "tx_date": "2026-04-30",
-   "filed_date": "2026-05-01",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/796343/000079634326000107/"
-  },
-  {
-   "id": "I-809b580dfa61",
-   "source": "insider",
-   "person": "Wallman Richard F",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Director",
-   "ticker": "CECO",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 368990,
-   "amount_high": 368990,
-   "tx_date": "2026-04-29",
-   "filed_date": "2026-05-01",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/3197/000119312526201388/"
-  },
-  {
-   "id": "I-80941aa7ddb8",
-   "source": "insider",
-   "person": "Wallman Richard F",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Director",
-   "ticker": "CECO",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 732500,
-   "amount_high": 732500,
-   "tx_date": "2026-04-29",
-   "filed_date": "2026-05-01",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/3197/000119312526201388/"
-  },
-  {
-   "id": "I-7604b43960d7",
-   "source": "insider",
-   "person": "Cheung Martina",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "CEO & President",
-   "ticker": "SPGI",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 998297,
-   "amount_high": 998297,
-   "tx_date": "2026-04-29",
-   "filed_date": "2026-05-01",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/64040/000165789026000008/"
-  },
-  {
    "id": "C-f11987c41282",
    "source": "congress",
    "person": "Elizabeth Fletcher",
@@ -193397,1305 +194580,6 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034025.pdf"
-  },
-  {
-   "id": "C-e008e47142f6",
-   "source": "congress",
-   "person": "Daniel Meuser",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "NVDA",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-30",
-   "filed_date": "2026-02-17",
-   "lag_days": 18,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034016.pdf"
-  },
-  {
-   "id": "C-e909a637a0c5",
-   "source": "congress",
-   "person": "Daniel Meuser",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "NVDA",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-14",
-   "filed_date": "2026-02-17",
-   "lag_days": 34,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034016.pdf"
-  },
-  {
-   "id": "C-e4157a04646d",
-   "source": "congress",
-   "person": "Richard W. Allen",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Education and Workforce",
-     "House Committee on Energy and Commerce"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "SPGI",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-01-14",
-   "filed_date": "2026-02-17",
-   "lag_days": 34,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033945.pdf"
-  },
-  {
-   "id": "C-87e6cace9e57",
-   "source": "congress",
-   "person": "Richard W. Allen",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Education and Workforce",
-     "House Committee on Energy and Commerce"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "AWK",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 50001,
-   "amount_high": 100000,
-   "tx_date": "2026-01-14",
-   "filed_date": "2026-02-17",
-   "lag_days": 34,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033945.pdf"
-  },
-  {
-   "id": "C-2ad4015743e8",
-   "source": "congress",
-   "person": "Richard W. Allen",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Education and Workforce",
-     "House Committee on Energy and Commerce"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "PAYX",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-01-14",
-   "filed_date": "2026-02-17",
-   "lag_days": 34,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033945.pdf"
-  },
-  {
-   "id": "C-ee3d46110852",
-   "source": "congress",
-   "person": "Michael Patrick Guest",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Appropriations",
-     "House Committee on Homeland Security",
-     "House Committee on Ethics"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "OTCM",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-09",
-   "filed_date": "2026-02-17",
-   "lag_days": 39,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033944.pdf"
-  },
-  {
-   "id": "C-c412baee055e",
-   "source": "congress",
-   "person": "Michael Patrick Guest",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Appropriations",
-     "House Committee on Homeland Security",
-     "House Committee on Ethics"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "DT",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-09",
-   "filed_date": "2026-02-17",
-   "lag_days": 39,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033944.pdf"
-  },
-  {
-   "id": "C-c393d3ea2e98",
-   "source": "congress",
-   "person": "Michael Patrick Guest",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Appropriations",
-     "House Committee on Homeland Security",
-     "House Committee on Ethics"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "EVVTY",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-09",
-   "filed_date": "2026-02-17",
-   "lag_days": 39,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033944.pdf"
-  },
-  {
-   "id": "C-ae17f7b82de6",
-   "source": "congress",
-   "person": "Michael Patrick Guest",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Appropriations",
-     "House Committee on Homeland Security",
-     "House Committee on Ethics"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "CHRD",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-09",
-   "filed_date": "2026-02-17",
-   "lag_days": 39,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033944.pdf"
-  },
-  {
-   "id": "C-833b70ad55c0",
-   "source": "congress",
-   "person": "Sheri Biggs",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Foreign Affairs",
-     "House Committee on Homeland Security",
-     "House Committee on Science, Space, and Technology"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "KRSOX",
-   "asset_type": "other",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-05",
-   "filed_date": "2026-02-17",
-   "lag_days": 43,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034013.pdf"
-  },
-  {
-   "id": "C-fcb5c535fed4",
-   "source": "congress",
-   "person": "John Boozman",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": [
-     "Commission on Security and Cooperation in Europe",
-     "Senate Committee on Agriculture, Nutrition, and Forestry",
-     "Senate Committee on Appropriations",
-     "Senate Committee on Environment and Public Works",
-     "Senate Committee on Rules and Administration",
-     "Senate Committee on Veterans' Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "CAT",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-29",
-   "filed_date": "2026-02-15",
-   "lag_days": 17,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/135ebfe9-099e-4d58-ba46-f739b90d61da/"
-  },
-  {
-   "id": "C-ead1f85ccae1",
-   "source": "congress",
-   "person": "John Boozman",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": [
-     "Commission on Security and Cooperation in Europe",
-     "Senate Committee on Agriculture, Nutrition, and Forestry",
-     "Senate Committee on Appropriations",
-     "Senate Committee on Environment and Public Works",
-     "Senate Committee on Rules and Administration",
-     "Senate Committee on Veterans' Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "CVS",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-29",
-   "filed_date": "2026-02-15",
-   "lag_days": 17,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/135ebfe9-099e-4d58-ba46-f739b90d61da/"
-  },
-  {
-   "id": "C-52266ab8b833",
-   "source": "congress",
-   "person": "John Boozman",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": [
-     "Commission on Security and Cooperation in Europe",
-     "Senate Committee on Agriculture, Nutrition, and Forestry",
-     "Senate Committee on Appropriations",
-     "Senate Committee on Environment and Public Works",
-     "Senate Committee on Rules and Administration",
-     "Senate Committee on Veterans' Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "ETN",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-29",
-   "filed_date": "2026-02-15",
-   "lag_days": 17,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/135ebfe9-099e-4d58-ba46-f739b90d61da/"
-  },
-  {
-   "id": "C-4b3e7ffaf822",
-   "source": "congress",
-   "person": "John Boozman",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": [
-     "Commission on Security and Cooperation in Europe",
-     "Senate Committee on Agriculture, Nutrition, and Forestry",
-     "Senate Committee on Appropriations",
-     "Senate Committee on Environment and Public Works",
-     "Senate Committee on Rules and Administration",
-     "Senate Committee on Veterans' Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "OMC",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-29",
-   "filed_date": "2026-02-15",
-   "lag_days": 17,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/bd886067-927f-48a8-9d43-8ab6fa713f98/"
-  },
-  {
-   "id": "C-122d695843bd",
-   "source": "congress",
-   "person": "John Boozman",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": [
-     "Commission on Security and Cooperation in Europe",
-     "Senate Committee on Agriculture, Nutrition, and Forestry",
-     "Senate Committee on Appropriations",
-     "Senate Committee on Environment and Public Works",
-     "Senate Committee on Rules and Administration",
-     "Senate Committee on Veterans' Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "UNP",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-29",
-   "filed_date": "2026-02-15",
-   "lag_days": 17,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/bd886067-927f-48a8-9d43-8ab6fa713f98/"
-  },
-  {
-   "id": "C-10a49c7a72a9",
-   "source": "congress",
-   "person": "John Boozman",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": [
-     "Commission on Security and Cooperation in Europe",
-     "Senate Committee on Agriculture, Nutrition, and Forestry",
-     "Senate Committee on Appropriations",
-     "Senate Committee on Environment and Public Works",
-     "Senate Committee on Rules and Administration",
-     "Senate Committee on Veterans' Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "FISV",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-29",
-   "filed_date": "2026-02-15",
-   "lag_days": 17,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/bd886067-927f-48a8-9d43-8ab6fa713f98/"
-  },
-  {
-   "id": "C-040bccfc0f93",
-   "source": "congress",
-   "person": "John Boozman",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": [
-     "Commission on Security and Cooperation in Europe",
-     "Senate Committee on Agriculture, Nutrition, and Forestry",
-     "Senate Committee on Appropriations",
-     "Senate Committee on Environment and Public Works",
-     "Senate Committee on Rules and Administration",
-     "Senate Committee on Veterans' Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "PYPL",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-29",
-   "filed_date": "2026-02-15",
-   "lag_days": 17,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/135ebfe9-099e-4d58-ba46-f739b90d61da/"
-  },
-  {
-   "id": "C-035f6763018d",
-   "source": "congress",
-   "person": "John Boozman",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": [
-     "Commission on Security and Cooperation in Europe",
-     "Senate Committee on Agriculture, Nutrition, and Forestry",
-     "Senate Committee on Appropriations",
-     "Senate Committee on Environment and Public Works",
-     "Senate Committee on Rules and Administration",
-     "Senate Committee on Veterans' Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "IVW",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-29",
-   "filed_date": "2026-02-15",
-   "lag_days": 17,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/bd886067-927f-48a8-9d43-8ab6fa713f98/"
-  },
-  {
-   "id": "C-8727303dc2c8",
-   "source": "congress",
-   "person": "John Boozman",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": [
-     "Commission on Security and Cooperation in Europe",
-     "Senate Committee on Agriculture, Nutrition, and Forestry",
-     "Senate Committee on Appropriations",
-     "Senate Committee on Environment and Public Works",
-     "Senate Committee on Rules and Administration",
-     "Senate Committee on Veterans' Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "DXCM",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-26",
-   "filed_date": "2026-02-15",
-   "lag_days": 20,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/135ebfe9-099e-4d58-ba46-f739b90d61da/"
-  },
-  {
-   "id": "C-2f9cddb77eed",
-   "source": "congress",
-   "person": "John Boozman",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": [
-     "Commission on Security and Cooperation in Europe",
-     "Senate Committee on Agriculture, Nutrition, and Forestry",
-     "Senate Committee on Appropriations",
-     "Senate Committee on Environment and Public Works",
-     "Senate Committee on Rules and Administration",
-     "Senate Committee on Veterans' Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "MU",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-26",
-   "filed_date": "2026-02-15",
-   "lag_days": 20,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/bd886067-927f-48a8-9d43-8ab6fa713f98/"
-  },
-  {
-   "id": "C-f4e5b1c1e122",
-   "source": "congress",
-   "person": "John Boozman",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": [
-     "Commission on Security and Cooperation in Europe",
-     "Senate Committee on Agriculture, Nutrition, and Forestry",
-     "Senate Committee on Appropriations",
-     "Senate Committee on Environment and Public Works",
-     "Senate Committee on Rules and Administration",
-     "Senate Committee on Veterans' Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "FTGC",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-23",
-   "filed_date": "2026-02-15",
-   "lag_days": 23,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/135ebfe9-099e-4d58-ba46-f739b90d61da/"
-  },
-  {
-   "id": "C-e8b328de93bb",
-   "source": "congress",
-   "person": "John Boozman",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": [
-     "Commission on Security and Cooperation in Europe",
-     "Senate Committee on Agriculture, Nutrition, and Forestry",
-     "Senate Committee on Appropriations",
-     "Senate Committee on Environment and Public Works",
-     "Senate Committee on Rules and Administration",
-     "Senate Committee on Veterans' Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "RNWGX",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-23",
-   "filed_date": "2026-02-15",
-   "lag_days": 23,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/135ebfe9-099e-4d58-ba46-f739b90d61da/"
-  },
-  {
-   "id": "C-b60c40b915e1",
-   "source": "congress",
-   "person": "John Boozman",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": [
-     "Commission on Security and Cooperation in Europe",
-     "Senate Committee on Agriculture, Nutrition, and Forestry",
-     "Senate Committee on Appropriations",
-     "Senate Committee on Environment and Public Works",
-     "Senate Committee on Rules and Administration",
-     "Senate Committee on Veterans' Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "IWM",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-23",
-   "filed_date": "2026-02-15",
-   "lag_days": 23,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/bd886067-927f-48a8-9d43-8ab6fa713f98/"
-  },
-  {
-   "id": "C-b1b60e2a905f",
-   "source": "congress",
-   "person": "John Boozman",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": [
-     "Commission on Security and Cooperation in Europe",
-     "Senate Committee on Agriculture, Nutrition, and Forestry",
-     "Senate Committee on Appropriations",
-     "Senate Committee on Environment and Public Works",
-     "Senate Committee on Rules and Administration",
-     "Senate Committee on Veterans' Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "LITP",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-23",
-   "filed_date": "2026-02-15",
-   "lag_days": 23,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/135ebfe9-099e-4d58-ba46-f739b90d61da/"
-  },
-  {
-   "id": "C-9272180126fb",
-   "source": "congress",
-   "person": "John Boozman",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": [
-     "Commission on Security and Cooperation in Europe",
-     "Senate Committee on Agriculture, Nutrition, and Forestry",
-     "Senate Committee on Appropriations",
-     "Senate Committee on Environment and Public Works",
-     "Senate Committee on Rules and Administration",
-     "Senate Committee on Veterans' Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "CMBS",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-23",
-   "filed_date": "2026-02-15",
-   "lag_days": 23,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/135ebfe9-099e-4d58-ba46-f739b90d61da/"
-  },
-  {
-   "id": "C-880eec973cba",
-   "source": "congress",
-   "person": "John Boozman",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": [
-     "Commission on Security and Cooperation in Europe",
-     "Senate Committee on Agriculture, Nutrition, and Forestry",
-     "Senate Committee on Appropriations",
-     "Senate Committee on Environment and Public Works",
-     "Senate Committee on Rules and Administration",
-     "Senate Committee on Veterans' Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "GEM",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-23",
-   "filed_date": "2026-02-15",
-   "lag_days": 23,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/135ebfe9-099e-4d58-ba46-f739b90d61da/"
-  },
-  {
-   "id": "C-82501a1f7bfd",
-   "source": "congress",
-   "person": "John Boozman",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": [
-     "Commission on Security and Cooperation in Europe",
-     "Senate Committee on Agriculture, Nutrition, and Forestry",
-     "Senate Committee on Appropriations",
-     "Senate Committee on Environment and Public Works",
-     "Senate Committee on Rules and Administration",
-     "Senate Committee on Veterans' Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "GIGB",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-23",
-   "filed_date": "2026-02-15",
-   "lag_days": 23,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/135ebfe9-099e-4d58-ba46-f739b90d61da/"
-  },
-  {
-   "id": "C-8180e8099dcb",
-   "source": "congress",
-   "person": "John Boozman",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": [
-     "Commission on Security and Cooperation in Europe",
-     "Senate Committee on Agriculture, Nutrition, and Forestry",
-     "Senate Committee on Appropriations",
-     "Senate Committee on Environment and Public Works",
-     "Senate Committee on Rules and Administration",
-     "Senate Committee on Veterans' Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "TPYP",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-23",
-   "filed_date": "2026-02-15",
-   "lag_days": 23,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/135ebfe9-099e-4d58-ba46-f739b90d61da/"
-  },
-  {
-   "id": "C-79f592124abf",
-   "source": "congress",
-   "person": "John Boozman",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": [
-     "Commission on Security and Cooperation in Europe",
-     "Senate Committee on Agriculture, Nutrition, and Forestry",
-     "Senate Committee on Appropriations",
-     "Senate Committee on Environment and Public Works",
-     "Senate Committee on Rules and Administration",
-     "Senate Committee on Veterans' Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "PALL",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-23",
-   "filed_date": "2026-02-15",
-   "lag_days": 23,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/bd886067-927f-48a8-9d43-8ab6fa713f98/"
-  },
-  {
-   "id": "C-780e97061023",
-   "source": "congress",
-   "person": "John Boozman",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": [
-     "Commission on Security and Cooperation in Europe",
-     "Senate Committee on Agriculture, Nutrition, and Forestry",
-     "Senate Committee on Appropriations",
-     "Senate Committee on Environment and Public Works",
-     "Senate Committee on Rules and Administration",
-     "Senate Committee on Veterans' Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "IVV",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-23",
-   "filed_date": "2026-02-15",
-   "lag_days": 23,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/135ebfe9-099e-4d58-ba46-f739b90d61da/"
-  },
-  {
-   "id": "C-6ca66e1ce258",
-   "source": "congress",
-   "person": "John Boozman",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": [
-     "Commission on Security and Cooperation in Europe",
-     "Senate Committee on Agriculture, Nutrition, and Forestry",
-     "Senate Committee on Appropriations",
-     "Senate Committee on Environment and Public Works",
-     "Senate Committee on Rules and Administration",
-     "Senate Committee on Veterans' Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "SLV",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-23",
-   "filed_date": "2026-02-15",
-   "lag_days": 23,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/bd886067-927f-48a8-9d43-8ab6fa713f98/"
-  },
-  {
-   "id": "C-5d838ba5590b",
-   "source": "congress",
-   "person": "John Boozman",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": [
-     "Commission on Security and Cooperation in Europe",
-     "Senate Committee on Agriculture, Nutrition, and Forestry",
-     "Senate Committee on Appropriations",
-     "Senate Committee on Environment and Public Works",
-     "Senate Committee on Rules and Administration",
-     "Senate Committee on Veterans' Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "PPLT",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-23",
-   "filed_date": "2026-02-15",
-   "lag_days": 23,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/bd886067-927f-48a8-9d43-8ab6fa713f98/"
-  },
-  {
-   "id": "C-50b5f9ed912f",
-   "source": "congress",
-   "person": "John Boozman",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": [
-     "Commission on Security and Cooperation in Europe",
-     "Senate Committee on Agriculture, Nutrition, and Forestry",
-     "Senate Committee on Appropriations",
-     "Senate Committee on Environment and Public Works",
-     "Senate Committee on Rules and Administration",
-     "Senate Committee on Veterans' Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "JMBS",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-23",
-   "filed_date": "2026-02-15",
-   "lag_days": 23,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/135ebfe9-099e-4d58-ba46-f739b90d61da/"
-  },
-  {
-   "id": "C-428cef627990",
-   "source": "congress",
-   "person": "John Boozman",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": [
-     "Commission on Security and Cooperation in Europe",
-     "Senate Committee on Agriculture, Nutrition, and Forestry",
-     "Senate Committee on Appropriations",
-     "Senate Committee on Environment and Public Works",
-     "Senate Committee on Rules and Administration",
-     "Senate Committee on Veterans' Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "MBB",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-23",
-   "filed_date": "2026-02-15",
-   "lag_days": 23,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/135ebfe9-099e-4d58-ba46-f739b90d61da/"
-  },
-  {
-   "id": "C-3bad9ae02197",
-   "source": "congress",
-   "person": "John Boozman",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": [
-     "Commission on Security and Cooperation in Europe",
-     "Senate Committee on Agriculture, Nutrition, and Forestry",
-     "Senate Committee on Appropriations",
-     "Senate Committee on Environment and Public Works",
-     "Senate Committee on Rules and Administration",
-     "Senate Committee on Veterans' Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "MDY",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-23",
-   "filed_date": "2026-02-15",
-   "lag_days": 23,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/bd886067-927f-48a8-9d43-8ab6fa713f98/"
-  },
-  {
-   "id": "C-3811e5b895fc",
-   "source": "congress",
-   "person": "John Boozman",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": [
-     "Commission on Security and Cooperation in Europe",
-     "Senate Committee on Agriculture, Nutrition, and Forestry",
-     "Senate Committee on Appropriations",
-     "Senate Committee on Environment and Public Works",
-     "Senate Committee on Rules and Administration",
-     "Senate Committee on Veterans' Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "VNQI",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-23",
-   "filed_date": "2026-02-15",
-   "lag_days": 23,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/135ebfe9-099e-4d58-ba46-f739b90d61da/"
-  },
-  {
-   "id": "C-31560341fc26",
-   "source": "congress",
-   "person": "John Boozman",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": [
-     "Commission on Security and Cooperation in Europe",
-     "Senate Committee on Agriculture, Nutrition, and Forestry",
-     "Senate Committee on Appropriations",
-     "Senate Committee on Environment and Public Works",
-     "Senate Committee on Rules and Administration",
-     "Senate Committee on Veterans' Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "EIPI",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-23",
-   "filed_date": "2026-02-15",
-   "lag_days": 23,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/135ebfe9-099e-4d58-ba46-f739b90d61da/"
-  },
-  {
-   "id": "C-12cc2b626075",
-   "source": "congress",
-   "person": "John Boozman",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": [
-     "Commission on Security and Cooperation in Europe",
-     "Senate Committee on Agriculture, Nutrition, and Forestry",
-     "Senate Committee on Appropriations",
-     "Senate Committee on Environment and Public Works",
-     "Senate Committee on Rules and Administration",
-     "Senate Committee on Veterans' Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "TBLL",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-23",
-   "filed_date": "2026-02-15",
-   "lag_days": 23,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/135ebfe9-099e-4d58-ba46-f739b90d61da/"
-  },
-  {
-   "id": "C-921708e856fc",
-   "source": "congress",
-   "person": "John Boozman",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": [
-     "Commission on Security and Cooperation in Europe",
-     "Senate Committee on Agriculture, Nutrition, and Forestry",
-     "Senate Committee on Appropriations",
-     "Senate Committee on Environment and Public Works",
-     "Senate Committee on Rules and Administration",
-     "Senate Committee on Veterans' Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "V",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-15",
-   "filed_date": "2026-02-15",
-   "lag_days": 31,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/135ebfe9-099e-4d58-ba46-f739b90d61da/"
-  },
-  {
-   "id": "C-82021fce9d73",
-   "source": "congress",
-   "person": "John Boozman",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": [
-     "Commission on Security and Cooperation in Europe",
-     "Senate Committee on Agriculture, Nutrition, and Forestry",
-     "Senate Committee on Appropriations",
-     "Senate Committee on Environment and Public Works",
-     "Senate Committee on Rules and Administration",
-     "Senate Committee on Veterans' Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "OMC",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-15",
-   "filed_date": "2026-02-15",
-   "lag_days": 31,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/bd886067-927f-48a8-9d43-8ab6fa713f98/"
-  },
-  {
-   "id": "C-72ac575c59e6",
-   "source": "congress",
-   "person": "John Boozman",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": [
-     "Commission on Security and Cooperation in Europe",
-     "Senate Committee on Agriculture, Nutrition, and Forestry",
-     "Senate Committee on Appropriations",
-     "Senate Committee on Environment and Public Works",
-     "Senate Committee on Rules and Administration",
-     "Senate Committee on Veterans' Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "AAPL",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-15",
-   "filed_date": "2026-02-15",
-   "lag_days": 31,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/135ebfe9-099e-4d58-ba46-f739b90d61da/"
-  },
-  {
-   "id": "C-ab05348f4f53",
-   "source": "congress",
-   "person": "John Boozman",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": [
-     "Commission on Security and Cooperation in Europe",
-     "Senate Committee on Agriculture, Nutrition, and Forestry",
-     "Senate Committee on Appropriations",
-     "Senate Committee on Environment and Public Works",
-     "Senate Committee on Rules and Administration",
-     "Senate Committee on Veterans' Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "DIS",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-08",
-   "filed_date": "2026-02-15",
-   "lag_days": 38,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/135ebfe9-099e-4d58-ba46-f739b90d61da/"
-  },
-  {
-   "id": "C-6c25565adf64",
-   "source": "congress",
-   "person": "John Boozman",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": [
-     "Commission on Security and Cooperation in Europe",
-     "Senate Committee on Agriculture, Nutrition, and Forestry",
-     "Senate Committee on Appropriations",
-     "Senate Committee on Environment and Public Works",
-     "Senate Committee on Rules and Administration",
-     "Senate Committee on Veterans' Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "XOM",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-08",
-   "filed_date": "2026-02-15",
-   "lag_days": 38,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/135ebfe9-099e-4d58-ba46-f739b90d61da/"
-  },
-  {
-   "id": "C-5d5748784740",
-   "source": "congress",
-   "person": "John Boozman",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": [
-     "Commission on Security and Cooperation in Europe",
-     "Senate Committee on Agriculture, Nutrition, and Forestry",
-     "Senate Committee on Appropriations",
-     "Senate Committee on Environment and Public Works",
-     "Senate Committee on Rules and Administration",
-     "Senate Committee on Veterans' Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "MU",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-08",
-   "filed_date": "2026-02-15",
-   "lag_days": 38,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/bd886067-927f-48a8-9d43-8ab6fa713f98/"
-  },
-  {
-   "id": "C-55b6c6dbe9a3",
-   "source": "congress",
-   "person": "John Boozman",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": [
-     "Commission on Security and Cooperation in Europe",
-     "Senate Committee on Agriculture, Nutrition, and Forestry",
-     "Senate Committee on Appropriations",
-     "Senate Committee on Environment and Public Works",
-     "Senate Committee on Rules and Administration",
-     "Senate Committee on Veterans' Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "NFLX",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-08",
-   "filed_date": "2026-02-15",
-   "lag_days": 38,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/135ebfe9-099e-4d58-ba46-f739b90d61da/"
-  },
-  {
-   "id": "C-4fbcc162e7a2",
-   "source": "congress",
-   "person": "John Boozman",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": [
-     "Commission on Security and Cooperation in Europe",
-     "Senate Committee on Agriculture, Nutrition, and Forestry",
-     "Senate Committee on Appropriations",
-     "Senate Committee on Environment and Public Works",
-     "Senate Committee on Rules and Administration",
-     "Senate Committee on Veterans' Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "LRCX",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-08",
-   "filed_date": "2026-02-15",
-   "lag_days": 38,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/bd886067-927f-48a8-9d43-8ab6fa713f98/"
   }
  ]
 }

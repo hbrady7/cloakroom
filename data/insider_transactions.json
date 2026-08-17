@@ -1,6 +1,600 @@
 {
- "generated_at": "2026-08-14T12:10:34Z",
+ "generated_at": "2026-08-17T11:53:30Z",
  "transactions": [
+  {
+   "id": "I-ad288969f612",
+   "source": "insider",
+   "person": "Briggs Andrew J",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "FMAO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 106140,
+   "amount_high": 106140,
+   "tx_date": "2026-08-14",
+   "filed_date": "2026-08-14",
+   "lag_days": 0,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/792966/000119312526351514/"
+  },
+  {
+   "id": "I-6f8cbce4de55",
+   "source": "insider",
+   "person": "Zaslav David",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Executive Officer & Pres",
+   "ticker": "WBD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 5463872,
+   "amount_high": 5463872,
+   "tx_date": "2026-08-14",
+   "filed_date": "2026-08-14",
+   "lag_days": 0,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1437107/000131828526000017/"
+  },
+  {
+   "id": "I-fe2825f25c6b",
+   "source": "insider",
+   "person": "Duato Joaquin",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO and Chairman of the Board",
+   "ticker": "JNJ",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 26704215,
+   "amount_high": 26704215,
+   "tx_date": "2026-08-13",
+   "filed_date": "2026-08-14",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/200406/000020040626000173/"
+  },
+  {
+   "id": "I-e1b01945a179",
+   "source": "insider",
+   "person": "Colella Joseph",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "SVP and General Counsel",
+   "ticker": "ENTG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 644104,
+   "amount_high": 644104,
+   "tx_date": "2026-08-13",
+   "filed_date": "2026-08-14",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1101302/000181106126000002/"
+  },
+  {
+   "id": "I-d984f0699b37",
+   "source": "insider",
+   "person": "Rezvan Mitra",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Accounting Officer",
+   "ticker": "SAIL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 24280,
+   "amount_high": 24280,
+   "tx_date": "2026-08-13",
+   "filed_date": "2026-08-14",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2030781/000191724626000010/"
+  },
+  {
+   "id": "I-d8d503aa8eda",
+   "source": "insider",
+   "person": "Lorig Brian",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP, KLA Global Services",
+   "ticker": "KLAC",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 12401634,
+   "amount_high": 12401634,
+   "tx_date": "2026-08-13",
+   "filed_date": "2026-08-14",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/319201/000119312526352187/"
+  },
+  {
+   "id": "I-cc9e0c18a204",
+   "source": "insider",
+   "person": "Zaslav David",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Executive Officer & Pres",
+   "ticker": "WBD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 2657368,
+   "amount_high": 2657368,
+   "tx_date": "2026-08-13",
+   "filed_date": "2026-08-14",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1437107/000131828526000017/"
+  },
+  {
+   "id": "I-c36112758294",
+   "source": "insider",
+   "person": "Farrelly Joseph W",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "CPAY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 726718,
+   "amount_high": 726718,
+   "tx_date": "2026-08-13",
+   "filed_date": "2026-08-14",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1175454/000119312526352221/"
+  },
+  {
+   "id": "I-c257490acdde",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 406908,
+   "amount_high": 406908,
+   "tx_date": "2026-08-13",
+   "filed_date": "2026-08-14",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000141/"
+  },
+  {
+   "id": "I-b58fb7f0c26f",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 378858,
+   "amount_high": 378858,
+   "tx_date": "2026-08-13",
+   "filed_date": "2026-08-14",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000141/"
+  },
+  {
+   "id": "I-b1d36cf60a57",
+   "source": "insider",
+   "person": "Briggs Andrew J",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "FMAO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 105570,
+   "amount_high": 105570,
+   "tx_date": "2026-08-13",
+   "filed_date": "2026-08-14",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/792966/000119312526351514/"
+  },
+  {
+   "id": "I-86839c56bae0",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 581981,
+   "amount_high": 581981,
+   "tx_date": "2026-08-13",
+   "filed_date": "2026-08-14",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000141/"
+  },
+  {
+   "id": "I-6858bf982457",
+   "source": "insider",
+   "person": "Zaslav David",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Executive Officer & Pres",
+   "ticker": "WBD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 18998259,
+   "amount_high": 18998259,
+   "tx_date": "2026-08-13",
+   "filed_date": "2026-08-14",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1437107/000131828526000017/"
+  },
+  {
+   "id": "I-659ce17955ac",
+   "source": "insider",
+   "person": "Teh Ban Seng",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP & Chief Commercial Officer",
+   "ticker": "STX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 5522680,
+   "amount_high": 5522680,
+   "tx_date": "2026-08-13",
+   "filed_date": "2026-08-14",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000173/"
+  },
+  {
+   "id": "I-630d5df1bff8",
+   "source": "insider",
+   "person": "Duato Joaquin",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO and Chairman of the Board",
+   "ticker": "JNJ",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 5495712,
+   "amount_high": 5495712,
+   "tx_date": "2026-08-13",
+   "filed_date": "2026-08-14",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/200406/000020040626000173/"
+  },
+  {
+   "id": "I-56d670f7d932",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 622872,
+   "amount_high": 622872,
+   "tx_date": "2026-08-13",
+   "filed_date": "2026-08-14",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000141/"
+  },
+  {
+   "id": "I-3ccdb63aad28",
+   "source": "insider",
+   "person": "Merchant Fazal F",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "WBD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1985207,
+   "amount_high": 1985207,
+   "tx_date": "2026-08-13",
+   "filed_date": "2026-08-14",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1437107/000143710726000077/"
+  },
+  {
+   "id": "I-3192421a6b02",
+   "source": "insider",
+   "person": "CASCADE INVESTMENT, L.L.C. et al.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "10% owner",
+   "ticker": "RSG",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 33885466,
+   "amount_high": 33885466,
+   "tx_date": "2026-08-13",
+   "filed_date": "2026-08-14",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1060391/000110465926097181/"
+  },
+  {
+   "id": "I-2589fa662f04",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 26485,
+   "amount_high": 26485,
+   "tx_date": "2026-08-13",
+   "filed_date": "2026-08-14",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000141/"
+  },
+  {
+   "id": "I-1515d30b85fe",
+   "source": "insider",
+   "person": "CASCADE INVESTMENT, L.L.C. et al.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "10% owner",
+   "ticker": "RSG",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 6786480,
+   "amount_high": 6786480,
+   "tx_date": "2026-08-13",
+   "filed_date": "2026-08-14",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1060391/000110465926097181/"
+  },
+  {
+   "id": "I-033caec5c389",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 227283,
+   "amount_high": 227283,
+   "tx_date": "2026-08-13",
+   "filed_date": "2026-08-14",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000141/"
+  },
+  {
+   "id": "I-02907aa23342",
+   "source": "insider",
+   "person": "Teh Ban Seng",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP & Chief Commercial Officer",
+   "ticker": "STX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1255348,
+   "amount_high": 1255348,
+   "tx_date": "2026-08-13",
+   "filed_date": "2026-08-14",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000173/"
+  },
+  {
+   "id": "I-ffdddf765b45",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 683791,
+   "amount_high": 683791,
+   "tx_date": "2026-08-12",
+   "filed_date": "2026-08-14",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000141/"
+  },
+  {
+   "id": "I-f5b80020d897",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 349915,
+   "amount_high": 349915,
+   "tx_date": "2026-08-12",
+   "filed_date": "2026-08-14",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000141/"
+  },
+  {
+   "id": "I-e47e8c328794",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 131448,
+   "amount_high": 131448,
+   "tx_date": "2026-08-12",
+   "filed_date": "2026-08-14",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000141/"
+  },
+  {
+   "id": "I-d63d224b751c",
+   "source": "insider",
+   "person": "CASCADE INVESTMENT, L.L.C. et al.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "10% owner",
+   "ticker": "RSG",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 14885292,
+   "amount_high": 14885292,
+   "tx_date": "2026-08-12",
+   "filed_date": "2026-08-14",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1060391/000110465926097181/"
+  },
+  {
+   "id": "I-d3e9ff49b5f7",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 169523,
+   "amount_high": 169523,
+   "tx_date": "2026-08-12",
+   "filed_date": "2026-08-14",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000141/"
+  },
   {
    "id": "I-c895913650ad",
    "source": "insider",
@@ -22,6 +616,292 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1022837/000095010326012369/"
+  },
+  {
+   "id": "I-a9f375c3e570",
+   "source": "insider",
+   "person": "Farrelly Joseph W",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "CPAY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 717125,
+   "amount_high": 717125,
+   "tx_date": "2026-08-12",
+   "filed_date": "2026-08-14",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1175454/000119312526352221/"
+  },
+  {
+   "id": "I-9175f09b6eda",
+   "source": "insider",
+   "person": "Howard Ayanna",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "MSI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 321618,
+   "amount_high": 321618,
+   "tx_date": "2026-08-12",
+   "filed_date": "2026-08-14",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/68505/000178889926000006/"
+  },
+  {
+   "id": "I-7f595fd5d9a6",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 17974,
+   "amount_high": 17974,
+   "tx_date": "2026-08-12",
+   "filed_date": "2026-08-14",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000141/"
+  },
+  {
+   "id": "I-7c1ccd81d17f",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 650786,
+   "amount_high": 650786,
+   "tx_date": "2026-08-12",
+   "filed_date": "2026-08-14",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000141/"
+  },
+  {
+   "id": "I-78d07f210ac9",
+   "source": "insider",
+   "person": "CASCADE INVESTMENT, L.L.C. et al.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "10% owner",
+   "ticker": "RSG",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1107603,
+   "amount_high": 1107603,
+   "tx_date": "2026-08-12",
+   "filed_date": "2026-08-14",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1060391/000110465926097181/"
+  },
+  {
+   "id": "I-622ae2001b2f",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 213918,
+   "amount_high": 213918,
+   "tx_date": "2026-08-12",
+   "filed_date": "2026-08-14",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000141/"
+  },
+  {
+   "id": "I-616ad551709e",
+   "source": "insider",
+   "person": "CASCADE INVESTMENT, L.L.C. et al.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "10% owner",
+   "ticker": "RSG",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 15117802,
+   "amount_high": 15117802,
+   "tx_date": "2026-08-12",
+   "filed_date": "2026-08-14",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1060391/000110465926097181/"
+  },
+  {
+   "id": "I-5ce73891aaa5",
+   "source": "insider",
+   "person": "Farrelly Joseph W",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "CPAY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 729162,
+   "amount_high": 729162,
+   "tx_date": "2026-08-12",
+   "filed_date": "2026-08-14",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1175454/000119312526352221/"
+  },
+  {
+   "id": "I-55f1d1ab6827",
+   "source": "insider",
+   "person": "Fisher Richard W",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "WBD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 549200,
+   "amount_high": 549200,
+   "tx_date": "2026-08-12",
+   "filed_date": "2026-08-14",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1437107/000128751026000007/"
+  },
+  {
+   "id": "I-2b2f317cad42",
+   "source": "insider",
+   "person": "CASCADE INVESTMENT, L.L.C. et al.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "10% owner",
+   "ticker": "RSG",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 5604118,
+   "amount_high": 5604118,
+   "tx_date": "2026-08-12",
+   "filed_date": "2026-08-14",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1060391/000110465926097181/"
+  },
+  {
+   "id": "I-18560abbb118",
+   "source": "insider",
+   "person": "CASCADE INVESTMENT, L.L.C. et al.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "10% owner",
+   "ticker": "RSG",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 942417,
+   "amount_high": 942417,
+   "tx_date": "2026-08-12",
+   "filed_date": "2026-08-14",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1060391/000110465926097181/"
+  },
+  {
+   "id": "I-0a1942af7bca",
+   "source": "insider",
+   "person": "Henschen Michael A II",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Ex VP, Refining",
+   "ticker": "MPC",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 2053099,
+   "amount_high": 2053099,
+   "tx_date": "2026-08-12",
+   "filed_date": "2026-08-14",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1510295/000119312526352231/"
+  },
+  {
+   "id": "I-f716fbe6a0b4",
+   "source": "insider",
+   "person": "Tan Lip Bu",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO",
+   "ticker": "INTC",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 9999985,
+   "amount_high": 9999985,
+   "tx_date": "2026-08-11",
+   "filed_date": "2026-08-14",
+   "lag_days": 3,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000177/"
   },
   {
    "id": "I-ef8a770d6855",
@@ -398,6 +1278,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1486957/000112329226001111/"
   },
   {
+   "id": "I-2cc85624a8e4",
+   "source": "insider",
+   "person": "Gruber David L",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "LTC",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 19150,
+   "amount_high": 19150,
+   "tx_date": "2026-08-12",
+   "filed_date": "2026-08-13",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/887905/000198705826000003/"
+  },
+  {
    "id": "I-fa903c8d9da2",
    "source": "insider",
    "person": "Bidzos D James",
@@ -616,6 +1518,28 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1014473/000120481626000032/"
+  },
+  {
+   "id": "I-6b342b1ca39c",
+   "source": "insider",
+   "person": "Gruber David L",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "LTC",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 134050,
+   "amount_high": 134050,
+   "tx_date": "2026-08-11",
+   "filed_date": "2026-08-13",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/887905/000198705826000003/"
   },
   {
    "id": "I-506fcde6fe80",
@@ -5502,6 +6426,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000530/"
   },
   {
+   "id": "I-faaf98b38062",
+   "source": "insider",
+   "person": "Patten Jarrod M",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "MSTR",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 94988,
+   "amount_high": 94988,
+   "tx_date": "2026-08-07",
+   "filed_date": "2026-08-10",
+   "lag_days": 3,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526342315/"
+  },
+  {
    "id": "I-f56db3818efd",
    "source": "insider",
    "person": "Kurtz George",
@@ -5854,6 +6800,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/97745/000121605526000009/"
   },
   {
+   "id": "I-d59cc6bcb9c3",
+   "source": "insider",
+   "person": "Patten Jarrod M",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "MSTR",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 96232,
+   "amount_high": 96232,
+   "tx_date": "2026-08-07",
+   "filed_date": "2026-08-10",
+   "lag_days": 3,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526342315/"
+  },
+  {
    "id": "I-c9a1bf8ec660",
    "source": "insider",
    "person": "Casper Marc N",
@@ -5874,6 +6842,28 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/97745/000121605526000009/"
+  },
+  {
+   "id": "I-c8a266b486b7",
+   "source": "insider",
+   "person": "Patten Jarrod M",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "MSTR",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 197925,
+   "amount_high": 197925,
+   "tx_date": "2026-08-07",
+   "filed_date": "2026-08-10",
+   "lag_days": 3,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526342315/"
   },
   {
    "id": "I-c74c819d17a8",
@@ -20968,6 +21958,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000127/"
   },
   {
+   "id": "I-e37e8a02191b",
+   "source": "insider",
+   "person": "Patten Jarrod M",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "MSTR",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 192036,
+   "amount_high": 192036,
+   "tx_date": "2026-07-27",
+   "filed_date": "2026-07-28",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526321074/"
+  },
+  {
    "id": "I-bcd082495667",
    "source": "insider",
    "person": "Robinhood Markets, Inc.",
@@ -21340,6 +22352,28 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1783879/000187091426000021/"
+  },
+  {
+   "id": "I-f161e9d3276a",
+   "source": "insider",
+   "person": "Patten Jarrod M",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "MSTR",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 180287,
+   "amount_high": 180287,
+   "tx_date": "2026-07-24",
+   "filed_date": "2026-07-28",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526321074/"
   },
   {
    "id": "I-f11ee0f38786",
@@ -23476,6 +24510,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1783879/000178387926000101/"
   },
   {
+   "id": "I-555ac2df491e",
+   "source": "insider",
+   "person": "Chosy James L",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Senior EVP and General Counsel",
+   "ticker": "USB",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1453415,
+   "amount_high": 1453415,
+   "tx_date": "2026-07-23",
+   "filed_date": "2026-07-24",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/36104/000122520826006739/"
+  },
+  {
    "id": "I-4604e96c1e81",
    "source": "insider",
    "person": "Kurtz George",
@@ -24222,6 +25278,28 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1652044/000116840426000036/"
+  },
+  {
+   "id": "I-78bdb1884ffb",
+   "source": "insider",
+   "person": "Patten Jarrod M",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "MSTR",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 125000,
+   "amount_high": 125000,
+   "tx_date": "2026-07-22",
+   "filed_date": "2026-07-23",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526314630/"
   },
   {
    "id": "I-58b7195dfa6c",
@@ -25498,6 +26576,28 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326011028/"
+  },
+  {
+   "id": "I-b5432dd4b861",
+   "source": "insider",
+   "person": "Philipson Stephen L",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Vice Chair",
+   "ticker": "USB",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 2327920,
+   "amount_high": 2327920,
+   "tx_date": "2026-07-20",
+   "filed_date": "2026-07-22",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/36104/000122520826006705/"
   },
   {
    "id": "I-9c6d07062270",
@@ -34760,6 +35860,28 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1061983/000106198326000077/"
+  },
+  {
+   "id": "I-a1755d2730dd",
+   "source": "insider",
+   "person": "Triche Timothy",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "LTC",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 123562,
+   "amount_high": 123562,
+   "tx_date": "2026-07-13",
+   "filed_date": "2026-07-14",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/887905/000119842626000002/"
   },
   {
    "id": "I-a167663881a4",
@@ -57992,6 +59114,28 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/91419/000009141926000071/"
+  },
+  {
+   "id": "I-01e174356c5c",
+   "source": "insider",
+   "person": "Roath Lisa R",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Executive Officer",
+   "ticker": "TGT",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 966490,
+   "amount_high": 966490,
+   "tx_date": "2026-06-29",
+   "filed_date": "2026-06-30",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/27419/000211040126000016/"
   },
   {
    "id": "I-fed0651d858c",
@@ -98078,6 +99222,50 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1324948/000132494826000026/"
   },
   {
+   "id": "I-d243bbcb9288",
+   "source": "insider",
+   "person": "Boitano David M",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP & CIO",
+   "ticker": "LTC",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 174250,
+   "amount_high": 174250,
+   "tx_date": "2026-06-04",
+   "filed_date": "2026-06-04",
+   "lag_days": 0,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/887905/000119567926000003/"
+  },
+  {
+   "id": "I-a8947748ef9b",
+   "source": "insider",
+   "person": "Boitano David M",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP & CIO",
+   "ticker": "LTC",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 173450,
+   "amount_high": 173450,
+   "tx_date": "2026-06-04",
+   "filed_date": "2026-06-04",
+   "lag_days": 0,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/887905/000119567926000003/"
+  },
+  {
    "id": "I-527233cdb6db",
    "source": "insider",
    "person": "Arumugavelu Shankar",
@@ -131868,182 +133056,6 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1286681/000182685326000009/"
-  },
-  {
-   "id": "I-d108a5ff3f9b",
-   "source": "insider",
-   "person": "Wassil Jim",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "CHIEF OPERATING OFFICER",
-   "ticker": "PCVX",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 127870,
-   "amount_high": 127870,
-   "tx_date": "2026-05-01",
-   "filed_date": "2026-05-01",
-   "lag_days": 0,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1649094/000181379826000010/"
-  },
-  {
-   "id": "I-eba45f63ecdf",
-   "source": "insider",
-   "person": "Roberts Mark T.",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Sr. Vice President",
-   "ticker": "TXN",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 5697031,
-   "amount_high": 5697031,
-   "tx_date": "2026-04-30",
-   "filed_date": "2026-05-01",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/97476/000009747626000126/"
-  },
-  {
-   "id": "I-1dd63f6c7f81",
-   "source": "insider",
-   "person": "Gary Mark",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Sr. Vice President",
-   "ticker": "TXN",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 3822671,
-   "amount_high": 3822671,
-   "tx_date": "2026-04-30",
-   "filed_date": "2026-05-01",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/97476/000009747626000127/"
-  },
-  {
-   "id": "I-10deaa75209d",
-   "source": "insider",
-   "person": "Roberts Mark T.",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Sr. Vice President",
-   "ticker": "TXN",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 2174903,
-   "amount_high": 2174903,
-   "tx_date": "2026-04-30",
-   "filed_date": "2026-05-01",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/97476/000009747626000126/"
-  },
-  {
-   "id": "I-0ad7b9364a2b",
-   "source": "insider",
-   "person": "Forusz Jillian",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "SVP & CAO",
-   "ticker": "ADBE",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 185915,
-   "amount_high": 185915,
-   "tx_date": "2026-04-30",
-   "filed_date": "2026-05-01",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/796343/000079634326000107/"
-  },
-  {
-   "id": "I-809b580dfa61",
-   "source": "insider",
-   "person": "Wallman Richard F",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Director",
-   "ticker": "CECO",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 368990,
-   "amount_high": 368990,
-   "tx_date": "2026-04-29",
-   "filed_date": "2026-05-01",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/3197/000119312526201388/"
-  },
-  {
-   "id": "I-80941aa7ddb8",
-   "source": "insider",
-   "person": "Wallman Richard F",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Director",
-   "ticker": "CECO",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 732500,
-   "amount_high": 732500,
-   "tx_date": "2026-04-29",
-   "filed_date": "2026-05-01",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/3197/000119312526201388/"
-  },
-  {
-   "id": "I-7604b43960d7",
-   "source": "insider",
-   "person": "Cheung Martina",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "CEO & President",
-   "ticker": "SPGI",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 998297,
-   "amount_high": 998297,
-   "tx_date": "2026-04-29",
-   "filed_date": "2026-05-01",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/64040/000165789026000008/"
   }
  ]
 }
