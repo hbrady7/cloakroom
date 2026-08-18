@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-17T11:53:30Z",
+ "generated_at": "2026-08-18T11:54:25Z",
  "tickers": {
   "ZTS": {
    "name": "Zoetis Inc.",
@@ -4929,6 +4929,51 @@
    "sectors": [
     "real_estate",
     "banks"
+   ]
+  },
+  "CBOE": {
+   "name": "Cboe Global Markets, Inc.",
+   "cik": 1374310,
+   "sic": "6200",
+   "sic_desc": "Security & Commodity Brokers, Dealers, Exchanges & Services",
+   "sectors": [
+    "fintech",
+    "banks"
+   ]
+  },
+  "APTV": {
+   "name": "Aptiv PLC",
+   "cik": 1521332,
+   "sic": "3714",
+   "sic_desc": "Motor Vehicle Parts & Accessories",
+   "sectors": [
+    "transport",
+    "industrial"
+   ]
+  },
+  "ELF": {
+   "name": "e.l.f. Beauty, Inc.",
+   "cik": 1600033,
+   "sic": "2844",
+   "sic_desc": "Perfumes, Cosmetics & Other Toilet Preparations",
+   "sectors": []
+  },
+  "APD": {
+   "name": "Air Products & Chemicals, Inc.",
+   "cik": 2969,
+   "sic": "2810",
+   "sic_desc": "Industrial Inorganic Chemicals",
+   "sectors": [
+    "industrial"
+   ]
+  },
+  "ABNB": {
+   "name": "Airbnb, Inc.",
+   "cik": 1559720,
+   "sic": "7340",
+   "sic_desc": "Services-To Dwellings & Other Buildings",
+   "sectors": [
+    "tech"
    ]
   }
  }

@@ -1,9 +1,96 @@
 {
- "as_of": "2026-08-14",
+ "as_of": "2026-08-17",
  "candidates": [
   {
+   "ticker": "APTV",
+   "score": 30.7,
+   "signals": {
+    "cluster": {
+     "fired": false,
+     "points": 0.0,
+     "distinct_buyers": 1
+    },
+    "committee": {
+     "fired": true,
+     "points": 1.7,
+     "aligned_buyers": [
+      "John Boozman"
+     ],
+     "sectors": [
+      "transport",
+      "industrial"
+     ]
+    },
+    "convergence": {
+     "fired": true,
+     "points": 28.6,
+     "insider_buyers": [
+      "Agnevall Hakan",
+      "Clark Kevin P",
+      "Mahoney Sean O",
+      "Meister Paul M"
+     ]
+    },
+    "options": {
+     "fired": false,
+     "points": 0.0,
+     "count": 0
+    },
+    "size": {
+     "fired": false,
+     "points": 0.3,
+     "max_band_mid": 8000
+    }
+   },
+   "evidence": [
+    {
+     "id": "C-544c286ebcd1",
+     "signal": "committee"
+    },
+    {
+     "id": "C-3d2c926b2a22",
+     "signal": "committee"
+    },
+    {
+     "id": "I-eb1da8e5a22e",
+     "signal": "convergence"
+    },
+    {
+     "id": "I-c0332d65ad25",
+     "signal": "convergence"
+    },
+    {
+     "id": "I-404cd19adc24",
+     "signal": "convergence"
+    },
+    {
+     "id": "I-27f10e2f5dd8",
+     "signal": "convergence"
+    },
+    {
+     "id": "C-544c286ebcd1",
+     "signal": "convergence"
+    },
+    {
+     "id": "C-3d2c926b2a22",
+     "signal": "convergence"
+    }
+   ],
+   "stats": {
+    "congress_buys": 2,
+    "distinct_buyers": 1,
+    "insider_open_market_buys": 6,
+    "options_positions": 0
+   },
+   "name": "Aptiv PLC",
+   "sectors": [
+    "transport",
+    "industrial"
+   ]
+  },
+  {
    "ticker": "TSM",
-   "score": 23.3,
+   "score": 20.1,
    "signals": {
     "cluster": {
      "fired": true,
@@ -21,7 +108,7 @@
     },
     "convergence": {
      "fired": true,
-     "points": 23.3,
+     "points": 20.1,
      "insider_buyers": [
       "Chang Tzonz-Sheng",
       "Chen Chih-Ho",
@@ -171,7 +258,7 @@
   },
   {
    "ticker": "MLM",
-   "score": 5.6,
+   "score": 4.8,
    "signals": {
     "cluster": {
      "fired": false,
@@ -180,7 +267,7 @@
     },
     "committee": {
      "fired": true,
-     "points": 4.2,
+     "points": 3.7,
      "aligned_buyers": [
       "April McClain Delaney"
      ],
@@ -201,7 +288,7 @@
     },
     "size": {
      "fired": true,
-     "points": 1.3,
+     "points": 1.2,
      "max_band_mid": 32500
     }
    },
@@ -245,7 +332,7 @@
   },
   {
    "ticker": "HUBB",
-   "score": 5.3,
+   "score": 4.6,
    "signals": {
     "cluster": {
      "fired": false,
@@ -254,7 +341,7 @@
     },
     "committee": {
      "fired": true,
-     "points": 4.0,
+     "points": 3.5,
      "aligned_buyers": [
       "April McClain Delaney"
      ],
@@ -275,7 +362,7 @@
     },
     "size": {
      "fired": true,
-     "points": 1.3,
+     "points": 1.1,
      "max_band_mid": 32500
     }
    },
@@ -347,7 +434,7 @@
   },
   {
    "ticker": "BRK.B",
-   "score": 5.2,
+   "score": 4.5,
    "signals": {
     "cluster": {
      "fired": false,
@@ -356,7 +443,7 @@
     },
     "committee": {
      "fired": true,
-     "points": 5.2,
+     "points": 4.5,
      "aligned_buyers": [
       "Maria Elvira Salazar"
      ],
@@ -393,8 +480,8 @@
     }
    ],
    "stats": {
-    "congress_buys": 9,
-    "distinct_buyers": 4,
+    "congress_buys": 10,
+    "distinct_buyers": 5,
     "insider_open_market_buys": 5,
     "options_positions": 0
    },
@@ -405,7 +492,7 @@
   },
   {
    "ticker": "TDG",
-   "score": 5.2,
+   "score": 4.5,
    "signals": {
     "cluster": {
      "fired": true,
@@ -414,7 +501,7 @@
     },
     "committee": {
      "fired": true,
-     "points": 5.2,
+     "points": 4.5,
      "aligned_buyers": [
       "April McClain Delaney"
      ],
@@ -511,7 +598,7 @@
   },
   {
    "ticker": "HON",
-   "score": 3.5,
+   "score": 3.1,
    "signals": {
     "cluster": {
      "fired": false,
@@ -520,7 +607,7 @@
     },
     "committee": {
      "fired": true,
-     "points": 3.5,
+     "points": 3.0,
      "aligned_buyers": [
       "Dan Newhouse",
       "Julie Johnson",
@@ -577,7 +664,7 @@
  "caution": [
   {
    "ticker": "WBD",
-   "score": 36.0,
+   "score": 31.0,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -586,7 +673,7 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 36.0,
+     "points": 31.0,
      "distinct_sellers": 5,
      "weighted_sellers": 5.0
     },
@@ -660,8 +747,83 @@
    ]
   },
   {
+   "ticker": "VRSK",
+   "score": 30.0,
+   "signals": {
+    "sell_cluster": {
+     "fired": false,
+     "points": 0.0,
+     "distinct_sellers": 1
+    },
+    "insider_distribution": {
+     "fired": true,
+     "points": 30.0,
+     "distinct_sellers": 5,
+     "weighted_sellers": 3.5
+    },
+    "committee_sell": {
+     "fired": false,
+     "points": 0.0
+    }
+   },
+   "evidence": [
+    {
+     "id": "I-1e9b7fcd3713",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-48e369713784",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-1f8045131df0",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-cd82365ec7fc",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-d4f46e3aa8aa",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-85a0c5ba116c",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-ab983f4d3531",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-8a29e30a5438",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-0fdf64af11d4",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-c50097f99a40",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-c9286f535315",
+     "signal": "insider_distribution"
+    }
+   ],
+   "stats": {
+    "congress_sells": 3,
+    "insider_sells": 11
+   },
+   "name": "Verisk Analytics, Inc.",
+   "sectors": [
+    "tech"
+   ]
+  },
+  {
    "ticker": "CRWD",
-   "score": 34.3,
+   "score": 29.5,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -670,7 +832,7 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 34.3,
+     "points": 29.5,
      "distinct_sellers": 6,
      "weighted_sellers": 5.0
     },
@@ -788,7 +950,7 @@
   },
   {
    "ticker": "STX",
-   "score": 34.3,
+   "score": 29.5,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -797,7 +959,7 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 34.3,
+     "points": 29.5,
      "distinct_sellers": 8,
      "weighted_sellers": 7.0
     },
@@ -914,136 +1076,8 @@
    ]
   },
   {
-   "ticker": "SCHW",
-   "score": 32.6,
-   "signals": {
-    "sell_cluster": {
-     "fired": false,
-     "points": 0.0,
-     "distinct_sellers": 1
-    },
-    "insider_distribution": {
-     "fired": true,
-     "points": 32.6,
-     "distinct_sellers": 9,
-     "weighted_sellers": 7.0
-    },
-    "committee_sell": {
-     "fired": false,
-     "points": 0.0
-    }
-   },
-   "evidence": [
-    {
-     "id": "I-e99ce3ace8ba",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-a686fcbe5b87",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-47542c709e0a",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-bd59172784a2",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-71b68de31474",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-36754775e3d3",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-2625d53c6700",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-6dc70d94fe78",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-1d2ecd4fd9cc",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-63fd32db89ca",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-38e28138a784",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-94e017ce9570",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-85de12f6297d",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-24ea06521901",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-acf241d18667",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-4d064f1f04b3",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-2f40cda90536",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-b268f5eb9da8",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-7a26a89a812a",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-37f3aa0a3a53",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-31d2940ac446",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-cda45e7628a1",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-964e53c7b8e0",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-eb1cdb835b3e",
-     "signal": "insider_distribution"
-    }
-   ],
-   "stats": {
-    "congress_sells": 1,
-    "insider_sells": 28
-   },
-   "name": "SCHWAB CHARLES CORP",
-   "sectors": [
-    "fintech",
-    "banks"
-   ]
-  },
-  {
    "ticker": "ENTG",
-   "score": 32.4,
+   "score": 29.3,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -1052,7 +1086,7 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 32.4,
+     "points": 29.3,
      "distinct_sellers": 5,
      "weighted_sellers": 4.5
     },
@@ -1062,6 +1096,10 @@
     }
    },
    "evidence": [
+    {
+     "id": "I-8f7d1aa762dd",
+     "signal": "insider_distribution"
+    },
     {
      "id": "I-e1b01945a179",
      "signal": "insider_distribution"
@@ -1105,12 +1143,12 @@
    ],
    "stats": {
     "congress_sells": 2,
-    "insider_sells": 10
+    "insider_sells": 11
    },
    "name": "ENTEGRIS INC",
    "sectors": []
   }
  ],
- "universe": 743,
- "generated_at": "2026-08-17T11:54:08Z"
+ "universe": 736,
+ "generated_at": "2026-08-18T11:55:21Z"
 }

@@ -1,7 +1,442 @@
 {
- "generated_at": "2026-08-17T11:52:07Z",
+ "generated_at": "2026-08-18T11:52:53Z",
  "mode": "efd",
  "transactions": [
+  {
+   "id": "C-6b5e44da05ae",
+   "source": "congress",
+   "person": "John Boozman",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Commission on Security and Cooperation in Europe",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Appropriations",
+     "Senate Committee on Environment and Public Works",
+     "Senate Committee on Rules and Administration",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CBOE",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-31",
+   "filed_date": "2026-08-17",
+   "lag_days": 17,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/28e465df-caf1-4a98-8ebc-605e1e1ba99b/"
+  },
+  {
+   "id": "C-91e488aa2770",
+   "source": "congress",
+   "person": "John Boozman",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Commission on Security and Cooperation in Europe",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Appropriations",
+     "Senate Committee on Environment and Public Works",
+     "Senate Committee on Rules and Administration",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "PYPL",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-30",
+   "filed_date": "2026-08-17",
+   "lag_days": 18,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/4184cc9a-78e0-45f3-84f7-642011e6ff98/"
+  },
+  {
+   "id": "C-8cf9fd9b3927",
+   "source": "congress",
+   "person": "John Boozman",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Commission on Security and Cooperation in Europe",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Appropriations",
+     "Senate Committee on Environment and Public Works",
+     "Senate Committee on Rules and Administration",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "PYPL",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-30",
+   "filed_date": "2026-08-17",
+   "lag_days": 18,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/4a558db2-e492-4e8f-8a28-7b703a5c8e08/"
+  },
+  {
+   "id": "C-a4e3f1ebb3c5",
+   "source": "congress",
+   "person": "John Boozman",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Commission on Security and Cooperation in Europe",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Appropriations",
+     "Senate Committee on Environment and Public Works",
+     "Senate Committee on Rules and Administration",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "SPYM",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-23",
+   "filed_date": "2026-08-17",
+   "lag_days": 25,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/4184cc9a-78e0-45f3-84f7-642011e6ff98/"
+  },
+  {
+   "id": "C-6e38986c6e79",
+   "source": "congress",
+   "person": "John Boozman",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Commission on Security and Cooperation in Europe",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Appropriations",
+     "Senate Committee on Environment and Public Works",
+     "Senate Committee on Rules and Administration",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "JPM",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-23",
+   "filed_date": "2026-08-17",
+   "lag_days": 25,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/28e465df-caf1-4a98-8ebc-605e1e1ba99b/"
+  },
+  {
+   "id": "C-6a0771b63e33",
+   "source": "congress",
+   "person": "John Boozman",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Commission on Security and Cooperation in Europe",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Appropriations",
+     "Senate Committee on Environment and Public Works",
+     "Senate Committee on Rules and Administration",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "SPYM",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-23",
+   "filed_date": "2026-08-17",
+   "lag_days": 25,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/4a558db2-e492-4e8f-8a28-7b703a5c8e08/"
+  },
+  {
+   "id": "C-7bca95ebccd1",
+   "source": "congress",
+   "person": "John Boozman",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Commission on Security and Cooperation in Europe",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Appropriations",
+     "Senate Committee on Environment and Public Works",
+     "Senate Committee on Rules and Administration",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "HD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-09",
+   "filed_date": "2026-08-17",
+   "lag_days": 39,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/28e465df-caf1-4a98-8ebc-605e1e1ba99b/"
+  },
+  {
+   "id": "C-544c286ebcd1",
+   "source": "congress",
+   "person": "John Boozman",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Commission on Security and Cooperation in Europe",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Appropriations",
+     "Senate Committee on Environment and Public Works",
+     "Senate Committee on Rules and Administration",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "APTV",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-09",
+   "filed_date": "2026-08-17",
+   "lag_days": 39,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/4184cc9a-78e0-45f3-84f7-642011e6ff98/"
+  },
+  {
+   "id": "C-3d2c926b2a22",
+   "source": "congress",
+   "person": "John Boozman",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Commission on Security and Cooperation in Europe",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Appropriations",
+     "Senate Committee on Environment and Public Works",
+     "Senate Committee on Rules and Administration",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "APTV",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-09",
+   "filed_date": "2026-08-17",
+   "lag_days": 39,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/4a558db2-e492-4e8f-8a28-7b703a5c8e08/"
+  },
+  {
+   "id": "C-f46295ebdb75",
+   "source": "congress",
+   "person": "John Boozman",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Commission on Security and Cooperation in Europe",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Appropriations",
+     "Senate Committee on Environment and Public Works",
+     "Senate Committee on Rules and Administration",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "EL",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-02",
+   "filed_date": "2026-08-17",
+   "lag_days": 46,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/4a558db2-e492-4e8f-8a28-7b703a5c8e08/"
+  },
+  {
+   "id": "C-e0abca644868",
+   "source": "congress",
+   "person": "John Boozman",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Commission on Security and Cooperation in Europe",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Appropriations",
+     "Senate Committee on Environment and Public Works",
+     "Senate Committee on Rules and Administration",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "SPYM",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-02",
+   "filed_date": "2026-08-17",
+   "lag_days": 46,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/4184cc9a-78e0-45f3-84f7-642011e6ff98/"
+  },
+  {
+   "id": "C-b5e7bb5243cd",
+   "source": "congress",
+   "person": "John Boozman",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Commission on Security and Cooperation in Europe",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Appropriations",
+     "Senate Committee on Environment and Public Works",
+     "Senate Committee on Rules and Administration",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CVX",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-02",
+   "filed_date": "2026-08-17",
+   "lag_days": 46,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/4a558db2-e492-4e8f-8a28-7b703a5c8e08/"
+  },
+  {
+   "id": "C-b507506bb5c1",
+   "source": "congress",
+   "person": "John Boozman",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Commission on Security and Cooperation in Europe",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Appropriations",
+     "Senate Committee on Environment and Public Works",
+     "Senate Committee on Rules and Administration",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CVX",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-02",
+   "filed_date": "2026-08-17",
+   "lag_days": 46,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/4184cc9a-78e0-45f3-84f7-642011e6ff98/"
+  },
+  {
+   "id": "C-33ca914aae33",
+   "source": "congress",
+   "person": "John Boozman",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Commission on Security and Cooperation in Europe",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Appropriations",
+     "Senate Committee on Environment and Public Works",
+     "Senate Committee on Rules and Administration",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "TRV",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-02",
+   "filed_date": "2026-08-17",
+   "lag_days": 46,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/28e465df-caf1-4a98-8ebc-605e1e1ba99b/"
+  },
+  {
+   "id": "C-1df85b57e7a6",
+   "source": "congress",
+   "person": "John Boozman",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Commission on Security and Cooperation in Europe",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Appropriations",
+     "Senate Committee on Environment and Public Works",
+     "Senate Committee on Rules and Administration",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "EL",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-02",
+   "filed_date": "2026-08-17",
+   "lag_days": 46,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/4184cc9a-78e0-45f3-84f7-642011e6ff98/"
+  },
   {
    "id": "C-51d2ec5cf3db",
    "source": "congress",
@@ -18188,72 +18623,6 @@
    "source_url": "https://efdsearch.senate.gov/search/view/ptr/8ee57a8c-076d-4e8b-bf04-061edaf0724e/"
   },
   {
-   "id": "C-821978ce9e62",
-   "source": "congress",
-   "person": "Markwayne Mullin",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": []
-   },
-   "insider_title": "",
-   "ticker": "UNH",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 50001,
-   "amount_high": 100000,
-   "tx_date": "2026-02-25",
-   "filed_date": "2026-03-10",
-   "lag_days": 13,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/f586922d-6083-44e5-8a32-769290389416/"
-  },
-  {
-   "id": "C-4be70bdc9e7b",
-   "source": "congress",
-   "person": "Markwayne Mullin",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": []
-   },
-   "insider_title": "",
-   "ticker": "AZO",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 50001,
-   "amount_high": 100000,
-   "tx_date": "2026-02-25",
-   "filed_date": "2026-03-10",
-   "lag_days": 13,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/f586922d-6083-44e5-8a32-769290389416/"
-  },
-  {
-   "id": "C-0e77e8fdba8a",
-   "source": "congress",
-   "person": "Markwayne Mullin",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": []
-   },
-   "insider_title": "",
-   "ticker": "INTU",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-02-25",
-   "filed_date": "2026-03-10",
-   "lag_days": 13,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/f586922d-6083-44e5-8a32-769290389416/"
-  },
-  {
    "id": "C-9e8864ed5770",
    "source": "congress",
    "person": "John Boozman",
@@ -19110,380 +19479,6 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://efdsearch.senate.gov/search/view/ptr/31980453-e298-4f21-9134-5d0b1a0e6491/"
-  },
-  {
-   "id": "C-fdef8b7afaf3",
-   "source": "congress",
-   "person": "Markwayne Mullin",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": []
-   },
-   "insider_title": "",
-   "ticker": "AMKR",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-02-04",
-   "filed_date": "2026-03-02",
-   "lag_days": 26,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/315cd41e-0e2e-492b-9fc6-32bb92100734/"
-  },
-  {
-   "id": "C-f723a0b01506",
-   "source": "congress",
-   "person": "Markwayne Mullin",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": []
-   },
-   "insider_title": "",
-   "ticker": "IRM",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-02-04",
-   "filed_date": "2026-03-02",
-   "lag_days": 26,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/315cd41e-0e2e-492b-9fc6-32bb92100734/"
-  },
-  {
-   "id": "C-d634cf1d854d",
-   "source": "congress",
-   "person": "Markwayne Mullin",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": []
-   },
-   "insider_title": "",
-   "ticker": "MPWR",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-02-04",
-   "filed_date": "2026-03-02",
-   "lag_days": 26,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/315cd41e-0e2e-492b-9fc6-32bb92100734/"
-  },
-  {
-   "id": "C-cc92f412f9ee",
-   "source": "congress",
-   "person": "Markwayne Mullin",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": []
-   },
-   "insider_title": "",
-   "ticker": "LRN",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-02-04",
-   "filed_date": "2026-03-02",
-   "lag_days": 26,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/315cd41e-0e2e-492b-9fc6-32bb92100734/"
-  },
-  {
-   "id": "C-c2d522fe032d",
-   "source": "congress",
-   "person": "Markwayne Mullin",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": []
-   },
-   "insider_title": "",
-   "ticker": "MTZ",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-02-04",
-   "filed_date": "2026-03-02",
-   "lag_days": 26,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/315cd41e-0e2e-492b-9fc6-32bb92100734/"
-  },
-  {
-   "id": "C-bdca7c0360dd",
-   "source": "congress",
-   "person": "Markwayne Mullin",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": []
-   },
-   "insider_title": "",
-   "ticker": "DELL",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-02-04",
-   "filed_date": "2026-03-02",
-   "lag_days": 26,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/315cd41e-0e2e-492b-9fc6-32bb92100734/"
-  },
-  {
-   "id": "C-baa82e1b0802",
-   "source": "congress",
-   "person": "Markwayne Mullin",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": []
-   },
-   "insider_title": "",
-   "ticker": "C",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-02-04",
-   "filed_date": "2026-03-02",
-   "lag_days": 26,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/315cd41e-0e2e-492b-9fc6-32bb92100734/"
-  },
-  {
-   "id": "C-a120efc36b5f",
-   "source": "congress",
-   "person": "Markwayne Mullin",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": []
-   },
-   "insider_title": "",
-   "ticker": "VSEC",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-02-04",
-   "filed_date": "2026-03-02",
-   "lag_days": 26,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/315cd41e-0e2e-492b-9fc6-32bb92100734/"
-  },
-  {
-   "id": "C-768ee0efae9c",
-   "source": "congress",
-   "person": "Markwayne Mullin",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": []
-   },
-   "insider_title": "",
-   "ticker": "AIT",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-02-04",
-   "filed_date": "2026-03-02",
-   "lag_days": 26,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/315cd41e-0e2e-492b-9fc6-32bb92100734/"
-  },
-  {
-   "id": "C-6ac2acdef0c3",
-   "source": "congress",
-   "person": "Markwayne Mullin",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": []
-   },
-   "insider_title": "",
-   "ticker": "FCFS",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-02-04",
-   "filed_date": "2026-03-02",
-   "lag_days": 26,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/315cd41e-0e2e-492b-9fc6-32bb92100734/"
-  },
-  {
-   "id": "C-5a4b1fb164b7",
-   "source": "congress",
-   "person": "Markwayne Mullin",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": []
-   },
-   "insider_title": "",
-   "ticker": "APG",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-02-04",
-   "filed_date": "2026-03-02",
-   "lag_days": 26,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/315cd41e-0e2e-492b-9fc6-32bb92100734/"
-  },
-  {
-   "id": "C-41cf24566af4",
-   "source": "congress",
-   "person": "Markwayne Mullin",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": []
-   },
-   "insider_title": "",
-   "ticker": "MCK",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-02-04",
-   "filed_date": "2026-03-02",
-   "lag_days": 26,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/315cd41e-0e2e-492b-9fc6-32bb92100734/"
-  },
-  {
-   "id": "C-3d0e72d4b13a",
-   "source": "congress",
-   "person": "Markwayne Mullin",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": []
-   },
-   "insider_title": "",
-   "ticker": "CRS",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-02-04",
-   "filed_date": "2026-03-02",
-   "lag_days": 26,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/315cd41e-0e2e-492b-9fc6-32bb92100734/"
-  },
-  {
-   "id": "C-2b2b3de36448",
-   "source": "congress",
-   "person": "Markwayne Mullin",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": []
-   },
-   "insider_title": "",
-   "ticker": "COHR",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-02-04",
-   "filed_date": "2026-03-02",
-   "lag_days": 26,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/315cd41e-0e2e-492b-9fc6-32bb92100734/"
-  },
-  {
-   "id": "C-2938f827f229",
-   "source": "congress",
-   "person": "Markwayne Mullin",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": []
-   },
-   "insider_title": "",
-   "ticker": "CRDO",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-02-04",
-   "filed_date": "2026-03-02",
-   "lag_days": 26,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/315cd41e-0e2e-492b-9fc6-32bb92100734/"
-  },
-  {
-   "id": "C-203fdd26de17",
-   "source": "congress",
-   "person": "Markwayne Mullin",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": []
-   },
-   "insider_title": "",
-   "ticker": "ADBE",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-02-04",
-   "filed_date": "2026-03-02",
-   "lag_days": 26,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/315cd41e-0e2e-492b-9fc6-32bb92100734/"
-  },
-  {
-   "id": "C-02e7de8b60fe",
-   "source": "congress",
-   "person": "Markwayne Mullin",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": []
-   },
-   "insider_title": "",
-   "ticker": "GS",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-02-04",
-   "filed_date": "2026-03-02",
-   "lag_days": 26,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/315cd41e-0e2e-492b-9fc6-32bb92100734/"
   },
   {
    "id": "C-482d45e601fa",

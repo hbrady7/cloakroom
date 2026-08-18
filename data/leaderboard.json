@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-17T11:54:08Z",
+ "generated_at": "2026-08-18T11:55:21Z",
  "min_trades": 5,
  "members": [
   {
@@ -122,7 +122,7 @@
    "chamber": "house",
    "state": "FL",
    "trades_scored": 67,
-   "avg_excess": 0.0453,
+   "avg_excess": 0.0444,
    "win_rate": 0.537,
    "best": {
     "ticker": "PANW",
@@ -132,7 +132,7 @@
    "worst": {
     "ticker": "MNST",
     "side": "buy",
-    "excess": -0.5593
+    "excess": -0.5729
    }
   },
   {
@@ -140,9 +140,9 @@
    "party": "Democrat",
    "chamber": "house",
    "state": "",
-   "trades_scored": 321,
-   "avg_excess": 0.0357,
-   "win_rate": 0.523,
+   "trades_scored": 317,
+   "avg_excess": 0.037,
+   "win_rate": 0.524,
    "best": {
     "ticker": "MU",
     "side": "buy",
@@ -269,6 +269,25 @@
    }
   },
   {
+   "person": "Alan Armstrong",
+   "party": "Republican",
+   "chamber": "senate",
+   "state": "OK",
+   "trades_scored": 365,
+   "avg_excess": 0.0106,
+   "win_rate": 0.518,
+   "best": {
+    "ticker": "WDAY",
+    "side": "buy",
+    "excess": 0.3699
+   },
+   "worst": {
+    "ticker": "APP",
+    "side": "buy",
+    "excess": -0.3017
+   }
+  },
+  {
    "person": "Maria Elvira Salazar",
    "party": "Republican",
    "chamber": "house",
@@ -285,25 +304,6 @@
     "ticker": "QCOM",
     "side": "buy",
     "excess": -0.2916
-   }
-  },
-  {
-   "person": "Alan Armstrong",
-   "party": "Republican",
-   "chamber": "senate",
-   "state": "OK",
-   "trades_scored": 365,
-   "avg_excess": 0.0089,
-   "win_rate": 0.512,
-   "best": {
-    "ticker": "WDAY",
-    "side": "buy",
-    "excess": 0.3699
-   },
-   "worst": {
-    "ticker": "LDOS",
-    "side": "sell",
-    "excess": -0.3334
    }
   },
   {
@@ -412,12 +412,12 @@
    "best": {
     "ticker": "MNST",
     "side": "sell",
-    "excess": 0.5128
+    "excess": 0.5266
    },
    "worst": {
     "ticker": "MNST",
     "side": "buy",
-    "excess": -0.5128
+    "excess": -0.5266
    }
   },
   {
@@ -426,7 +426,7 @@
    "chamber": "house",
    "state": "",
    "trades_scored": 13,
-   "avg_excess": -0.0074,
+   "avg_excess": -0.0071,
    "win_rate": 0.385,
    "best": {
     "ticker": "INTU",
@@ -482,8 +482,8 @@
    "party": "Republican",
    "chamber": "senate",
    "state": "AR",
-   "trades_scored": 30,
-   "avg_excess": -0.0165,
+   "trades_scored": 32,
+   "avg_excess": -0.0154,
    "win_rate": 0.5,
    "best": {
     "ticker": "PLTR",
@@ -521,7 +521,7 @@
    "chamber": "house",
    "state": "",
    "trades_scored": 11,
-   "avg_excess": -0.0281,
+   "avg_excess": -0.0277,
    "win_rate": 0.364,
    "best": {
     "ticker": "GOOGL",
@@ -558,9 +558,9 @@
    "party": "Democrat",
    "chamber": "house",
    "state": "NJ",
-   "trades_scored": 69,
-   "avg_excess": -0.0385,
-   "win_rate": 0.391,
+   "trades_scored": 68,
+   "avg_excess": -0.039,
+   "win_rate": 0.382,
    "best": {
     "ticker": "INTU",
     "side": "sell",
@@ -578,7 +578,7 @@
    "chamber": "house",
    "state": "MD",
    "trades_scored": 189,
-   "avg_excess": -0.0478,
+   "avg_excess": -0.0487,
    "win_rate": 0.365,
    "best": {
     "ticker": "SGI",
@@ -684,25 +684,6 @@
     "ticker": "MU",
     "side": "sell",
     "excess": -1.069
-   }
-  },
-  {
-   "person": "Markwayne Mullin",
-   "party": "Republican",
-   "chamber": "senate",
-   "state": "OK",
-   "trades_scored": 11,
-   "avg_excess": -0.2182,
-   "win_rate": 0.545,
-   "best": {
-    "ticker": "INTU",
-    "side": "sell",
-    "excess": 0.3853
-   },
-   "worst": {
-    "ticker": "DELL",
-    "side": "sell",
-    "excess": -2.0745
    }
   }
  ]
