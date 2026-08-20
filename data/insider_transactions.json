@@ -1,6 +1,1392 @@
 {
- "generated_at": "2026-08-19T11:53:37Z",
+ "generated_at": "2026-08-20T11:56:34Z",
  "transactions": [
+  {
+   "id": "I-900601ab125e",
+   "source": "insider",
+   "person": "Yuan Lipen",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "VP",
+   "ticker": "TSM",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 73770,
+   "amount_high": 73770,
+   "tx_date": "2026-08-19",
+   "filed_date": "2026-08-20",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000543/"
+  },
+  {
+   "id": "I-2569632c85df",
+   "source": "insider",
+   "person": "Yuan Lipen",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "VP",
+   "ticker": "TSM",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 74500,
+   "amount_high": 74500,
+   "tx_date": "2026-08-18",
+   "filed_date": "2026-08-20",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000543/"
+  },
+  {
+   "id": "I-18a5a4a3e4b2",
+   "source": "insider",
+   "person": "Yuan Lipen",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "VP",
+   "ticker": "TSM",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 25753,
+   "amount_high": 25753,
+   "tx_date": "2026-08-18",
+   "filed_date": "2026-08-20",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000543/"
+  },
+  {
+   "id": "I-e64b996cb915",
+   "source": "insider",
+   "person": "Hershey Trust Co Trustee In Trust For Milton Hershey School",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "10% owner",
+   "ticker": "HSY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 287882,
+   "amount_high": 287882,
+   "tx_date": "2026-08-19",
+   "filed_date": "2026-08-19",
+   "lag_days": 0,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002386/"
+  },
+  {
+   "id": "I-b95c0ae1c1a9",
+   "source": "insider",
+   "person": "Hershey Trust Co Trustee In Trust For Milton Hershey School",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "10% owner",
+   "ticker": "HSY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 14800,
+   "amount_high": 14800,
+   "tx_date": "2026-08-19",
+   "filed_date": "2026-08-19",
+   "lag_days": 0,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002386/"
+  },
+  {
+   "id": "I-7f16000a57de",
+   "source": "insider",
+   "person": "Silbermann Benjamin",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "PINS",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1083398,
+   "amount_high": 1083398,
+   "tx_date": "2026-08-19",
+   "filed_date": "2026-08-19",
+   "lag_days": 0,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1506293/000150629326000110/"
+  },
+  {
+   "id": "I-6d200ab3c222",
+   "source": "insider",
+   "person": "Hershey Trust Co Trustee In Trust For Milton Hershey School",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "10% owner",
+   "ticker": "HSY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 18465,
+   "amount_high": 18465,
+   "tx_date": "2026-08-19",
+   "filed_date": "2026-08-19",
+   "lag_days": 0,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002386/"
+  },
+  {
+   "id": "I-57fbca2b2bc5",
+   "source": "insider",
+   "person": "Hershey Trust Co Trustee In Trust For Milton Hershey School",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "10% owner",
+   "ticker": "HSY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 383320,
+   "amount_high": 383320,
+   "tx_date": "2026-08-19",
+   "filed_date": "2026-08-19",
+   "lag_days": 0,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002386/"
+  },
+  {
+   "id": "I-4aeaccdc1b8f",
+   "source": "insider",
+   "person": "Hershey Trust Co Trustee In Trust For Milton Hershey School",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "10% owner",
+   "ticker": "HSY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 483408,
+   "amount_high": 483408,
+   "tx_date": "2026-08-19",
+   "filed_date": "2026-08-19",
+   "lag_days": 0,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002386/"
+  },
+  {
+   "id": "I-12a658177fee",
+   "source": "insider",
+   "person": "Hershey Trust Co Trustee In Trust For Milton Hershey School",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "10% owner",
+   "ticker": "HSY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 693248,
+   "amount_high": 693248,
+   "tx_date": "2026-08-19",
+   "filed_date": "2026-08-19",
+   "lag_days": 0,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002386/"
+  },
+  {
+   "id": "I-09779892f745",
+   "source": "insider",
+   "person": "Rajaram Gokul",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "PINS",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 24182,
+   "amount_high": 24182,
+   "tx_date": "2026-08-19",
+   "filed_date": "2026-08-19",
+   "lag_days": 0,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1506293/000158904326000013/"
+  },
+  {
+   "id": "I-fc39684eb16d",
+   "source": "insider",
+   "person": "Howley W Nicholas",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "TDG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1628674,
+   "amount_high": 1628674,
+   "tx_date": "2026-08-18",
+   "filed_date": "2026-08-19",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1260221/000135257326000013/"
+  },
+  {
+   "id": "I-eda80597aed8",
+   "source": "insider",
+   "person": "Bidzos D James",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Exec. Chairman, Pres, & CEO",
+   "ticker": "VRSN",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 195207,
+   "amount_high": 195207,
+   "tx_date": "2026-08-18",
+   "filed_date": "2026-08-19",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1014473/000120481626000036/"
+  },
+  {
+   "id": "I-ed0bcc37ace4",
+   "source": "insider",
+   "person": "Bidzos D James",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Exec. Chairman, Pres, & CEO",
+   "ticker": "VRSN",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 107073,
+   "amount_high": 107073,
+   "tx_date": "2026-08-18",
+   "filed_date": "2026-08-19",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1014473/000120481626000036/"
+  },
+  {
+   "id": "I-dd5b78b07745",
+   "source": "insider",
+   "person": "Feanny Tracy Ann",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "SVP, General Counsel",
+   "ticker": "LSCC",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 237688,
+   "amount_high": 237688,
+   "tx_date": "2026-08-18",
+   "filed_date": "2026-08-19",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/855658/000143774926028487/"
+  },
+  {
+   "id": "I-d4357c7b0294",
+   "source": "insider",
+   "person": "Howley W Nicholas",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "TDG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1021829,
+   "amount_high": 1021829,
+   "tx_date": "2026-08-18",
+   "filed_date": "2026-08-19",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1260221/000135257326000013/"
+  },
+  {
+   "id": "I-d0f264d624c4",
+   "source": "insider",
+   "person": "Bidzos D James",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Exec. Chairman, Pres, & CEO",
+   "ticker": "VRSN",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 223800,
+   "amount_high": 223800,
+   "tx_date": "2026-08-18",
+   "filed_date": "2026-08-19",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1014473/000120481626000036/"
+  },
+  {
+   "id": "I-ccf4aa058206",
+   "source": "insider",
+   "person": "Howley W Nicholas",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "TDG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 356437,
+   "amount_high": 356437,
+   "tx_date": "2026-08-18",
+   "filed_date": "2026-08-19",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1260221/000135257326000013/"
+  },
+  {
+   "id": "I-c253ef43e941",
+   "source": "insider",
+   "person": "Shanks Earl C",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "GLPI",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 422400,
+   "amount_high": 422400,
+   "tx_date": "2026-08-18",
+   "filed_date": "2026-08-19",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1575965/000157596526000065/"
+  },
+  {
+   "id": "I-bd9b6a6087aa",
+   "source": "insider",
+   "person": "Hershey Trust Co Trustee In Trust For Milton Hershey School",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "10% owner",
+   "ticker": "HSY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1501811,
+   "amount_high": 1501811,
+   "tx_date": "2026-08-18",
+   "filed_date": "2026-08-19",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002386/"
+  },
+  {
+   "id": "I-b1ddbba9286a",
+   "source": "insider",
+   "person": "Kereere Suzan",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President, Global Markets",
+   "ticker": "PYPL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 49124,
+   "amount_high": 49124,
+   "tx_date": "2026-08-18",
+   "filed_date": "2026-08-19",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1633917/000189608626000012/"
+  },
+  {
+   "id": "I-ad9615d497fe",
+   "source": "insider",
+   "person": "Howley W Nicholas",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "TDG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 250023,
+   "amount_high": 250023,
+   "tx_date": "2026-08-18",
+   "filed_date": "2026-08-19",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1260221/000135257326000013/"
+  },
+  {
+   "id": "I-a8622ef2c0db",
+   "source": "insider",
+   "person": "Hershey Trust Co Trustee In Trust For Milton Hershey School",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "10% owner",
+   "ticker": "HSY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 192734,
+   "amount_high": 192734,
+   "tx_date": "2026-08-18",
+   "filed_date": "2026-08-19",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002386/"
+  },
+  {
+   "id": "I-93e1da4c3df5",
+   "source": "insider",
+   "person": "Kereere Suzan",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President, Global Markets",
+   "ticker": "PYPL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 204599,
+   "amount_high": 204599,
+   "tx_date": "2026-08-18",
+   "filed_date": "2026-08-19",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1633917/000189608626000012/"
+  },
+  {
+   "id": "I-902327bb27f8",
+   "source": "insider",
+   "person": "Silbermann Benjamin",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "PINS",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1097067,
+   "amount_high": 1097067,
+   "tx_date": "2026-08-18",
+   "filed_date": "2026-08-19",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1506293/000150629326000110/"
+  },
+  {
+   "id": "I-88586c702102",
+   "source": "insider",
+   "person": "Hershey Trust Co Trustee In Trust For Milton Hershey School",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "10% owner",
+   "ticker": "HSY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 84285,
+   "amount_high": 84285,
+   "tx_date": "2026-08-18",
+   "filed_date": "2026-08-19",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002386/"
+  },
+  {
+   "id": "I-81b5f3813af8",
+   "source": "insider",
+   "person": "Howley W Nicholas",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "TDG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 173057,
+   "amount_high": 173057,
+   "tx_date": "2026-08-18",
+   "filed_date": "2026-08-19",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1260221/000135257326000013/"
+  },
+  {
+   "id": "I-7601d4a92527",
+   "source": "insider",
+   "person": "Malady Kyle",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP and Group CEO-VZ Business",
+   "ticker": "VZ",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 53548,
+   "amount_high": 53548,
+   "tx_date": "2026-08-18",
+   "filed_date": "2026-08-19",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/732712/000176058126000044/"
+  },
+  {
+   "id": "I-4fcbc8bd51ce",
+   "source": "insider",
+   "person": "Bidzos D James",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Exec. Chairman, Pres, & CEO",
+   "ticker": "VRSN",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 390830,
+   "amount_high": 390830,
+   "tx_date": "2026-08-18",
+   "filed_date": "2026-08-19",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1014473/000120481626000036/"
+  },
+  {
+   "id": "I-3fa2088602dd",
+   "source": "insider",
+   "person": "Howley W Nicholas",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "TDG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 333366,
+   "amount_high": 333366,
+   "tx_date": "2026-08-18",
+   "filed_date": "2026-08-19",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1260221/000135257326000013/"
+  },
+  {
+   "id": "I-33492217f6d6",
+   "source": "insider",
+   "person": "Howley W Nicholas",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "TDG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 554987,
+   "amount_high": 554987,
+   "tx_date": "2026-08-18",
+   "filed_date": "2026-08-19",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1260221/000135257326000013/"
+  },
+  {
+   "id": "I-2a62e16e5778",
+   "source": "insider",
+   "person": "Hershey Trust Co Trustee In Trust For Milton Hershey School",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "10% owner",
+   "ticker": "HSY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 54814,
+   "amount_high": 54814,
+   "tx_date": "2026-08-18",
+   "filed_date": "2026-08-19",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002386/"
+  },
+  {
+   "id": "I-197c1321d285",
+   "source": "insider",
+   "person": "Howley W Nicholas",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "TDG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 85934,
+   "amount_high": 85934,
+   "tx_date": "2026-08-18",
+   "filed_date": "2026-08-19",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1260221/000135257326000013/"
+  },
+  {
+   "id": "I-125537e89f90",
+   "source": "insider",
+   "person": "Howley W Nicholas",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "TDG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1299775,
+   "amount_high": 1299775,
+   "tx_date": "2026-08-18",
+   "filed_date": "2026-08-19",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1260221/000135257326000013/"
+  },
+  {
+   "id": "I-0fff4eb58d02",
+   "source": "insider",
+   "person": "Howley W Nicholas",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "TDG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 309224,
+   "amount_high": 309224,
+   "tx_date": "2026-08-18",
+   "filed_date": "2026-08-19",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1260221/000135257326000013/"
+  },
+  {
+   "id": "I-0eae4d59d212",
+   "source": "insider",
+   "person": "Howley W Nicholas",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "TDG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 643803,
+   "amount_high": 643803,
+   "tx_date": "2026-08-18",
+   "filed_date": "2026-08-19",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1260221/000135257326000013/"
+  },
+  {
+   "id": "I-0b071ea269fd",
+   "source": "insider",
+   "person": "Howley W Nicholas",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "TDG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 701111,
+   "amount_high": 701111,
+   "tx_date": "2026-08-18",
+   "filed_date": "2026-08-19",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1260221/000135257326000013/"
+  },
+  {
+   "id": "I-08208ffc5f96",
+   "source": "insider",
+   "person": "Howley W Nicholas",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "TDG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 235816,
+   "amount_high": 235816,
+   "tx_date": "2026-08-18",
+   "filed_date": "2026-08-19",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1260221/000135257326000013/"
+  },
+  {
+   "id": "I-059299d2a7dd",
+   "source": "insider",
+   "person": "Howley W Nicholas",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "TDG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 4931915,
+   "amount_high": 4931915,
+   "tx_date": "2026-08-18",
+   "filed_date": "2026-08-19",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1260221/000135257326000013/"
+  },
+  {
+   "id": "I-fec8899632cd",
+   "source": "insider",
+   "person": "Herrington Douglas J",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO Worldwide Amazon Stores",
+   "ticker": "AMZN",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 499349,
+   "amount_high": 499349,
+   "tx_date": "2026-08-17",
+   "filed_date": "2026-08-19",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1018724/000193600626000020/"
+  },
+  {
+   "id": "I-e3cbc9da0954",
+   "source": "insider",
+   "person": "Benson Molly R",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Legal Ofc & Corp Sec",
+   "ticker": "MPC",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 2580270,
+   "amount_high": 2580270,
+   "tx_date": "2026-08-17",
+   "filed_date": "2026-08-19",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1510295/000119312526356892/"
+  },
+  {
+   "id": "I-d3560a8c2910",
+   "source": "insider",
+   "person": "Uber Technologies, Inc",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "10% owner",
+   "ticker": "UBER",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 471600000,
+   "amount_high": 471600000,
+   "tx_date": "2026-08-17",
+   "filed_date": "2026-08-19",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1543151/000155278126000454/"
+  },
+  {
+   "id": "I-c16f8757f13c",
+   "source": "insider",
+   "person": "Hershey Trust Co Trustee In Trust For Milton Hershey School",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "10% owner",
+   "ticker": "HSY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 273521,
+   "amount_high": 273521,
+   "tx_date": "2026-08-17",
+   "filed_date": "2026-08-19",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002386/"
+  },
+  {
+   "id": "I-b30c8b67af4e",
+   "source": "insider",
+   "person": "Moore Alexander D.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "PLTR",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1309022,
+   "amount_high": 1309022,
+   "tx_date": "2026-08-17",
+   "filed_date": "2026-08-19",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1321655/000182395226000020/"
+  },
+  {
+   "id": "I-ac508551d990",
+   "source": "insider",
+   "person": "Hershey Trust Co Trustee In Trust For Milton Hershey School",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "10% owner",
+   "ticker": "HSY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 7360,
+   "amount_high": 7360,
+   "tx_date": "2026-08-17",
+   "filed_date": "2026-08-19",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002386/"
+  },
+  {
+   "id": "I-a7f06df61e77",
+   "source": "insider",
+   "person": "Moore Alexander D.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "PLTR",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 605081,
+   "amount_high": 605081,
+   "tx_date": "2026-08-17",
+   "filed_date": "2026-08-19",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1321655/000182395226000020/"
+  },
+  {
+   "id": "I-a24707a1ad1b",
+   "source": "insider",
+   "person": "Dean Robert W Ii",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Interim CFO",
+   "ticker": "MPWR",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 8482,
+   "amount_high": 8482,
+   "tx_date": "2026-08-17",
+   "filed_date": "2026-08-19",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1280452/000121465926010630/"
+  },
+  {
+   "id": "I-9ef2535b6afd",
+   "source": "insider",
+   "person": "Moore Alexander D.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "PLTR",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 265346,
+   "amount_high": 265346,
+   "tx_date": "2026-08-17",
+   "filed_date": "2026-08-19",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1321655/000182395226000020/"
+  },
+  {
+   "id": "I-99a41f00b8bf",
+   "source": "insider",
+   "person": "Walz Andrew Benjamin",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President, DM&C",
+   "ticker": "CVX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 3377833,
+   "amount_high": 3377833,
+   "tx_date": "2026-08-17",
+   "filed_date": "2026-08-19",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/93410/000009341026000175/"
+  },
+  {
+   "id": "I-8de8aa340ced",
+   "source": "insider",
+   "person": "Herrington Douglas J",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO Worldwide Amazon Stores",
+   "ticker": "AMZN",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 377607,
+   "amount_high": 377607,
+   "tx_date": "2026-08-17",
+   "filed_date": "2026-08-19",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1018724/000193600626000020/"
+  },
+  {
+   "id": "I-7b644c89252c",
+   "source": "insider",
+   "person": "Lippman Evan",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP, Business Development",
+   "ticker": "TEVA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 680291,
+   "amount_high": 680291,
+   "tx_date": "2026-08-17",
+   "filed_date": "2026-08-19",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/818686/000119312526356853/"
+  },
+  {
+   "id": "I-748e7e70b20b",
+   "source": "insider",
+   "person": "Hershey Trust Co Trustee In Trust For Milton Hershey School",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "10% owner",
+   "ticker": "HSY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 249852,
+   "amount_high": 249852,
+   "tx_date": "2026-08-17",
+   "filed_date": "2026-08-19",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002386/"
+  },
+  {
+   "id": "I-73ad9f0c9b08",
+   "source": "insider",
+   "person": "Witteveen Travis Michael",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Head of Products and Portfolio",
+   "ticker": "GEN",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 12346,
+   "amount_high": 12346,
+   "tx_date": "2026-08-17",
+   "filed_date": "2026-08-19",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/849399/000162828026058007/"
+  },
+  {
+   "id": "I-711fa248931e",
+   "source": "insider",
+   "person": "Benson Molly R",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Legal Ofc & Corp Sec",
+   "ticker": "MPC",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1792850,
+   "amount_high": 1792850,
+   "tx_date": "2026-08-17",
+   "filed_date": "2026-08-19",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1510295/000119312526356892/"
+  },
+  {
+   "id": "I-69f161048a57",
+   "source": "insider",
+   "person": "Cunningham Paul",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Sr. Vice President",
+   "ticker": "CDNS",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 646640,
+   "amount_high": 646640,
+   "tx_date": "2026-08-17",
+   "filed_date": "2026-08-19",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/813672/000081367226000093/"
+  },
+  {
+   "id": "I-6399e4857f56",
+   "source": "insider",
+   "person": "Moore Alexander D.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "PLTR",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 609014,
+   "amount_high": 609014,
+   "tx_date": "2026-08-17",
+   "filed_date": "2026-08-19",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1321655/000182395226000020/"
+  },
+  {
+   "id": "I-5e09f193c87f",
+   "source": "insider",
+   "person": "Hershey Trust Co Trustee In Trust For Milton Hershey School",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "10% owner",
+   "ticker": "HSY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 471138,
+   "amount_high": 471138,
+   "tx_date": "2026-08-17",
+   "filed_date": "2026-08-19",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002386/"
+  },
+  {
+   "id": "I-541dc1a0c8ce",
+   "source": "insider",
+   "person": "Jones Keith Anthony",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "HUMA",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 17820,
+   "amount_high": 17820,
+   "tx_date": "2026-08-17",
+   "filed_date": "2026-08-19",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1818382/000119312526356847/"
+  },
+  {
+   "id": "I-4f91647e0aed",
+   "source": "insider",
+   "person": "Blecharczyk Nathan",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Strategy Officer",
+   "ticker": "ABNB",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1667122,
+   "amount_high": 1667122,
+   "tx_date": "2026-08-17",
+   "filed_date": "2026-08-19",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1559720/000119312526357265/"
+  },
+  {
+   "id": "I-4dc21cfab0e4",
+   "source": "insider",
+   "person": "Benson Molly R",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Legal Ofc & Corp Sec",
+   "ticker": "MPC",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1792850,
+   "amount_high": 1792850,
+   "tx_date": "2026-08-17",
+   "filed_date": "2026-08-19",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1510295/000119312526356892/"
+  },
+  {
+   "id": "I-493c27ca2cf2",
+   "source": "insider",
+   "person": "Blecharczyk Nathan",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Strategy Officer",
+   "ticker": "ABNB",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 822485,
+   "amount_high": 822485,
+   "tx_date": "2026-08-17",
+   "filed_date": "2026-08-19",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1559720/000119312526357265/"
+  },
+  {
+   "id": "I-19bd6cd6a559",
+   "source": "insider",
+   "person": "Hershey Trust Co Trustee In Trust For Milton Hershey School",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "10% owner",
+   "ticker": "HSY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 813896,
+   "amount_high": 813896,
+   "tx_date": "2026-08-17",
+   "filed_date": "2026-08-19",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002386/"
+  },
+  {
+   "id": "I-0f40d1fa7535",
+   "source": "insider",
+   "person": "Herrington Douglas J",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO Worldwide Amazon Stores",
+   "ticker": "AMZN",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 106037,
+   "amount_high": 106037,
+   "tx_date": "2026-08-17",
+   "filed_date": "2026-08-19",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1018724/000193600626000020/"
+  },
   {
    "id": "I-ff1fc74d5ce6",
    "source": "insider",
@@ -220,6 +1606,28 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1260221/000165610926000007/"
+  },
+  {
+   "id": "I-f00c18b2dadc",
+   "source": "insider",
+   "person": "Grasby Paul Darren",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP & CSO",
+   "ticker": "AMD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 7723650,
+   "amount_high": 7723650,
+   "tx_date": "2026-08-17",
+   "filed_date": "2026-08-18",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000161/"
   },
   {
    "id": "I-ec712af6634d",
@@ -1212,6 +2620,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000143/"
   },
   {
+   "id": "I-a6bfc8a1738d",
+   "source": "insider",
+   "person": "Papermaster Mark D",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Technology Officer & EVP",
+   "ticker": "AMD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 3591208,
+   "amount_high": 3591208,
+   "tx_date": "2026-08-14",
+   "filed_date": "2026-08-18",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000145/"
+  },
+  {
    "id": "I-a63177ad8493",
    "source": "insider",
    "person": "Kurtz George",
@@ -1408,6 +2838,28 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000143/"
+  },
+  {
+   "id": "I-461a186c1b8f",
+   "source": "insider",
+   "person": "Rice Toby Z.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT & CEO",
+   "ticker": "EQT",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 9648300,
+   "amount_high": 9648300,
+   "tx_date": "2026-08-14",
+   "filed_date": "2026-08-18",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/33213/000159738526000015/"
   },
   {
    "id": "I-438dd9423751",
@@ -4006,6 +5458,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/887905/000198705826000003/"
   },
   {
+   "id": "I-6a76e9f63e8a",
+   "source": "insider",
+   "person": "Hahn Ava",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "SVP, GC & Corporate Secretary",
+   "ticker": "AMD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 67889,
+   "amount_high": 67889,
+   "tx_date": "2026-08-11",
+   "filed_date": "2026-08-13",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000141/"
+  },
+  {
    "id": "I-506fcde6fe80",
    "source": "insider",
    "person": "Khosla Rachna",
@@ -4092,6 +5566,28 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1014473/000120481626000032/"
+  },
+  {
+   "id": "I-1be12554be2d",
+   "source": "insider",
+   "person": "Vassil Jonathan",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Revenue Officer",
+   "ticker": "TOST",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 496858,
+   "amount_high": 496858,
+   "tx_date": "2026-08-11",
+   "filed_date": "2026-08-13",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1650164/000165016426000180/"
   },
   {
    "id": "I-506211954b85",
@@ -6932,6 +8428,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/946581/000094658126000069/"
   },
   {
+   "id": "I-c683200145ae",
+   "source": "insider",
+   "person": "Gomez Elena",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President, CFO",
+   "ticker": "TOST",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 203772,
+   "amount_high": 203772,
+   "tx_date": "2026-08-10",
+   "filed_date": "2026-08-11",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1650164/000165016426000177/"
+  },
+  {
    "id": "I-c581a4feb094",
    "source": "insider",
    "person": "Zelnick Strauss",
@@ -7194,6 +8712,28 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/946581/000094658126000069/"
+  },
+  {
+   "id": "I-5b8e66bbf1ee",
+   "source": "insider",
+   "person": "Narang Aman",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO",
+   "ticker": "TOST",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 4239925,
+   "amount_high": 4239925,
+   "tx_date": "2026-08-10",
+   "filed_date": "2026-08-11",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1650164/000165016426000178/"
   },
   {
    "id": "I-4f9132a43e2e",
@@ -9220,6 +10760,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000169/"
   },
   {
+   "id": "I-46d4c4b9dbb8",
+   "source": "insider",
+   "person": "Narang Aman",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO",
+   "ticker": "TOST",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1479149,
+   "amount_high": 1479149,
+   "tx_date": "2026-08-07",
+   "filed_date": "2026-08-11",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1650164/000165016426000178/"
+  },
+  {
    "id": "I-45c3b4075ee2",
    "source": "insider",
    "person": "Chesky Brian",
@@ -9834,6 +11396,28 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/943819/000094381926000043/"
+  },
+  {
+   "id": "I-0a8258cafc5c",
+   "source": "insider",
+   "person": "Gomez Elena",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President, CFO",
+   "ticker": "TOST",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 75926,
+   "amount_high": 75926,
+   "tx_date": "2026-08-07",
+   "filed_date": "2026-08-11",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1650164/000165016426000177/"
   },
   {
    "id": "I-0885f8c10a6d",
@@ -11156,6 +12740,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/97745/000121605526000009/"
   },
   {
+   "id": "I-285e35c8966a",
+   "source": "insider",
+   "person": "Jordan Rhonda L",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "ESAB",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 95000,
+   "amount_high": 95000,
+   "tx_date": "2026-08-07",
+   "filed_date": "2026-08-10",
+   "lag_days": 3,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1877322/000135977026000003/"
+  },
+  {
    "id": "I-272878f83a8e",
    "source": "insider",
    "person": "Casper Marc N",
@@ -11794,6 +13400,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/792966/000119312526340562/"
   },
   {
+   "id": "I-f896dc92981f",
+   "source": "insider",
+   "person": "Narang Aman",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO",
+   "ticker": "TOST",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 473134,
+   "amount_high": 473134,
+   "tx_date": "2026-08-06",
+   "filed_date": "2026-08-07",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1650164/000165016426000174/"
+  },
+  {
    "id": "I-f7ec679ee3c2",
    "source": "insider",
    "person": "Grygiel Nancy A.",
@@ -11880,6 +13508,28 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/97745/000121605526000007/"
+  },
+  {
+   "id": "I-ee898493c9df",
+   "source": "insider",
+   "person": "Gomez Elena",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President, CFO",
+   "ticker": "TOST",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 31515,
+   "amount_high": 31515,
+   "tx_date": "2026-08-06",
+   "filed_date": "2026-08-07",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1650164/000165016426000172/"
   },
   {
    "id": "I-e6f5a15bdb3e",
@@ -12652,6 +14302,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/320187/000032018726000107/"
   },
   {
+   "id": "I-bbc16c7e4f24",
+   "source": "insider",
+   "person": "Vassil Jonathan",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Revenue Officer",
+   "ticker": "TOST",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 169308,
+   "amount_high": 169308,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-07",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1650164/000165016426000173/"
+  },
+  {
    "id": "I-b4c51f4edf82",
    "source": "insider",
    "person": "Casper Marc N",
@@ -12740,6 +14412,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/97745/000121605526000006/"
   },
   {
+   "id": "I-a0644111303f",
+   "source": "insider",
+   "person": "Narang Aman",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO",
+   "ticker": "TOST",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 4392621,
+   "amount_high": 4392621,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-07",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1650164/000165016426000174/"
+  },
+  {
    "id": "I-9a6bbd197599",
    "source": "insider",
    "person": "Casper Marc N",
@@ -12760,6 +14454,28 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/97745/000121605526000006/"
+  },
+  {
+   "id": "I-92a2816937f7",
+   "source": "insider",
+   "person": "Gomez Elena",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President, CFO",
+   "ticker": "TOST",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 563681,
+   "amount_high": 563681,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-07",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1650164/000165016426000172/"
   },
   {
    "id": "I-90e2128adb91",
@@ -13158,6 +14874,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/97745/000121605526000006/"
   },
   {
+   "id": "I-1612350c1119",
+   "source": "insider",
+   "person": "Narang Aman",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO",
+   "ticker": "TOST",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 3033,
+   "amount_high": 3033,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-07",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1650164/000165016426000174/"
+  },
+  {
    "id": "I-158c126dc808",
    "source": "insider",
    "person": "Stat Lauren Elaina Friedman",
@@ -13200,6 +14938,28 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/97745/000121605526000006/"
+  },
+  {
+   "id": "I-1114d646df42",
+   "source": "insider",
+   "person": "Gomez Elena",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President, CFO",
+   "ticker": "TOST",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 7222,
+   "amount_high": 7222,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-08-07",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1650164/000165016426000172/"
   },
   {
    "id": "I-10b70a6a08de",
@@ -16084,6 +17844,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/313838/000119312526334434/"
   },
   {
+   "id": "I-50d60e94f6ef",
+   "source": "insider",
+   "person": "Niola Rossana",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Principal Accounting Officer",
+   "ticker": "TOST",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 76859,
+   "amount_high": 76859,
+   "tx_date": "2026-08-04",
+   "filed_date": "2026-08-05",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1650164/000165016426000168/"
+  },
+  {
    "id": "I-4e64a5911155",
    "source": "insider",
    "person": "Bidzos D James",
@@ -17820,6 +19602,28 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000133/"
+  },
+  {
+   "id": "I-e5051ae28828",
+   "source": "insider",
+   "person": "Vassil Jonathan",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Revenue Officer",
+   "ticker": "TOST",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 469626,
+   "amount_high": 469626,
+   "tx_date": "2026-08-03",
+   "filed_date": "2026-08-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1650164/000165016426000165/"
   },
   {
    "id": "I-e49ef61fae66",
@@ -38480,6 +40284,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1141391/000114139126000076/"
   },
   {
+   "id": "I-f38565565213",
+   "source": "insider",
+   "person": "Vassil Jonathan",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Revenue Officer",
+   "ticker": "TOST",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 60036,
+   "amount_high": 60036,
+   "tx_date": "2026-07-14",
+   "filed_date": "2026-07-15",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1650164/000165016426000152/"
+  },
+  {
    "id": "I-ec85a364b4e8",
    "source": "insider",
    "person": "Kurtz George",
@@ -39380,6 +41206,28 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002078/"
+  },
+  {
+   "id": "I-d959e91f66ed",
+   "source": "insider",
+   "person": "Vassil Jonathan",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Revenue Officer",
+   "ticker": "TOST",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 276870,
+   "amount_high": 276870,
+   "tx_date": "2026-07-13",
+   "filed_date": "2026-07-15",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1650164/000165016426000152/"
   },
   {
    "id": "I-d780181e0ddb",
@@ -48666,6 +50514,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/2030781/000205835726000027/"
   },
   {
+   "id": "I-2540c921bdc6",
+   "source": "insider",
+   "person": "Vassil Jonathan",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Revenue Officer",
+   "ticker": "TOST",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 94591,
+   "amount_high": 94591,
+   "tx_date": "2026-07-07",
+   "filed_date": "2026-07-09",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1650164/000165016426000150/"
+  },
+  {
    "id": "I-2440b4e0cd96",
    "source": "insider",
    "person": "Cheng Chi Fung",
@@ -55442,6 +57312,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/707549/000134360026000009/"
   },
   {
+   "id": "I-b77d3c13eb36",
+   "source": "insider",
+   "person": "Gomez Elena",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President, CFO",
+   "ticker": "TOST",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 334793,
+   "amount_high": 334793,
+   "tx_date": "2026-07-02",
+   "filed_date": "2026-07-06",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1650164/000165016426000144/"
+  },
+  {
    "id": "I-b6c8deb2d42a",
    "source": "insider",
    "person": "Vaughn Bryan T",
@@ -55508,6 +57400,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/2025410/000203746926000002/"
   },
   {
+   "id": "I-71f91a01c314",
+   "source": "insider",
+   "person": "Fredette Stephen",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President",
+   "ticker": "TOST",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 263853,
+   "amount_high": 263853,
+   "tx_date": "2026-07-02",
+   "filed_date": "2026-07-06",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1650164/000165016426000145/"
+  },
+  {
    "id": "I-6e474937d7b2",
    "source": "insider",
    "person": "Kyle Kathryn W",
@@ -55530,6 +57444,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/920148/000092014826000152/"
   },
   {
+   "id": "I-67eb8043543e",
+   "source": "insider",
+   "person": "Elworthy Brian R",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "General Counsel",
+   "ticker": "TOST",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 183249,
+   "amount_high": 183249,
+   "tx_date": "2026-07-02",
+   "filed_date": "2026-07-06",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1650164/000165016426000146/"
+  },
+  {
    "id": "I-62dae19a1563",
    "source": "insider",
    "person": "Robbin-Coker Cordel",
@@ -55550,6 +57486,28 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/47111/000004711126000220/"
+  },
+  {
+   "id": "I-3fcb71c4e637",
+   "source": "insider",
+   "person": "Narang Aman",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO",
+   "ticker": "TOST",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 414416,
+   "amount_high": 414416,
+   "tx_date": "2026-07-02",
+   "filed_date": "2026-07-06",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1650164/000165016426000147/"
   },
   {
    "id": "I-2c8de2d589e1",
@@ -55594,6 +57552,28 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/316709/000202897726000010/"
+  },
+  {
+   "id": "I-0adb93f054ac",
+   "source": "insider",
+   "person": "Vassil Jonathan",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Revenue Officer",
+   "ticker": "TOST",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 191759,
+   "amount_high": 191759,
+   "tx_date": "2026-07-02",
+   "filed_date": "2026-07-06",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1650164/000165016426000148/"
   },
   {
    "id": "I-ffa3f2c27102",
@@ -135102,622 +137082,6 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000286/"
-  },
-  {
-   "id": "I-be7109396fbb",
-   "source": "insider",
-   "person": "Scrivanich Luke M",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "SVP General Manager OSP",
-   "ticker": "VIAV",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 182055,
-   "amount_high": 182055,
-   "tx_date": "2026-05-06",
-   "filed_date": "2026-05-06",
-   "lag_days": 0,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/912093/000091209326000048/"
-  },
-  {
-   "id": "I-aa3e366519ed",
-   "source": "insider",
-   "person": "Scrivanich Luke M",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "SVP General Manager OSP",
-   "ticker": "VIAV",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 384674,
-   "amount_high": 384674,
-   "tx_date": "2026-05-06",
-   "filed_date": "2026-05-06",
-   "lag_days": 0,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/912093/000091209326000048/"
-  },
-  {
-   "id": "I-a9ea64257556",
-   "source": "insider",
-   "person": "O'Sullivan Michael J.",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "See Remarks",
-   "ticker": "BRK.B",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 24922,
-   "amount_high": 24922,
-   "tx_date": "2026-05-06",
-   "filed_date": "2026-05-06",
-   "lag_days": 0,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526209661/"
-  },
-  {
-   "id": "I-8d414f5031a5",
-   "source": "insider",
-   "person": "O'Sullivan Michael J.",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "See Remarks",
-   "ticker": "BRK.B",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 225624,
-   "amount_high": 225624,
-   "tx_date": "2026-05-06",
-   "filed_date": "2026-05-06",
-   "lag_days": 0,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526209661/"
-  },
-  {
-   "id": "I-8a9aec864065",
-   "source": "insider",
-   "person": "Zhou Jeff",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Director",
-   "ticker": "MPWR",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 825000,
-   "amount_high": 825000,
-   "tx_date": "2026-05-06",
-   "filed_date": "2026-05-06",
-   "lag_days": 0,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1280452/000121465926005690/"
-  },
-  {
-   "id": "I-da50a93ce96c",
-   "source": "insider",
-   "person": "Santana Rafael",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "President and CEO",
-   "ticker": "WAB",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 79581,
-   "amount_high": 79581,
-   "tx_date": "2026-05-05",
-   "filed_date": "2026-05-06",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/943452/000162828026031018/"
-  },
-  {
-   "id": "I-b967f3478fd3",
-   "source": "insider",
-   "person": "McNab Paul",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "EVP, Chief Mktg & Stgy Officer",
-   "ticker": "VIAV",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 149876,
-   "amount_high": 149876,
-   "tx_date": "2026-05-05",
-   "filed_date": "2026-05-06",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/912093/000091209326000044/"
-  },
-  {
-   "id": "I-b2a1c69e6bfc",
-   "source": "insider",
-   "person": "Santana Rafael",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "President and CEO",
-   "ticker": "WAB",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 53195,
-   "amount_high": 53195,
-   "tx_date": "2026-05-05",
-   "filed_date": "2026-05-06",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/943452/000162828026031018/"
-  },
-  {
-   "id": "I-75dbd067eab2",
-   "source": "insider",
-   "person": "Stephens Kevin A",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Director",
-   "ticker": "CCI",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 73997,
-   "amount_high": 73997,
-   "tx_date": "2026-05-05",
-   "filed_date": "2026-05-06",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1051470/000183401726000007/"
-  },
-  {
-   "id": "I-729dde91c9a6",
-   "source": "insider",
-   "person": "Khaykin Oleg",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "President & CEO",
-   "ticker": "VIAV",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 5709585,
-   "amount_high": 5709585,
-   "tx_date": "2026-05-05",
-   "filed_date": "2026-05-06",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/912093/000091209326000046/"
-  },
-  {
-   "id": "I-629eb34c88f1",
-   "source": "insider",
-   "person": "Zhou Jeff",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Director",
-   "ticker": "MPWR",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 809283,
-   "amount_high": 809283,
-   "tx_date": "2026-05-05",
-   "filed_date": "2026-05-06",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1280452/000121465926005690/"
-  },
-  {
-   "id": "I-55798e610b54",
-   "source": "insider",
-   "person": "Gilstrap Doug",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Director",
-   "ticker": "VIAV",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 550000,
-   "amount_high": 550000,
-   "tx_date": "2026-05-05",
-   "filed_date": "2026-05-06",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/912093/000091209326000042/"
-  },
-  {
-   "id": "I-4f1de0696660",
-   "source": "insider",
-   "person": "Santana Rafael",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "President and CEO",
-   "ticker": "WAB",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 91547,
-   "amount_high": 91547,
-   "tx_date": "2026-05-05",
-   "filed_date": "2026-05-06",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/943452/000162828026031018/"
-  },
-  {
-   "id": "I-490fab38e05d",
-   "source": "insider",
-   "person": "Amon Cristiano R",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "President & CEO",
-   "ticker": "QCOM",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1850000,
-   "amount_high": 1850000,
-   "tx_date": "2026-05-05",
-   "filed_date": "2026-05-06",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/804328/000080432826000065/"
-  },
-  {
-   "id": "I-200d788bfbe1",
-   "source": "insider",
-   "person": "Khaykin Oleg",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "President & CEO",
-   "ticker": "VIAV",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1108435,
-   "amount_high": 1108435,
-   "tx_date": "2026-05-05",
-   "filed_date": "2026-05-06",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/912093/000091209326000046/"
-  },
-  {
-   "id": "I-1014e7d6d293",
-   "source": "insider",
-   "person": "Zhou Jeff",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Director",
-   "ticker": "MPWR",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 800000,
-   "amount_high": 800000,
-   "tx_date": "2026-05-05",
-   "filed_date": "2026-05-06",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1280452/000121465926005690/"
-  },
-  {
-   "id": "I-0ef9f8edba7e",
-   "source": "insider",
-   "person": "Santana Rafael",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "President and CEO",
-   "ticker": "WAB",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 83754,
-   "amount_high": 83754,
-   "tx_date": "2026-05-05",
-   "filed_date": "2026-05-06",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/943452/000162828026031018/"
-  },
-  {
-   "id": "I-fd1de33f5695",
-   "source": "insider",
-   "person": "Jassy Andrew R",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "President and CEO",
-   "ticker": "AMZN",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 8621800,
-   "amount_high": 8621800,
-   "tx_date": "2026-05-04",
-   "filed_date": "2026-05-06",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1018724/000137454526000006/"
-  },
-  {
-   "id": "I-f0b729bac334",
-   "source": "insider",
-   "person": "Santana Rafael",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "President and CEO",
-   "ticker": "WAB",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 81676,
-   "amount_high": 81676,
-   "tx_date": "2026-05-04",
-   "filed_date": "2026-05-06",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/943452/000162828026031018/"
-  },
-  {
-   "id": "I-b1754abb5193",
-   "source": "insider",
-   "person": "Burnett Patrick",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "See Remarks",
-   "ticker": "ARQT",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 16150,
-   "amount_high": 16150,
-   "tx_date": "2026-05-04",
-   "filed_date": "2026-05-06",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1787306/000174198726000002/"
-  },
-  {
-   "id": "I-980f733fe281",
-   "source": "insider",
-   "person": "Vairavan Latha",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "SVP Chief Financial Officer",
-   "ticker": "ARQT",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 31662,
-   "amount_high": 31662,
-   "tx_date": "2026-05-04",
-   "filed_date": "2026-05-06",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1787306/000206588126000002/"
-  },
-  {
-   "id": "I-8adb966af96d",
-   "source": "insider",
-   "person": "Santana Rafael",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "President and CEO",
-   "ticker": "WAB",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 96000,
-   "amount_high": 96000,
-   "tx_date": "2026-05-04",
-   "filed_date": "2026-05-06",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/943452/000162828026031018/"
-  },
-  {
-   "id": "I-67e5759d7334",
-   "source": "insider",
-   "person": "Santana Rafael",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "President and CEO",
-   "ticker": "WAB",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 63959,
-   "amount_high": 63959,
-   "tx_date": "2026-05-04",
-   "filed_date": "2026-05-06",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/943452/000162828026031018/"
-  },
-  {
-   "id": "I-67cbf9865a6c",
-   "source": "insider",
-   "person": "Santana Rafael",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "President and CEO",
-   "ticker": "WAB",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 59002,
-   "amount_high": 59002,
-   "tx_date": "2026-05-04",
-   "filed_date": "2026-05-06",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/943452/000162828026031018/"
-  },
-  {
-   "id": "I-5e58e1374aa9",
-   "source": "insider",
-   "person": "Watanabe Todd",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "See Remarks",
-   "ticker": "ARQT",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 74893,
-   "amount_high": 74893,
-   "tx_date": "2026-05-04",
-   "filed_date": "2026-05-06",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1787306/000180106126000003/"
-  },
-  {
-   "id": "I-2d10b1a6e96d",
-   "source": "insider",
-   "person": "Matsuda Masaru",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "See Remarks",
-   "ticker": "ARQT",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 20872,
-   "amount_high": 20872,
-   "tx_date": "2026-05-04",
-   "filed_date": "2026-05-06",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1787306/000179867926000002/"
-  },
-  {
-   "id": "I-1326a013ca8d",
-   "source": "insider",
-   "person": "Santana Rafael",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "President and CEO",
-   "ticker": "WAB",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 6130,
-   "amount_high": 6130,
-   "tx_date": "2026-05-04",
-   "filed_date": "2026-05-06",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/943452/000162828026031018/"
-  },
-  {
-   "id": "I-0ee803b02ddf",
-   "source": "insider",
-   "person": "Matsuda Masaru",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "See Remarks",
-   "ticker": "ARQT",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 171543,
-   "amount_high": 171543,
-   "tx_date": "2026-05-04",
-   "filed_date": "2026-05-06",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1787306/000179867926000002/"
   }
  ]
 }

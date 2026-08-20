@@ -1,6 +1,255 @@
 {
- "generated_at": "2026-08-19T11:52:18Z",
+ "generated_at": "2026-08-20T11:55:13Z",
  "transactions": [
+  {
+   "id": "C-10936fda3c70",
+   "source": "congress",
+   "person": "Ed Case",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Appropriations"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "AAPL",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-13",
+   "filed_date": "2026-08-18",
+   "lag_days": 5,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035275.pdf"
+  },
+  {
+   "id": "C-66f2849ece0c",
+   "source": "congress",
+   "person": "Thomas H. Kean",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on Energy and Commerce"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "SYK",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-22",
+   "filed_date": "2026-08-18",
+   "lag_days": 27,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035273.pdf"
+  },
+  {
+   "id": "C-42d7a83ceb4a",
+   "source": "congress",
+   "person": "Thomas H. Kean",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on Energy and Commerce"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "GOOGL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-22",
+   "filed_date": "2026-08-18",
+   "lag_days": 27,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035273.pdf"
+  },
+  {
+   "id": "C-f4857d9f714f",
+   "source": "congress",
+   "person": "Richard W. Allen",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Education and Workforce",
+     "House Committee on Energy and Commerce"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "AVGO",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-14",
+   "filed_date": "2026-08-18",
+   "lag_days": 35,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035260.pdf"
+  },
+  {
+   "id": "C-951e56ef5e7b",
+   "source": "congress",
+   "person": "Richard W. Allen",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Education and Workforce",
+     "House Committee on Energy and Commerce"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "AMD",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-14",
+   "filed_date": "2026-08-18",
+   "lag_days": 35,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035260.pdf"
+  },
+  {
+   "id": "C-4331b7c94a5a",
+   "source": "congress",
+   "person": "Richard W. Allen",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Education and Workforce",
+     "House Committee on Energy and Commerce"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ABT",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-07-14",
+   "filed_date": "2026-08-18",
+   "lag_days": 35,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035260.pdf"
+  },
+  {
+   "id": "C-bb61d321053f",
+   "source": "congress",
+   "person": "Thomas H. Kean",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on Energy and Commerce"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "TOST",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-08",
+   "filed_date": "2026-08-18",
+   "lag_days": 41,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035273.pdf"
+  },
+  {
+   "id": "C-62779c4c5375",
+   "source": "congress",
+   "person": "Thomas H. Kean",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on Energy and Commerce"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "AMZN",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-08",
+   "filed_date": "2026-08-18",
+   "lag_days": 41,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035273.pdf"
+  },
+  {
+   "id": "C-8450f1c3d987",
+   "source": "congress",
+   "person": "Thomas H. Kean",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on Energy and Commerce"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "EQT",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-07",
+   "filed_date": "2026-08-18",
+   "lag_days": 42,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035273.pdf"
+  },
+  {
+   "id": "C-3be843c6376d",
+   "source": "congress",
+   "person": "Thomas H. Kean",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on Energy and Commerce"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ESAB",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-07-07",
+   "filed_date": "2026-08-18",
+   "lag_days": 42,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035273.pdf"
+  },
   {
    "id": "C-fc28c5b017eb",
    "source": "congress",
