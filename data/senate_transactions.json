@@ -1,7 +1,268 @@
 {
- "generated_at": "2026-08-20T11:55:09Z",
+ "generated_at": "2026-08-21T11:54:13Z",
  "mode": "efd",
  "transactions": [
+  {
+   "id": "C-9614787bdea4",
+   "source": "congress",
+   "person": "John Boozman",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Commission on Security and Cooperation in Europe",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Appropriations",
+     "Senate Committee on Environment and Public Works",
+     "Senate Committee on Rules and Administration",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MSFT",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-04-22",
+   "filed_date": "2026-08-20",
+   "lag_days": 485,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/f727289a-4d72-4c90-a3ea-63d5bcd23398/"
+  },
+  {
+   "id": "C-fa54e08e974a",
+   "source": "congress",
+   "person": "John Boozman",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Commission on Security and Cooperation in Europe",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Appropriations",
+     "Senate Committee on Environment and Public Works",
+     "Senate Committee on Rules and Administration",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ORCL",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-04-16",
+   "filed_date": "2026-08-20",
+   "lag_days": 491,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/f727289a-4d72-4c90-a3ea-63d5bcd23398/"
+  },
+  {
+   "id": "C-f9e2995a6b2a",
+   "source": "congress",
+   "person": "John Boozman",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Commission on Security and Cooperation in Europe",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Appropriations",
+     "Senate Committee on Environment and Public Works",
+     "Senate Committee on Rules and Administration",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "UNH",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-04-16",
+   "filed_date": "2026-08-20",
+   "lag_days": 491,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/f727289a-4d72-4c90-a3ea-63d5bcd23398/"
+  },
+  {
+   "id": "C-cb9cd24d05dc",
+   "source": "congress",
+   "person": "John Boozman",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Commission on Security and Cooperation in Europe",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Appropriations",
+     "Senate Committee on Environment and Public Works",
+     "Senate Committee on Rules and Administration",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MSFT",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-04-16",
+   "filed_date": "2026-08-20",
+   "lag_days": 491,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/f727289a-4d72-4c90-a3ea-63d5bcd23398/"
+  },
+  {
+   "id": "C-32c87c52de45",
+   "source": "congress",
+   "person": "John Boozman",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Commission on Security and Cooperation in Europe",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Appropriations",
+     "Senate Committee on Environment and Public Works",
+     "Senate Committee on Rules and Administration",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "META",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-04-15",
+   "filed_date": "2026-08-20",
+   "lag_days": 492,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/f727289a-4d72-4c90-a3ea-63d5bcd23398/"
+  },
+  {
+   "id": "C-d901b33ae013",
+   "source": "congress",
+   "person": "John Boozman",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Commission on Security and Cooperation in Europe",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Appropriations",
+     "Senate Committee on Environment and Public Works",
+     "Senate Committee on Rules and Administration",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "HYG",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-04-09",
+   "filed_date": "2026-08-20",
+   "lag_days": 498,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/f727289a-4d72-4c90-a3ea-63d5bcd23398/"
+  },
+  {
+   "id": "C-68b9c08ed500",
+   "source": "congress",
+   "person": "John Boozman",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Commission on Security and Cooperation in Europe",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Appropriations",
+     "Senate Committee on Environment and Public Works",
+     "Senate Committee on Rules and Administration",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CBOE",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-04-08",
+   "filed_date": "2026-08-20",
+   "lag_days": 499,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/f727289a-4d72-4c90-a3ea-63d5bcd23398/"
+  },
+  {
+   "id": "C-498d8548d3cd",
+   "source": "congress",
+   "person": "John Boozman",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Commission on Security and Cooperation in Europe",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Appropriations",
+     "Senate Committee on Environment and Public Works",
+     "Senate Committee on Rules and Administration",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "AVGO",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-04-08",
+   "filed_date": "2026-08-20",
+   "lag_days": 499,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/f727289a-4d72-4c90-a3ea-63d5bcd23398/"
+  },
+  {
+   "id": "C-369feecbaa0c",
+   "source": "congress",
+   "person": "John Boozman",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Commission on Security and Cooperation in Europe",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Appropriations",
+     "Senate Committee on Environment and Public Works",
+     "Senate Committee on Rules and Administration",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "COLPAL",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2025-04-08",
+   "filed_date": "2026-08-20",
+   "lag_days": 499,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/f727289a-4d72-4c90-a3ea-63d5bcd23398/"
+  },
   {
    "id": "C-6b5e44da05ae",
    "source": "congress",
