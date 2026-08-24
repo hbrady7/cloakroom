@@ -1,9 +1,9 @@
 {
- "as_of": "2026-08-20",
+ "as_of": "2026-08-21",
  "candidates": [
   {
    "ticker": "TSM",
-   "score": 31.6,
+   "score": 30.1,
    "signals": {
     "cluster": {
      "fired": true,
@@ -21,7 +21,7 @@
     },
     "convergence": {
      "fired": true,
-     "points": 31.6,
+     "points": 30.1,
      "insider_buyers": [
       "Chang Tzonz-Sheng",
       "Chen Chih-Ho",
@@ -171,7 +171,7 @@
   },
   {
    "ticker": "APTV",
-   "score": 26.5,
+   "score": 25.2,
    "signals": {
     "cluster": {
      "fired": false,
@@ -180,7 +180,7 @@
     },
     "committee": {
      "fired": true,
-     "points": 1.5,
+     "points": 1.4,
      "aligned_buyers": [
       "John Boozman"
      ],
@@ -191,7 +191,7 @@
     },
     "convergence": {
      "fired": true,
-     "points": 24.7,
+     "points": 23.5,
      "insider_buyers": [
       "Agnevall Hakan",
       "Clark Kevin P",
@@ -257,8 +257,8 @@
    ]
   },
   {
-   "ticker": "MLM",
-   "score": 4.1,
+   "ticker": "IBP",
+   "score": 11.1,
    "signals": {
     "cluster": {
      "fired": false,
@@ -267,7 +267,114 @@
     },
     "committee": {
      "fired": true,
-     "points": 3.2,
+     "points": 8.5,
+     "aligned_buyers": [
+      "David J. Taylor"
+     ],
+     "sectors": [
+      "industrial",
+      "real_estate"
+     ]
+    },
+    "convergence": {
+     "fired": true,
+     "points": 1.0,
+     "insider_buyers": [
+      "Hilsheimer Lawrence A.",
+      "Miller Michael Thomas",
+      "Niswonger Jason R",
+      "Wheeler Brad A"
+     ]
+    },
+    "options": {
+     "fired": false,
+     "points": 0.0,
+     "count": 0
+    },
+    "size": {
+     "fired": true,
+     "points": 1.6,
+     "max_band_mid": 8000
+    }
+   },
+   "evidence": [
+    {
+     "id": "C-0399f7763bcc",
+     "signal": "committee"
+    },
+    {
+     "id": "C-3e061b6aa658",
+     "signal": "committee"
+    },
+    {
+     "id": "C-399a6bced201",
+     "signal": "committee"
+    },
+    {
+     "id": "C-806d4b0f5c44",
+     "signal": "committee"
+    },
+    {
+     "id": "I-ef155e85b6b7",
+     "signal": "convergence"
+    },
+    {
+     "id": "I-eca44f43db20",
+     "signal": "convergence"
+    },
+    {
+     "id": "I-b5999b979544",
+     "signal": "convergence"
+    },
+    {
+     "id": "I-5868cac12644",
+     "signal": "convergence"
+    },
+    {
+     "id": "C-0399f7763bcc",
+     "signal": "convergence"
+    },
+    {
+     "id": "C-3e061b6aa658",
+     "signal": "convergence"
+    },
+    {
+     "id": "C-399a6bced201",
+     "signal": "convergence"
+    },
+    {
+     "id": "C-806d4b0f5c44",
+     "signal": "convergence"
+    },
+    {
+     "id": "C-0399f7763bcc",
+     "signal": "size"
+    }
+   ],
+   "stats": {
+    "congress_buys": 4,
+    "distinct_buyers": 1,
+    "insider_open_market_buys": 27,
+    "options_positions": 0
+   },
+   "name": "Installed Building Products, Inc.",
+   "sectors": [
+    "industrial",
+    "real_estate"
+   ]
+  },
+  {
+   "ticker": "MLM",
+   "score": 3.9,
+   "signals": {
+    "cluster": {
+     "fired": false,
+     "points": 0.0,
+     "distinct_buyers": 1
+    },
+    "committee": {
+     "fired": true,
+     "points": 3.0,
      "aligned_buyers": [
       "April McClain Delaney"
      ],
@@ -288,7 +395,7 @@
     },
     "size": {
      "fired": false,
-     "points": 1.0,
+     "points": 0.9,
      "max_band_mid": 32500
     }
    },
@@ -328,7 +435,7 @@
   },
   {
    "ticker": "HUBB",
-   "score": 3.9,
+   "score": 3.8,
    "signals": {
     "cluster": {
      "fired": false,
@@ -337,7 +444,7 @@
     },
     "committee": {
      "fired": true,
-     "points": 3.0,
+     "points": 2.9,
      "aligned_buyers": [
       "April McClain Delaney"
      ],
@@ -425,8 +532,66 @@
    ]
   },
   {
+   "ticker": "BRK.B",
+   "score": 3.7,
+   "signals": {
+    "cluster": {
+     "fired": false,
+     "points": 0.0,
+     "distinct_buyers": 2
+    },
+    "committee": {
+     "fired": true,
+     "points": 3.7,
+     "aligned_buyers": [
+      "Maria Elvira Salazar"
+     ],
+     "sectors": [
+      "insurance"
+     ]
+    },
+    "convergence": {
+     "fired": false,
+     "points": 0.0,
+     "insider_buyers": [
+      "O'Sullivan Michael J."
+     ]
+    },
+    "options": {
+     "fired": false,
+     "points": 0.0,
+     "count": 0
+    },
+    "size": {
+     "fired": false,
+     "points": 0.0,
+     "max_band_mid": 75000
+    }
+   },
+   "evidence": [
+    {
+     "id": "C-905c2619c5c4",
+     "signal": "committee"
+    },
+    {
+     "id": "C-4e01f0c69a18",
+     "signal": "committee"
+    }
+   ],
+   "stats": {
+    "congress_buys": 10,
+    "distinct_buyers": 5,
+    "insider_open_market_buys": 3,
+    "options_positions": 0
+   },
+   "name": "BERKSHIRE HATHAWAY INC",
+   "sectors": [
+    "insurance"
+   ]
+  },
+  {
    "ticker": "TDG",
-   "score": 3.9,
+   "score": 3.7,
    "signals": {
     "cluster": {
      "fired": true,
@@ -435,7 +600,7 @@
     },
     "committee": {
      "fired": true,
-     "points": 3.8,
+     "points": 3.7,
      "aligned_buyers": [
       "April McClain Delaney"
      ],
@@ -529,64 +694,6 @@
     "aerospace",
     "defense"
    ]
-  },
-  {
-   "ticker": "BRK.B",
-   "score": 3.8,
-   "signals": {
-    "cluster": {
-     "fired": false,
-     "points": 0.0,
-     "distinct_buyers": 2
-    },
-    "committee": {
-     "fired": true,
-     "points": 3.8,
-     "aligned_buyers": [
-      "Maria Elvira Salazar"
-     ],
-     "sectors": [
-      "insurance"
-     ]
-    },
-    "convergence": {
-     "fired": false,
-     "points": 0.0,
-     "insider_buyers": [
-      "O'Sullivan Michael J."
-     ]
-    },
-    "options": {
-     "fired": false,
-     "points": 0.0,
-     "count": 0
-    },
-    "size": {
-     "fired": false,
-     "points": 0.0,
-     "max_band_mid": 75000
-    }
-   },
-   "evidence": [
-    {
-     "id": "C-905c2619c5c4",
-     "signal": "committee"
-    },
-    {
-     "id": "C-4e01f0c69a18",
-     "signal": "committee"
-    }
-   ],
-   "stats": {
-    "congress_buys": 10,
-    "distinct_buyers": 5,
-    "insider_open_market_buys": 3,
-    "options_positions": 0
-   },
-   "name": "BERKSHIRE HATHAWAY INC",
-   "sectors": [
-    "insurance"
-   ]
   }
  ],
  "caution": [
@@ -611,6 +718,46 @@
     }
    },
    "evidence": [
+    {
+     "id": "I-efee352de1a1",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-ea47ff800c6a",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-e647909d19c6",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-d24dccff4db6",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-c632ffb6b1e3",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-61f1a93c8f4b",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-561e62be0f59",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-21713942a19b",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-1db5ec394292",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-0e3b893972d6",
+     "signal": "insider_distribution"
+    },
     {
      "id": "I-fe8f45cf52fa",
      "signal": "insider_distribution"
@@ -666,51 +813,11 @@
     {
      "id": "I-23f4c1c5122e",
      "signal": "insider_distribution"
-    },
-    {
-     "id": "I-f864d64ff682",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-f7148994ed66",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-e7e49dade9b6",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-df5b7b3478a7",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-a5a4548ce6b4",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-217fc9d75792",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-17ef8208fedc",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-baca71ab897b",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-9fc76385b6af",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-8be355f98634",
-     "signal": "insider_distribution"
     }
    ],
    "stats": {
     "congress_sells": 2,
-    "insider_sells": 571
+    "insider_sells": 581
    },
    "name": "CrowdStrike Holdings, Inc.",
    "sectors": [
@@ -718,8 +825,136 @@
    ]
   },
   {
+   "ticker": "WAB",
+   "score": 34.3,
+   "signals": {
+    "sell_cluster": {
+     "fired": false,
+     "points": 0.0,
+     "distinct_sellers": 2
+    },
+    "insider_distribution": {
+     "fired": true,
+     "points": 34.3,
+     "distinct_sellers": 6,
+     "weighted_sellers": 5.0
+    },
+    "committee_sell": {
+     "fired": false,
+     "points": 0.0
+    }
+   },
+   "evidence": [
+    {
+     "id": "I-f052c1594b15",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-9fc9311a599e",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-6e2601d52207",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-eaf3703f2fac",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-e2d49c790ea2",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-a5dff4162e9c",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-93102a7e85db",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-ee63702252fe",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-882793402842",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-4c09b60964c2",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-34c876678a44",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-db70e0afaae0",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-c3a13b0fd9e8",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-c3977044c7ff",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-728b1c56a091",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-1aeab46b346c",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-1970b2c71171",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-e509a0f86eae",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-e076019d45d1",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-a4fb76c3bb83",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-5fc0100264d4",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-157f063dd037",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-fd03a6e45d58",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-d6b8460ce54e",
+     "signal": "insider_distribution"
+    }
+   ],
+   "stats": {
+    "congress_sells": 7,
+    "insider_sells": 35
+   },
+   "name": "WESTINGHOUSE AIR BRAKE TECHNOLOGIES CORP",
+   "sectors": [
+    "transport",
+    "industrial"
+   ]
+  },
+  {
    "ticker": "CPAY",
-   "score": 34.2,
+   "score": 34.0,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -734,10 +969,34 @@
     },
     "committee_sell": {
      "fired": true,
-     "points": 3.7
+     "points": 3.5
     }
    },
    "evidence": [
+    {
+     "id": "I-b71ab7d61f92",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-8a794b68ba08",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-5e8e4dc6d361",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-41072ddbcb31",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-29d83a86d926",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-292b94413687",
+     "signal": "insider_distribution"
+    },
     {
      "id": "I-db1380cd89dc",
      "signal": "insider_distribution"
@@ -809,166 +1068,15 @@
     {
      "id": "I-f958a1bb5afd",
      "signal": "insider_distribution"
-    },
-    {
-     "id": "I-1fb75d3c3609",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-11c41a2327e9",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-bc746dbef6bc",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "C-427678559156",
-     "signal": "committee_sell"
-    },
-    {
-     "id": "C-3ed6e9c25d25",
-     "signal": "committee_sell"
-    },
-    {
-     "id": "C-7360f986cb28",
-     "signal": "committee_sell"
     }
    ],
    "stats": {
     "congress_sells": 7,
-    "insider_sells": 21
+    "insider_sells": 27
    },
    "name": "CORPAY, INC.",
    "sectors": [
     "tech"
-   ]
-  },
-  {
-   "ticker": "CVX",
-   "score": 32.6,
-   "signals": {
-    "sell_cluster": {
-     "fired": false,
-     "points": 0.0,
-     "distinct_sellers": 2
-    },
-    "insider_distribution": {
-     "fired": true,
-     "points": 32.6,
-     "distinct_sellers": 5,
-     "weighted_sellers": 5.0
-    },
-    "committee_sell": {
-     "fired": false,
-     "points": 0.0
-    }
-   },
-   "evidence": [
-    {
-     "id": "I-13d6fbaba7e2",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-99a41f00b8bf",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-c47dadfb4a57",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-951aa02ade16",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-d957820f8721",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-4c79fddf2f5e",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-f6f3b1874b7e",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-c6f133c77405",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-8632ecb1de79",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-4cb48f8bbb0a",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-34f0a0602d2b",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-3161fa87bbbc",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-21fa0c5e9ed7",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-1c41791cf56e",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-cd117499bc54",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-935f83f2931f",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-8e03531b317f",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-7dadee947af5",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-7b7ade2d9152",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-6436f5706caf",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-2339b2d6d23c",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-3cf5f0d45a86",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-342160617765",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-08374575dc26",
-     "signal": "insider_distribution"
-    }
-   ],
-   "stats": {
-    "congress_sells": 5,
-    "insider_sells": 24
-   },
-   "name": "CHEVRON CORP",
-   "sectors": [
-    "energy"
    ]
   },
   {
@@ -992,6 +1100,10 @@
     }
    },
    "evidence": [
+    {
+     "id": "I-eb5a16765f1b",
+     "signal": "insider_distribution"
+    },
     {
      "id": "I-7f7660777fc4",
      "signal": "insider_distribution"
@@ -1083,13 +1195,13 @@
    ],
    "stats": {
     "congress_sells": 1,
-    "insider_sells": 22
+    "insider_sells": 23
    },
    "name": "e.l.f. Beauty, Inc.",
    "sectors": []
   },
   {
-   "ticker": "GRMN",
+   "ticker": "KO",
    "score": 32.6,
    "signals": {
     "sell_cluster": {
@@ -1100,8 +1212,8 @@
     "insider_distribution": {
      "fired": true,
      "points": 32.6,
-     "distinct_sellers": 6,
-     "weighted_sellers": 5.0
+     "distinct_sellers": 7,
+     "weighted_sellers": 6.0
     },
     "committee_sell": {
      "fired": false,
@@ -1110,85 +1222,101 @@
    },
    "evidence": [
     {
-     "id": "I-fc95cf91003d",
+     "id": "I-43a8a7d92b1e",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-e8ad08fa3ee4",
+     "id": "I-85d8f798ffaf",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-e7b44de6c2f7",
+     "id": "I-448c8876b4af",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-cb09198460b9",
+     "id": "I-394a7e304ee9",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-be1084e104d0",
+     "id": "I-b68e33953e09",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-957cffa4b7e2",
+     "id": "I-6cf06603846c",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-8b9c0718688a",
+     "id": "I-69445e269810",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-fa0c28e2ff48",
+     "id": "I-bc9d90a96670",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-bfc8bb3b0b23",
+     "id": "I-adc3d0cf1cde",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-47b5662dcaf9",
+     "id": "I-929fbeb213ac",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-2da9e65fde4d",
+     "id": "I-f0b1b9bb09e6",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-d8aac657318d",
+     "id": "I-ea1e84f707f9",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-d6e09a205040",
+     "id": "I-d527ca2f2aec",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-a43f5d08ab4f",
+     "id": "I-ae369a5bc0b8",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-2ed7cd94d988",
+     "id": "I-55eb4d04c46e",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-1c5d52a83c3c",
+     "id": "I-d1830b61a0f2",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-0ffffeaec7bd",
+     "id": "I-204a672a8c88",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-e3f4f3cedc72",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-e1ae780557eb",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-b5aec6f8a482",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-b6d20c9911f0",
      "signal": "insider_distribution"
     }
    ],
    "stats": {
     "congress_sells": 1,
-    "insider_sells": 17
+    "insider_sells": 21
    },
-   "name": "GARMIN LTD",
+   "name": "COCA COLA CO",
    "sectors": [
-    "defense",
-    "aerospace"
+    "food",
+    "ag"
    ]
   }
  ],
- "universe": 738,
- "generated_at": "2026-08-21T11:56:21Z"
+ "universe": 736,
+ "generated_at": "2026-08-24T11:58:19Z"
 }
