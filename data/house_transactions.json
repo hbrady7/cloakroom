@@ -1,6 +1,138 @@
 {
- "generated_at": "2026-08-24T11:56:17Z",
+ "generated_at": "2026-08-25T11:56:33Z",
  "transactions": [
+  {
+   "id": "C-ffc49bf84752",
+   "source": "congress",
+   "person": "Nancy Pelosi",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": []
+   },
+   "insider_title": "",
+   "ticker": "BE",
+   "asset_type": "option",
+   "side": "buy",
+   "amount_low": 500001,
+   "amount_high": 1000000,
+   "tx_date": "2026-07-28",
+   "filed_date": "2026-08-21",
+   "lag_days": 24,
+   "option_detail": "Purchased 100 call options with a strike price of $100 and an expiration date of 6/17/27.",
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035143.pdf"
+  },
+  {
+   "id": "C-a28084df6000",
+   "source": "congress",
+   "person": "Nancy Pelosi",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": []
+   },
+   "insider_title": "",
+   "ticker": "BE",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 500001,
+   "amount_high": 1000000,
+   "tx_date": "2026-07-28",
+   "filed_date": "2026-08-21",
+   "lag_days": 24,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035143.pdf"
+  },
+  {
+   "id": "C-ee829f80265b",
+   "source": "congress",
+   "person": "Nancy Pelosi",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": []
+   },
+   "insider_title": "",
+   "ticker": "INTC",
+   "asset_type": "option",
+   "side": "buy",
+   "amount_low": 250001,
+   "amount_high": 500000,
+   "tx_date": "2026-07-24",
+   "filed_date": "2026-08-21",
+   "lag_days": 28,
+   "option_detail": "Purchased 50 call options with a strike price of $50 and an expiration date of 6/17/27.",
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035143.pdf"
+  },
+  {
+   "id": "C-b9c7e054d6c9",
+   "source": "congress",
+   "person": "Nancy Pelosi",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": []
+   },
+   "insider_title": "",
+   "ticker": "BE",
+   "asset_type": "option",
+   "side": "buy",
+   "amount_low": 1000001,
+   "amount_high": 5000000,
+   "tx_date": "2026-07-24",
+   "filed_date": "2026-08-21",
+   "lag_days": 28,
+   "option_detail": "Purchased 100 call options with a strike price of $100 and an expiration date of 6/17/27.",
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035143.pdf"
+  },
+  {
+   "id": "C-a9a072cf6a53",
+   "source": "congress",
+   "person": "Nancy Pelosi",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": []
+   },
+   "insider_title": "",
+   "ticker": "INTC",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 500001,
+   "amount_high": 1000000,
+   "tx_date": "2026-07-24",
+   "filed_date": "2026-08-21",
+   "lag_days": 28,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035143.pdf"
+  },
+  {
+   "id": "C-00970ea39d24",
+   "source": "congress",
+   "person": "Nancy Pelosi",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": []
+   },
+   "insider_title": "",
+   "ticker": "BE",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1000001,
+   "amount_high": 5000000,
+   "tx_date": "2026-07-24",
+   "filed_date": "2026-08-21",
+   "lag_days": 28,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035143.pdf"
+  },
   {
    "id": "C-5bb0c7e8a613",
    "source": "congress",
@@ -49688,359 +49820,6 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033845.pdf"
-  },
-  {
-   "id": "C-e6e71a2cc7f2",
-   "source": "congress",
-   "person": "Cleo Fields",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Financial Services"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "FIG",
-   "asset_type": "other",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2025-12-26",
-   "filed_date": "2026-01-16",
-   "lag_days": 21,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033732.pdf"
-  },
-  {
-   "id": "C-8f4438240cc4",
-   "source": "congress",
-   "person": "Cleo Fields",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Financial Services"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "GOOGL",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 50001,
-   "amount_high": 100000,
-   "tx_date": "2025-12-26",
-   "filed_date": "2026-01-16",
-   "lag_days": 21,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033732.pdf"
-  },
-  {
-   "id": "C-59c92f7c235d",
-   "source": "congress",
-   "person": "Cleo Fields",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Financial Services"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "FIG",
-   "asset_type": "other",
-   "side": "sell",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2025-12-26",
-   "filed_date": "2026-01-16",
-   "lag_days": 21,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033732.pdf"
-  },
-  {
-   "id": "C-5677e1b5901f",
-   "source": "congress",
-   "person": "Cleo Fields",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Financial Services"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "OPEN",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2025-12-26",
-   "filed_date": "2026-01-16",
-   "lag_days": 21,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033732.pdf"
-  },
-  {
-   "id": "C-0d66d9710a2a",
-   "source": "congress",
-   "person": "Cleo Fields",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Financial Services"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "IREN",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 50001,
-   "amount_high": 100000,
-   "tx_date": "2025-12-26",
-   "filed_date": "2026-01-16",
-   "lag_days": 21,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033732.pdf"
-  },
-  {
-   "id": "C-ed33f9b47853",
-   "source": "congress",
-   "person": "Jared Moskowitz",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Foreign Affairs",
-     "House Committee on the Judiciary",
-     "House Select Subcommittee to Investigate the Remaining Questions Surrounding January 6, 2021"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "PEG",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2025-12-02",
-   "filed_date": "2026-01-16",
-   "lag_days": 45,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033760.pdf"
-  },
-  {
-   "id": "C-e1fbd116c7b2",
-   "source": "congress",
-   "person": "Jared Moskowitz",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Foreign Affairs",
-     "House Committee on the Judiciary",
-     "House Select Subcommittee to Investigate the Remaining Questions Surrounding January 6, 2021"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "ATO",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2025-12-02",
-   "filed_date": "2026-01-16",
-   "lag_days": 45,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033760.pdf"
-  },
-  {
-   "id": "C-b83f59e1e494",
-   "source": "congress",
-   "person": "Jared Moskowitz",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Foreign Affairs",
-     "House Committee on the Judiciary",
-     "House Select Subcommittee to Investigate the Remaining Questions Surrounding January 6, 2021"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "PEP",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2025-12-02",
-   "filed_date": "2026-01-16",
-   "lag_days": 45,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033760.pdf"
-  },
-  {
-   "id": "C-7cdea8f14c9f",
-   "source": "congress",
-   "person": "Jared Moskowitz",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Foreign Affairs",
-     "House Committee on the Judiciary",
-     "House Select Subcommittee to Investigate the Remaining Questions Surrounding January 6, 2021"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "MCK",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2025-12-02",
-   "filed_date": "2026-01-16",
-   "lag_days": 45,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033760.pdf"
-  },
-  {
-   "id": "C-6bc4df125a4c",
-   "source": "congress",
-   "person": "Jared Moskowitz",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Foreign Affairs",
-     "House Committee on the Judiciary",
-     "House Select Subcommittee to Investigate the Remaining Questions Surrounding January 6, 2021"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "MCK",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2025-12-02",
-   "filed_date": "2026-01-16",
-   "lag_days": 45,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033760.pdf"
-  },
-  {
-   "id": "C-551652e88ce3",
-   "source": "congress",
-   "person": "Jared Moskowitz",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Foreign Affairs",
-     "House Committee on the Judiciary",
-     "House Select Subcommittee to Investigate the Remaining Questions Surrounding January 6, 2021"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "PEP",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2025-12-02",
-   "filed_date": "2026-01-16",
-   "lag_days": 45,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033760.pdf"
-  },
-  {
-   "id": "C-4a6244618437",
-   "source": "congress",
-   "person": "Thomas H. Kean",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Foreign Affairs",
-     "House Committee on Energy and Commerce"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "SNREY",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2025-12-02",
-   "filed_date": "2026-01-16",
-   "lag_days": 45,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033821.pdf"
-  },
-  {
-   "id": "C-270e74b33712",
-   "source": "congress",
-   "person": "Jared Moskowitz",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Foreign Affairs",
-     "House Committee on the Judiciary",
-     "House Select Subcommittee to Investigate the Remaining Questions Surrounding January 6, 2021"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "PEP",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2025-12-02",
-   "filed_date": "2026-01-16",
-   "lag_days": 45,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033760.pdf"
-  },
-  {
-   "id": "C-1f7b85146da2",
-   "source": "congress",
-   "person": "Jared Moskowitz",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Foreign Affairs",
-     "House Committee on the Judiciary",
-     "House Select Subcommittee to Investigate the Remaining Questions Surrounding January 6, 2021"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "SO",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2025-12-02",
-   "filed_date": "2026-01-16",
-   "lag_days": 45,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033760.pdf"
   }
  ]
 }
