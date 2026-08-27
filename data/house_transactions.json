@@ -1,6 +1,206 @@
 {
- "generated_at": "2026-08-26T11:57:46Z",
+ "generated_at": "2026-08-27T21:07:17Z",
  "transactions": [
+  {
+   "id": "C-a38c7a3f82ca",
+   "source": "congress",
+   "person": "Michael Rulli",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Education and Workforce",
+     "House Committee on Energy and Commerce"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "GOOGL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 50001,
+   "amount_high": 100000,
+   "tx_date": "2026-08-24",
+   "filed_date": "2026-08-25",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035309.pdf"
+  },
+  {
+   "id": "C-e435375a6657",
+   "source": "congress",
+   "person": "Kelly Louise Morrison",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Small Business",
+     "House Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MBGL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-11",
+   "filed_date": "2026-08-25",
+   "lag_days": 14,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035244.pdf"
+  },
+  {
+   "id": "C-c76847160753",
+   "source": "congress",
+   "person": "Kelly Louise Morrison",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Small Business",
+     "House Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "SOLS",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-11",
+   "filed_date": "2026-08-25",
+   "lag_days": 14,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035244.pdf"
+  },
+  {
+   "id": "C-c0baacca3336",
+   "source": "congress",
+   "person": "Kelly Louise Morrison",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Small Business",
+     "House Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MBGL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-11",
+   "filed_date": "2026-08-25",
+   "lag_days": 14,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035244.pdf"
+  },
+  {
+   "id": "C-7ff0dd9c2660",
+   "source": "congress",
+   "person": "Kelly Louise Morrison",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Small Business",
+     "House Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ACN",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-11",
+   "filed_date": "2026-08-25",
+   "lag_days": 14,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035244.pdf"
+  },
+  {
+   "id": "C-477ff3dbcd7b",
+   "source": "congress",
+   "person": "Kelly Louise Morrison",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Small Business",
+     "House Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ACN",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-11",
+   "filed_date": "2026-08-25",
+   "lag_days": 14,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035244.pdf"
+  },
+  {
+   "id": "C-2fc37cc0496d",
+   "source": "congress",
+   "person": "Kelly Louise Morrison",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Small Business",
+     "House Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MBGL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-11",
+   "filed_date": "2026-08-25",
+   "lag_days": 14,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035244.pdf"
+  },
+  {
+   "id": "C-0a1652e3e994",
+   "source": "congress",
+   "person": "Kelly Louise Morrison",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Small Business",
+     "House Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ACN",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-08-11",
+   "filed_date": "2026-08-25",
+   "lag_days": 14,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035244.pdf"
+  },
   {
    "id": "C-ffc49bf84752",
    "source": "congress",
