@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-01T15:32:42Z",
+ "generated_at": "2026-09-02T15:14:25Z",
  "transactions": [
   {
    "id": "C-e7ba4ae5e11e",
@@ -49251,106 +49251,6 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033813.pdf"
-  },
-  {
-   "id": "C-e9e0e5aa00dd",
-   "source": "congress",
-   "person": "Tim Moore",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on the Budget"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "T",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-01-09",
-   "filed_date": "2026-01-24",
-   "lag_days": 15,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033856.pdf"
-  },
-  {
-   "id": "C-bfaedc8ed220",
-   "source": "congress",
-   "person": "Tim Moore",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on the Budget"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "CBRL",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 50001,
-   "amount_high": 100000,
-   "tx_date": "2026-01-05",
-   "filed_date": "2026-01-24",
-   "lag_days": 19,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033856.pdf"
-  },
-  {
-   "id": "C-a16e04ab842b",
-   "source": "congress",
-   "person": "Tim Moore",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on the Budget"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "HY",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-01-05",
-   "filed_date": "2026-01-24",
-   "lag_days": 19,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033856.pdf"
-  },
-  {
-   "id": "C-bd97050fd838",
-   "source": "congress",
-   "person": "Tim Moore",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on the Budget"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "HY",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2025-12-31",
-   "filed_date": "2026-01-24",
-   "lag_days": 24,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033856.pdf"
   }
  ]
 }
