@@ -1,9 +1,9 @@
 {
- "as_of": "2026-09-01",
+ "as_of": "2026-09-03",
  "candidates": [
   {
    "ticker": "TSM",
-   "score": 17.5,
+   "score": 15.8,
    "signals": {
     "cluster": {
      "fired": true,
@@ -21,7 +21,7 @@
     },
     "convergence": {
      "fired": true,
-     "points": 17.5,
+     "points": 15.8,
      "insider_buyers": [
       "Chang Tzonz-Sheng",
       "Chen Chih-Ho",
@@ -171,7 +171,7 @@
   },
   {
    "ticker": "APTV",
-   "score": 14.6,
+   "score": 13.2,
    "signals": {
     "cluster": {
      "fired": false,
@@ -191,7 +191,7 @@
     },
     "convergence": {
      "fired": true,
-     "points": 13.6,
+     "points": 12.3,
      "insider_buyers": [
       "Agnevall Hakan",
       "Clark Kevin P",
@@ -206,7 +206,7 @@
     },
     "size": {
      "fired": false,
-     "points": 0.2,
+     "points": 0.1,
      "max_band_mid": 8000
     }
    },
@@ -258,7 +258,7 @@
   },
   {
    "ticker": "IBP",
-   "score": 5.8,
+   "score": 5.3,
    "signals": {
     "cluster": {
      "fired": false,
@@ -267,7 +267,7 @@
     },
     "committee": {
      "fired": true,
-     "points": 4.9,
+     "points": 4.5,
      "aligned_buyers": [
       "David J. Taylor"
      ],
@@ -290,7 +290,7 @@
     },
     "size": {
      "fired": false,
-     "points": 0.9,
+     "points": 0.8,
      "max_band_mid": 8000
     }
    },
@@ -326,7 +326,7 @@
   },
   {
    "ticker": "BE",
-   "score": 3.9,
+   "score": 3.5,
    "signals": {
     "cluster": {
      "fired": false,
@@ -348,12 +348,12 @@
     },
     "options": {
      "fired": true,
-     "points": 2.7,
+     "points": 2.4,
      "count": 2
     },
     "size": {
      "fired": true,
-     "points": 1.3,
+     "points": 1.1,
      "max_band_mid": 3000000
     }
    },
@@ -385,8 +385,465 @@
  ],
  "caution": [
   {
+   "ticker": "CRWD",
+   "score": 32.6,
+   "signals": {
+    "sell_cluster": {
+     "fired": false,
+     "points": 0.0,
+     "distinct_sellers": 2
+    },
+    "insider_distribution": {
+     "fired": true,
+     "points": 32.6,
+     "distinct_sellers": 6,
+     "weighted_sellers": 5.0
+    },
+    "committee_sell": {
+     "fired": false,
+     "points": 0.0
+    }
+   },
+   "evidence": [
+    {
+     "id": "I-fb681f54d26c",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-e7c443546f61",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-e3b5df70d240",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-e021118d875f",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-ce16cc1b6636",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-c43796969b45",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-c2ae955b276c",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-c08c67c710a5",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-bf1fa6c8a3ac",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-be3d5133d586",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-bd7f12c7d44e",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-b431bed95cd1",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-9b3c3bc39695",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-98db7abb49be",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-9869eec79aae",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-95b366406142",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-86ddcaa98c4e",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-835dfff60c19",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-7671e576cca2",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-715bbc5ecda0",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-65a62013d764",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-5b7745bd5046",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-563c79c76684",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-51a2f1e51b03",
+     "signal": "insider_distribution"
+    }
+   ],
+   "stats": {
+    "congress_sells": 2,
+    "insider_sells": 687
+   },
+   "name": "CrowdStrike Holdings, Inc.",
+   "sectors": [
+    "tech"
+   ]
+  },
+  {
+   "ticker": "PINS",
+   "score": 27.4,
+   "signals": {
+    "sell_cluster": {
+     "fired": false,
+     "points": 0.0,
+     "distinct_sellers": 1
+    },
+    "insider_distribution": {
+     "fired": true,
+     "points": 24.7,
+     "distinct_sellers": 5,
+     "weighted_sellers": 2.5
+    },
+    "committee_sell": {
+     "fired": true,
+     "points": 2.6
+    }
+   },
+   "evidence": [
+    {
+     "id": "I-cfc5044a9363",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-a754c6231525",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-a9aecb8b544f",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-86b60be10021",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-7f16000a57de",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-09779892f745",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-902327bb27f8",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-020ce83de184",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-db8520773314",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-3323999290fa",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-95a45190a879",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-db6b0dc65559",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-f1f4aa0e5141",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-db0790f8f7b6",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-9def22f0e542",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-84d16f7df4cf",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-c55207af7cb2",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-1aa7cd821479",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-13a7a14aa03d",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-59d96b1796ff",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-b6a03abce83c",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-8f05dc993894",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-9e025ba32c6e",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-8d3097bae762",
+     "signal": "insider_distribution"
+    }
+   ],
+   "stats": {
+    "congress_sells": 5,
+    "insider_sells": 33
+   },
+   "name": "PINTEREST, INC.",
+   "sectors": [
+    "tech"
+   ]
+  },
+  {
+   "ticker": "ADI",
+   "score": 27.2,
+   "signals": {
+    "sell_cluster": {
+     "fired": false,
+     "points": 0.0,
+     "distinct_sellers": 2
+    },
+    "insider_distribution": {
+     "fired": true,
+     "points": 27.2,
+     "distinct_sellers": 5,
+     "weighted_sellers": 3.5
+    },
+    "committee_sell": {
+     "fired": false,
+     "points": 0.0
+    }
+   },
+   "evidence": [
+    {
+     "id": "I-f21896e28308",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-6ef1b6c41ad1",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-189e1d301a29",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-bc1d2a0ff059",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-b5a62f05c11b",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-a83de59557c0",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-9dd353555cfd",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-851c640e14ec",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-73d2ba11395c",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-53ae51ff41eb",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-1a1824f125a9",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-f083819141c2",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-e4390856acf0",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-e00e97a314a2",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-dcb9c4135b7d",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-ae1509336f99",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-7c157cc2f42f",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-71c795543090",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-5f7f59ff852b",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-29b597914afe",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-20676fe146e7",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-1f2ec96290c8",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-f3275ffb4281",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-d71e7509674f",
+     "signal": "insider_distribution"
+    }
+   ],
+   "stats": {
+    "congress_sells": 7,
+    "insider_sells": 91
+   },
+   "name": "ANALOG DEVICES INC",
+   "sectors": [
+    "semis",
+    "tech"
+   ]
+  },
+  {
+   "ticker": "VRSK",
+   "score": 27.2,
+   "signals": {
+    "sell_cluster": {
+     "fired": false,
+     "points": 0.0,
+     "distinct_sellers": 1
+    },
+    "insider_distribution": {
+     "fired": true,
+     "points": 27.2,
+     "distinct_sellers": 5,
+     "weighted_sellers": 3.5
+    },
+    "committee_sell": {
+     "fired": false,
+     "points": 0.0
+    }
+   },
+   "evidence": [
+    {
+     "id": "I-7a75bc25a2ee",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-1e9b7fcd3713",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-48e369713784",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-1f8045131df0",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-cd82365ec7fc",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-d4f46e3aa8aa",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-85a0c5ba116c",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-ab983f4d3531",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-8a29e30a5438",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-0fdf64af11d4",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-c50097f99a40",
+     "signal": "insider_distribution"
+    }
+   ],
+   "stats": {
+    "congress_sells": 3,
+    "insider_sells": 11
+   },
+   "name": "Verisk Analytics, Inc.",
+   "sectors": [
+    "tech"
+   ]
+  },
+  {
    "ticker": "YUM",
-   "score": 30.0,
+   "score": 27.2,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -395,7 +852,7 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 30.0,
+     "points": 27.2,
      "distinct_sellers": 6,
      "weighted_sellers": 3.5
     },
@@ -462,368 +919,8 @@
    "sectors": [
     "retail"
    ]
-  },
-  {
-   "ticker": "CRWD",
-   "score": 29.5,
-   "signals": {
-    "sell_cluster": {
-     "fired": false,
-     "points": 0.0,
-     "distinct_sellers": 2
-    },
-    "insider_distribution": {
-     "fired": true,
-     "points": 29.5,
-     "distinct_sellers": 6,
-     "weighted_sellers": 5.0
-    },
-    "committee_sell": {
-     "fired": false,
-     "points": 0.0
-    }
-   },
-   "evidence": [
-    {
-     "id": "I-f3dca662db6d",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-d9060a24ce78",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-bf6100a81989",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-b8b186e6bbb4",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-a6f9219b3cca",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-7b9dc2f09b1e",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-5419818ccc50",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-4fddbd06d9fc",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-4c08bd17b57d",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-405dfcf75df9",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-3e1e57cc03e5",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-337ee3fbc5bf",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-07a2838a115a",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-f3a20763eb67",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-dac63047feaf",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-c5dddf73cd2d",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-b2e910525ab9",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-b0326cf93055",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-a8e9f9731b37",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-9fb603c98944",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-9c9538791acb",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-90613f728c94",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-8fe4ac979167",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-8efda6c499a8",
-     "signal": "insider_distribution"
-    }
-   ],
-   "stats": {
-    "congress_sells": 2,
-    "insider_sells": 646
-   },
-   "name": "CrowdStrike Holdings, Inc.",
-   "sectors": [
-    "tech"
-   ]
-  },
-  {
-   "ticker": "TRV",
-   "score": 29.5,
-   "signals": {
-    "sell_cluster": {
-     "fired": false,
-     "points": 0.0,
-     "distinct_sellers": 1
-    },
-    "insider_distribution": {
-     "fired": true,
-     "points": 29.5,
-     "distinct_sellers": 9,
-     "weighted_sellers": 9.0
-    },
-    "committee_sell": {
-     "fired": false,
-     "points": 0.0
-    }
-   },
-   "evidence": [
-    {
-     "id": "I-8fee730005d3",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-8c7e66293f76",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-4637b8fe164e",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-f4604b15468b",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-a3f3e55a6dc1",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-a0230c7a35d5",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-368112b4b780",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-c16ac4802fe3",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-b63c338c394a",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-432586273cb7",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-408befb71464",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-28740d2bb83d",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-17599aeedcd8",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-cb383be1fb4c",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-c098aafb658d",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-ac624b25bb9a",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-5fa6743f4965",
-     "signal": "insider_distribution"
-    }
-   ],
-   "stats": {
-    "congress_sells": 3,
-    "insider_sells": 17
-   },
-   "name": "TRAVELERS COMPANIES, INC.",
-   "sectors": [
-    "insurance"
-   ]
-  },
-  {
-   "ticker": "MPC",
-   "score": 28.6,
-   "signals": {
-    "sell_cluster": {
-     "fired": false,
-     "points": 0.0,
-     "distinct_sellers": 2
-    },
-    "insider_distribution": {
-     "fired": true,
-     "points": 28.6,
-     "distinct_sellers": 4,
-     "weighted_sellers": 3.5
-    },
-    "committee_sell": {
-     "fired": false,
-     "points": 0.0
-    }
-   },
-   "evidence": [
-    {
-     "id": "I-78c4dec85ce6",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-28cf8c133739",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-1261ad24c0d2",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-e3cbc9da0954",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-711fa248931e",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-4dc21cfab0e4",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-3928f3d5a83a",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-0a1942af7bca",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-fc112a9bdfd1",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-04ac6107a868",
-     "signal": "insider_distribution"
-    }
-   ],
-   "stats": {
-    "congress_sells": 6,
-    "insider_sells": 10
-   },
-   "name": "Marathon Petroleum Corp",
-   "sectors": [
-    "energy"
-   ]
-  },
-  {
-   "ticker": "NOW",
-   "score": 28.6,
-   "signals": {
-    "sell_cluster": {
-     "fired": true,
-     "points": 0.0,
-     "distinct_sellers": 3
-    },
-    "insider_distribution": {
-     "fired": true,
-     "points": 28.6,
-     "distinct_sellers": 4,
-     "weighted_sellers": 3.5
-    },
-    "committee_sell": {
-     "fired": false,
-     "points": 0.0
-    }
-   },
-   "evidence": [
-    {
-     "id": "C-82fb405bdee3",
-     "signal": "sell_cluster"
-    },
-    {
-     "id": "C-0af0b8e1bc84",
-     "signal": "sell_cluster"
-    },
-    {
-     "id": "C-b6f4392b046c",
-     "signal": "sell_cluster"
-    },
-    {
-     "id": "I-a31cefa9db33",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-825fc8d8d6fe",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-4bbef8bd9631",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-8f2a9a7344e4",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-1821fd179f2f",
-     "signal": "insider_distribution"
-    }
-   ],
-   "stats": {
-    "congress_sells": 5,
-    "insider_sells": 5
-   },
-   "name": "ServiceNow, Inc.",
-   "sectors": [
-    "tech"
-   ]
   }
  ],
  "universe": 737,
- "generated_at": "2026-09-02T15:16:32Z"
+ "generated_at": "2026-09-03T15:10:22Z"
 }

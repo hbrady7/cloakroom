@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-02T15:15:36Z",
+ "generated_at": "2026-09-03T15:09:36Z",
  "tickers": {
   "ZTS": {
    "name": "Zoetis Inc.",
@@ -5030,6 +5030,64 @@
    "sic_desc": "Wholesale-Durable Goods",
    "sectors": [
     "retail"
+   ]
+  },
+  "ICLR": {
+   "name": "ICON PLC",
+   "cik": 1060955,
+   "sic": "8731",
+   "sic_desc": "Services-Commercial Physical & Biological Research",
+   "sectors": [
+    "biotech",
+    "pharma"
+   ]
+  },
+  "HRL": {
+   "name": "HORMEL FOODS CORP /DE/",
+   "cik": 48465,
+   "sic": "2011",
+   "sic_desc": "Meat Packing Plants",
+   "sectors": [
+    "food",
+    "ag"
+   ]
+  },
+  "HONA": {
+   "name": "Honeywell Aerospace Inc.",
+   "cik": 2089271,
+   "sic": "3724",
+   "sic_desc": "Aircraft Engines & Engine Parts",
+   "sectors": [
+    "aerospace",
+    "defense"
+   ]
+  },
+  "GAP": {
+   "name": "GAP INC",
+   "cik": 39911,
+   "sic": "5651",
+   "sic_desc": "Retail-Family Clothing Stores",
+   "sectors": [
+    "retail"
+   ]
+  },
+  "BUD": {
+   "name": "Anheuser-Busch InBev SA/NV",
+   "cik": 1668717,
+   "sic": "2082",
+   "sic_desc": "Malt Beverages",
+   "sectors": [
+    "food",
+    "ag"
+   ]
+  },
+  "ALC": {
+   "name": "ALCON INC",
+   "cik": 1167379,
+   "sic": "3851",
+   "sic_desc": "Ophthalmic Goods",
+   "sectors": [
+    "healthcare"
    ]
   }
  }
