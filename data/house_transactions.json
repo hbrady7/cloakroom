@@ -1,6 +1,130 @@
 {
- "generated_at": "2026-09-03T15:08:05Z",
+ "generated_at": "2026-09-04T15:04:46Z",
  "transactions": [
+  {
+   "id": "C-d26dd3b3bc92",
+   "source": "congress",
+   "person": "John J Mr McGuire",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Oversight and Government Reform"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "AAPL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-18",
+   "filed_date": "2026-09-02",
+   "lag_days": 15,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035367.pdf"
+  },
+  {
+   "id": "C-48e130d5d316",
+   "source": "congress",
+   "person": "John J Mr McGuire",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Oversight and Government Reform"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "NVDA",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-18",
+   "filed_date": "2026-09-02",
+   "lag_days": 15,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035367.pdf"
+  },
+  {
+   "id": "C-73a9cb2de5b4",
+   "source": "congress",
+   "person": "Cleo Fields",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Financial Services"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "AAPL",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-13",
+   "filed_date": "2026-09-02",
+   "lag_days": 20,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035345.pdf"
+  },
+  {
+   "id": "C-4559e8ae61f5",
+   "source": "congress",
+   "person": "Michael Rulli",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Education and Workforce",
+     "House Committee on Energy and Commerce"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ALL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-12",
+   "filed_date": "2026-09-02",
+   "lag_days": 21,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035365.pdf"
+  },
+  {
+   "id": "C-bc198cc27346",
+   "source": "congress",
+   "person": "Michael Rulli",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Education and Workforce",
+     "House Committee on Energy and Commerce"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "EQIX",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-07",
+   "filed_date": "2026-09-02",
+   "lag_days": 26,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035365.pdf"
+  },
   {
    "id": "C-d384fd788579",
    "source": "congress",
@@ -49873,56 +49997,6 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033921.pdf"
-  },
-  {
-   "id": "C-589901c90a0b",
-   "source": "congress",
-   "person": "Steve Cohen",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Permanent Select Committee on Intelligence",
-     "House Committee on the Judiciary"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "FLR",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2025-12-29",
-   "filed_date": "2026-01-26",
-   "lag_days": 28,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033813.pdf"
-  },
-  {
-   "id": "C-13d98434fd9b",
-   "source": "congress",
-   "person": "Steve Cohen",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Permanent Select Committee on Intelligence",
-     "House Committee on the Judiciary"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "NOC",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2025-12-29",
-   "filed_date": "2026-01-26",
-   "lag_days": 28,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033813.pdf"
   }
  ]
 }

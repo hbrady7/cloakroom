@@ -1,9 +1,9 @@
 {
- "as_of": "2026-09-03",
+ "as_of": "2026-09-04",
  "candidates": [
   {
    "ticker": "TSM",
-   "score": 15.8,
+   "score": 15.1,
    "signals": {
     "cluster": {
      "fired": true,
@@ -21,13 +21,14 @@
     },
     "convergence": {
      "fired": true,
-     "points": 15.8,
+     "points": 15.1,
      "insider_buyers": [
       "Chang Tzonz-Sheng",
       "Chen Chih-Ho",
       "Chen Pei-Hung",
       "Chin Yung-Pei",
       "Chuang Juiping",
+      "Fang Shu-Hua",
       "Hou Yung-Chin",
       "Jang Syun-Ming",
       "Ku Yao-Ching",
@@ -75,6 +76,10 @@
     {
      "id": "C-c9c76bf199e2",
      "signal": "cluster"
+    },
+    {
+     "id": "I-e6f5a1542508",
+     "signal": "convergence"
     },
     {
      "id": "I-900601ab125e",
@@ -151,16 +156,12 @@
     {
      "id": "I-b59338114d33",
      "signal": "convergence"
-    },
-    {
-     "id": "I-7f3c9fea2d24",
-     "signal": "convergence"
     }
    ],
    "stats": {
     "congress_buys": 7,
     "distinct_buyers": 4,
-    "insider_open_market_buys": 68,
+    "insider_open_market_buys": 70,
     "options_positions": 0
    },
    "name": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
@@ -171,7 +172,7 @@
   },
   {
    "ticker": "APTV",
-   "score": 13.2,
+   "score": 12.6,
    "signals": {
     "cluster": {
      "fired": false,
@@ -180,7 +181,7 @@
     },
     "committee": {
      "fired": true,
-     "points": 0.8,
+     "points": 0.7,
      "aligned_buyers": [
       "John Boozman"
      ],
@@ -191,7 +192,7 @@
     },
     "convergence": {
      "fired": true,
-     "points": 12.3,
+     "points": 11.7,
      "insider_buyers": [
       "Agnevall Hakan",
       "Clark Kevin P",
@@ -258,7 +259,7 @@
   },
   {
    "ticker": "IBP",
-   "score": 5.3,
+   "score": 5.0,
    "signals": {
     "cluster": {
      "fired": false,
@@ -267,7 +268,7 @@
     },
     "committee": {
      "fired": true,
-     "points": 4.5,
+     "points": 4.2,
      "aligned_buyers": [
       "David J. Taylor"
      ],
@@ -326,7 +327,7 @@
   },
   {
    "ticker": "BE",
-   "score": 3.5,
+   "score": 3.4,
    "signals": {
     "cluster": {
      "fired": false,
@@ -348,7 +349,7 @@
     },
     "options": {
      "fired": true,
-     "points": 2.4,
+     "points": 2.3,
      "count": 2
     },
     "size": {
@@ -385,7 +386,162 @@
  ],
  "caution": [
   {
-   "ticker": "CRWD",
+   "ticker": "MRSH",
+   "score": 38.4,
+   "signals": {
+    "sell_cluster": {
+     "fired": false,
+     "points": 0.0,
+     "distinct_sellers": 1
+    },
+    "insider_distribution": {
+     "fired": true,
+     "points": 32.6,
+     "distinct_sellers": 6,
+     "weighted_sellers": 5.0
+    },
+    "committee_sell": {
+     "fired": true,
+     "points": 5.8
+    }
+   },
+   "evidence": [
+    {
+     "id": "I-e8cc9fd6cba5",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-91b17c52a318",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-2f2a383f4cfe",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-f180ae994f0e",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-c7761317eac7",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-ccb36d393646",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-c5ffa15ebd73",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "C-940d3d7f30e2",
+     "signal": "committee_sell"
+    }
+   ],
+   "stats": {
+    "congress_sells": 2,
+    "insider_sells": 7
+   },
+   "name": "MARSH & MCLENNAN COMPANIES, INC.",
+   "sectors": [
+    "insurance"
+   ]
+  },
+  {
+   "ticker": "JNJ",
+   "score": 32.6,
+   "signals": {
+    "sell_cluster": {
+     "fired": true,
+     "points": 0.0,
+     "distinct_sellers": 3
+    },
+    "insider_distribution": {
+     "fired": true,
+     "points": 32.6,
+     "distinct_sellers": 6,
+     "weighted_sellers": 6.0
+    },
+    "committee_sell": {
+     "fired": false,
+     "points": 0.0
+    }
+   },
+   "evidence": [
+    {
+     "id": "C-929470c7c6f2",
+     "signal": "sell_cluster"
+    },
+    {
+     "id": "C-f648bc189c65",
+     "signal": "sell_cluster"
+    },
+    {
+     "id": "C-857573ddbb5b",
+     "signal": "sell_cluster"
+    },
+    {
+     "id": "C-11c870f7d763",
+     "signal": "sell_cluster"
+    },
+    {
+     "id": "I-d1545cb9ef63",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-7a01a2869f6a",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-b5f1f9334bd7",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-fe2825f25c6b",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-630d5df1bff8",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-f27326678a9c",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-5cb7c831c843",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-eb2bcd9d9ca1",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-378670b0179a",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-95ed344af717",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-9339addf0e36",
+     "signal": "insider_distribution"
+    }
+   ],
+   "stats": {
+    "congress_sells": 9,
+    "insider_sells": 11
+   },
+   "name": "JOHNSON & JOHNSON",
+   "sectors": [
+    "pharma",
+    "biotech"
+   ]
+  },
+  {
+   "ticker": "WAB",
    "score": 32.6,
    "signals": {
     "sell_cluster": {
@@ -396,6 +552,134 @@
     "insider_distribution": {
      "fired": true,
      "points": 32.6,
+     "distinct_sellers": 7,
+     "weighted_sellers": 6.0
+    },
+    "committee_sell": {
+     "fired": false,
+     "points": 0.0
+    }
+   },
+   "evidence": [
+    {
+     "id": "I-fcbfface0317",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-de844e30a8af",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-7b3543a1fbf1",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-1690a1708205",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-57df62fb7e5a",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-40dcc205fcd0",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-3d52ebb5a146",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-2d3730c3d166",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-de1278f8f3f9",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-505b1f2c47aa",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-f052c1594b15",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-9fc9311a599e",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-6e2601d52207",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-eaf3703f2fac",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-e2d49c790ea2",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-a5dff4162e9c",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-93102a7e85db",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-ee63702252fe",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-882793402842",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-4c09b60964c2",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-34c876678a44",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-db70e0afaae0",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-c3a13b0fd9e8",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-c3977044c7ff",
+     "signal": "insider_distribution"
+    }
+   ],
+   "stats": {
+    "congress_sells": 7,
+    "insider_sells": 45
+   },
+   "name": "WESTINGHOUSE AIR BRAKE TECHNOLOGIES CORP",
+   "sectors": [
+    "transport",
+    "industrial"
+   ]
+  },
+  {
+   "ticker": "CRWD",
+   "score": 31.0,
+   "signals": {
+    "sell_cluster": {
+     "fired": false,
+     "points": 0.0,
+     "distinct_sellers": 2
+    },
+    "insider_distribution": {
+     "fired": true,
+     "points": 31.0,
      "distinct_sellers": 6,
      "weighted_sellers": 5.0
     },
@@ -512,8 +796,8 @@
    ]
   },
   {
-   "ticker": "PINS",
-   "score": 27.4,
+   "ticker": "ELF",
+   "score": 31.0,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -522,136 +806,9 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 24.7,
-     "distinct_sellers": 5,
-     "weighted_sellers": 2.5
-    },
-    "committee_sell": {
-     "fired": true,
-     "points": 2.6
-    }
-   },
-   "evidence": [
-    {
-     "id": "I-cfc5044a9363",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-a754c6231525",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-a9aecb8b544f",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-86b60be10021",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-7f16000a57de",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-09779892f745",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-902327bb27f8",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-020ce83de184",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-db8520773314",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-3323999290fa",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-95a45190a879",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-db6b0dc65559",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-f1f4aa0e5141",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-db0790f8f7b6",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-9def22f0e542",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-84d16f7df4cf",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-c55207af7cb2",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-1aa7cd821479",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-13a7a14aa03d",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-59d96b1796ff",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-b6a03abce83c",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-8f05dc993894",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-9e025ba32c6e",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-8d3097bae762",
-     "signal": "insider_distribution"
-    }
-   ],
-   "stats": {
-    "congress_sells": 5,
-    "insider_sells": 33
-   },
-   "name": "PINTEREST, INC.",
-   "sectors": [
-    "tech"
-   ]
-  },
-  {
-   "ticker": "ADI",
-   "score": 27.2,
-   "signals": {
-    "sell_cluster": {
-     "fired": false,
-     "points": 0.0,
-     "distinct_sellers": 2
-    },
-    "insider_distribution": {
-     "fired": true,
-     "points": 27.2,
-     "distinct_sellers": 5,
-     "weighted_sellers": 3.5
+     "points": 31.0,
+     "distinct_sellers": 7,
+     "weighted_sellers": 7.0
     },
     "committee_sell": {
      "fired": false,
@@ -660,267 +817,110 @@
    },
    "evidence": [
     {
-     "id": "I-f21896e28308",
+     "id": "I-be770b958599",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-6ef1b6c41ad1",
+     "id": "I-eb5a16765f1b",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-189e1d301a29",
+     "id": "I-7f7660777fc4",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-bc1d2a0ff059",
+     "id": "I-31d6fa7747f6",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-b5a62f05c11b",
+     "id": "I-d360249bdc5c",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-a83de59557c0",
+     "id": "I-cc79f65208f8",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-9dd353555cfd",
+     "id": "I-85068bbb1914",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-851c640e14ec",
+     "id": "I-7d14d1d3f8fc",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-73d2ba11395c",
+     "id": "I-59518f35eed0",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-53ae51ff41eb",
+     "id": "I-483c9317b0b7",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-1a1824f125a9",
+     "id": "I-46e31401c80d",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-f083819141c2",
+     "id": "I-0dd916a1e8fb",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-e4390856acf0",
+     "id": "I-a2f6023dc6ca",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-e00e97a314a2",
+     "id": "I-796a59768cc1",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-dcb9c4135b7d",
+     "id": "I-51279269f044",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-ae1509336f99",
+     "id": "I-3d895f618860",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-7c157cc2f42f",
+     "id": "I-33386c650843",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-71c795543090",
+     "id": "I-5d64776385ca",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-5f7f59ff852b",
+     "id": "I-b385dae43336",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-29b597914afe",
+     "id": "I-80a5d0fe431b",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-20676fe146e7",
+     "id": "I-4d996a23e410",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-1f2ec96290c8",
+     "id": "I-3cfe120782ea",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-f3275ffb4281",
+     "id": "I-19568aa0169d",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-d71e7509674f",
+     "id": "I-a49936fefc5e",
      "signal": "insider_distribution"
     }
    ],
    "stats": {
-    "congress_sells": 7,
-    "insider_sells": 91
+    "congress_sells": 1,
+    "insider_sells": 24
    },
-   "name": "ANALOG DEVICES INC",
-   "sectors": [
-    "semis",
-    "tech"
-   ]
-  },
-  {
-   "ticker": "VRSK",
-   "score": 27.2,
-   "signals": {
-    "sell_cluster": {
-     "fired": false,
-     "points": 0.0,
-     "distinct_sellers": 1
-    },
-    "insider_distribution": {
-     "fired": true,
-     "points": 27.2,
-     "distinct_sellers": 5,
-     "weighted_sellers": 3.5
-    },
-    "committee_sell": {
-     "fired": false,
-     "points": 0.0
-    }
-   },
-   "evidence": [
-    {
-     "id": "I-7a75bc25a2ee",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-1e9b7fcd3713",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-48e369713784",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-1f8045131df0",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-cd82365ec7fc",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-d4f46e3aa8aa",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-85a0c5ba116c",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-ab983f4d3531",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-8a29e30a5438",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-0fdf64af11d4",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-c50097f99a40",
-     "signal": "insider_distribution"
-    }
-   ],
-   "stats": {
-    "congress_sells": 3,
-    "insider_sells": 11
-   },
-   "name": "Verisk Analytics, Inc.",
-   "sectors": [
-    "tech"
-   ]
-  },
-  {
-   "ticker": "YUM",
-   "score": 27.2,
-   "signals": {
-    "sell_cluster": {
-     "fired": false,
-     "points": 0.0,
-     "distinct_sellers": 0
-    },
-    "insider_distribution": {
-     "fired": true,
-     "points": 27.2,
-     "distinct_sellers": 6,
-     "weighted_sellers": 3.5
-    },
-    "committee_sell": {
-     "fired": false,
-     "points": 0.0
-    }
-   },
-   "evidence": [
-    {
-     "id": "I-2a7931fa5370",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-1b4b30cc62b5",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-afeea67519c1",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-5f59b31d683d",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-a45b16fb721a",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-4a6feff4fad2",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-ebe9401a95c8",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-c836b595a72d",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-100561ecdfd0",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-e059995d9e41",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-0519ba1109cf",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-48880a154e6f",
-     "signal": "insider_distribution"
-    }
-   ],
-   "stats": {
-    "congress_sells": 0,
-    "insider_sells": 12
-   },
-   "name": "YUM BRANDS INC",
-   "sectors": [
-    "retail"
-   ]
+   "name": "e.l.f. Beauty, Inc.",
+   "sectors": []
   }
  ],
  "universe": 737,
- "generated_at": "2026-09-03T15:10:22Z"
+ "generated_at": "2026-09-04T15:06:55Z"
 }
