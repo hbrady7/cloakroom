@@ -1,6 +1,31 @@
 {
- "generated_at": "2026-09-04T15:04:46Z",
+ "generated_at": "2026-09-07T16:38:06Z",
  "transactions": [
+  {
+   "id": "C-dac0b758e0da",
+   "source": "congress",
+   "person": "Jonathan Jackson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "VSAT",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-28",
+   "filed_date": "2026-09-03",
+   "lag_days": 6,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035370.pdf"
+  },
   {
    "id": "C-d26dd3b3bc92",
    "source": "congress",

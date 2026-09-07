@@ -3,12 +3,12 @@
  "candidates": [
   {
    "ticker": "TSM",
-   "score": 15.1,
+   "score": 15.3,
    "signals": {
     "cluster": {
-     "fired": true,
+     "fired": false,
      "points": 0.0,
-     "distinct_buyers": 3
+     "distinct_buyers": 2
     },
     "committee": {
      "fired": false,
@@ -56,27 +56,11 @@
     },
     "size": {
      "fired": false,
-     "points": 0.0,
-     "max_band_mid": 175000
+     "points": 0.1,
+     "max_band_mid": 8000
     }
    },
    "evidence": [
-    {
-     "id": "C-2fbce0af5cb6",
-     "signal": "cluster"
-    },
-    {
-     "id": "C-17f8c4c8bcd3",
-     "signal": "cluster"
-    },
-    {
-     "id": "C-d6561a502241",
-     "signal": "cluster"
-    },
-    {
-     "id": "C-c9c76bf199e2",
-     "signal": "cluster"
-    },
     {
      "id": "I-e6f5a1542508",
      "signal": "convergence"
@@ -156,11 +140,27 @@
     {
      "id": "I-b59338114d33",
      "signal": "convergence"
+    },
+    {
+     "id": "I-7f3c9fea2d24",
+     "signal": "convergence"
+    },
+    {
+     "id": "I-609a9587df1e",
+     "signal": "convergence"
+    },
+    {
+     "id": "I-3efabefb82f8",
+     "signal": "convergence"
+    },
+    {
+     "id": "I-2cc9a981e34e",
+     "signal": "convergence"
     }
    ],
    "stats": {
-    "congress_buys": 7,
-    "distinct_buyers": 4,
+    "congress_buys": 5,
+    "distinct_buyers": 3,
     "insider_open_market_buys": 70,
     "options_positions": 0
    },
@@ -449,6 +449,133 @@
    ]
   },
   {
+   "ticker": "CRWD",
+   "score": 34.3,
+   "signals": {
+    "sell_cluster": {
+     "fired": false,
+     "points": 0.0,
+     "distinct_sellers": 2
+    },
+    "insider_distribution": {
+     "fired": true,
+     "points": 34.3,
+     "distinct_sellers": 6,
+     "weighted_sellers": 5.0
+    },
+    "committee_sell": {
+     "fired": false,
+     "points": 0.0
+    }
+   },
+   "evidence": [
+    {
+     "id": "I-f0906335cd0b",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-eaec97c4d736",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-dccc043777bf",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-c4e479a14685",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-bb621d14a5d2",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-b97f48557d90",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-9c27c3700549",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-8f61c9348dff",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-6f39d3193c0a",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-40aaa8e1c7ae",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-1d9219f0760f",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-edf3ede55215",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-dc0bb4289e15",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-9f9aafb04303",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-97c1b9fcd009",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-7bdd25e9ae08",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-6c7ccd8cb404",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-54baec0d76cd",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-3e12379dda30",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-3e0bd7c69d19",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-33a352afef18",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-16de81ed4101",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-fb681f54d26c",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-e7c443546f61",
+     "signal": "insider_distribution"
+    }
+   ],
+   "stats": {
+    "congress_sells": 2,
+    "insider_sells": 709
+   },
+   "name": "CrowdStrike Holdings, Inc.",
+   "sectors": [
+    "tech"
+   ]
+  },
+  {
    "ticker": "JNJ",
    "score": 32.6,
    "signals": {
@@ -538,6 +665,133 @@
    "sectors": [
     "pharma",
     "biotech"
+   ]
+  },
+  {
+   "ticker": "TOST",
+   "score": 32.6,
+   "signals": {
+    "sell_cluster": {
+     "fired": false,
+     "points": 0.0,
+     "distinct_sellers": 0
+    },
+    "insider_distribution": {
+     "fired": true,
+     "points": 32.6,
+     "distinct_sellers": 6,
+     "weighted_sellers": 6.0
+    },
+    "committee_sell": {
+     "fired": false,
+     "points": 0.0
+    }
+   },
+   "evidence": [
+    {
+     "id": "I-f39549a1cac6",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-42d573e55423",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-3dce15acb4ff",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-2915efbf2eb5",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-1be12554be2d",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-c683200145ae",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-5b8e66bbf1ee",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-46d4c4b9dbb8",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-0a8258cafc5c",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-f896dc92981f",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-ee898493c9df",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-bbc16c7e4f24",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-a0644111303f",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-92a2816937f7",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-1612350c1119",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-1114d646df42",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-50d60e94f6ef",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-e5051ae28828",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-f38565565213",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-d959e91f66ed",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-2540c921bdc6",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-b77d3c13eb36",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-71f91a01c314",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-67eb8043543e",
+     "signal": "insider_distribution"
+    }
+   ],
+   "stats": {
+    "congress_sells": 0,
+    "insider_sells": 26
+   },
+   "name": "Toast, Inc.",
+   "sectors": [
+    "tech"
    ]
   },
   {
@@ -667,260 +921,8 @@
     "transport",
     "industrial"
    ]
-  },
-  {
-   "ticker": "CRWD",
-   "score": 31.0,
-   "signals": {
-    "sell_cluster": {
-     "fired": false,
-     "points": 0.0,
-     "distinct_sellers": 2
-    },
-    "insider_distribution": {
-     "fired": true,
-     "points": 31.0,
-     "distinct_sellers": 6,
-     "weighted_sellers": 5.0
-    },
-    "committee_sell": {
-     "fired": false,
-     "points": 0.0
-    }
-   },
-   "evidence": [
-    {
-     "id": "I-fb681f54d26c",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-e7c443546f61",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-e3b5df70d240",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-e021118d875f",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-ce16cc1b6636",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-c43796969b45",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-c2ae955b276c",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-c08c67c710a5",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-bf1fa6c8a3ac",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-be3d5133d586",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-bd7f12c7d44e",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-b431bed95cd1",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-9b3c3bc39695",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-98db7abb49be",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-9869eec79aae",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-95b366406142",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-86ddcaa98c4e",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-835dfff60c19",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-7671e576cca2",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-715bbc5ecda0",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-65a62013d764",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-5b7745bd5046",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-563c79c76684",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-51a2f1e51b03",
-     "signal": "insider_distribution"
-    }
-   ],
-   "stats": {
-    "congress_sells": 2,
-    "insider_sells": 687
-   },
-   "name": "CrowdStrike Holdings, Inc.",
-   "sectors": [
-    "tech"
-   ]
-  },
-  {
-   "ticker": "ELF",
-   "score": 31.0,
-   "signals": {
-    "sell_cluster": {
-     "fired": false,
-     "points": 0.0,
-     "distinct_sellers": 1
-    },
-    "insider_distribution": {
-     "fired": true,
-     "points": 31.0,
-     "distinct_sellers": 7,
-     "weighted_sellers": 7.0
-    },
-    "committee_sell": {
-     "fired": false,
-     "points": 0.0
-    }
-   },
-   "evidence": [
-    {
-     "id": "I-be770b958599",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-eb5a16765f1b",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-7f7660777fc4",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-31d6fa7747f6",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-d360249bdc5c",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-cc79f65208f8",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-85068bbb1914",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-7d14d1d3f8fc",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-59518f35eed0",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-483c9317b0b7",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-46e31401c80d",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-0dd916a1e8fb",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-a2f6023dc6ca",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-796a59768cc1",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-51279269f044",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-3d895f618860",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-33386c650843",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-5d64776385ca",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-b385dae43336",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-80a5d0fe431b",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-4d996a23e410",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-3cfe120782ea",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-19568aa0169d",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-a49936fefc5e",
-     "signal": "insider_distribution"
-    }
-   ],
-   "stats": {
-    "congress_sells": 1,
-    "insider_sells": 24
-   },
-   "name": "e.l.f. Beauty, Inc.",
-   "sectors": []
   }
  ],
- "universe": 737,
- "generated_at": "2026-09-04T15:06:55Z"
+ "universe": 723,
+ "generated_at": "2026-09-07T16:40:20Z"
 }
