@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-07T16:39:09Z",
+ "generated_at": "2026-09-08T15:17:51Z",
  "tickers": {
   "ZTS": {
    "name": "Zoetis Inc.",
@@ -5106,6 +5106,260 @@
    "sic_desc": "Communications Services, NEC",
    "sectors": [
     "telecom"
+   ]
+  },
+  "USPH": {
+   "name": "U S PHYSICAL THERAPY INC /NV",
+   "cik": 885978,
+   "sic": "8000",
+   "sic_desc": "Services-Health Services",
+   "sectors": [
+    "healthcare"
+   ]
+  },
+  "SPXC": {
+   "name": "SPX Technologies, Inc.",
+   "cik": 88205,
+   "sic": "3540",
+   "sic_desc": "Metalworkg Machinery & Equipment",
+   "sectors": [
+    "industrial"
+   ]
+  },
+  "SKWD": {
+   "name": "Skyward Specialty Insurance Group, Inc.",
+   "cik": 1519449,
+   "sic": "6331",
+   "sic_desc": "Fire, Marine & Casualty Insurance",
+   "sectors": [
+    "insurance"
+   ]
+  },
+  "SFM": {
+   "name": "Sprouts Farmers Market, Inc.",
+   "cik": 1575515,
+   "sic": "5411",
+   "sic_desc": "Retail-Grocery Stores",
+   "sectors": [
+    "retail"
+   ]
+  },
+  "SF": {
+   "name": "STIFEL FINANCIAL CORP",
+   "cik": 720672,
+   "sic": "6211",
+   "sic_desc": "Security Brokers, Dealers & Flotation Companies",
+   "sectors": [
+    "fintech",
+    "banks"
+   ]
+  },
+  "PRAX": {
+   "name": "Praxis Precision Medicines, Inc.",
+   "cik": 1689548,
+   "sic": "2834",
+   "sic_desc": "Pharmaceutical Preparations",
+   "sectors": [
+    "pharma",
+    "biotech"
+   ]
+  },
+  "NHI": {
+   "name": "NATIONAL HEALTH INVESTORS INC",
+   "cik": 877860,
+   "sic": "6798",
+   "sic_desc": "Real Estate Investment Trusts",
+   "sectors": [
+    "real_estate",
+    "banks"
+   ]
+  },
+  "MTX": {
+   "name": "MINERALS TECHNOLOGIES INC",
+   "cik": 891014,
+   "sic": "2810",
+   "sic_desc": "Industrial Inorganic Chemicals",
+   "sectors": [
+    "industrial"
+   ]
+  },
+  "MSB": {
+   "name": "MESABI TRUST",
+   "cik": 65172,
+   "sic": "6795",
+   "sic_desc": "Mineral Royalty Traders",
+   "sectors": [
+    "real_estate",
+    "banks"
+   ]
+  },
+  "MRVL": {
+   "name": "Marvell Technology, Inc.",
+   "cik": 1835632,
+   "sic": "3674",
+   "sic_desc": "Semiconductors & Related Devices",
+   "sectors": [
+    "semis",
+    "tech"
+   ]
+  },
+  "LAMR": {
+   "name": "LAMAR ADVERTISING CO/NEW",
+   "cik": 1090425,
+   "sic": "6798",
+   "sic_desc": "Real Estate Investment Trusts",
+   "sectors": [
+    "real_estate",
+    "banks"
+   ]
+  },
+  "IRT": {
+   "name": "INDEPENDENCE REALTY TRUST, INC.",
+   "cik": 1466085,
+   "sic": "6798",
+   "sic_desc": "Real Estate Investment Trusts",
+   "sectors": [
+    "real_estate",
+    "banks"
+   ]
+  },
+  "HMN": {
+   "name": "HORACE MANN EDUCATORS CORP /DE/",
+   "cik": 850141,
+   "sic": "6331",
+   "sic_desc": "Fire, Marine & Casualty Insurance",
+   "sectors": [
+    "insurance"
+   ]
+  },
+  "HLI": {
+   "name": "HOULIHAN LOKEY, INC.",
+   "cik": 1302215,
+   "sic": "6282",
+   "sic_desc": "Investment Advice",
+   "sectors": [
+    "fintech",
+    "banks"
+   ]
+  },
+  "GBCI": {
+   "name": "GLACIER BANCORP, INC.",
+   "cik": 868671,
+   "sic": "6022",
+   "sic_desc": "State Commercial Banks",
+   "sectors": [
+    "banks"
+   ]
+  },
+  "FERG": {
+   "name": "Ferguson Enterprises Inc. /DE/",
+   "cik": 2011641,
+   "sic": "5070",
+   "sic_desc": "Wholesale-Hardware & Plumbing & Heating Equipment & Supplies",
+   "sectors": [
+    "retail"
+   ]
+  },
+  "EPAC": {
+   "name": "ENERPAC TOOL GROUP CORP",
+   "cik": 6955,
+   "sic": "3590",
+   "sic_desc": "Misc Industrial & Commercial Machinery & Equipment",
+   "sectors": []
+  },
+  "DD": {
+   "name": "DuPont de Nemours, Inc.",
+   "cik": 1666700,
+   "sic": "2821",
+   "sic_desc": "Plastic Materials, Synth Resins & Nonvulcan Elastomers",
+   "sectors": [
+    "industrial"
+   ]
+  },
+  "CRNX": {
+   "name": "Crinetics Pharmaceuticals, Inc.",
+   "cik": 1658247,
+   "sic": "2834",
+   "sic_desc": "Pharmaceutical Preparations",
+   "sectors": [
+    "pharma",
+    "biotech"
+   ]
+  },
+  "COMP": {
+   "name": "Compass, Inc.",
+   "cik": 1563190,
+   "sic": "6531",
+   "sic_desc": "Real Estate Agents & Managers (For Others)",
+   "sectors": [
+    "real_estate"
+   ]
+  },
+  "COCO": {
+   "name": "Vita Coco Company, Inc.",
+   "cik": 1482981,
+   "sic": "2080",
+   "sic_desc": "Beverages",
+   "sectors": [
+    "food",
+    "ag"
+   ]
+  },
+  "BCRX": {
+   "name": "BIOCRYST PHARMACEUTICALS INC",
+   "cik": 882796,
+   "sic": "2836",
+   "sic_desc": "Biological Products, (No Diagnostic Substances)",
+   "sectors": [
+    "pharma",
+    "biotech"
+   ]
+  },
+  "BCPC": {
+   "name": "BALCHEM CORP",
+   "cik": 9326,
+   "sic": "2800",
+   "sic_desc": "Chemicals & Allied Products",
+   "sectors": [
+    "industrial"
+   ]
+  },
+  "AVAV": {
+   "name": "AeroVironment Inc",
+   "cik": 1368622,
+   "sic": "3721",
+   "sic_desc": "Aircraft",
+   "sectors": [
+    "aerospace",
+    "defense"
+   ]
+  },
+  "AORT": {
+   "name": "ARTIVION, INC.",
+   "cik": 784199,
+   "sic": "3841",
+   "sic_desc": "Surgical & Medical Instruments & Apparatus",
+   "sectors": [
+    "healthcare"
+   ]
+  },
+  "ALKS": {
+   "name": "Alkermes plc.",
+   "cik": 1520262,
+   "sic": "2834",
+   "sic_desc": "Pharmaceutical Preparations",
+   "sectors": [
+    "pharma",
+    "biotech"
+   ]
+  },
+  "ABCB": {
+   "name": "Ameris Bancorp",
+   "cik": 351569,
+   "sic": "6022",
+   "sic_desc": "State Commercial Banks",
+   "sectors": [
+    "banks"
    ]
   }
  }

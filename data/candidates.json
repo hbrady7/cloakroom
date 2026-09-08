@@ -1,9 +1,9 @@
 {
- "as_of": "2026-09-04",
+ "as_of": "2026-09-08",
  "candidates": [
   {
    "ticker": "TSM",
-   "score": 15.3,
+   "score": 12.5,
    "signals": {
     "cluster": {
      "fired": false,
@@ -21,7 +21,7 @@
     },
     "convergence": {
      "fired": true,
-     "points": 15.1,
+     "points": 12.4,
      "insider_buyers": [
       "Chang Tzonz-Sheng",
       "Chen Chih-Ho",
@@ -159,7 +159,7 @@
     }
    ],
    "stats": {
-    "congress_buys": 5,
+    "congress_buys": 4,
     "distinct_buyers": 3,
     "insider_open_market_buys": 70,
     "options_positions": 0
@@ -172,7 +172,7 @@
   },
   {
    "ticker": "APTV",
-   "score": 12.6,
+   "score": 10.3,
    "signals": {
     "cluster": {
      "fired": false,
@@ -181,7 +181,7 @@
     },
     "committee": {
      "fired": true,
-     "points": 0.7,
+     "points": 0.6,
      "aligned_buyers": [
       "John Boozman"
      ],
@@ -192,7 +192,7 @@
     },
     "convergence": {
      "fired": true,
-     "points": 11.7,
+     "points": 9.6,
      "insider_buyers": [
       "Agnevall Hakan",
       "Clark Kevin P",
@@ -259,7 +259,7 @@
   },
   {
    "ticker": "IBP",
-   "score": 5.0,
+   "score": 4.1,
    "signals": {
     "cluster": {
      "fired": false,
@@ -268,7 +268,7 @@
     },
     "committee": {
      "fired": true,
-     "points": 4.2,
+     "points": 3.5,
      "aligned_buyers": [
       "David J. Taylor"
      ],
@@ -291,7 +291,7 @@
     },
     "size": {
      "fired": false,
-     "points": 0.8,
+     "points": 0.7,
      "max_band_mid": 8000
     }
    },
@@ -324,70 +324,12 @@
     "industrial",
     "real_estate"
    ]
-  },
-  {
-   "ticker": "BE",
-   "score": 3.4,
-   "signals": {
-    "cluster": {
-     "fired": false,
-     "points": 0.0,
-     "distinct_buyers": 1
-    },
-    "committee": {
-     "fired": false,
-     "points": 0.0,
-     "aligned_buyers": [],
-     "sectors": [
-      "industrial"
-     ]
-    },
-    "convergence": {
-     "fired": false,
-     "points": 0.0,
-     "insider_buyers": []
-    },
-    "options": {
-     "fired": true,
-     "points": 2.3,
-     "count": 2
-    },
-    "size": {
-     "fired": true,
-     "points": 1.1,
-     "max_band_mid": 3000000
-    }
-   },
-   "evidence": [
-    {
-     "id": "C-ffc49bf84752",
-     "signal": "options"
-    },
-    {
-     "id": "C-b9c7e054d6c9",
-     "signal": "options"
-    },
-    {
-     "id": "C-b9c7e054d6c9",
-     "signal": "size"
-    }
-   ],
-   "stats": {
-    "congress_buys": 4,
-    "distinct_buyers": 1,
-    "insider_open_market_buys": 0,
-    "options_positions": 2
-   },
-   "name": "Bloom Energy Corp",
-   "sectors": [
-    "industrial"
-   ]
   }
  ],
  "caution": [
   {
    "ticker": "MRSH",
-   "score": 38.4,
+   "score": 31.5,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -396,13 +338,13 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 32.6,
+     "points": 26.7,
      "distinct_sellers": 6,
      "weighted_sellers": 5.0
     },
     "committee_sell": {
      "fired": true,
-     "points": 5.8
+     "points": 4.8
     }
    },
    "evidence": [
@@ -450,7 +392,7 @@
   },
   {
    "ticker": "CRWD",
-   "score": 34.3,
+   "score": 28.1,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -459,7 +401,7 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 34.3,
+     "points": 28.1,
      "distinct_sellers": 6,
      "weighted_sellers": 5.0
     },
@@ -577,7 +519,7 @@
   },
   {
    "ticker": "JNJ",
-   "score": 32.6,
+   "score": 26.8,
    "signals": {
     "sell_cluster": {
      "fired": true,
@@ -586,7 +528,7 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 32.6,
+     "points": 26.7,
      "distinct_sellers": 6,
      "weighted_sellers": 6.0
     },
@@ -669,7 +611,7 @@
   },
   {
    "ticker": "TOST",
-   "score": 32.6,
+   "score": 26.7,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -678,7 +620,7 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 32.6,
+     "points": 26.7,
      "distinct_sellers": 6,
      "weighted_sellers": 6.0
     },
@@ -796,7 +738,7 @@
   },
   {
    "ticker": "WAB",
-   "score": 32.6,
+   "score": 26.7,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -805,7 +747,7 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 32.6,
+     "points": 26.7,
      "distinct_sellers": 7,
      "weighted_sellers": 6.0
     },
@@ -923,6 +865,6 @@
    ]
   }
  ],
- "universe": 723,
- "generated_at": "2026-09-07T16:40:20Z"
+ "universe": 744,
+ "generated_at": "2026-09-08T15:18:39Z"
 }
