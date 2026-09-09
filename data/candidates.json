@@ -159,8 +159,8 @@
     }
    ],
    "stats": {
-    "congress_buys": 4,
-    "distinct_buyers": 3,
+    "congress_buys": 3,
+    "distinct_buyers": 2,
     "insider_open_market_buys": 70,
     "options_positions": 0
    },
@@ -518,6 +518,261 @@
    ]
   },
   {
+   "ticker": "META",
+   "score": 28.1,
+   "signals": {
+    "sell_cluster": {
+     "fired": false,
+     "points": 0.0,
+     "distinct_sellers": 2
+    },
+    "insider_distribution": {
+     "fired": true,
+     "points": 28.1,
+     "distinct_sellers": 8,
+     "weighted_sellers": 5.0
+    },
+    "committee_sell": {
+     "fired": false,
+     "points": 0.0
+    }
+   },
+   "evidence": [
+    {
+     "id": "I-5e2a003951c0",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-f7dcb285b9c6",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-f724358c0714",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-ec62fd75f387",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-d386b97b8f84",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-9a336517a17a",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-7d4ce7b86304",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-67f6005b7a1a",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-63983631b1d3",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-5a9dd1cac690",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-59092a5e6ebe",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-5403d6295c1e",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-5146a3c3528d",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-4d42c869d6c3",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-25e49a561ccc",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-0b7059c61b04",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-d6a766cf6f69",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-f92d89f3968b",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-93211daf7601",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-84dd319b1824",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-747a75b70e75",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-6af0a3f54804",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-6870254fc575",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-6350248fc04a",
+     "signal": "insider_distribution"
+    }
+   ],
+   "stats": {
+    "congress_sells": 5,
+    "insider_sells": 70
+   },
+   "name": "Meta Platforms, Inc.",
+   "sectors": [
+    "tech"
+   ]
+  },
+  {
+   "ticker": "EQIX",
+   "score": 27.9,
+   "signals": {
+    "sell_cluster": {
+     "fired": false,
+     "points": 0.0,
+     "distinct_sellers": 1
+    },
+    "insider_distribution": {
+     "fired": true,
+     "points": 27.9,
+     "distinct_sellers": 7,
+     "weighted_sellers": 4.5
+    },
+    "committee_sell": {
+     "fired": false,
+     "points": 0.0
+    }
+   },
+   "evidence": [
+    {
+     "id": "I-adfc7dc728f6",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-cabb249d9d89",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-087db8fada96",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-15c1171c70f6",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-d0618a703fb1",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-869c343fa884",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-f9cc3485f312",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-fff74b392f13",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-feb52bfaa3b8",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-f8b5922638ff",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-f820fa2181a8",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-e50bee72acec",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-dca75dcefdde",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-d7c57e01c403",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-d4459b27b1c3",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-c292ad349ee7",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-c108a2f7a078",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-bb1b08fb6a58",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-a8146642ef2c",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-9fd437240ccc",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-91bb26d242f6",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-8faf24bbbfee",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-8ef70686ab47",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-80fad5072c4e",
+     "signal": "insider_distribution"
+    }
+   ],
+   "stats": {
+    "congress_sells": 1,
+    "insider_sells": 60
+   },
+   "name": "EQUINIX INC",
+   "sectors": [
+    "real_estate",
+    "banks"
+   ]
+  },
+  {
    "ticker": "JNJ",
    "score": 26.8,
    "signals": {
@@ -608,263 +863,8 @@
     "pharma",
     "biotech"
    ]
-  },
-  {
-   "ticker": "TOST",
-   "score": 26.7,
-   "signals": {
-    "sell_cluster": {
-     "fired": false,
-     "points": 0.0,
-     "distinct_sellers": 0
-    },
-    "insider_distribution": {
-     "fired": true,
-     "points": 26.7,
-     "distinct_sellers": 6,
-     "weighted_sellers": 6.0
-    },
-    "committee_sell": {
-     "fired": false,
-     "points": 0.0
-    }
-   },
-   "evidence": [
-    {
-     "id": "I-f39549a1cac6",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-42d573e55423",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-3dce15acb4ff",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-2915efbf2eb5",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-1be12554be2d",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-c683200145ae",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-5b8e66bbf1ee",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-46d4c4b9dbb8",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-0a8258cafc5c",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-f896dc92981f",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-ee898493c9df",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-bbc16c7e4f24",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-a0644111303f",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-92a2816937f7",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-1612350c1119",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-1114d646df42",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-50d60e94f6ef",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-e5051ae28828",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-f38565565213",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-d959e91f66ed",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-2540c921bdc6",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-b77d3c13eb36",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-71f91a01c314",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-67eb8043543e",
-     "signal": "insider_distribution"
-    }
-   ],
-   "stats": {
-    "congress_sells": 0,
-    "insider_sells": 26
-   },
-   "name": "Toast, Inc.",
-   "sectors": [
-    "tech"
-   ]
-  },
-  {
-   "ticker": "WAB",
-   "score": 26.7,
-   "signals": {
-    "sell_cluster": {
-     "fired": false,
-     "points": 0.0,
-     "distinct_sellers": 2
-    },
-    "insider_distribution": {
-     "fired": true,
-     "points": 26.7,
-     "distinct_sellers": 7,
-     "weighted_sellers": 6.0
-    },
-    "committee_sell": {
-     "fired": false,
-     "points": 0.0
-    }
-   },
-   "evidence": [
-    {
-     "id": "I-fcbfface0317",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-de844e30a8af",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-7b3543a1fbf1",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-1690a1708205",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-57df62fb7e5a",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-40dcc205fcd0",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-3d52ebb5a146",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-2d3730c3d166",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-de1278f8f3f9",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-505b1f2c47aa",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-f052c1594b15",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-9fc9311a599e",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-6e2601d52207",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-eaf3703f2fac",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-e2d49c790ea2",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-a5dff4162e9c",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-93102a7e85db",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-ee63702252fe",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-882793402842",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-4c09b60964c2",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-34c876678a44",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-db70e0afaae0",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-c3a13b0fd9e8",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-c3977044c7ff",
-     "signal": "insider_distribution"
-    }
-   ],
-   "stats": {
-    "congress_sells": 7,
-    "insider_sells": 45
-   },
-   "name": "WESTINGHOUSE AIR BRAKE TECHNOLOGIES CORP",
-   "sectors": [
-    "transport",
-    "industrial"
-   ]
   }
  ],
- "universe": 744,
- "generated_at": "2026-09-08T15:18:39Z"
+ "universe": 737,
+ "generated_at": "2026-09-09T15:17:28Z"
 }
