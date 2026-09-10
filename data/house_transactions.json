@@ -1,6 +1,32 @@
 {
- "generated_at": "2026-09-09T15:15:40Z",
+ "generated_at": "2026-09-10T15:07:38Z",
  "transactions": [
+  {
+   "id": "C-9f08dbb5d498",
+   "source": "congress",
+   "person": "Lloyd Doggett",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on the Budget",
+     "House Committee on Ways and Means",
+     "Joint Committee on Taxation"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "PG",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-17",
+   "filed_date": "2026-09-08",
+   "lag_days": 22,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035401.pdf"
+  },
   {
    "id": "C-dc7a63bd9622",
    "source": "congress",
