@@ -1,6 +1,1631 @@
 {
- "generated_at": "2026-09-11T15:10:55Z",
+ "generated_at": "2026-09-14T17:02:55Z",
  "transactions": [
+  {
+   "id": "C-cc6b521038d4",
+   "source": "congress",
+   "person": "Thomas H. Kean",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on Energy and Commerce"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "GOOGL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-27",
+   "filed_date": "2026-09-12",
+   "lag_days": 16,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035431.pdf"
+  },
+  {
+   "id": "C-af719b82d30e",
+   "source": "congress",
+   "person": "Thomas H. Kean",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on Energy and Commerce"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MSFT",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-08-27",
+   "filed_date": "2026-09-12",
+   "lag_days": 16,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035431.pdf"
+  },
+  {
+   "id": "C-44ce5ae8d180",
+   "source": "congress",
+   "person": "Thomas H. Kean",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on Energy and Commerce"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "JNJ",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-27",
+   "filed_date": "2026-09-12",
+   "lag_days": 16,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035431.pdf"
+  },
+  {
+   "id": "C-c58772f63d50",
+   "source": "congress",
+   "person": "Thomas H. Kean",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on Energy and Commerce"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MTZ",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-21",
+   "filed_date": "2026-09-12",
+   "lag_days": 22,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035431.pdf"
+  },
+  {
+   "id": "C-92ad99a2f9f0",
+   "source": "congress",
+   "person": "Thomas H. Kean",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on Energy and Commerce"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "LIN",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-10",
+   "filed_date": "2026-09-12",
+   "lag_days": 33,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035431.pdf"
+  },
+  {
+   "id": "C-49ca54dee2a0",
+   "source": "congress",
+   "person": "Thomas H. Kean",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on Energy and Commerce"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "AMCR",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-10",
+   "filed_date": "2026-09-12",
+   "lag_days": 33,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035431.pdf"
+  },
+  {
+   "id": "C-f193781d5aa0",
+   "source": "congress",
+   "person": "John W. Rose",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Financial Services"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "SMCWX",
+   "asset_type": "other",
+   "side": "sell",
+   "amount_low": 500001,
+   "amount_high": 1000000,
+   "tx_date": "2025-06-03",
+   "filed_date": "2026-09-12",
+   "lag_days": 466,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035445.pdf"
+  },
+  {
+   "id": "C-5806c5f854d6",
+   "source": "congress",
+   "person": "John W. Rose",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Financial Services"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "GOOGL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 250001,
+   "amount_high": 500000,
+   "tx_date": "2025-06-03",
+   "filed_date": "2026-09-12",
+   "lag_days": 466,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035444.pdf"
+  },
+  {
+   "id": "C-a9385082710d",
+   "source": "congress",
+   "person": "Gilbert Cisneros",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Small Business"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "DASH",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-28",
+   "filed_date": "2026-09-10",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf"
+  },
+  {
+   "id": "C-9f042811356e",
+   "source": "congress",
+   "person": "Gilbert Cisneros",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Small Business"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "PWR",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-08-27",
+   "filed_date": "2026-09-10",
+   "lag_days": 14,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf"
+  },
+  {
+   "id": "C-143a755b0bbf",
+   "source": "congress",
+   "person": "Gilbert Cisneros",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Small Business"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "NKE",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-08-27",
+   "filed_date": "2026-09-10",
+   "lag_days": 14,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf"
+  },
+  {
+   "id": "C-06bb155950c2",
+   "source": "congress",
+   "person": "Gilbert Cisneros",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Small Business"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ETN",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-08-27",
+   "filed_date": "2026-09-10",
+   "lag_days": 14,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf"
+  },
+  {
+   "id": "C-c09de220bd97",
+   "source": "congress",
+   "person": "Gilbert Cisneros",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Small Business"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "WMT",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-26",
+   "filed_date": "2026-09-10",
+   "lag_days": 15,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf"
+  },
+  {
+   "id": "C-779561a6b51d",
+   "source": "congress",
+   "person": "Gilbert Cisneros",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Small Business"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "GS",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-26",
+   "filed_date": "2026-09-10",
+   "lag_days": 15,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf"
+  },
+  {
+   "id": "C-62df8f238af8",
+   "source": "congress",
+   "person": "Gilbert Cisneros",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Small Business"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "WPM",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-26",
+   "filed_date": "2026-09-10",
+   "lag_days": 15,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf"
+  },
+  {
+   "id": "C-509dd50a5b6c",
+   "source": "congress",
+   "person": "Gilbert Cisneros",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Small Business"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "PHR",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-26",
+   "filed_date": "2026-09-10",
+   "lag_days": 15,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf"
+  },
+  {
+   "id": "C-84a0bdee1f83",
+   "source": "congress",
+   "person": "Gilbert Cisneros",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Small Business"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "PHR",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-25",
+   "filed_date": "2026-09-10",
+   "lag_days": 16,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf"
+  },
+  {
+   "id": "C-55e05fb5b895",
+   "source": "congress",
+   "person": "Gilbert Cisneros",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Small Business"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "LAMR",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-08-25",
+   "filed_date": "2026-09-10",
+   "lag_days": 16,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf"
+  },
+  {
+   "id": "C-02f7876dbdae",
+   "source": "congress",
+   "person": "Gilbert Cisneros",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Small Business"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "LAMR",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-08-24",
+   "filed_date": "2026-09-10",
+   "lag_days": 17,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf"
+  },
+  {
+   "id": "C-fd4b6cb8a099",
+   "source": "congress",
+   "person": "Gilbert Cisneros",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Small Business"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "LAMR",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-08-20",
+   "filed_date": "2026-09-10",
+   "lag_days": 21,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf"
+  },
+  {
+   "id": "C-e56688453329",
+   "source": "congress",
+   "person": "Gilbert Cisneros",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Small Business"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ATRC",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-20",
+   "filed_date": "2026-09-10",
+   "lag_days": 21,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf"
+  },
+  {
+   "id": "C-e3a5431a9574",
+   "source": "congress",
+   "person": "Gilbert Cisneros",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Small Business"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "HMN",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-20",
+   "filed_date": "2026-09-10",
+   "lag_days": 21,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf"
+  },
+  {
+   "id": "C-cd5fcf87ef37",
+   "source": "congress",
+   "person": "Gilbert Cisneros",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Small Business"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "META",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-20",
+   "filed_date": "2026-09-10",
+   "lag_days": 21,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf"
+  },
+  {
+   "id": "C-3ac9a8d1ae4a",
+   "source": "congress",
+   "person": "Gilbert Cisneros",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Small Business"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "AGIO",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-20",
+   "filed_date": "2026-09-10",
+   "lag_days": 21,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf"
+  },
+  {
+   "id": "C-302cf10c3bca",
+   "source": "congress",
+   "person": "Gilbert Cisneros",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Small Business"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "AORT",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-20",
+   "filed_date": "2026-09-10",
+   "lag_days": 21,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf"
+  },
+  {
+   "id": "C-0d0d7b9adf6f",
+   "source": "congress",
+   "person": "Gilbert Cisneros",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Small Business"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CECO",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-20",
+   "filed_date": "2026-09-10",
+   "lag_days": 21,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf"
+  },
+  {
+   "id": "C-f65b0083cdd7",
+   "source": "congress",
+   "person": "Gilbert Cisneros",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Small Business"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "GMED",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-08-19",
+   "filed_date": "2026-09-10",
+   "lag_days": 22,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf"
+  },
+  {
+   "id": "C-f2ab8424304d",
+   "source": "congress",
+   "person": "Gilbert Cisneros",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Small Business"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "DLTR",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-08-19",
+   "filed_date": "2026-09-10",
+   "lag_days": 22,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf"
+  },
+  {
+   "id": "C-e79ac2baa9ab",
+   "source": "congress",
+   "person": "Gilbert Cisneros",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Small Business"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "LAMR",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 200,
+   "amount_high": 15001,
+   "tx_date": "2026-08-19",
+   "filed_date": "2026-09-10",
+   "lag_days": 22,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf"
+  },
+  {
+   "id": "C-c7277e914e05",
+   "source": "congress",
+   "person": "Gilbert Cisneros",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Small Business"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "FSV",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-19",
+   "filed_date": "2026-09-10",
+   "lag_days": 22,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf"
+  },
+  {
+   "id": "C-c2344d627d19",
+   "source": "congress",
+   "person": "Gilbert Cisneros",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Small Business"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CDW",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-19",
+   "filed_date": "2026-09-10",
+   "lag_days": 22,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf"
+  },
+  {
+   "id": "C-b465183e3287",
+   "source": "congress",
+   "person": "Gilbert Cisneros",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Small Business"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CSGP",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-19",
+   "filed_date": "2026-09-10",
+   "lag_days": 22,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf"
+  },
+  {
+   "id": "C-68fac8e64b93",
+   "source": "congress",
+   "person": "Gilbert Cisneros",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Small Business"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "KMX",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-19",
+   "filed_date": "2026-09-10",
+   "lag_days": 22,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf"
+  },
+  {
+   "id": "C-fa00e3cdb496",
+   "source": "congress",
+   "person": "Gilbert Cisneros",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Small Business"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "TSLA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-18",
+   "filed_date": "2026-09-10",
+   "lag_days": 23,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf"
+  },
+  {
+   "id": "C-e9d26bb818d8",
+   "source": "congress",
+   "person": "Gilbert Cisneros",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Small Business"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "VRSK",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-18",
+   "filed_date": "2026-09-10",
+   "lag_days": 23,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf"
+  },
+  {
+   "id": "C-c80ee99ccab8",
+   "source": "congress",
+   "person": "Gilbert Cisneros",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Small Business"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "INTU",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-18",
+   "filed_date": "2026-09-10",
+   "lag_days": 23,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf"
+  },
+  {
+   "id": "C-b95376c8ca69",
+   "source": "congress",
+   "person": "Gilbert Cisneros",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Small Business"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CCI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-18",
+   "filed_date": "2026-09-10",
+   "lag_days": 23,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf"
+  },
+  {
+   "id": "C-b0907c138156",
+   "source": "congress",
+   "person": "Gilbert Cisneros",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Small Business"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "TYL",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-18",
+   "filed_date": "2026-09-10",
+   "lag_days": 23,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf"
+  },
+  {
+   "id": "C-adefd051ba19",
+   "source": "congress",
+   "person": "Gilbert Cisneros",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Small Business"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "IBM",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-18",
+   "filed_date": "2026-09-10",
+   "lag_days": 23,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf"
+  },
+  {
+   "id": "C-a6aa42bc4396",
+   "source": "congress",
+   "person": "Gilbert Cisneros",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Small Business"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "AMD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-18",
+   "filed_date": "2026-09-10",
+   "lag_days": 23,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf"
+  },
+  {
+   "id": "C-922ec02070ee",
+   "source": "congress",
+   "person": "Gilbert Cisneros",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Small Business"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "NVDA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-18",
+   "filed_date": "2026-09-10",
+   "lag_days": 23,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf"
+  },
+  {
+   "id": "C-8db3180c15c7",
+   "source": "congress",
+   "person": "Gilbert Cisneros",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Small Business"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "APP",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-18",
+   "filed_date": "2026-09-10",
+   "lag_days": 23,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf"
+  },
+  {
+   "id": "C-8b99f4ece44d",
+   "source": "congress",
+   "person": "Gilbert Cisneros",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Small Business"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "COIN",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-18",
+   "filed_date": "2026-09-10",
+   "lag_days": 23,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf"
+  },
+  {
+   "id": "C-5513f3693061",
+   "source": "congress",
+   "person": "Gilbert Cisneros",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Small Business"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "BSX",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-18",
+   "filed_date": "2026-09-10",
+   "lag_days": 23,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf"
+  },
+  {
+   "id": "C-50f33df226c3",
+   "source": "congress",
+   "person": "Gilbert Cisneros",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Small Business"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "APH",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-18",
+   "filed_date": "2026-09-10",
+   "lag_days": 23,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf"
+  },
+  {
+   "id": "C-42deefaf8988",
+   "source": "congress",
+   "person": "Gilbert Cisneros",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Small Business"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "TTD",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-18",
+   "filed_date": "2026-09-10",
+   "lag_days": 23,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf"
+  },
+  {
+   "id": "C-3c25ed17d257",
+   "source": "congress",
+   "person": "Gilbert Cisneros",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Small Business"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "WDAY",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-18",
+   "filed_date": "2026-09-10",
+   "lag_days": 23,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf"
+  },
+  {
+   "id": "C-35f70b760641",
+   "source": "congress",
+   "person": "Gilbert Cisneros",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Small Business"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MSFT",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-08-18",
+   "filed_date": "2026-09-10",
+   "lag_days": 23,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf"
+  },
+  {
+   "id": "C-321e0e34a51e",
+   "source": "congress",
+   "person": "Gilbert Cisneros",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Small Business"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "COHR",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-18",
+   "filed_date": "2026-09-10",
+   "lag_days": 23,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf"
+  },
+  {
+   "id": "C-2cba929c741a",
+   "source": "congress",
+   "person": "Gilbert Cisneros",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Small Business"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "NET",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-18",
+   "filed_date": "2026-09-10",
+   "lag_days": 23,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf"
+  },
+  {
+   "id": "C-15b7c6926e80",
+   "source": "congress",
+   "person": "Gilbert Cisneros",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Small Business"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "GDDY",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-18",
+   "filed_date": "2026-09-10",
+   "lag_days": 23,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf"
+  },
+  {
+   "id": "C-0339dbbbc942",
+   "source": "congress",
+   "person": "Gilbert Cisneros",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Small Business"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "PODD",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-18",
+   "filed_date": "2026-09-10",
+   "lag_days": 23,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf"
+  },
+  {
+   "id": "C-f7829c0e1087",
+   "source": "congress",
+   "person": "Gilbert Cisneros",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Small Business"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "SHAK",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-11",
+   "filed_date": "2026-09-10",
+   "lag_days": 30,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf"
+  },
+  {
+   "id": "C-d5657b7cdfc5",
+   "source": "congress",
+   "person": "Gilbert Cisneros",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Small Business"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "TXRH",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-11",
+   "filed_date": "2026-09-10",
+   "lag_days": 30,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf"
+  },
+  {
+   "id": "C-ebd8a67e67f0",
+   "source": "congress",
+   "person": "Gilbert Cisneros",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Small Business"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "SKHY",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-07",
+   "filed_date": "2026-09-10",
+   "lag_days": 34,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf"
+  },
+  {
+   "id": "C-d0be5833f961",
+   "source": "congress",
+   "person": "Gilbert Cisneros",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Small Business"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "SNOW",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-07",
+   "filed_date": "2026-09-10",
+   "lag_days": 34,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf"
+  },
+  {
+   "id": "C-b4172f5c97d7",
+   "source": "congress",
+   "person": "Gilbert Cisneros",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Small Business"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "DCO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-07",
+   "filed_date": "2026-09-10",
+   "lag_days": 34,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf"
+  },
+  {
+   "id": "C-abf1d12d69b0",
+   "source": "congress",
+   "person": "Gilbert Cisneros",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Small Business"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "STRL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-08-07",
+   "filed_date": "2026-09-10",
+   "lag_days": 34,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf"
+  },
+  {
+   "id": "C-a2d98f690cfc",
+   "source": "congress",
+   "person": "Gilbert Cisneros",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Small Business"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-07",
+   "filed_date": "2026-09-10",
+   "lag_days": 34,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf"
+  },
+  {
+   "id": "C-4db4981dd431",
+   "source": "congress",
+   "person": "Gilbert Cisneros",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Small Business"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "NEO",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-07",
+   "filed_date": "2026-09-10",
+   "lag_days": 34,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf"
+  },
+  {
+   "id": "C-482fcfc1be88",
+   "source": "congress",
+   "person": "Gilbert Cisneros",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Small Business"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "HLI",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-07",
+   "filed_date": "2026-09-10",
+   "lag_days": 34,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf"
+  },
+  {
+   "id": "C-10707af32b6a",
+   "source": "congress",
+   "person": "Gilbert Cisneros",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Small Business"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MOG.A",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-08-07",
+   "filed_date": "2026-09-10",
+   "lag_days": 34,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf"
+  },
+  {
+   "id": "C-a56b3dcf961c",
+   "source": "congress",
+   "person": "Gilbert Cisneros",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Small Business"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "NXPI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-09-10",
+   "lag_days": 36,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf"
+  },
+  {
+   "id": "C-5725b6372a18",
+   "source": "congress",
+   "person": "Gilbert Cisneros",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Small Business"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "EA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-05",
+   "filed_date": "2026-09-10",
+   "lag_days": 36,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf"
+  },
+  {
+   "id": "C-8b79c917d186",
+   "source": "congress",
+   "person": "Gilbert Cisneros",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Small Business"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "APG",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-04",
+   "filed_date": "2026-09-10",
+   "lag_days": 37,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf"
+  },
   {
    "id": "C-e8880d876bf5",
    "source": "congress",
@@ -52729,150 +54354,6 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033947.pdf"
-  },
-  {
-   "id": "C-8575f7d4b2d0",
-   "source": "congress",
-   "person": "Cleo Fields",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Financial Services"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "META",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 50001,
-   "amount_high": 100000,
-   "tx_date": "2026-01-20",
-   "filed_date": "2026-02-03",
-   "lag_days": 14,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033858.pdf"
-  },
-  {
-   "id": "C-733e9f51869e",
-   "source": "congress",
-   "person": "Cleo Fields",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Financial Services"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "GOOG",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 100001,
-   "amount_high": 250000,
-   "tx_date": "2026-01-20",
-   "filed_date": "2026-02-03",
-   "lag_days": 14,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033858.pdf"
-  },
-  {
-   "id": "C-61e1b0e42fdc",
-   "source": "congress",
-   "person": "Cleo Fields",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Financial Services"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "NFLX",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 50001,
-   "amount_high": 100000,
-   "tx_date": "2026-01-20",
-   "filed_date": "2026-02-03",
-   "lag_days": 14,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033858.pdf"
-  },
-  {
-   "id": "C-2a5917fcc43c",
-   "source": "congress",
-   "person": "Cleo Fields",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Financial Services"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "IREN",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 50001,
-   "amount_high": 100000,
-   "tx_date": "2026-01-20",
-   "filed_date": "2026-02-03",
-   "lag_days": 14,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033858.pdf"
-  },
-  {
-   "id": "C-761f660c8941",
-   "source": "congress",
-   "person": "Cleo Fields",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Financial Services"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "GOOG",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-12",
-   "filed_date": "2026-02-03",
-   "lag_days": 22,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033858.pdf"
-  },
-  {
-   "id": "C-b56b75fbbf4c",
-   "source": "congress",
-   "person": "Cleo Fields",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Financial Services"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "TSM",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-08",
-   "filed_date": "2026-02-03",
-   "lag_days": 26,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033858.pdf"
   }
  ]
 }
