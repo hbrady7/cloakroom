@@ -1,6 +1,181 @@
 {
- "generated_at": "2026-09-15T15:40:33Z",
+ "generated_at": "2026-09-16T15:31:15Z",
  "transactions": [
+  {
+   "id": "C-5c90e808bdf9",
+   "source": "congress",
+   "person": "Josh Gottheimer",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Permanent Select Committee on Intelligence",
+     "House Committee on Financial Services"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MSFT",
+   "asset_type": "option",
+   "side": "sell",
+   "amount_low": 250001,
+   "amount_high": 500000,
+   "tx_date": "2026-08-14",
+   "filed_date": "2026-09-14",
+   "lag_days": 31,
+   "option_detail": "Call options; Strike price $340; Expires 12/18/2026",
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035455.pdf"
+  },
+  {
+   "id": "C-55bb7b31c679",
+   "source": "congress",
+   "person": "Josh Gottheimer",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Permanent Select Committee on Intelligence",
+     "House Committee on Financial Services"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MSFT",
+   "asset_type": "option",
+   "side": "buy",
+   "amount_low": 250001,
+   "amount_high": 500000,
+   "tx_date": "2026-08-14",
+   "filed_date": "2026-09-14",
+   "lag_days": 31,
+   "option_detail": "Call options; Strike price $340; Expires 10/16/2026",
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035455.pdf"
+  },
+  {
+   "id": "C-168e2ce0f682",
+   "source": "congress",
+   "person": "Josh Gottheimer",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Permanent Select Committee on Intelligence",
+     "House Committee on Financial Services"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MSFT",
+   "asset_type": "option",
+   "side": "sell",
+   "amount_low": 500001,
+   "amount_high": 1000000,
+   "tx_date": "2026-08-14",
+   "filed_date": "2026-09-14",
+   "lag_days": 31,
+   "option_detail": "Call options; Strike price $335; Expires 12/18/2026",
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035455.pdf"
+  },
+  {
+   "id": "C-08c7556b9c4e",
+   "source": "congress",
+   "person": "Josh Gottheimer",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Permanent Select Committee on Intelligence",
+     "House Committee on Financial Services"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MSFT",
+   "asset_type": "option",
+   "side": "buy",
+   "amount_low": 500001,
+   "amount_high": 1000000,
+   "tx_date": "2026-08-14",
+   "filed_date": "2026-09-14",
+   "lag_days": 31,
+   "option_detail": "Call options; Strike price $330; Expires 10/16/2026",
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035455.pdf"
+  },
+  {
+   "id": "C-b1850d10e125",
+   "source": "congress",
+   "person": "Josh Gottheimer",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Permanent Select Committee on Intelligence",
+     "House Committee on Financial Services"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "RSG",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-06",
+   "filed_date": "2026-09-14",
+   "lag_days": 39,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035455.pdf"
+  },
+  {
+   "id": "C-7e8b0fb9ea41",
+   "source": "congress",
+   "person": "Josh Gottheimer",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Permanent Select Committee on Intelligence",
+     "House Committee on Financial Services"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "AMAT",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-06",
+   "filed_date": "2026-09-14",
+   "lag_days": 39,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035455.pdf"
+  },
+  {
+   "id": "C-253b42c3daf7",
+   "source": "congress",
+   "person": "Josh Gottheimer",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Permanent Select Committee on Intelligence",
+     "House Committee on Financial Services"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "QSR",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-06",
+   "filed_date": "2026-09-14",
+   "lag_days": 39,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035455.pdf"
+  },
   {
    "id": "C-cc6b521038d4",
    "source": "congress",

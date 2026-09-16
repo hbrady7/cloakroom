@@ -1,9 +1,9 @@
 {
- "as_of": "2026-09-14",
+ "as_of": "2026-09-15",
  "candidates": [
   {
    "ticker": "BSX",
-   "score": 13.6,
+   "score": 12.9,
    "signals": {
     "cluster": {
      "fired": false,
@@ -22,7 +22,7 @@
     },
     "convergence": {
      "fired": true,
-     "points": 13.0,
+     "points": 12.4,
      "insider_buyers": [
       "Habiger David C",
       "Ludwig Edward J",
@@ -92,7 +92,7 @@
   },
   {
    "ticker": "TSM",
-   "score": 9.3,
+   "score": 8.9,
    "signals": {
     "cluster": {
      "fired": false,
@@ -110,7 +110,7 @@
     },
     "convergence": {
      "fired": true,
-     "points": 9.2,
+     "points": 8.8,
      "insider_buyers": [
       "Chang Tzonz-Sheng",
       "Chen Chih-Ho",
@@ -261,7 +261,7 @@
   },
   {
    "ticker": "APTV",
-   "score": 7.7,
+   "score": 7.3,
    "signals": {
     "cluster": {
      "fired": false,
@@ -281,7 +281,7 @@
     },
     "convergence": {
      "fired": true,
-     "points": 7.2,
+     "points": 6.8,
      "insider_buyers": [
       "Agnevall Hakan",
       "Clark Kevin P",
@@ -347,8 +347,141 @@
    ]
   },
   {
+   "ticker": "MSFT",
+   "score": 4.8,
+   "signals": {
+    "cluster": {
+     "fired": true,
+     "points": 0.0,
+     "distinct_buyers": 6
+    },
+    "committee": {
+     "fired": true,
+     "points": 0.2,
+     "aligned_buyers": [
+      "Jared Moskowitz",
+      "John Fetterman"
+     ],
+     "sectors": [
+      "tech"
+     ]
+    },
+    "convergence": {
+     "fired": false,
+     "points": 0.0,
+     "insider_buyers": []
+    },
+    "options": {
+     "fired": true,
+     "points": 3.1,
+     "count": 6
+    },
+    "size": {
+     "fired": true,
+     "points": 1.5,
+     "max_band_mid": 750000
+    }
+   },
+   "evidence": [
+    {
+     "id": "C-b13387010f13",
+     "signal": "cluster"
+    },
+    {
+     "id": "C-f2ff3e511f3c",
+     "signal": "cluster"
+    },
+    {
+     "id": "C-e9922c91f265",
+     "signal": "cluster"
+    },
+    {
+     "id": "C-b6fd7a726b9a",
+     "signal": "cluster"
+    },
+    {
+     "id": "C-ff6ee8165a14",
+     "signal": "cluster"
+    },
+    {
+     "id": "C-d298402edcb6",
+     "signal": "cluster"
+    },
+    {
+     "id": "C-581ad587ccfb",
+     "signal": "cluster"
+    },
+    {
+     "id": "C-bd6927cdf00b",
+     "signal": "cluster"
+    },
+    {
+     "id": "C-86da95e1917c",
+     "signal": "cluster"
+    },
+    {
+     "id": "C-56e38c3056d2",
+     "signal": "cluster"
+    },
+    {
+     "id": "C-92ee09528a5a",
+     "signal": "committee"
+    },
+    {
+     "id": "C-3837ff943ade",
+     "signal": "committee"
+    },
+    {
+     "id": "C-56e38c3056d2",
+     "signal": "committee"
+    },
+    {
+     "id": "C-bd6927cdf00b",
+     "signal": "committee"
+    },
+    {
+     "id": "C-55bb7b31c679",
+     "signal": "options"
+    },
+    {
+     "id": "C-08c7556b9c4e",
+     "signal": "options"
+    },
+    {
+     "id": "C-4aa1a712b5d0",
+     "signal": "options"
+    },
+    {
+     "id": "C-1f28c502e5a3",
+     "signal": "options"
+    },
+    {
+     "id": "C-ff6ee8165a14",
+     "signal": "options"
+    },
+    {
+     "id": "C-d298402edcb6",
+     "signal": "options"
+    },
+    {
+     "id": "C-08c7556b9c4e",
+     "signal": "size"
+    }
+   ],
+   "stats": {
+    "congress_buys": 28,
+    "distinct_buyers": 12,
+    "insider_open_market_buys": 0,
+    "options_positions": 6
+   },
+   "name": "MICROSOFT CORP",
+   "sectors": [
+    "tech"
+   ]
+  },
+  {
    "ticker": "HUBB",
-   "score": 4.4,
+   "score": 4.1,
    "signals": {
     "cluster": {
      "fired": false,
@@ -357,7 +490,7 @@
     },
     "committee": {
      "fired": true,
-     "points": 3.3,
+     "points": 3.2,
      "aligned_buyers": [
       "April McClain Delaney"
      ],
@@ -377,7 +510,7 @@
      "count": 0
     },
     "size": {
-     "fired": true,
+     "fired": false,
      "points": 1.0,
      "max_band_mid": 32500
     }
@@ -446,10 +579,6 @@
     {
      "id": "C-4b573859b012",
      "signal": "committee"
-    },
-    {
-     "id": "C-0254a0ee3f47",
-     "signal": "size"
     }
    ],
    "stats": {
@@ -466,7 +595,7 @@
   },
   {
    "ticker": "MLM",
-   "score": 3.6,
+   "score": 3.4,
    "signals": {
     "cluster": {
      "fired": false,
@@ -475,7 +604,7 @@
     },
     "committee": {
      "fired": true,
-     "points": 3.3,
+     "points": 3.2,
      "aligned_buyers": [
       "April McClain Delaney"
      ],
@@ -537,80 +666,266 @@
     "mining",
     "commodities"
    ]
-  },
-  {
-   "ticker": "IBP",
-   "score": 3.1,
-   "signals": {
-    "cluster": {
-     "fired": false,
-     "points": 0.0,
-     "distinct_buyers": 1
-    },
-    "committee": {
-     "fired": true,
-     "points": 2.6,
-     "aligned_buyers": [
-      "David J. Taylor"
-     ],
-     "sectors": [
-      "industrial",
-      "real_estate"
-     ]
-    },
-    "convergence": {
-     "fired": false,
-     "points": 0.0,
-     "insider_buyers": [
-      "Miller Michael Thomas"
-     ]
-    },
-    "options": {
-     "fired": false,
-     "points": 0.0,
-     "count": 0
-    },
-    "size": {
-     "fired": false,
-     "points": 0.5,
-     "max_band_mid": 8000
-    }
-   },
-   "evidence": [
-    {
-     "id": "C-0399f7763bcc",
-     "signal": "committee"
-    },
-    {
-     "id": "C-3e061b6aa658",
-     "signal": "committee"
-    },
-    {
-     "id": "C-399a6bced201",
-     "signal": "committee"
-    },
-    {
-     "id": "C-806d4b0f5c44",
-     "signal": "committee"
-    }
-   ],
-   "stats": {
-    "congress_buys": 4,
-    "distinct_buyers": 1,
-    "insider_open_market_buys": 10,
-    "options_positions": 0
-   },
-   "name": "Installed Building Products, Inc.",
-   "sectors": [
-    "industrial",
-    "real_estate"
-   ]
   }
  ],
  "caution": [
   {
+   "ticker": "MSFT",
+   "score": 34.6,
+   "signals": {
+    "sell_cluster": {
+     "fired": true,
+     "points": 7.9,
+     "distinct_sellers": 5
+    },
+    "insider_distribution": {
+     "fired": true,
+     "points": 26.6,
+     "distinct_sellers": 4,
+     "weighted_sellers": 3.0
+    },
+    "committee_sell": {
+     "fired": false,
+     "points": 0.0
+    }
+   },
+   "evidence": [
+    {
+     "id": "C-892072bcfb93",
+     "signal": "sell_cluster"
+    },
+    {
+     "id": "C-a3f2a91f05e8",
+     "signal": "sell_cluster"
+    },
+    {
+     "id": "C-5c90e808bdf9",
+     "signal": "sell_cluster"
+    },
+    {
+     "id": "C-168e2ce0f682",
+     "signal": "sell_cluster"
+    },
+    {
+     "id": "C-3dea2f979525",
+     "signal": "sell_cluster"
+    },
+    {
+     "id": "C-d55bec63e6bf",
+     "signal": "sell_cluster"
+    },
+    {
+     "id": "C-af719b82d30e",
+     "signal": "sell_cluster"
+    },
+    {
+     "id": "I-c3eaea55b454",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-ac31d1e9dedd",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-94992e3e14ee",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-77235d07abdd",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-2587f2fc5f44",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-141e547aacde",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-d7a4a64d8a63",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-bd25cd21e7ce",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-bbb5ef01fd0f",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-a49ba2407ffb",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-862b25fe4195",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-21cc4f889aed",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-1c51fd39deb1",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-16072ae5dafc",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-c69920128276",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-48ff84d38459",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-2f140cd0913a",
+     "signal": "insider_distribution"
+    }
+   ],
+   "stats": {
+    "congress_sells": 24,
+    "insider_sells": 18
+   },
+   "name": "MICROSOFT CORP",
+   "sectors": [
+    "tech"
+   ]
+  },
+  {
+   "ticker": "CRWD",
+   "score": 34.3,
+   "signals": {
+    "sell_cluster": {
+     "fired": false,
+     "points": 0.0,
+     "distinct_sellers": 2
+    },
+    "insider_distribution": {
+     "fired": true,
+     "points": 34.3,
+     "distinct_sellers": 7,
+     "weighted_sellers": 6.0
+    },
+    "committee_sell": {
+     "fired": false,
+     "points": 0.0
+    }
+   },
+   "evidence": [
+    {
+     "id": "I-f680650ffd3d",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-f46a14233474",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-f0a8b9be54af",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-e9c36d9cfe0e",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-e1a2eb59ac51",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-dda0883ffa9b",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-da05e9fc6d67",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-bdda24a2c0f1",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-bc765d6047ba",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-a5028905f403",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-91ced9044efc",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-8fc6da60a275",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-8c1de25668c4",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-85ebbcf73a23",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-81e2ac436485",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-78941d4b2d22",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-73bc6db1576d",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-5a33d070a4c6",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-43e4e3ffe5b3",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-31475793f345",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-26350898d2df",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-f0b510e3b55d",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-d368424ac519",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-c51f6e246736",
+     "signal": "insider_distribution"
+    }
+   ],
+   "stats": {
+    "congress_sells": 2,
+    "insider_sells": 765
+   },
+   "name": "CrowdStrike Holdings, Inc.",
+   "sectors": [
+    "tech"
+   ]
+  },
+  {
    "ticker": "ATRC",
-   "score": 31.0,
+   "score": 29.5,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -619,7 +934,7 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 31.0,
+     "points": 29.5,
      "distinct_sellers": 8,
      "weighted_sellers": 7.5
     },
@@ -676,8 +991,8 @@
    ]
   },
   {
-   "ticker": "LTH",
-   "score": 31.0,
+   "ticker": "CRDO",
+   "score": 29.5,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -686,7 +1001,135 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 31.0,
+     "points": 29.5,
+     "distinct_sellers": 7,
+     "weighted_sellers": 6.0
+    },
+    "committee_sell": {
+     "fired": false,
+     "points": 0.0
+    }
+   },
+   "evidence": [
+    {
+     "id": "I-e7b17d281a89",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-c2629996b69d",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-bf07c0c8ab35",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-052fe9afb2a9",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-95451753ea42",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-eab90d1c22ce",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-db41534e92b1",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-d21b7fce23c9",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-cf14ae11b987",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-c105bfb2c0f9",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-be648aaecffe",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-b7c33fcb7add",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-accb7c3ff0a9",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-a5540089e25f",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-8f432a014e1b",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-84c5655b8d82",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-7aeb08a79d3f",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-7804ebe047ac",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-764e93b117d5",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-7483fe464986",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-73a150c5e9da",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-6669d740b1ad",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-580a6ebab836",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-4737f8b9311a",
+     "signal": "insider_distribution"
+    }
+   ],
+   "stats": {
+    "congress_sells": 2,
+    "insider_sells": 252
+   },
+   "name": "Credo Technology Group Holding Ltd",
+   "sectors": [
+    "semis",
+    "tech"
+   ]
+  },
+  {
+   "ticker": "LTH",
+   "score": 29.5,
+   "signals": {
+    "sell_cluster": {
+     "fired": false,
+     "points": 0.0,
+     "distinct_sellers": 1
+    },
+    "insider_distribution": {
+     "fired": true,
+     "points": 29.5,
      "distinct_sellers": 10,
      "weighted_sellers": 10.0
     },
@@ -799,349 +1242,8 @@
    },
    "name": "Life Time Group Holdings, Inc.",
    "sectors": []
-  },
-  {
-   "ticker": "CSCO",
-   "score": 30.0,
-   "signals": {
-    "sell_cluster": {
-     "fired": false,
-     "points": 0.0,
-     "distinct_sellers": 2
-    },
-    "insider_distribution": {
-     "fired": true,
-     "points": 30.0,
-     "distinct_sellers": 7,
-     "weighted_sellers": 3.5
-    },
-    "committee_sell": {
-     "fired": false,
-     "points": 0.0
-    }
-   },
-   "evidence": [
-    {
-     "id": "I-633a5c2dd897",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-426a4662c3cb",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-6fe395e6736e",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-ffe78a7ab3af",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-2b587055b34d",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-271122de4fab",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-f5afb0cdff02",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-deffcadab191",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-de4a7fea107e",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-ddaf7193a714",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-c0c36384578c",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-b6f5315bde62",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-a173c00148af",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-95c8040726a6",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-8bf18bf182ae",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-658e85e2752b",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-4d040831db5b",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-4af1836d6042",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-14a94c905d41",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-0be880a3b95c",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-007ea5fbc6c1",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-c045ff5682ee",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-a65fe6adfd74",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-ffbd66a8b53c",
-     "signal": "insider_distribution"
-    }
-   ],
-   "stats": {
-    "congress_sells": 4,
-    "insider_sells": 33
-   },
-   "name": "CISCO SYSTEMS, INC.",
-   "sectors": [
-    "tech"
-   ]
-  },
-  {
-   "ticker": "CRWD",
-   "score": 29.5,
-   "signals": {
-    "sell_cluster": {
-     "fired": false,
-     "points": 0.0,
-     "distinct_sellers": 2
-    },
-    "insider_distribution": {
-     "fired": true,
-     "points": 29.5,
-     "distinct_sellers": 6,
-     "weighted_sellers": 5.0
-    },
-    "committee_sell": {
-     "fired": false,
-     "points": 0.0
-    }
-   },
-   "evidence": [
-    {
-     "id": "I-e7b8c971f8ba",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-5e20ef962a1d",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-5bb500c7c75e",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-56475c91dc80",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-4e1879d7e6ee",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-36c99f8655e5",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-201cf844c854",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-16b0ee0752e9",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-14036398c3e4",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-0143d64990d3",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-bb400e5b0c75",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-b69dd1b3c404",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-585680171dd9",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-4aeeb151107a",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-3c89765dfce8",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-3a950e5cf092",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-cd5680f20401",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-908b683e5894",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-8df587d3b232",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-609ca5c52513",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-1e58c15ec077",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-0f7a906a821e",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-a39108fb1709",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-6e6dfeec874c",
-     "signal": "insider_distribution"
-    }
-   ],
-   "stats": {
-    "congress_sells": 2,
-    "insider_sells": 736
-   },
-   "name": "CrowdStrike Holdings, Inc.",
-   "sectors": [
-    "tech"
-   ]
-  },
-  {
-   "ticker": "NFLX",
-   "score": 29.5,
-   "signals": {
-    "sell_cluster": {
-     "fired": false,
-     "points": 0.0,
-     "distinct_sellers": 1
-    },
-    "insider_distribution": {
-     "fired": true,
-     "points": 29.5,
-     "distinct_sellers": 7,
-     "weighted_sellers": 5.0
-    },
-    "committee_sell": {
-     "fired": false,
-     "points": 0.0
-    }
-   },
-   "evidence": [
-    {
-     "id": "I-8c3ebc2aa78e",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-a8f04a378af5",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-8d77a4911883",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-4bd6c602d878",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-b2939e4c136c",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-6cd542ba2181",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-f172adb3355c",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-56cbf6e5497f",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-7041e37c73bb",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-4d482531c3db",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-f8e209a7abb6",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-7c468290845c",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-59ab59176807",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-3f414f0e65ff",
-     "signal": "insider_distribution"
-    }
-   ],
-   "stats": {
-    "congress_sells": 3,
-    "insider_sells": 14
-   },
-   "name": "NETFLIX INC",
-   "sectors": [
-    "media"
-   ]
   }
  ],
- "universe": 754,
- "generated_at": "2026-09-15T15:42:48Z"
+ "universe": 755,
+ "generated_at": "2026-09-16T15:33:06Z"
 }
