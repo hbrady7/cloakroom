@@ -1,6 +1,320 @@
 {
- "generated_at": "2026-09-17T15:38:21Z",
+ "generated_at": "2026-09-18T15:06:53Z",
  "transactions": [
+  {
+   "id": "C-64eac32e5321",
+   "source": "congress",
+   "person": "David J. Taylor",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Transportation and Infrastructure"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "IBP",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-08",
+   "filed_date": "2026-09-17",
+   "lag_days": 9,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035471.pdf"
+  },
+  {
+   "id": "C-0f6d7c85bc75",
+   "source": "congress",
+   "person": "David J. Taylor",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Transportation and Infrastructure"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "PG",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-08",
+   "filed_date": "2026-09-17",
+   "lag_days": 9,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035471.pdf"
+  },
+  {
+   "id": "C-fb8f630d7cfd",
+   "source": "congress",
+   "person": "Scott Scott Franklin",
+   "role": {
+    "chamber": "house",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "",
+   "ticker": "PEP",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-26",
+   "filed_date": "2026-09-17",
+   "lag_days": 22,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035450.pdf"
+  },
+  {
+   "id": "C-fac0ae3e4e33",
+   "source": "congress",
+   "person": "Scott Scott Franklin",
+   "role": {
+    "chamber": "house",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "",
+   "ticker": "LSYIX",
+   "asset_type": "other",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-26",
+   "filed_date": "2026-09-17",
+   "lag_days": 22,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035450.pdf"
+  },
+  {
+   "id": "C-98b868886c1a",
+   "source": "congress",
+   "person": "Scott Scott Franklin",
+   "role": {
+    "chamber": "house",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "",
+   "ticker": "ACN",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-26",
+   "filed_date": "2026-09-17",
+   "lag_days": 22,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035450.pdf"
+  },
+  {
+   "id": "C-7bc44b4568d4",
+   "source": "congress",
+   "person": "Scott Scott Franklin",
+   "role": {
+    "chamber": "house",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "",
+   "ticker": "ACN",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-26",
+   "filed_date": "2026-09-17",
+   "lag_days": 22,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035450.pdf"
+  },
+  {
+   "id": "C-75f47c0b2448",
+   "source": "congress",
+   "person": "Scott Scott Franklin",
+   "role": {
+    "chamber": "house",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "",
+   "ticker": "PEP",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-26",
+   "filed_date": "2026-09-17",
+   "lag_days": 22,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035450.pdf"
+  },
+  {
+   "id": "C-6eb0630ed15f",
+   "source": "congress",
+   "person": "Scott Scott Franklin",
+   "role": {
+    "chamber": "house",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "",
+   "ticker": "MCD",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-26",
+   "filed_date": "2026-09-17",
+   "lag_days": 22,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035450.pdf"
+  },
+  {
+   "id": "C-1afdc7fcaa58",
+   "source": "congress",
+   "person": "Scott Scott Franklin",
+   "role": {
+    "chamber": "house",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "",
+   "ticker": "NVO",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-26",
+   "filed_date": "2026-09-17",
+   "lag_days": 22,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035450.pdf"
+  },
+  {
+   "id": "C-cd14bdcb2d9b",
+   "source": "congress",
+   "person": "Scott Scott Franklin",
+   "role": {
+    "chamber": "house",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "",
+   "ticker": "JPM",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-20",
+   "filed_date": "2026-09-17",
+   "lag_days": 28,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035450.pdf"
+  },
+  {
+   "id": "C-c8eb27beb952",
+   "source": "congress",
+   "person": "Scott Scott Franklin",
+   "role": {
+    "chamber": "house",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "",
+   "ticker": "JPM",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-20",
+   "filed_date": "2026-09-17",
+   "lag_days": 28,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035450.pdf"
+  },
+  {
+   "id": "C-978b987c2de1",
+   "source": "congress",
+   "person": "Scott Scott Franklin",
+   "role": {
+    "chamber": "house",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "",
+   "ticker": "AAPL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-20",
+   "filed_date": "2026-09-17",
+   "lag_days": 28,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035450.pdf"
+  },
+  {
+   "id": "C-4830f1da0aab",
+   "source": "congress",
+   "person": "Scott Scott Franklin",
+   "role": {
+    "chamber": "house",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "",
+   "ticker": "GOOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-20",
+   "filed_date": "2026-09-17",
+   "lag_days": 28,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035450.pdf"
+  },
+  {
+   "id": "C-242f6d99be17",
+   "source": "congress",
+   "person": "Scott Scott Franklin",
+   "role": {
+    "chamber": "house",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "",
+   "ticker": "GOOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-20",
+   "filed_date": "2026-09-17",
+   "lag_days": 28,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035450.pdf"
+  },
   {
    "id": "C-f6100c06280a",
    "source": "congress",
@@ -54602,31 +54916,6 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033956.pdf"
-  },
-  {
-   "id": "C-b630b0883166",
-   "source": "congress",
-   "person": "Steve Cohen",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Permanent Select Committee on Intelligence",
-     "House Committee on the Judiciary"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "SONY",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-12-26",
-   "filed_date": "2026-02-09",
-   "lag_days": 0,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033889.pdf"
   }
  ]
 }

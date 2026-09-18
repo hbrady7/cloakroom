@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-17T15:40:14Z",
+ "generated_at": "2026-09-18T15:08:55Z",
  "min_trades": 5,
  "members": [
   {
@@ -8,17 +8,17 @@
    "chamber": "senate",
    "state": "PA",
    "trades_scored": 6,
-   "avg_excess": 0.3407,
-   "win_rate": 0.833,
+   "avg_excess": 0.3505,
+   "win_rate": 1.0,
    "best": {
     "ticker": "MU",
     "side": "buy",
-    "excess": 1.4304
+    "excess": 1.4708
    },
    "worst": {
     "ticker": "GOOG",
     "side": "buy",
-    "excess": -0.0037
+    "excess": 0.0098
    }
   },
   {
@@ -27,17 +27,17 @@
    "chamber": "house",
    "state": "TX",
    "trades_scored": 5,
-   "avg_excess": 0.1554,
+   "avg_excess": 0.1414,
    "win_rate": 1.0,
    "best": {
     "ticker": "PINS",
     "side": "sell",
-    "excess": 0.206
+    "excess": 0.193
    },
    "worst": {
     "ticker": "PINS",
     "side": "sell",
-    "excess": 0.1427
+    "excess": 0.1285
    }
   },
   {
@@ -46,36 +46,17 @@
    "chamber": "house",
    "state": "HI",
    "trades_scored": 9,
-   "avg_excess": 0.1206,
+   "avg_excess": 0.1287,
    "win_rate": 1.0,
    "best": {
     "ticker": "AAPL",
     "side": "buy",
-    "excess": 0.1314
+    "excess": 0.1398
    },
    "worst": {
     "ticker": "AAPL",
     "side": "buy",
-    "excess": 0.0827
-   }
-  },
-  {
-   "person": "Byron Donalds",
-   "party": "Republican",
-   "chamber": "house",
-   "state": "FL",
-   "trades_scored": 24,
-   "avg_excess": 0.0855,
-   "win_rate": 0.75,
-   "best": {
-    "ticker": "TTD",
-    "side": "sell",
-    "excess": 0.4162
-   },
-   "worst": {
-    "ticker": "NFLX",
-    "side": "buy",
-    "excess": -0.3675
+    "excess": 0.0898
    }
   },
   {
@@ -84,17 +65,36 @@
    "chamber": "house",
    "state": "LA",
    "trades_scored": 11,
-   "avg_excess": 0.0797,
+   "avg_excess": 0.0868,
    "win_rate": 0.818,
    "best": {
     "ticker": "MSFT",
     "side": "buy",
-    "excess": 0.2891
+    "excess": 0.2846
    },
    "worst": {
     "ticker": "GOOG",
     "side": "buy",
-    "excess": -0.027
+    "excess": -0.0137
+   }
+  },
+  {
+   "person": "Byron Donalds",
+   "party": "Republican",
+   "chamber": "house",
+   "state": "FL",
+   "trades_scored": 24,
+   "avg_excess": 0.0783,
+   "win_rate": 0.583,
+   "best": {
+    "ticker": "TTD",
+    "side": "sell",
+    "excess": 0.4305
+   },
+   "worst": {
+    "ticker": "NFLX",
+    "side": "buy",
+    "excess": -0.4007
    }
   },
   {
@@ -103,17 +103,36 @@
    "chamber": "house",
    "state": "FL",
    "trades_scored": 64,
-   "avg_excess": 0.0585,
-   "win_rate": 0.531,
+   "avg_excess": 0.0636,
+   "win_rate": 0.594,
    "best": {
     "ticker": "PANW",
     "side": "buy",
-    "excess": 1.038
+    "excess": 0.9467
    },
    "worst": {
     "ticker": "ADP",
     "side": "sell",
-    "excess": -0.2444
+    "excess": -0.2359
+   }
+  },
+  {
+   "person": "John McGuire",
+   "party": "Republican",
+   "chamber": "house",
+   "state": "",
+   "trades_scored": 6,
+   "avg_excess": 0.0576,
+   "win_rate": 0.667,
+   "best": {
+    "ticker": "MSFT",
+    "side": "buy",
+    "excess": 0.1977
+   },
+   "worst": {
+    "ticker": "NVDA",
+    "side": "buy",
+    "excess": -0.0523
    }
   },
   {
@@ -122,36 +141,17 @@
    "chamber": "senate",
    "state": "RI",
    "trades_scored": 16,
-   "avg_excess": 0.0466,
+   "avg_excess": 0.049,
    "win_rate": 0.688,
    "best": {
     "ticker": "ORCL",
     "side": "sell",
-    "excess": 0.385
+    "excess": 0.4064
    },
    "worst": {
-    "ticker": "COHR",
-    "side": "buy",
-    "excess": -0.0986
-   }
-  },
-  {
-   "person": "Richard Dean Dr McCormick",
-   "party": "Republican",
-   "chamber": "house",
-   "state": "",
-   "trades_scored": 54,
-   "avg_excess": 0.0439,
-   "win_rate": 0.667,
-   "best": {
-    "ticker": "LHX",
+    "ticker": "JPM",
     "side": "sell",
-    "excess": 0.4547
-   },
-   "worst": {
-    "ticker": "ADP",
-    "side": "sell",
-    "excess": -0.202
+    "excess": -0.0717
    }
   },
   {
@@ -160,17 +160,36 @@
    "chamber": "senate",
    "state": "",
    "trades_scored": 6,
-   "avg_excess": 0.0399,
+   "avg_excess": 0.0472,
    "win_rate": 0.5,
    "best": {
     "ticker": "NFLX",
     "side": "sell",
-    "excess": 0.336
+    "excess": 0.3724
    },
    "worst": {
     "ticker": "MSFT",
     "side": "sell",
-    "excess": -0.1685
+    "excess": -0.1643
+   }
+  },
+  {
+   "person": "Richard Dean Dr McCormick",
+   "party": "Republican",
+   "chamber": "house",
+   "state": "",
+   "trades_scored": 54,
+   "avg_excess": 0.0429,
+   "win_rate": 0.685,
+   "best": {
+    "ticker": "LHX",
+    "side": "sell",
+    "excess": 0.4526
+   },
+   "worst": {
+    "ticker": "HD",
+    "side": "buy",
+    "excess": -0.1966
    }
   },
   {
@@ -179,17 +198,17 @@
    "chamber": "house",
    "state": "OK",
    "trades_scored": 43,
-   "avg_excess": 0.0188,
-   "win_rate": 0.674,
+   "avg_excess": 0.0265,
+   "win_rate": 0.698,
    "best": {
     "ticker": "CMCSA",
     "side": "sell",
-    "excess": 0.3042
+    "excess": 0.3216
    },
    "worst": {
     "ticker": "ICLR",
     "side": "sell",
-    "excess": -0.4146
+    "excess": -0.3568
    }
   },
   {
@@ -198,169 +217,17 @@
    "chamber": "senate",
    "state": "",
    "trades_scored": 6,
-   "avg_excess": 0.0185,
-   "win_rate": 1.0,
+   "avg_excess": 0.0188,
+   "win_rate": 0.667,
    "best": {
     "ticker": "ALNY",
     "side": "sell",
-    "excess": 0.0664
+    "excess": 0.0538
    },
    "worst": {
     "ticker": "AMZN",
     "side": "sell",
-    "excess": 0.0003
-   }
-  },
-  {
-   "person": "Gilbert Cisneros",
-   "party": "Democrat",
-   "chamber": "house",
-   "state": "",
-   "trades_scored": 349,
-   "avg_excess": 0.0146,
-   "win_rate": 0.499,
-   "best": {
-    "ticker": "MU",
-    "side": "buy",
-    "excess": 1.4321
-   },
-   "worst": {
-    "ticker": "AMD",
-    "side": "sell",
-    "excess": -1.2981
-   }
-  },
-  {
-   "person": "Thomas H Tuberville",
-   "party": "Republican",
-   "chamber": "senate",
-   "state": "",
-   "trades_scored": 142,
-   "avg_excess": 0.0092,
-   "win_rate": 0.514,
-   "best": {
-    "ticker": "PARA",
-    "side": "sell",
-    "excess": 0.4588
-   },
-   "worst": {
-    "ticker": "PARA",
-    "side": "buy",
-    "excess": -0.4588
-   }
-  },
-  {
-   "person": "John Boozman",
-   "party": "Republican",
-   "chamber": "senate",
-   "state": "AR",
-   "trades_scored": 82,
-   "avg_excess": 0.0057,
-   "win_rate": 0.537,
-   "best": {
-    "ticker": "PLTR",
-    "side": "buy",
-    "excess": 0.3128
-   },
-   "worst": {
-    "ticker": "CRM",
-    "side": "sell",
-    "excess": -0.1743
-   }
-  },
-  {
-   "person": "Tim Walberg",
-   "party": "Republican",
-   "chamber": "house",
-   "state": "MI",
-   "trades_scored": 9,
-   "avg_excess": 0.0053,
-   "win_rate": 0.556,
-   "best": {
-    "ticker": "CVX",
-    "side": "buy",
-    "excess": 0.1057
-   },
-   "worst": {
-    "ticker": "LHX",
-    "side": "buy",
-    "excess": -0.1914
-   }
-  },
-  {
-   "person": "Matthew Robert Van Epps",
-   "party": "Republican",
-   "chamber": "house",
-   "state": "",
-   "trades_scored": 12,
-   "avg_excess": 0.0048,
-   "win_rate": 0.5,
-   "best": {
-    "ticker": "TPR",
-    "side": "sell",
-    "excess": 0.2115
-   },
-   "worst": {
-    "ticker": "MSFT",
-    "side": "sell",
-    "excess": -0.2824
-   }
-  },
-  {
-   "person": "Tim Moore",
-   "party": "Republican",
-   "chamber": "house",
-   "state": "NC",
-   "trades_scored": 6,
-   "avg_excess": 0.0032,
-   "win_rate": 0.333,
-   "best": {
-    "ticker": "T",
-    "side": "buy",
-    "excess": 0.1026
-   },
-   "worst": {
-    "ticker": "T",
-    "side": "sell",
-    "excess": -0.1026
-   }
-  },
-  {
-   "person": "Elizabeth Fletcher",
-   "party": "",
-   "chamber": "house",
-   "state": "",
-   "trades_scored": 10,
-   "avg_excess": 0.003,
-   "win_rate": 0.4,
-   "best": {
-    "ticker": "PWR",
-    "side": "sell",
-    "excess": 0.231
-   },
-   "worst": {
-    "ticker": "MSFT",
-    "side": "sell",
-    "excess": -0.1433
-   }
-  },
-  {
-   "person": "David J. Taylor",
-   "party": "Republican",
-   "chamber": "house",
-   "state": "OH",
-   "trades_scored": 55,
-   "avg_excess": 0.0028,
-   "win_rate": 0.545,
-   "best": {
-    "ticker": "KR",
-    "side": "sell",
-    "excess": 0.3142
-   },
-   "worst": {
-    "ticker": "IBP",
-    "side": "buy",
-    "excess": -0.4153
+    "excess": -0.0134
    }
   },
   {
@@ -369,17 +236,131 @@
    "chamber": "house",
    "state": "PA",
    "trades_scored": 5,
-   "avg_excess": 0.0014,
+   "avg_excess": 0.013,
    "win_rate": 0.6,
    "best": {
-    "ticker": "ABT",
+    "ticker": "CMCSA",
     "side": "sell",
-    "excess": 0.0764
+    "excess": 0.0696
    },
    "worst": {
     "ticker": "BMY",
     "side": "sell",
-    "excess": -0.0913
+    "excess": -0.0799
+   }
+  },
+  {
+   "person": "Thomas H Tuberville",
+   "party": "Republican",
+   "chamber": "senate",
+   "state": "",
+   "trades_scored": 142,
+   "avg_excess": 0.0128,
+   "win_rate": 0.606,
+   "best": {
+    "ticker": "PARA",
+    "side": "sell",
+    "excess": 0.4708
+   },
+   "worst": {
+    "ticker": "PARA",
+    "side": "buy",
+    "excess": -0.4708
+   }
+  },
+  {
+   "person": "Gilbert Cisneros",
+   "party": "Democrat",
+   "chamber": "house",
+   "state": "",
+   "trades_scored": 349,
+   "avg_excess": 0.0126,
+   "win_rate": 0.47,
+   "best": {
+    "ticker": "MU",
+    "side": "buy",
+    "excess": 1.4725
+   },
+   "worst": {
+    "ticker": "AMD",
+    "side": "sell",
+    "excess": -1.2964
+   }
+  },
+  {
+   "person": "Tim Walberg",
+   "party": "Republican",
+   "chamber": "house",
+   "state": "MI",
+   "trades_scored": 9,
+   "avg_excess": 0.0103,
+   "win_rate": 0.667,
+   "best": {
+    "ticker": "CVX",
+    "side": "buy",
+    "excess": 0.1115
+   },
+   "worst": {
+    "ticker": "LHX",
+    "side": "buy",
+    "excess": -0.1899
+   }
+  },
+  {
+   "person": "Matthew Robert Van Epps",
+   "party": "Republican",
+   "chamber": "house",
+   "state": "",
+   "trades_scored": 12,
+   "avg_excess": 0.0082,
+   "win_rate": 0.5,
+   "best": {
+    "ticker": "TPR",
+    "side": "sell",
+    "excess": 0.2399
+   },
+   "worst": {
+    "ticker": "MSFT",
+    "side": "sell",
+    "excess": -0.278
+   }
+  },
+  {
+   "person": "John Boozman",
+   "party": "Republican",
+   "chamber": "senate",
+   "state": "AR",
+   "trades_scored": 82,
+   "avg_excess": 0.007,
+   "win_rate": 0.573,
+   "best": {
+    "ticker": "PLTR",
+    "side": "buy",
+    "excess": 0.3031
+   },
+   "worst": {
+    "ticker": "CEG",
+    "side": "buy",
+    "excess": -0.1821
+   }
+  },
+  {
+   "person": "Tim Moore",
+   "party": "Republican",
+   "chamber": "house",
+   "state": "NC",
+   "trades_scored": 6,
+   "avg_excess": 0.0037,
+   "win_rate": 0.5,
+   "best": {
+    "ticker": "T",
+    "side": "buy",
+    "excess": 0.1049
+   },
+   "worst": {
+    "ticker": "T",
+    "side": "sell",
+    "excess": -0.1049
    }
   },
   {
@@ -388,169 +369,17 @@
    "chamber": "house",
    "state": "",
    "trades_scored": 35,
-   "avg_excess": 0.0004,
-   "win_rate": 0.486,
+   "avg_excess": 0.0018,
+   "win_rate": 0.543,
    "best": {
     "ticker": "META",
     "side": "buy",
-    "excess": 0.1552
+    "excess": 0.1654
    },
    "worst": {
     "ticker": "META",
     "side": "sell",
-    "excess": -0.1552
-   }
-  },
-  {
-   "person": "Maria Elvira Salazar",
-   "party": "Republican",
-   "chamber": "house",
-   "state": "FL",
-   "trades_scored": 48,
-   "avg_excess": -0.0025,
-   "win_rate": 0.479,
-   "best": {
-    "ticker": "CRM",
-    "side": "buy",
-    "excess": 0.4267
-   },
-   "worst": {
-    "ticker": "CARR",
-    "side": "buy",
-    "excess": -0.2222
-   }
-  },
-  {
-   "person": "Alan Armstrong",
-   "party": "Republican",
-   "chamber": "senate",
-   "state": "OK",
-   "trades_scored": 311,
-   "avg_excess": -0.0029,
-   "win_rate": 0.447,
-   "best": {
-    "ticker": "CRM",
-    "side": "buy",
-    "excess": 0.4229
-   },
-   "worst": {
-    "ticker": "NOW",
-    "side": "sell",
-    "excess": -0.3496
-   }
-  },
-  {
-   "person": "Julie Johnson",
-   "party": "Democrat",
-   "chamber": "house",
-   "state": "TX",
-   "trades_scored": 78,
-   "avg_excess": -0.0051,
-   "win_rate": 0.474,
-   "best": {
-    "ticker": "PAYC",
-    "side": "buy",
-    "excess": 0.3301
-   },
-   "worst": {
-    "ticker": "PAYC",
-    "side": "sell",
-    "excess": -0.3301
-   }
-  },
-  {
-   "person": "Thomas H. Kean",
-   "party": "Republican",
-   "chamber": "house",
-   "state": "",
-   "trades_scored": 38,
-   "avg_excess": -0.0057,
-   "win_rate": 0.474,
-   "best": {
-    "ticker": "WPM",
-    "side": "buy",
-    "excess": 0.3868
-   },
-   "worst": {
-    "ticker": "MSFT",
-    "side": "sell",
-    "excess": -0.2484
-   }
-  },
-  {
-   "person": "Josh Gottheimer",
-   "party": "Democrat",
-   "chamber": "house",
-   "state": "NJ",
-   "trades_scored": 47,
-   "avg_excess": -0.0108,
-   "win_rate": 0.319,
-   "best": {
-    "ticker": "PANW",
-    "side": "buy",
-    "excess": 0.3306
-   },
-   "worst": {
-    "ticker": "FN",
-    "side": "buy",
-    "excess": -0.5022
-   }
-  },
-  {
-   "person": "Shelley M Capito",
-   "party": "Republican",
-   "chamber": "senate",
-   "state": "",
-   "trades_scored": 13,
-   "avg_excess": -0.0111,
-   "win_rate": 0.308,
-   "best": {
-    "ticker": "AVGO",
-    "side": "sell",
-    "excess": 0.1951
-   },
-   "worst": {
-    "ticker": "AAPL",
-    "side": "sell",
-    "excess": -0.1182
-   }
-  },
-  {
-   "person": "Dan Newhouse",
-   "party": "Republican",
-   "chamber": "house",
-   "state": "WA",
-   "trades_scored": 26,
-   "avg_excess": -0.0149,
-   "win_rate": 0.385,
-   "best": {
-    "ticker": "ACN",
-    "side": "buy",
-    "excess": 0.302
-   },
-   "worst": {
-    "ticker": "MPC",
-    "side": "sell",
-    "excess": -0.3206
-   }
-  },
-  {
-   "person": "John McGuire",
-   "party": "Republican",
-   "chamber": "house",
-   "state": "",
-   "trades_scored": 7,
-   "avg_excess": -0.0163,
-   "win_rate": 0.571,
-   "best": {
-    "ticker": "MSFT",
-    "side": "buy",
-    "excess": 0.2017
-   },
-   "worst": {
-    "ticker": "DELL",
-    "side": "sell",
-    "excess": -0.446
+    "excess": -0.1654
    }
   },
   {
@@ -559,17 +388,150 @@
    "chamber": "house",
    "state": "",
    "trades_scored": 7,
-   "avg_excess": -0.0193,
-   "win_rate": 0.429,
+   "avg_excess": 0.0012,
+   "win_rate": 0.857,
    "best": {
-    "ticker": "MBGL",
+    "ticker": "ACN",
     "side": "sell",
-    "excess": 0.0021
+    "excess": 0.0104
    },
    "worst": {
     "ticker": "SOLS",
     "side": "sell",
-    "excess": -0.0683
+    "excess": -0.0485
+   }
+  },
+  {
+   "person": "David J. Taylor",
+   "party": "Republican",
+   "chamber": "house",
+   "state": "OH",
+   "trades_scored": 57,
+   "avg_excess": -0.0015,
+   "win_rate": 0.526,
+   "best": {
+    "ticker": "KR",
+    "side": "sell",
+    "excess": 0.3165
+   },
+   "worst": {
+    "ticker": "MPC",
+    "side": "sell",
+    "excess": -0.443
+   }
+  },
+  {
+   "person": "Maria Elvira Salazar",
+   "party": "Republican",
+   "chamber": "house",
+   "state": "FL",
+   "trades_scored": 48,
+   "avg_excess": -0.0043,
+   "win_rate": 0.438,
+   "best": {
+    "ticker": "CRM",
+    "side": "buy",
+    "excess": 0.405
+   },
+   "worst": {
+    "ticker": "CARR",
+    "side": "buy",
+    "excess": -0.231
+   }
+  },
+  {
+   "person": "Julie Johnson",
+   "party": "Democrat",
+   "chamber": "house",
+   "state": "TX",
+   "trades_scored": 78,
+   "avg_excess": -0.0049,
+   "win_rate": 0.474,
+   "best": {
+    "ticker": "PAYC",
+    "side": "buy",
+    "excess": 0.3041
+   },
+   "worst": {
+    "ticker": "PAYC",
+    "side": "sell",
+    "excess": -0.3041
+   }
+  },
+  {
+   "person": "Elizabeth Fletcher",
+   "party": "",
+   "chamber": "house",
+   "state": "",
+   "trades_scored": 10,
+   "avg_excess": -0.0055,
+   "win_rate": 0.4,
+   "best": {
+    "ticker": "PWR",
+    "side": "sell",
+    "excess": 0.2114
+   },
+   "worst": {
+    "ticker": "AAPL",
+    "side": "sell",
+    "excess": -0.1404
+   }
+  },
+  {
+   "person": "Thomas H. Kean",
+   "party": "Republican",
+   "chamber": "house",
+   "state": "",
+   "trades_scored": 38,
+   "avg_excess": -0.0067,
+   "win_rate": 0.474,
+   "best": {
+    "ticker": "WPM",
+    "side": "buy",
+    "excess": 0.3723
+   },
+   "worst": {
+    "ticker": "ESAB",
+    "side": "buy",
+    "excess": -0.2565
+   }
+  },
+  {
+   "person": "Alan Armstrong",
+   "party": "Republican",
+   "chamber": "senate",
+   "state": "OK",
+   "trades_scored": 310,
+   "avg_excess": -0.0076,
+   "win_rate": 0.442,
+   "best": {
+    "ticker": "SWKS",
+    "side": "buy",
+    "excess": 0.4064
+   },
+   "worst": {
+    "ticker": "NOW",
+    "side": "sell",
+    "excess": -0.3241
+   }
+  },
+  {
+   "person": "Josh Gottheimer",
+   "party": "Democrat",
+   "chamber": "house",
+   "state": "NJ",
+   "trades_scored": 47,
+   "avg_excess": -0.0084,
+   "win_rate": 0.426,
+   "best": {
+    "ticker": "ALC",
+    "side": "sell",
+    "excess": 0.2807
+   },
+   "worst": {
+    "ticker": "FN",
+    "side": "buy",
+    "excess": -0.4935
    }
   },
   {
@@ -578,17 +540,17 @@
    "chamber": "house",
    "state": "",
    "trades_scored": 6,
-   "avg_excess": -0.0222,
+   "avg_excess": -0.0093,
    "win_rate": 0.5,
    "best": {
     "ticker": "BLK",
     "side": "sell",
-    "excess": 0.049
+    "excess": 0.0513
    },
    "worst": {
     "ticker": "AMAT",
     "side": "buy",
-    "excess": -0.1894
+    "excess": -0.1555
    }
   },
   {
@@ -597,17 +559,74 @@
    "chamber": "house",
    "state": "",
    "trades_scored": 10,
-   "avg_excess": -0.0245,
-   "win_rate": 0.4,
+   "avg_excess": -0.0094,
+   "win_rate": 0.5,
    "best": {
     "ticker": "AMD",
     "side": "buy",
-    "excess": 0.1308
+    "excess": 0.1312
    },
    "worst": {
     "ticker": "ACN",
     "side": "sell",
-    "excess": -0.1468
+    "excess": -0.1068
+   }
+  },
+  {
+   "person": "Scott Scott Franklin",
+   "party": "",
+   "chamber": "house",
+   "state": "",
+   "trades_scored": 11,
+   "avg_excess": -0.0109,
+   "win_rate": 0.364,
+   "best": {
+    "ticker": "MCD",
+    "side": "buy",
+    "excess": 0.0091
+   },
+   "worst": {
+    "ticker": "ACN",
+    "side": "buy",
+    "excess": -0.032
+   }
+  },
+  {
+   "person": "Dan Newhouse",
+   "party": "Republican",
+   "chamber": "house",
+   "state": "WA",
+   "trades_scored": 26,
+   "avg_excess": -0.0126,
+   "win_rate": 0.423,
+   "best": {
+    "ticker": "ACN",
+    "side": "buy",
+    "excess": 0.256
+   },
+   "worst": {
+    "ticker": "MPC",
+    "side": "sell",
+    "excess": -0.3483
+   }
+  },
+  {
+   "person": "Shelley M Capito",
+   "party": "Republican",
+   "chamber": "senate",
+   "state": "",
+   "trades_scored": 13,
+   "avg_excess": -0.0148,
+   "win_rate": 0.308,
+   "best": {
+    "ticker": "CEG",
+    "side": "sell",
+    "excess": 0.2116
+   },
+   "worst": {
+    "ticker": "AAPL",
+    "side": "sell",
+    "excess": -0.1257
    }
   },
   {
@@ -616,17 +635,17 @@
    "chamber": "house",
    "state": "",
    "trades_scored": 9,
-   "avg_excess": -0.0303,
+   "avg_excess": -0.0364,
    "win_rate": 0.222,
    "best": {
     "ticker": "ORLY",
     "side": "sell",
-    "excess": 0.2189
+    "excess": 0.219
    },
    "worst": {
     "ticker": "MSFT",
     "side": "sell",
-    "excess": -0.2455
+    "excess": -0.2413
    }
   },
   {
@@ -635,17 +654,17 @@
    "chamber": "house",
    "state": "MD",
    "trades_scored": 247,
-   "avg_excess": -0.0422,
-   "win_rate": 0.32,
+   "avg_excess": -0.0373,
+   "win_rate": 0.385,
    "best": {
     "ticker": "MIDD",
     "side": "sell",
-    "excess": 0.2208
+    "excess": 0.2162
    },
    "worst": {
     "ticker": "ROL",
     "side": "buy",
-    "excess": -0.5406
+    "excess": -0.5421
    }
   },
   {
@@ -654,17 +673,17 @@
    "chamber": "house",
    "state": "PA",
    "trades_scored": 5,
-   "avg_excess": -0.0474,
+   "avg_excess": -0.0527,
    "win_rate": 0.2,
    "best": {
     "ticker": "NVDA",
     "side": "sell",
-    "excess": 0.0283
+    "excess": 0.0237
    },
    "worst": {
     "ticker": "NVDA",
     "side": "sell",
-    "excess": -0.1026
+    "excess": -0.1074
    }
   },
   {
@@ -673,17 +692,17 @@
    "chamber": "house",
    "state": "WA",
    "trades_scored": 9,
-   "avg_excess": -0.0573,
+   "avg_excess": -0.0581,
    "win_rate": 0.333,
    "best": {
     "ticker": "SPGI",
     "side": "sell",
-    "excess": 0.0848
+    "excess": 0.0855
    },
    "worst": {
     "ticker": "PAYX",
     "side": "sell",
-    "excess": -0.2283
+    "excess": -0.223
    }
   },
   {
@@ -692,17 +711,17 @@
    "chamber": "house",
    "state": "TX",
    "trades_scored": 10,
-   "avg_excess": -0.058,
+   "avg_excess": -0.0658,
    "win_rate": 0.5,
    "best": {
     "ticker": "KO",
     "side": "buy",
-    "excess": 0.0824
+    "excess": 0.0823
    },
    "worst": {
-    "ticker": "HD",
+    "ticker": "IBM",
     "side": "buy",
-    "excess": -0.2137
+    "excess": -0.2395
    }
   },
   {
@@ -711,17 +730,17 @@
    "chamber": "house",
    "state": "PA",
    "trades_scored": 7,
-   "avg_excess": -0.1479,
+   "avg_excess": -0.1443,
    "win_rate": 0.714,
    "best": {
-    "ticker": "PWR",
+    "ticker": "INTC",
     "side": "sell",
-    "excess": 0.2343
+    "excess": 0.2191
    },
    "worst": {
     "ticker": "MU",
     "side": "sell",
-    "excess": -1.1037
+    "excess": -1.1381
    }
   }
  ]
