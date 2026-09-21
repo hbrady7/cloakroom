@@ -1053,6 +1053,134 @@
    ]
   },
   {
+   "ticker": "SMTC",
+   "score": 32.6,
+   "signals": {
+    "sell_cluster": {
+     "fired": false,
+     "points": 0.0,
+     "distinct_sellers": 1
+    },
+    "insider_distribution": {
+     "fired": true,
+     "points": 32.6,
+     "distinct_sellers": 9,
+     "weighted_sellers": 6.0
+    },
+    "committee_sell": {
+     "fired": false,
+     "points": 0.0
+    }
+   },
+   "evidence": [
+    {
+     "id": "I-4474a48c04c5",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-5b2217344e93",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-9bb81495873e",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-3dccc69503df",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-a179787a58ce",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-96b83ef8eed0",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-2a856b0cc531",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-29037fa46bdc",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-b8d014712d34",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-498a3fb902ed",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-dd0059a8e46e",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-d586a0339166",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-a33b791453b6",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-a2d72f2d8847",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-9233e268efa9",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-22a9eb03d0dd",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-6e213d72b9f4",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-450bcf960b1f",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-11413d7bb335",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-5f5f2456c27b",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-678dde0c5703",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-39b71e48b3ef",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-1a483a8d2ac1",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-9fcb61107cab",
+     "signal": "insider_distribution"
+    }
+   ],
+   "stats": {
+    "congress_sells": 3,
+    "insider_sells": 26
+   },
+   "name": "SEMTECH CORP",
+   "sectors": [
+    "semis",
+    "tech"
+   ]
+  },
+  {
    "ticker": "SNOW",
    "score": 32.6,
    "signals": {
@@ -1298,142 +1426,15 @@
     }
    ],
    "stats": {
-    "congress_sells": 6,
+    "congress_sells": 5,
     "insider_sells": 92
    },
    "name": "Meta Platforms, Inc.",
    "sectors": [
     "tech"
    ]
-  },
-  {
-   "ticker": "MSFT",
-   "score": 29.8,
-   "signals": {
-    "sell_cluster": {
-     "fired": true,
-     "points": 6.8,
-     "distinct_sellers": 5
-    },
-    "insider_distribution": {
-     "fired": true,
-     "points": 23.0,
-     "distinct_sellers": 4,
-     "weighted_sellers": 3.0
-    },
-    "committee_sell": {
-     "fired": false,
-     "points": 0.0
-    }
-   },
-   "evidence": [
-    {
-     "id": "C-892072bcfb93",
-     "signal": "sell_cluster"
-    },
-    {
-     "id": "C-a3f2a91f05e8",
-     "signal": "sell_cluster"
-    },
-    {
-     "id": "C-5c90e808bdf9",
-     "signal": "sell_cluster"
-    },
-    {
-     "id": "C-168e2ce0f682",
-     "signal": "sell_cluster"
-    },
-    {
-     "id": "C-3dea2f979525",
-     "signal": "sell_cluster"
-    },
-    {
-     "id": "C-d55bec63e6bf",
-     "signal": "sell_cluster"
-    },
-    {
-     "id": "C-af719b82d30e",
-     "signal": "sell_cluster"
-    },
-    {
-     "id": "I-c3eaea55b454",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-ac31d1e9dedd",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-94992e3e14ee",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-77235d07abdd",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-2587f2fc5f44",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-141e547aacde",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-d7a4a64d8a63",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-bd25cd21e7ce",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-bbb5ef01fd0f",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-a49ba2407ffb",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-862b25fe4195",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-21cc4f889aed",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-1c51fd39deb1",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-16072ae5dafc",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-c69920128276",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-48ff84d38459",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-2f140cd0913a",
-     "signal": "insider_distribution"
-    }
-   ],
-   "stats": {
-    "congress_sells": 24,
-    "insider_sells": 18
-   },
-   "name": "MICROSOFT CORP",
-   "sectors": [
-    "tech"
-   ]
   }
  ],
- "universe": 754,
- "generated_at": "2026-09-18T15:08:55Z"
+ "universe": 751,
+ "generated_at": "2026-09-21T17:13:08Z"
 }

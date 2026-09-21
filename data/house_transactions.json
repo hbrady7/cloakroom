@@ -1,6 +1,56 @@
 {
- "generated_at": "2026-09-18T15:06:53Z",
+ "generated_at": "2026-09-21T17:11:07Z",
  "transactions": [
+  {
+   "id": "C-a187785d262a",
+   "source": "congress",
+   "person": "Pete Sessions",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Oversight and Government Reform"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ABBV",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-09-14",
+   "filed_date": "2026-09-18",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035480.pdf"
+  },
+  {
+   "id": "C-614509d288eb",
+   "source": "congress",
+   "person": "Pete Sessions",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Oversight and Government Reform"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "GOOGL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-09-14",
+   "filed_date": "2026-09-18",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035480.pdf"
+  },
   {
    "id": "C-64eac32e5321",
    "source": "congress",
@@ -54641,281 +54691,6 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033983.pdf"
-  },
-  {
-   "id": "C-92f401ae3023",
-   "source": "congress",
-   "person": "Kelly Louise Morrison",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Small Business",
-     "House Committee on Veterans' Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "AMI",
-   "asset_type": "other",
-   "side": "buy",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-01-29",
-   "filed_date": "2026-02-12",
-   "lag_days": 14,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033989.pdf"
-  },
-  {
-   "id": "C-f5be6ee6c43b",
-   "source": "congress",
-   "person": "Byron Donalds",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on Oversight and Government Reform"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "HWM",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-08",
-   "filed_date": "2026-02-12",
-   "lag_days": 35,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033981.pdf"
-  },
-  {
-   "id": "C-b69204dd6bb8",
-   "source": "congress",
-   "person": "Byron Donalds",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on Oversight and Government Reform"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "TTD",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-08",
-   "filed_date": "2026-02-12",
-   "lag_days": 35,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033981.pdf"
-  },
-  {
-   "id": "C-9dfd7da241e2",
-   "source": "congress",
-   "person": "Byron Donalds",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on Oversight and Government Reform"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "TTD",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-08",
-   "filed_date": "2026-02-12",
-   "lag_days": 35,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033981.pdf"
-  },
-  {
-   "id": "C-8505fb4e64ed",
-   "source": "congress",
-   "person": "Byron Donalds",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on Oversight and Government Reform"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "PH",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-08",
-   "filed_date": "2026-02-12",
-   "lag_days": 35,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033981.pdf"
-  },
-  {
-   "id": "C-75b3cc7dc215",
-   "source": "congress",
-   "person": "August Lee Pfluger",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Homeland Security",
-     "House Committee on Energy and Commerce"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "SIRI",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-13",
-   "filed_date": "2026-02-11",
-   "lag_days": 29,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033920.pdf"
-  },
-  {
-   "id": "C-e2ecb95cb3cc",
-   "source": "congress",
-   "person": "August Lee Pfluger",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Homeland Security",
-     "House Committee on Energy and Commerce"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "FNF",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-12",
-   "filed_date": "2026-02-11",
-   "lag_days": 30,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033920.pdf"
-  },
-  {
-   "id": "C-5bcbf13b6191",
-   "source": "congress",
-   "person": "John McGuire",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Oversight and Government Reform"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "NVDA",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-30",
-   "filed_date": "2026-02-10",
-   "lag_days": 11,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033956.pdf"
-  },
-  {
-   "id": "C-14aea82ee15e",
-   "source": "congress",
-   "person": "John McGuire",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Oversight and Government Reform"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "MSFT",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-30",
-   "filed_date": "2026-02-10",
-   "lag_days": 11,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033956.pdf"
-  },
-  {
-   "id": "C-d57667475bfa",
-   "source": "congress",
-   "person": "John McGuire",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Oversight and Government Reform"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "MSFT",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-21",
-   "filed_date": "2026-02-10",
-   "lag_days": 20,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033956.pdf"
-  },
-  {
-   "id": "C-094d5c1aa065",
-   "source": "congress",
-   "person": "John McGuire",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Oversight and Government Reform"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "WMT",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-20",
-   "filed_date": "2026-02-10",
-   "lag_days": 21,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033956.pdf"
   }
  ]
 }
