@@ -1,7 +1,35 @@
 {
- "generated_at": "2026-09-21T17:11:05Z",
+ "generated_at": "2026-09-22T15:37:26Z",
  "mode": "efd",
  "transactions": [
+  {
+   "id": "C-f06df6e1d5c3",
+   "source": "congress",
+   "person": "A. Mitchell Mcconnell, Jr.",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Joint Committee of Congress on the Library",
+     "Joint Committee on Printing",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Appropriations",
+     "Senate Committee on Rules and Administration"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "WFC",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-09-01",
+   "filed_date": "2026-09-21",
+   "lag_days": 20,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/028aef33-dc0d-44a1-992f-aa35ee42685b/"
+  },
   {
    "id": "C-37215b119e94",
    "source": "congress",
