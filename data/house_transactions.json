@@ -1,6 +1,106 @@
 {
- "generated_at": "2026-09-23T15:32:59Z",
+ "generated_at": "2026-09-24T15:54:50Z",
  "transactions": [
+  {
+   "id": "C-2fee203a2b1c",
+   "source": "congress",
+   "person": "Pete Sessions",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Oversight and Government Reform"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "AAPL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 100001,
+   "amount_high": 250000,
+   "tx_date": "2026-09-22",
+   "filed_date": "2026-09-22",
+   "lag_days": 0,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035499.pdf"
+  },
+  {
+   "id": "C-b28175cf479c",
+   "source": "congress",
+   "person": "Richard W. Allen",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Education and Workforce",
+     "House Committee on Energy and Commerce"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "AVGO",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-12",
+   "filed_date": "2026-09-22",
+   "lag_days": 41,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035492.pdf"
+  },
+  {
+   "id": "C-9cb1b410dce8",
+   "source": "congress",
+   "person": "Richard W. Allen",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Education and Workforce",
+     "House Committee on Energy and Commerce"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "TSM",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-12",
+   "filed_date": "2026-09-22",
+   "lag_days": 41,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035492.pdf"
+  },
+  {
+   "id": "C-1286ff1d472f",
+   "source": "congress",
+   "person": "Richard W. Allen",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Education and Workforce",
+     "House Committee on Energy and Commerce"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ROL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-08-12",
+   "filed_date": "2026-09-22",
+   "lag_days": 41,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035492.pdf"
+  },
   {
    "id": "C-a187785d262a",
    "source": "congress",
