@@ -1,6 +1,2070 @@
 {
- "generated_at": "2026-09-25T15:55:12Z",
+ "generated_at": "2026-09-28T18:42:41Z",
  "transactions": [
+  {
+   "id": "C-e947944f0504",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "STE",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-09-15",
+   "filed_date": "2026-09-25",
+   "lag_days": 10,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-e4535aef8f2e",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "TJX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-15",
+   "filed_date": "2026-09-25",
+   "lag_days": 10,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-74cfdb5befe4",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CNP",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-09-15",
+   "filed_date": "2026-09-25",
+   "lag_days": 10,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-66dca2ac0955",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "STX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-15",
+   "filed_date": "2026-09-25",
+   "lag_days": 10,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-d33a685d7a9d",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CDNS",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-09-14",
+   "filed_date": "2026-09-25",
+   "lag_days": 11,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-cf7b01f2c3e5",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "AIO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-09-14",
+   "filed_date": "2026-09-25",
+   "lag_days": 11,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-b89c2e4b7d67",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "EMR",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-09-14",
+   "filed_date": "2026-09-25",
+   "lag_days": 11,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-b6fbe35a8b2c",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MRSH",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-14",
+   "filed_date": "2026-09-25",
+   "lag_days": 11,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-9e946aecdfca",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "HD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-09-14",
+   "filed_date": "2026-09-25",
+   "lag_days": 11,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-89f726da731c",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "HD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-14",
+   "filed_date": "2026-09-25",
+   "lag_days": 11,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-7c13f1b4b537",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ROK",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-09-14",
+   "filed_date": "2026-09-25",
+   "lag_days": 11,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-759925f697d7",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "IQV",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-09-14",
+   "filed_date": "2026-09-25",
+   "lag_days": 11,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-471af66d20c9",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "NEE",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-09-14",
+   "filed_date": "2026-09-25",
+   "lag_days": 11,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-432edda5e897",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "EMR",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-14",
+   "filed_date": "2026-09-25",
+   "lag_days": 11,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-10b8dd67d63a",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "DVN",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-09-14",
+   "filed_date": "2026-09-25",
+   "lag_days": 11,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-86c4d52d2ef4",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "NVO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-10",
+   "filed_date": "2026-09-25",
+   "lag_days": 15,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-83fbde1e5da1",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "UNH",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-09-10",
+   "filed_date": "2026-09-25",
+   "lag_days": 15,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-7f8de9f73259",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ETN",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-10",
+   "filed_date": "2026-09-25",
+   "lag_days": 15,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-1fa538448e75",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "HD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-09-10",
+   "filed_date": "2026-09-25",
+   "lag_days": 15,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-e7fce7b8bd67",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ITW",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-09-09",
+   "filed_date": "2026-09-25",
+   "lag_days": 16,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-b1eebfb292b5",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "BSX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 50001,
+   "amount_high": 100000,
+   "tx_date": "2026-09-09",
+   "filed_date": "2026-09-25",
+   "lag_days": 16,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-4f6bd4a95840",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "PTC",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 50001,
+   "amount_high": 100000,
+   "tx_date": "2026-09-09",
+   "filed_date": "2026-09-25",
+   "lag_days": 16,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-431a4e1d2715",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MRSH",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 100001,
+   "amount_high": 250000,
+   "tx_date": "2026-09-09",
+   "filed_date": "2026-09-25",
+   "lag_days": 16,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-daf82d84cbea",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "AAPL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-08",
+   "filed_date": "2026-09-25",
+   "lag_days": 17,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-905e30697d40",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "AAPL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-08",
+   "filed_date": "2026-09-25",
+   "lag_days": 17,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-693256f8010a",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "IQV",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-08",
+   "filed_date": "2026-09-25",
+   "lag_days": 17,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-43538260b4f8",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ETV",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-08",
+   "filed_date": "2026-09-25",
+   "lag_days": 17,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-fd2a68f2dd6f",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "DVN",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 100001,
+   "amount_high": 250000,
+   "tx_date": "2026-09-04",
+   "filed_date": "2026-09-25",
+   "lag_days": 21,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-ac3ea3ce22f0",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "BSX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 50001,
+   "amount_high": 100000,
+   "tx_date": "2026-09-04",
+   "filed_date": "2026-09-25",
+   "lag_days": 21,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-45ebfe897a83",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "OKE",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-09-04",
+   "filed_date": "2026-09-25",
+   "lag_days": 21,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-11176b264372",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ITW",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 50001,
+   "amount_high": 100000,
+   "tx_date": "2026-09-04",
+   "filed_date": "2026-09-25",
+   "lag_days": 21,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-f2d488802891",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "BSX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-03",
+   "filed_date": "2026-09-25",
+   "lag_days": 22,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-e2e900e2484b",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "BSX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-03",
+   "filed_date": "2026-09-25",
+   "lag_days": 22,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-de300d523f56",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "VUZI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-03",
+   "filed_date": "2026-09-25",
+   "lag_days": 22,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-d75e5e111918",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "IQV",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-03",
+   "filed_date": "2026-09-25",
+   "lag_days": 22,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-ad8dddb75746",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "VUZI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-03",
+   "filed_date": "2026-09-25",
+   "lag_days": 22,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-3329476124c1",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "AIO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-03",
+   "filed_date": "2026-09-25",
+   "lag_days": 22,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-1baac94d4c6d",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "BSX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-03",
+   "filed_date": "2026-09-25",
+   "lag_days": 22,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-dfe992c2b083",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ITW",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-09-02",
+   "filed_date": "2026-09-25",
+   "lag_days": 23,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-d3cbac658391",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CDNS",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-09-02",
+   "filed_date": "2026-09-25",
+   "lag_days": 23,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-d12d29d571e9",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "LMT",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-09-02",
+   "filed_date": "2026-09-25",
+   "lag_days": 23,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-cf853b911814",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "TJX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-09-02",
+   "filed_date": "2026-09-25",
+   "lag_days": 23,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-b25534240932",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ROK",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-09-02",
+   "filed_date": "2026-09-25",
+   "lag_days": 23,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-a38f3e5e4d02",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "LMT",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-09-02",
+   "filed_date": "2026-09-25",
+   "lag_days": 23,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-a03d50439d91",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "LIN",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-09-02",
+   "filed_date": "2026-09-25",
+   "lag_days": 23,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-95d2b471e070",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "LOW",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-02",
+   "filed_date": "2026-09-25",
+   "lag_days": 23,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-85d0fd568534",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "DHR",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-02",
+   "filed_date": "2026-09-25",
+   "lag_days": 23,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-8312194c68b2",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "SBUX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-02",
+   "filed_date": "2026-09-25",
+   "lag_days": 23,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-5de4d292e31e",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ORLY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-09-02",
+   "filed_date": "2026-09-25",
+   "lag_days": 23,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-5712d2044b81",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ROK",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-09-02",
+   "filed_date": "2026-09-25",
+   "lag_days": 23,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-45d8edb192a9",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-02",
+   "filed_date": "2026-09-25",
+   "lag_days": 23,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-403418e8d482",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "DVN",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 200,
+   "amount_high": 100001,
+   "tx_date": "2026-09-02",
+   "filed_date": "2026-09-25",
+   "lag_days": 23,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-2db1de3c4b82",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "HD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-09-02",
+   "filed_date": "2026-09-25",
+   "lag_days": 23,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-2cecf339882b",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MRSH",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-02",
+   "filed_date": "2026-09-25",
+   "lag_days": 23,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-0b14ac4d03d4",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "NEE",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-02",
+   "filed_date": "2026-09-25",
+   "lag_days": 23,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-f16f463a34af",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "HD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-08-31",
+   "filed_date": "2026-09-25",
+   "lag_days": 25,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-edf0733686b7",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "F",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-31",
+   "filed_date": "2026-09-25",
+   "lag_days": 25,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-e676d40a86e1",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "XOM",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 100001,
+   "amount_high": 250000,
+   "tx_date": "2026-08-31",
+   "filed_date": "2026-09-25",
+   "lag_days": 25,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-cdfe9370a5ea",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "HON",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-08-31",
+   "filed_date": "2026-09-25",
+   "lag_days": 25,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-c62d5455d099",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "DHR",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-08-31",
+   "filed_date": "2026-09-25",
+   "lag_days": 25,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-bbac07d5b276",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CB",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-31",
+   "filed_date": "2026-09-25",
+   "lag_days": 25,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-bb6226d317a7",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "PRGS",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-08-31",
+   "filed_date": "2026-09-25",
+   "lag_days": 25,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-ba4a99cfe47e",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "BSX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-08-31",
+   "filed_date": "2026-09-25",
+   "lag_days": 25,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-b0a3db96b05f",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "PTC",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 50001,
+   "amount_high": 100000,
+   "tx_date": "2026-08-31",
+   "filed_date": "2026-09-25",
+   "lag_days": 25,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-adc857f49592",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "DVN",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-08-31",
+   "filed_date": "2026-09-25",
+   "lag_days": 25,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-92a2c45d4a31",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "DVN",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 100001,
+   "amount_high": 250000,
+   "tx_date": "2026-08-31",
+   "filed_date": "2026-09-25",
+   "lag_days": 25,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-8d8fec1446d1",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "LIN",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-08-31",
+   "filed_date": "2026-09-25",
+   "lag_days": 25,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-8c892bedc704",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CSX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-31",
+   "filed_date": "2026-09-25",
+   "lag_days": 25,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-830570cdd08a",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "NVO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-31",
+   "filed_date": "2026-09-25",
+   "lag_days": 25,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-66a0130f35f5",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "RA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-08-31",
+   "filed_date": "2026-09-25",
+   "lag_days": 25,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-62d2057808dd",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "KO",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-31",
+   "filed_date": "2026-09-25",
+   "lag_days": 25,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-604aec584384",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "AIO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-08-31",
+   "filed_date": "2026-09-25",
+   "lag_days": 25,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-4e7fe641cbbb",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-31",
+   "filed_date": "2026-09-25",
+   "lag_days": 25,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-459b051c6cd7",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CXT",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-08-31",
+   "filed_date": "2026-09-25",
+   "lag_days": 25,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-3b765351d124",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CR",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 50001,
+   "amount_high": 100000,
+   "tx_date": "2026-08-31",
+   "filed_date": "2026-09-25",
+   "lag_days": 25,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-38ab40a7f5b3",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "OKE",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 50001,
+   "amount_high": 100000,
+   "tx_date": "2026-08-31",
+   "filed_date": "2026-09-25",
+   "lag_days": 25,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-346114cb0e4c",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ITW",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-08-31",
+   "filed_date": "2026-09-25",
+   "lag_days": 25,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-12c5c9e4c8e9",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ORLY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-08-31",
+   "filed_date": "2026-09-25",
+   "lag_days": 25,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-0adb17c89dbd",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "TJX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-08-31",
+   "filed_date": "2026-09-25",
+   "lag_days": 25,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-f5436714c9c1",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-27",
+   "filed_date": "2026-09-25",
+   "lag_days": 29,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-b90d475f1068",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "WMT",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-27",
+   "filed_date": "2026-09-25",
+   "lag_days": 29,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-a08d2c3be16e",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "PBA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-08-27",
+   "filed_date": "2026-09-25",
+   "lag_days": 29,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-82cb35378734",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "HD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-27",
+   "filed_date": "2026-09-25",
+   "lag_days": 29,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-7fd98e8a5968",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CSX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-27",
+   "filed_date": "2026-09-25",
+   "lag_days": 29,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-5798a72fa4ce",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "NVS",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-08-27",
+   "filed_date": "2026-09-25",
+   "lag_days": 29,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
+  {
+   "id": "C-1e755c19cb44",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "TJX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-08-27",
+   "filed_date": "2026-09-25",
+   "lag_days": 29,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+  },
   {
    "id": "C-2fee203a2b1c",
    "source": "congress",
@@ -50762,435 +52826,6 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034034.pdf"
-  },
-  {
-   "id": "C-53f5c1c5c5a3",
-   "source": "congress",
-   "person": "Jake Auchincloss",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Energy and Commerce"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "STT",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-02-17",
-   "filed_date": "2026-02-19",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034024.pdf"
-  },
-  {
-   "id": "C-995b93540230",
-   "source": "congress",
-   "person": "Thomas H. Kean",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Foreign Affairs",
-     "House Committee on Energy and Commerce"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "ABT",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-29",
-   "filed_date": "2026-02-19",
-   "lag_days": 21,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034025.pdf"
-  },
-  {
-   "id": "C-f4aebb4d42f0",
-   "source": "congress",
-   "person": "Thomas H. Kean",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Foreign Affairs",
-     "House Committee on Energy and Commerce"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "SYK",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-01-23",
-   "filed_date": "2026-02-19",
-   "lag_days": 27,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034025.pdf"
-  },
-  {
-   "id": "C-f1a99f142eef",
-   "source": "congress",
-   "person": "Thomas H. Kean",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Foreign Affairs",
-     "House Committee on Energy and Commerce"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "MKL",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-01-23",
-   "filed_date": "2026-02-19",
-   "lag_days": 27,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034025.pdf"
-  },
-  {
-   "id": "C-3fd50e7dc626",
-   "source": "congress",
-   "person": "Thomas H. Kean",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Foreign Affairs",
-     "House Committee on Energy and Commerce"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "JNJ",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-01-23",
-   "filed_date": "2026-02-19",
-   "lag_days": 27,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034025.pdf"
-  },
-  {
-   "id": "C-0475c4b52fde",
-   "source": "congress",
-   "person": "Thomas H. Kean",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Foreign Affairs",
-     "House Committee on Energy and Commerce"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "MSFT",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-23",
-   "filed_date": "2026-02-19",
-   "lag_days": 27,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034025.pdf"
-  },
-  {
-   "id": "C-c3274020036f",
-   "source": "congress",
-   "person": "Thomas H. Kean",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Foreign Affairs",
-     "House Committee on Energy and Commerce"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "GM",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-07",
-   "filed_date": "2026-02-19",
-   "lag_days": 43,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034025.pdf"
-  },
-  {
-   "id": "C-e008e47142f6",
-   "source": "congress",
-   "person": "Daniel Meuser",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "NVDA",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-30",
-   "filed_date": "2026-02-17",
-   "lag_days": 18,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034016.pdf"
-  },
-  {
-   "id": "C-e909a637a0c5",
-   "source": "congress",
-   "person": "Daniel Meuser",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "NVDA",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-14",
-   "filed_date": "2026-02-17",
-   "lag_days": 34,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034016.pdf"
-  },
-  {
-   "id": "C-e4157a04646d",
-   "source": "congress",
-   "person": "Richard W. Allen",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Education and Workforce",
-     "House Committee on Energy and Commerce"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "SPGI",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-01-14",
-   "filed_date": "2026-02-17",
-   "lag_days": 34,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033945.pdf"
-  },
-  {
-   "id": "C-87e6cace9e57",
-   "source": "congress",
-   "person": "Richard W. Allen",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Education and Workforce",
-     "House Committee on Energy and Commerce"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "AWK",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 50001,
-   "amount_high": 100000,
-   "tx_date": "2026-01-14",
-   "filed_date": "2026-02-17",
-   "lag_days": 34,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033945.pdf"
-  },
-  {
-   "id": "C-2ad4015743e8",
-   "source": "congress",
-   "person": "Richard W. Allen",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Education and Workforce",
-     "House Committee on Energy and Commerce"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "PAYX",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-01-14",
-   "filed_date": "2026-02-17",
-   "lag_days": 34,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033945.pdf"
-  },
-  {
-   "id": "C-ee3d46110852",
-   "source": "congress",
-   "person": "Michael Patrick Guest",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Appropriations",
-     "House Committee on Homeland Security",
-     "House Committee on Ethics"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "OTCM",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-09",
-   "filed_date": "2026-02-17",
-   "lag_days": 39,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033944.pdf"
-  },
-  {
-   "id": "C-c412baee055e",
-   "source": "congress",
-   "person": "Michael Patrick Guest",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Appropriations",
-     "House Committee on Homeland Security",
-     "House Committee on Ethics"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "DT",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-09",
-   "filed_date": "2026-02-17",
-   "lag_days": 39,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033944.pdf"
-  },
-  {
-   "id": "C-c393d3ea2e98",
-   "source": "congress",
-   "person": "Michael Patrick Guest",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Appropriations",
-     "House Committee on Homeland Security",
-     "House Committee on Ethics"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "EVVTY",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-09",
-   "filed_date": "2026-02-17",
-   "lag_days": 39,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033944.pdf"
-  },
-  {
-   "id": "C-ae17f7b82de6",
-   "source": "congress",
-   "person": "Michael Patrick Guest",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Appropriations",
-     "House Committee on Homeland Security",
-     "House Committee on Ethics"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "CHRD",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-09",
-   "filed_date": "2026-02-17",
-   "lag_days": 39,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033944.pdf"
-  },
-  {
-   "id": "C-833b70ad55c0",
-   "source": "congress",
-   "person": "Sheri Biggs",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Foreign Affairs",
-     "House Committee on Homeland Security",
-     "House Committee on Science, Space, and Technology"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "KRSOX",
-   "asset_type": "other",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-01-05",
-   "filed_date": "2026-02-17",
-   "lag_days": 43,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034013.pdf"
   }
  ]
 }
