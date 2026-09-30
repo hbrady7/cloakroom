@@ -248,7 +248,7 @@
    "stats": {
     "congress_buys": 4,
     "distinct_buyers": 2,
-    "insider_open_market_buys": 75,
+    "insider_open_market_buys": 74,
     "options_positions": 0
    },
    "name": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
@@ -394,14 +394,10 @@
     {
      "id": "C-3e061b6aa658",
      "signal": "committee"
-    },
-    {
-     "id": "C-399a6bced201",
-     "signal": "committee"
     }
    ],
    "stats": {
-    "congress_buys": 4,
+    "congress_buys": 3,
     "distinct_buyers": 1,
     "insider_open_market_buys": 0,
     "options_positions": 0
@@ -884,6 +880,134 @@
    ]
   },
   {
+   "ticker": "CRDO",
+   "score": 27.9,
+   "signals": {
+    "sell_cluster": {
+     "fired": false,
+     "points": 0.0,
+     "distinct_sellers": 1
+    },
+    "insider_distribution": {
+     "fired": true,
+     "points": 27.9,
+     "distinct_sellers": 6,
+     "weighted_sellers": 4.5
+    },
+    "committee_sell": {
+     "fired": false,
+     "points": 0.0
+    }
+   },
+   "evidence": [
+    {
+     "id": "I-d87d84dea14f",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-d25f85f667ba",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-c6b3e78d1600",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-68e24c1cbe5f",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-215fadc5ba75",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-18777e3f1302",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-f1437008083c",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-ea2bbe6594ba",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-cb4bf5410a29",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-bb7fb393bdba",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-7b37caf91892",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-24e23da30328",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-0042ed53eda3",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-0df8ba12da39",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-d05d8e6f3f6b",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-c2ce55b42b14",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-aad9f27f85a3",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-6abf206811fe",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-1a897c62055c",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-01babfc4e11d",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-91179dbaa544",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-5c47f18e6a1d",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-053bd1ee6eb8",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-0169c530c8aa",
+     "signal": "insider_distribution"
+    }
+   ],
+   "stats": {
+    "congress_sells": 2,
+    "insider_sells": 215
+   },
+   "name": "Credo Technology Group Holding Ltd",
+   "sectors": [
+    "semis",
+    "tech"
+   ]
+  },
+  {
    "ticker": "ATRC",
    "score": 26.7,
    "signals": {
@@ -953,136 +1077,8 @@
    "sectors": [
     "healthcare"
    ]
-  },
-  {
-   "ticker": "SMTC",
-   "score": 26.7,
-   "signals": {
-    "sell_cluster": {
-     "fired": false,
-     "points": 0.0,
-     "distinct_sellers": 1
-    },
-    "insider_distribution": {
-     "fired": true,
-     "points": 26.7,
-     "distinct_sellers": 9,
-     "weighted_sellers": 6.0
-    },
-    "committee_sell": {
-     "fired": false,
-     "points": 0.0
-    }
-   },
-   "evidence": [
-    {
-     "id": "I-df9f23836202",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-4474a48c04c5",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-5b2217344e93",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-9bb81495873e",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-3dccc69503df",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-a179787a58ce",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-96b83ef8eed0",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-2a856b0cc531",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-29037fa46bdc",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-b8d014712d34",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-498a3fb902ed",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-dd0059a8e46e",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-d586a0339166",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-a33b791453b6",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-a2d72f2d8847",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-9233e268efa9",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-22a9eb03d0dd",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-6e213d72b9f4",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-450bcf960b1f",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-11413d7bb335",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-5f5f2456c27b",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-678dde0c5703",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-39b71e48b3ef",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-1a483a8d2ac1",
-     "signal": "insider_distribution"
-    }
-   ],
-   "stats": {
-    "congress_sells": 3,
-    "insider_sells": 25
-   },
-   "name": "SEMTECH CORP",
-   "sectors": [
-    "semis",
-    "tech"
-   ]
   }
  ],
  "universe": 760,
- "generated_at": "2026-09-29T17:01:03Z"
+ "generated_at": "2026-09-30T16:58:39Z"
 }
