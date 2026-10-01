@@ -4,55 +4,55 @@
    "ok": true,
    "detail": "congress-legislators",
    "count": 548,
-   "at": "2026-09-30T16:54:51Z"
+   "at": "2026-10-01T17:26:59Z"
   },
   "senate": {
    "ok": true,
    "detail": "mode=efd",
-   "count": 735,
-   "at": "2026-09-30T16:56:51Z"
+   "count": 727,
+   "at": "2026-10-01T17:29:09Z"
   },
   "house": {
    "ok": true,
    "detail": "parsed=0 no_text=0 errors=0",
    "count": 2095,
-   "at": "2026-09-30T16:56:51Z"
+   "at": "2026-10-01T17:29:10Z"
   },
   "insider": {
    "ok": true,
-   "detail": "tickers=250 new_filings=18",
-   "count": 6217,
-   "at": "2026-09-30T16:57:55Z"
+   "detail": "tickers=250 new_filings=10",
+   "count": 6118,
+   "at": "2026-10-01T17:30:16Z"
   },
   "merge": {
    "ok": true,
-   "detail": "congress=2513 insider=6217",
-   "count": 8730,
-   "at": "2026-09-30T16:57:56Z"
+   "detail": "congress=2488 insider=6118",
+   "count": 8606,
+   "at": "2026-10-01T17:30:17Z"
   },
   "prices": {
-   "ok": true,
-   "detail": "stooq=0 yf=497 cached=2 missing=4",
-   "count": 497,
-   "at": "2026-09-30T16:58:38Z"
+   "ok": false,
+   "detail": "ConnectTimeout: HTTPSConnectionPool(host='stooq.com', port=443): Max retries exceeded with url: /q/d/l/?s=spy.us&d1=20260315&d2=20261001&i=d (Caused by ConnectTimeoutError(<HTTPSConnection(host='stooq.com', port=443) at 0x7f8071dbeba0>, 'Connection to stooq.com timed out. (connect timeout=10)'))",
+   "count": null,
+   "at": "2026-10-01T17:31:47Z"
   },
   "score": {
    "ok": true,
-   "detail": "as_of=2026-09-29 universe=760",
+   "detail": "as_of=2026-09-30 universe=753",
    "count": 6,
-   "at": "2026-09-30T16:58:39Z"
+   "at": "2026-10-01T17:31:47Z"
   },
   "leaderboard": {
    "ok": true,
    "detail": "min_trades=5",
-   "count": 38,
-   "at": "2026-09-30T16:58:39Z"
+   "count": 36,
+   "at": "2026-10-01T17:31:48Z"
   },
   "brief": {
    "ok": false,
    "detail": "engine_only fallback",
    "count": 0,
-   "at": "2026-09-30T16:58:48Z"
+   "at": "2026-10-01T17:31:57Z"
   }
  }
 }

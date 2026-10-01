@@ -1,26 +1,7 @@
 {
- "generated_at": "2026-09-30T16:58:39Z",
+ "generated_at": "2026-10-01T17:31:48Z",
  "min_trades": 5,
  "members": [
-  {
-   "person": "John Fetterman",
-   "party": "Democrat",
-   "chamber": "senate",
-   "state": "PA",
-   "trades_scored": 6,
-   "avg_excess": 0.4006,
-   "win_rate": 1.0,
-   "best": {
-    "ticker": "MU",
-    "side": "buy",
-    "excess": 1.6699
-   },
-   "worst": {
-    "ticker": "GOOG",
-    "side": "buy",
-    "excess": 0.0001
-   }
-  },
   {
    "person": "Christian D. Menefee",
    "party": "Democrat",
@@ -307,6 +288,25 @@
    }
   },
   {
+   "person": "Kevin Hern",
+   "party": "Republican",
+   "chamber": "house",
+   "state": "OK",
+   "trades_scored": 123,
+   "avg_excess": 0.0164,
+   "win_rate": 0.569,
+   "best": {
+    "ticker": "ADBE",
+    "side": "sell",
+    "excess": 0.1792
+   },
+   "worst": {
+    "ticker": "WAT",
+    "side": "sell",
+    "excess": -0.0852
+   }
+  },
+  {
    "person": "Michael Rulli",
    "party": "Republican",
    "chamber": "house",
@@ -323,25 +323,6 @@
     "ticker": "META",
     "side": "sell",
     "excess": -0.2485
-   }
-  },
-  {
-   "person": "Kevin Hern",
-   "party": "Republican",
-   "chamber": "house",
-   "state": "OK",
-   "trades_scored": 131,
-   "avg_excess": 0.0122,
-   "win_rate": 0.565,
-   "best": {
-    "ticker": "CMCSA",
-    "side": "sell",
-    "excess": 0.367
-   },
-   "worst": {
-    "ticker": "IQV",
-    "side": "sell",
-    "excess": -0.4177
    }
   },
   {
@@ -665,25 +646,6 @@
     "ticker": "NVO",
     "side": "buy",
     "excess": -0.1212
-   }
-  },
-  {
-   "person": "Daniel Meuser",
-   "party": "Republican",
-   "chamber": "house",
-   "state": "PA",
-   "trades_scored": 5,
-   "avg_excess": -0.0903,
-   "win_rate": 0.0,
-   "best": {
-    "ticker": "NVDA",
-    "side": "sell",
-    "excess": -0.0126
-   },
-   "worst": {
-    "ticker": "NVDA",
-    "side": "sell",
-    "excess": -0.15
    }
   },
   {
