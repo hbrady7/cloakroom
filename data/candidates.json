@@ -1,9 +1,9 @@
 {
- "as_of": "2026-09-30",
+ "as_of": "2026-10-02",
  "candidates": [
   {
    "ticker": "BRK.B",
-   "score": 19.4,
+   "score": 17.6,
    "signals": {
     "cluster": {
      "fired": false,
@@ -22,7 +22,7 @@
     },
     "convergence": {
      "fired": true,
-     "points": 18.6,
+     "points": 16.8,
      "insider_buyers": [
       "BERKSHIRE HATHAWAY INC et al.",
       "O'Sullivan Michael J."
@@ -90,7 +90,7 @@
   },
   {
    "ticker": "TSM",
-   "score": 10.8,
+   "score": 9.8,
    "signals": {
     "cluster": {
      "fired": false,
@@ -108,7 +108,7 @@
     },
     "convergence": {
      "fired": true,
-     "points": 10.6,
+     "points": 9.6,
      "insider_buyers": [
       "Chang Tzonz-Sheng",
       "Chen Chih-Ho",
@@ -259,7 +259,7 @@
   },
   {
    "ticker": "BSX",
-   "score": 6.2,
+   "score": 5.6,
    "signals": {
     "cluster": {
      "fired": false,
@@ -278,7 +278,7 @@
     },
     "convergence": {
      "fired": true,
-     "points": 5.9,
+     "points": 5.3,
      "insider_buyers": [
       "Habiger David C",
       "Ludwig Edward J",
@@ -293,7 +293,7 @@
     },
     "size": {
      "fired": false,
-     "points": 0.3,
+     "points": 0.2,
      "max_band_mid": 8000
     }
    },
@@ -348,7 +348,7 @@
   },
   {
    "ticker": "IBP",
-   "score": 4.8,
+   "score": 4.3,
    "signals": {
     "cluster": {
      "fired": false,
@@ -357,7 +357,7 @@
     },
     "committee": {
      "fired": true,
-     "points": 4.0,
+     "points": 3.7,
      "aligned_buyers": [
       "David J. Taylor"
      ],
@@ -378,7 +378,7 @@
     },
     "size": {
      "fired": false,
-     "points": 0.8,
+     "points": 0.7,
      "max_band_mid": 8000
     }
    },
@@ -410,7 +410,7 @@
   },
   {
    "ticker": "CB",
-   "score": 4.6,
+   "score": 4.1,
    "signals": {
     "cluster": {
      "fired": false,
@@ -419,7 +419,7 @@
     },
     "committee": {
      "fired": true,
-     "points": 4.5,
+     "points": 4.1,
      "aligned_buyers": [
       "Kevin Hern",
       "Maria Elvira Salazar"
@@ -471,7 +471,7 @@
   },
   {
    "ticker": "APTV",
-   "score": 3.5,
+   "score": 3.1,
    "signals": {
     "cluster": {
      "fired": false,
@@ -491,7 +491,7 @@
     },
     "convergence": {
      "fired": true,
-     "points": 3.2,
+     "points": 2.9,
      "insider_buyers": [
       "Agnevall Hakan",
       "Clark Kevin P",
@@ -559,8 +559,79 @@
  ],
  "caution": [
   {
+   "ticker": "BABA",
+   "score": 32.6,
+   "signals": {
+    "sell_cluster": {
+     "fired": false,
+     "points": 0.0,
+     "distinct_sellers": 1
+    },
+    "insider_distribution": {
+     "fired": true,
+     "points": 32.6,
+     "distinct_sellers": 5,
+     "weighted_sellers": 5.0
+    },
+    "committee_sell": {
+     "fired": false,
+     "points": 0.0
+    }
+   },
+   "evidence": [
+    {
+     "id": "I-ce644867249c",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-b40d9d388593",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-2c0fd072cde2",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-1abd999b78a5",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-db267eef6808",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-95008dfadfe0",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-d9c2c40cc951",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-61e25ff90b99",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-4f0e17a5605a",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-3c2eaed289f3",
+     "signal": "insider_distribution"
+    }
+   ],
+   "stats": {
+    "congress_sells": 2,
+    "insider_sells": 10
+   },
+   "name": "Alibaba Group Holding Ltd",
+   "sectors": [
+    "tech"
+   ]
+  },
+  {
    "ticker": "CRWD",
-   "score": 34.3,
+   "score": 31.0,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -569,7 +640,7 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 34.3,
+     "points": 31.0,
      "distinct_sellers": 9,
      "weighted_sellers": 7.5
     },
@@ -687,7 +758,7 @@
   },
   {
    "ticker": "DASH",
-   "score": 32.6,
+   "score": 29.5,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -696,7 +767,7 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 32.6,
+     "points": 29.5,
      "distinct_sellers": 9,
      "weighted_sellers": 6.5
     },
@@ -814,7 +885,7 @@
   },
   {
    "ticker": "META",
-   "score": 32.6,
+   "score": 29.5,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -823,7 +894,7 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 32.6,
+     "points": 29.5,
      "distinct_sellers": 10,
      "weighted_sellers": 6.0
     },
@@ -940,75 +1011,8 @@
    ]
   },
   {
-   "ticker": "BABA",
-   "score": 28.1,
-   "signals": {
-    "sell_cluster": {
-     "fired": false,
-     "points": 0.0,
-     "distinct_sellers": 1
-    },
-    "insider_distribution": {
-     "fired": true,
-     "points": 28.1,
-     "distinct_sellers": 5,
-     "weighted_sellers": 5.0
-    },
-    "committee_sell": {
-     "fired": false,
-     "points": 0.0
-    }
-   },
-   "evidence": [
-    {
-     "id": "I-b40d9d388593",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-2c0fd072cde2",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-1abd999b78a5",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-db267eef6808",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-95008dfadfe0",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-d9c2c40cc951",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-61e25ff90b99",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-4f0e17a5605a",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-3c2eaed289f3",
-     "signal": "insider_distribution"
-    }
-   ],
-   "stats": {
-    "congress_sells": 2,
-    "insider_sells": 9
-   },
-   "name": "Alibaba Group Holding Ltd",
-   "sectors": [
-    "tech"
-   ]
-  },
-  {
    "ticker": "CRDO",
-   "score": 26.5,
+   "score": 29.3,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -1017,7 +1021,7 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 26.5,
+     "points": 29.3,
      "distinct_sellers": 6,
      "weighted_sellers": 4.5
     },
@@ -1027,6 +1031,42 @@
     }
    },
    "evidence": [
+    {
+     "id": "I-fbcafa43f09f",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-e332752dee63",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-93749cf3a09e",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-6479c62f9ba5",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-368ad089d4bb",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-1d4d70b8b5c9",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-1a99ca66b05b",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-111fc7d13196",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-0b99eeda704e",
+     "signal": "insider_distribution"
+    },
     {
      "id": "I-d87d84dea14f",
      "signal": "insider_distribution"
@@ -1086,47 +1126,11 @@
     {
      "id": "I-d05d8e6f3f6b",
      "signal": "insider_distribution"
-    },
-    {
-     "id": "I-c2ce55b42b14",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-aad9f27f85a3",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-6abf206811fe",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-1a897c62055c",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-01babfc4e11d",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-91179dbaa544",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-5c47f18e6a1d",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-053bd1ee6eb8",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-0169c530c8aa",
-     "signal": "insider_distribution"
     }
    ],
    "stats": {
     "congress_sells": 2,
-    "insider_sells": 215
+    "insider_sells": 207
    },
    "name": "Credo Technology Group Holding Ltd",
    "sectors": [
@@ -1136,5 +1140,5 @@
   }
  ],
  "universe": 753,
- "generated_at": "2026-10-01T17:31:47Z"
+ "generated_at": "2026-10-02T16:49:34Z"
 }

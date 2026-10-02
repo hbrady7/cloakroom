@@ -4,55 +4,55 @@
    "ok": true,
    "detail": "congress-legislators",
    "count": 548,
-   "at": "2026-10-01T17:26:59Z"
+   "at": "2026-10-02T16:45:39Z"
   },
   "senate": {
    "ok": true,
    "detail": "mode=efd",
    "count": 727,
-   "at": "2026-10-01T17:29:09Z"
+   "at": "2026-10-02T16:47:39Z"
   },
   "house": {
    "ok": true,
-   "detail": "parsed=0 no_text=0 errors=0",
-   "count": 2095,
-   "at": "2026-10-01T17:29:10Z"
+   "detail": "parsed=1 no_text=0 errors=0",
+   "count": 2082,
+   "at": "2026-10-02T16:47:40Z"
   },
   "insider": {
    "ok": true,
-   "detail": "tickers=250 new_filings=10",
-   "count": 6118,
-   "at": "2026-10-01T17:30:16Z"
+   "detail": "tickers=250 new_filings=62",
+   "count": 6003,
+   "at": "2026-10-02T16:48:51Z"
   },
   "merge": {
    "ok": true,
-   "detail": "congress=2488 insider=6118",
-   "count": 8606,
-   "at": "2026-10-01T17:30:17Z"
+   "detail": "congress=2488 insider=6003",
+   "count": 8491,
+   "at": "2026-10-02T16:48:52Z"
   },
   "prices": {
-   "ok": false,
-   "detail": "ConnectTimeout: HTTPSConnectionPool(host='stooq.com', port=443): Max retries exceeded with url: /q/d/l/?s=spy.us&d1=20260315&d2=20261001&i=d (Caused by ConnectTimeoutError(<HTTPSConnection(host='stooq.com', port=443) at 0x7f8071dbeba0>, 'Connection to stooq.com timed out. (connect timeout=10)'))",
-   "count": null,
-   "at": "2026-10-01T17:31:47Z"
+   "ok": true,
+   "detail": "stooq=0 yf=497 cached=2 missing=4",
+   "count": 497,
+   "at": "2026-10-02T16:49:34Z"
   },
   "score": {
    "ok": true,
-   "detail": "as_of=2026-09-30 universe=753",
+   "detail": "as_of=2026-10-02 universe=753",
    "count": 6,
-   "at": "2026-10-01T17:31:47Z"
+   "at": "2026-10-02T16:49:34Z"
   },
   "leaderboard": {
    "ok": true,
    "detail": "min_trades=5",
    "count": 36,
-   "at": "2026-10-01T17:31:48Z"
+   "at": "2026-10-02T16:49:34Z"
   },
   "brief": {
    "ok": false,
    "detail": "engine_only fallback",
    "count": 0,
-   "at": "2026-10-01T17:31:57Z"
+   "at": "2026-10-02T16:49:43Z"
   }
  }
 }
