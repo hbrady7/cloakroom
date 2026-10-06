@@ -1,6 +1,110 @@
 {
- "generated_at": "2026-10-05T19:49:05Z",
+ "generated_at": "2026-10-06T17:22:45Z",
  "transactions": [
+  {
+   "id": "C-79b002e87a47",
+   "source": "congress",
+   "person": "Lloyd Doggett",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on the Budget",
+     "House Committee on Ways and Means",
+     "Joint Committee on Taxation"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "HD",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-17",
+   "filed_date": "2026-10-05",
+   "lag_days": 18,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035580.pdf"
+  },
+  {
+   "id": "C-98577af1979b",
+   "source": "congress",
+   "person": "Lloyd Doggett",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on the Budget",
+     "House Committee on Ways and Means",
+     "Joint Committee on Taxation"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "PPG",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-11",
+   "filed_date": "2026-10-05",
+   "lag_days": 24,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035580.pdf"
+  },
+  {
+   "id": "C-3eab93685d9e",
+   "source": "congress",
+   "person": "Lloyd Doggett",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on the Budget",
+     "House Committee on Ways and Means",
+     "Joint Committee on Taxation"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "IBM",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-10",
+   "filed_date": "2026-10-05",
+   "lag_days": 25,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035580.pdf"
+  },
+  {
+   "id": "C-dc6abd4eca59",
+   "source": "congress",
+   "person": "Lloyd Doggett",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on the Budget",
+     "House Committee on Ways and Means",
+     "Joint Committee on Taxation"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "JNJ",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-08",
+   "filed_date": "2026-10-05",
+   "lag_days": 27,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035580.pdf"
+  },
   {
    "id": "C-3c974393e034",
    "source": "congress",
