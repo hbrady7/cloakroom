@@ -1,9 +1,9 @@
 {
- "as_of": "2026-10-05",
+ "as_of": "2026-10-06",
  "candidates": [
   {
    "ticker": "BRK.B",
-   "score": 15.1,
+   "score": 14.4,
    "signals": {
     "cluster": {
      "fired": false,
@@ -22,7 +22,7 @@
     },
     "convergence": {
      "fired": true,
-     "points": 14.5,
+     "points": 13.8,
      "insider_buyers": [
       "BERKSHIRE HATHAWAY INC et al.",
       "O'Sullivan Michael J."
@@ -90,7 +90,7 @@
   },
   {
    "ticker": "TSM",
-   "score": 8.5,
+   "score": 8.1,
    "signals": {
     "cluster": {
      "fired": false,
@@ -108,7 +108,7 @@
     },
     "convergence": {
      "fired": true,
-     "points": 8.3,
+     "points": 7.9,
      "insider_buyers": [
       "Chang Tzonz-Sheng",
       "Chen Chih-Ho",
@@ -143,7 +143,7 @@
     },
     "size": {
      "fired": false,
-     "points": 0.2,
+     "points": 0.1,
      "max_band_mid": 8000
     }
    },
@@ -248,7 +248,7 @@
    "stats": {
     "congress_buys": 4,
     "distinct_buyers": 2,
-    "insider_open_market_buys": 74,
+    "insider_open_market_buys": 73,
     "options_positions": 0
    },
    "name": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
@@ -259,7 +259,7 @@
   },
   {
    "ticker": "JNJ",
-   "score": 5.3,
+   "score": 5.0,
    "signals": {
     "cluster": {
      "fired": false,
@@ -268,7 +268,7 @@
     },
     "committee": {
      "fired": true,
-     "points": 5.3,
+     "points": 5.0,
      "aligned_buyers": [
       "Alan Armstrong",
       "Lloyd Doggett"
@@ -326,7 +326,7 @@
   },
   {
    "ticker": "BSX",
-   "score": 4.8,
+   "score": 4.6,
    "signals": {
     "cluster": {
      "fired": false,
@@ -345,7 +345,7 @@
     },
     "convergence": {
      "fired": true,
-     "points": 4.6,
+     "points": 4.4,
      "insider_buyers": [
       "Habiger David C",
       "Ludwig Edward J",
@@ -415,7 +415,7 @@
   },
   {
    "ticker": "IBP",
-   "score": 3.7,
+   "score": 3.6,
    "signals": {
     "cluster": {
      "fired": false,
@@ -424,7 +424,7 @@
     },
     "committee": {
      "fired": true,
-     "points": 3.2,
+     "points": 3.0,
      "aligned_buyers": [
       "David J. Taylor"
      ],
@@ -477,7 +477,7 @@
   },
   {
    "ticker": "CB",
-   "score": 3.6,
+   "score": 3.4,
    "signals": {
     "cluster": {
      "fired": false,
@@ -486,7 +486,7 @@
     },
     "committee": {
      "fired": true,
-     "points": 3.5,
+     "points": 3.4,
      "aligned_buyers": [
       "Kevin Hern",
       "Maria Elvira Salazar"
@@ -539,8 +539,232 @@
  ],
  "caution": [
   {
-   "ticker": "SMTC",
-   "score": 31.0,
+   "ticker": "CRWD",
+   "score": 34.3,
+   "signals": {
+    "sell_cluster": {
+     "fired": false,
+     "points": 0.0,
+     "distinct_sellers": 2
+    },
+    "insider_distribution": {
+     "fired": true,
+     "points": 34.3,
+     "distinct_sellers": 9,
+     "weighted_sellers": 7.5
+    },
+    "committee_sell": {
+     "fired": false,
+     "points": 0.0
+    }
+   },
+   "evidence": [
+    {
+     "id": "I-9fbcc7f37d89",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-6150a1cca828",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-4dbb568ff1fc",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-495dc40f3a03",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-1ae12fc60ecf",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-0408b534690c",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-b1acc844e2d3",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-a8705d8e1e79",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-3f612492059e",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-25df88d5b6e0",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-237e9819279a",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-fcfe317ddbbf",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-ee6583834232",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-ee4f8f9debb6",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-c821398f6c0e",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-b52afde34cd7",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-ae550f00a15a",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-ad60c87020b9",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-9f6c2dd14e8e",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-9e37ea5eff56",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-9dbb3794a1ea",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-8ada21a7481d",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-65e380114c5a",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-5b7751363165",
+     "signal": "insider_distribution"
+    }
+   ],
+   "stats": {
+    "congress_sells": 2,
+    "insider_sells": 878
+   },
+   "name": "CrowdStrike Holdings, Inc.",
+   "sectors": [
+    "tech"
+   ]
+  },
+  {
+   "ticker": "PG",
+   "score": 34.3,
+   "signals": {
+    "sell_cluster": {
+     "fired": false,
+     "points": 0.0,
+     "distinct_sellers": 2
+    },
+    "insider_distribution": {
+     "fired": true,
+     "points": 34.3,
+     "distinct_sellers": 12,
+     "weighted_sellers": 12.0
+    },
+    "committee_sell": {
+     "fired": false,
+     "points": 0.0
+    }
+   },
+   "evidence": [
+    {
+     "id": "I-f323aee5d0e0",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-5d0194799518",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-2c8b0a98371c",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-0721c5340244",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-12162de68a12",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-ef53455ec4be",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-ce630003f79b",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-c58c5290128f",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-c5493f4615fc",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-adfeea973a6f",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-92250bf30e66",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-77618981e34c",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-6738e9a06eda",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-50c9935acdd9",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-3dd9bd90cfaa",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-789bf8e41f21",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-234cd2684064",
+     "signal": "insider_distribution"
+    }
+   ],
+   "stats": {
+    "congress_sells": 7,
+    "insider_sells": 17
+   },
+   "name": "PROCTER & GAMBLE Co",
+   "sectors": []
+  },
+  {
+   "ticker": "DASH",
+   "score": 29.5,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -549,7 +773,134 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 31.0,
+     "points": 29.5,
+     "distinct_sellers": 9,
+     "weighted_sellers": 6.5
+    },
+    "committee_sell": {
+     "fired": false,
+     "points": 0.0
+    }
+   },
+   "evidence": [
+    {
+     "id": "I-fe98f2231d4b",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-fbc5122f5357",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-dbac438aa843",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-d50fca765217",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-a867fbaa964c",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-93f607826e94",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-871f3c20f585",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-6c96d572293b",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-378fc4eb13fb",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-f5fbce7c4714",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-b5476a5f0a33",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-f9b2f9e3d1b6",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-cd0957ad0ab1",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-bd465cc704c8",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-7f81ab20af1c",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-757f0d09c7dc",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-7568a7bbe289",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-69db58516241",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-499d33476b1e",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-3fed79af9a15",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-e8ddd421060f",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-e18ee8d8a4d8",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-dab396c8fc35",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-d04b01535957",
+     "signal": "insider_distribution"
+    }
+   ],
+   "stats": {
+    "congress_sells": 3,
+    "insider_sells": 85
+   },
+   "name": "DoorDash, Inc.",
+   "sectors": [
+    "tech"
+   ]
+  },
+  {
+   "ticker": "SMTC",
+   "score": 29.5,
+   "signals": {
+    "sell_cluster": {
+     "fired": false,
+     "points": 0.0,
+     "distinct_sellers": 1
+    },
+    "insider_distribution": {
+     "fired": true,
+     "points": 29.5,
      "distinct_sellers": 9,
      "weighted_sellers": 6.0
     },
@@ -668,7 +1019,7 @@
   },
   {
    "ticker": "SNOW",
-   "score": 31.0,
+   "score": 29.5,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -677,7 +1028,7 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 31.0,
+     "points": 29.5,
      "distinct_sellers": 8,
      "weighted_sellers": 5.5
     },
@@ -792,390 +1143,8 @@
    "sectors": [
     "tech"
    ]
-  },
-  {
-   "ticker": "ADI",
-   "score": 29.7,
-   "signals": {
-    "sell_cluster": {
-     "fired": false,
-     "points": 0.0,
-     "distinct_sellers": 2
-    },
-    "insider_distribution": {
-     "fired": true,
-     "points": 27.6,
-     "distinct_sellers": 6,
-     "weighted_sellers": 4.0
-    },
-    "committee_sell": {
-     "fired": true,
-     "points": 2.2
-    }
-   },
-   "evidence": [
-    {
-     "id": "I-89e6ebb1c088",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-606b95aa4db1",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-0aa483f897ca",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-e6c0a252d386",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-f78ee7869146",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-7b166fd085b0",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-6b7b3a1bfcef",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-533787c890f1",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-46734dd951fe",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-f02328909624",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-e5161cc0221e",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-e276ef30022c",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-ddd3593a69ed",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-c31ac014cbe0",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-58951f62974b",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-28337a2b7fdd",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-f21896e28308",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-6ef1b6c41ad1",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-189e1d301a29",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-bc1d2a0ff059",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-b5a62f05c11b",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-a83de59557c0",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-9dd353555cfd",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-851c640e14ec",
-     "signal": "insider_distribution"
-    }
-   ],
-   "stats": {
-    "congress_sells": 6,
-    "insider_sells": 62
-   },
-   "name": "ANALOG DEVICES INC",
-   "sectors": [
-    "semis",
-    "tech"
-   ]
-  },
-  {
-   "ticker": "CRWD",
-   "score": 29.5,
-   "signals": {
-    "sell_cluster": {
-     "fired": false,
-     "points": 0.0,
-     "distinct_sellers": 2
-    },
-    "insider_distribution": {
-     "fired": true,
-     "points": 29.5,
-     "distinct_sellers": 9,
-     "weighted_sellers": 7.5
-    },
-    "committee_sell": {
-     "fired": false,
-     "points": 0.0
-    }
-   },
-   "evidence": [
-    {
-     "id": "I-fcfe317ddbbf",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-ee6583834232",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-ee4f8f9debb6",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-c821398f6c0e",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-b52afde34cd7",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-ae550f00a15a",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-ad60c87020b9",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-9f6c2dd14e8e",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-9e37ea5eff56",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-9dbb3794a1ea",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-8ada21a7481d",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-65e380114c5a",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-5b7751363165",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-4378f97b142b",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-0fa2dedad02e",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-0310e1537212",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-fc0a5196799f",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-d42858d0c686",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-c59292e69da6",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-ba0e81af3017",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-8ca27e75dc93",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-7cbb0f9e39da",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-354054909ebf",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-313d363859ce",
-     "signal": "insider_distribution"
-    }
-   ],
-   "stats": {
-    "congress_sells": 2,
-    "insider_sells": 939
-   },
-   "name": "CrowdStrike Holdings, Inc.",
-   "sectors": [
-    "tech"
-   ]
-  },
-  {
-   "ticker": "DASH",
-   "score": 29.5,
-   "signals": {
-    "sell_cluster": {
-     "fired": false,
-     "points": 0.0,
-     "distinct_sellers": 1
-    },
-    "insider_distribution": {
-     "fired": true,
-     "points": 29.5,
-     "distinct_sellers": 9,
-     "weighted_sellers": 6.5
-    },
-    "committee_sell": {
-     "fired": false,
-     "points": 0.0
-    }
-   },
-   "evidence": [
-    {
-     "id": "I-f5fbce7c4714",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-b5476a5f0a33",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-f9b2f9e3d1b6",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-cd0957ad0ab1",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-bd465cc704c8",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-7f81ab20af1c",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-757f0d09c7dc",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-7568a7bbe289",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-69db58516241",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-499d33476b1e",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-3fed79af9a15",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-e8ddd421060f",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-e18ee8d8a4d8",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-dab396c8fc35",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-d04b01535957",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-c712a2c15b51",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-97873091d7f4",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-2136a32fe3c8",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-f3627c23c5b4",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-f09842d1cae3",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-eea199190b45",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-cb66b241b95a",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-c248c9dee4e9",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-baa5421b6245",
-     "signal": "insider_distribution"
-    }
-   ],
-   "stats": {
-    "congress_sells": 3,
-    "insider_sells": 76
-   },
-   "name": "DoorDash, Inc.",
-   "sectors": [
-    "tech"
-   ]
   }
  ],
  "universe": 723,
- "generated_at": "2026-10-06T17:25:28Z"
+ "generated_at": "2026-10-07T17:58:54Z"
 }
