@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-08T18:00:10Z",
+ "generated_at": "2026-10-09T17:34:27Z",
  "window_days": 180,
  "trades": [
   {
@@ -23,6 +23,116 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000710/"
+  },
+  {
+   "id": "I-f8d0c88d097e",
+   "source": "insider",
+   "person": "Payne Abby",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief People Officer",
+   "ticker": "SAIL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1656,
+   "amount_high": 1656,
+   "tx_date": "2026-10-07",
+   "filed_date": "2026-10-08",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2030781/000205244426000034/"
+  },
+  {
+   "id": "I-ec2a6503771d",
+   "source": "insider",
+   "person": "Dageville Benoit",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "SNOW",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 16671000,
+   "amount_high": 16671000,
+   "tx_date": "2026-10-07",
+   "filed_date": "2026-10-08",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1640147/000182173726000016/"
+  },
+  {
+   "id": "I-e566e8db14ff",
+   "source": "insider",
+   "person": "Carolan Brian",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Financial Officer",
+   "ticker": "SAIL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1037110,
+   "amount_high": 1037110,
+   "tx_date": "2026-10-07",
+   "filed_date": "2026-10-08",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2030781/000127971426000031/"
+  },
+  {
+   "id": "I-e3715acf272a",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 173555,
+   "amount_high": 173555,
+   "tx_date": "2026-10-07",
+   "filed_date": "2026-10-08",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000179/"
+  },
+  {
+   "id": "I-db37c81e9f72",
+   "source": "insider",
+   "person": "Stata Ray",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "ADI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 19644,
+   "amount_high": 19644,
+   "tx_date": "2026-10-07",
+   "filed_date": "2026-10-08",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/6281/000090072926000019/"
   },
   {
    "id": "I-d6cbe6b8e325",
@@ -69,6 +179,72 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000697/"
   },
   {
+   "id": "I-c261cdbcd845",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 273452,
+   "amount_high": 273452,
+   "tx_date": "2026-10-07",
+   "filed_date": "2026-10-08",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000179/"
+  },
+  {
+   "id": "I-c0eb18beb60d",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 219920,
+   "amount_high": 219920,
+   "tx_date": "2026-10-07",
+   "filed_date": "2026-10-08",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000179/"
+  },
+  {
+   "id": "I-b7d6dbf24b30",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 449597,
+   "amount_high": 449597,
+   "tx_date": "2026-10-07",
+   "filed_date": "2026-10-08",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000179/"
+  },
+  {
    "id": "I-b7d17a25e6d9",
    "source": "insider",
    "person": "Yuan Lipen",
@@ -89,6 +265,28 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000724/"
+  },
+  {
+   "id": "I-ae6daa707dc2",
+   "source": "insider",
+   "person": "Stata Ray",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "ADI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 135054,
+   "amount_high": 135054,
+   "tx_date": "2026-10-07",
+   "filed_date": "2026-10-08",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/6281/000090072926000019/"
   },
   {
    "id": "I-a9b65a8fa867",
@@ -113,6 +311,50 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000723/"
   },
   {
+   "id": "I-a947c2ddb8f6",
+   "source": "insider",
+   "person": "Gnanasambandam Chandrasekar",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP Product & CTO",
+   "ticker": "SAIL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 443904,
+   "amount_high": 443904,
+   "tx_date": "2026-10-07",
+   "filed_date": "2026-10-08",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2030781/000205835726000033/"
+  },
+  {
+   "id": "I-a2447373909f",
+   "source": "insider",
+   "person": "Payne Abby",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief People Officer",
+   "ticker": "SAIL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 412841,
+   "amount_high": 412841,
+   "tx_date": "2026-10-07",
+   "filed_date": "2026-10-08",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2030781/000205244426000034/"
+  },
+  {
    "id": "I-9ad007d7db9c",
    "source": "insider",
    "person": "Tien Bor-Zen",
@@ -133,6 +375,94 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000708/"
+  },
+  {
+   "id": "I-99f8d92710e7",
+   "source": "insider",
+   "person": "Rezvan Mitra",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Accounting Officer",
+   "ticker": "SAIL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 88182,
+   "amount_high": 88182,
+   "tx_date": "2026-10-07",
+   "filed_date": "2026-10-08",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2030781/000191724626000012/"
+  },
+  {
+   "id": "I-999b266e77ea",
+   "source": "insider",
+   "person": "Stata Ray",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "ADI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 26725,
+   "amount_high": 26725,
+   "tx_date": "2026-10-07",
+   "filed_date": "2026-10-08",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/6281/000090072926000019/"
+  },
+  {
+   "id": "I-9855a62a0210",
+   "source": "insider",
+   "person": "McClain Mark D.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Executive Officer",
+   "ticker": "SAIL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 9055,
+   "amount_high": 9055,
+   "tx_date": "2026-10-07",
+   "filed_date": "2026-10-08",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2030781/000172249826000034/"
+  },
+  {
+   "id": "I-96b756cb5eba",
+   "source": "insider",
+   "person": "Stata Ray",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "ADI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 92862,
+   "amount_high": 92862,
+   "tx_date": "2026-10-07",
+   "filed_date": "2026-10-08",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/6281/000090072926000019/"
   },
   {
    "id": "I-936aac928e3d",
@@ -245,6 +575,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000704/"
   },
   {
+   "id": "I-8120825f5d66",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 346102,
+   "amount_high": 346102,
+   "tx_date": "2026-10-07",
+   "filed_date": "2026-10-08",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000179/"
+  },
+  {
    "id": "I-792aa2d353f3",
    "source": "insider",
    "person": "Wu Yi-Huang",
@@ -265,6 +617,94 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000714/"
+  },
+  {
+   "id": "I-6c921ff86b1f",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 76566,
+   "amount_high": 76566,
+   "tx_date": "2026-10-07",
+   "filed_date": "2026-10-08",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000179/"
+  },
+  {
+   "id": "I-6977a33d047f",
+   "source": "insider",
+   "person": "Schmitt Christopher",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "General Counsel and Secretary",
+   "ticker": "SAIL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1840,
+   "amount_high": 1840,
+   "tx_date": "2026-10-07",
+   "filed_date": "2026-10-08",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2030781/000182048226000033/"
+  },
+  {
+   "id": "I-653658feaa8d",
+   "source": "insider",
+   "person": "Schmitt Christopher",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "General Counsel and Secretary",
+   "ticker": "SAIL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 458785,
+   "amount_high": 458785,
+   "tx_date": "2026-10-07",
+   "filed_date": "2026-10-08",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2030781/000182048226000033/"
+  },
+  {
+   "id": "I-642202167a95",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 150109,
+   "amount_high": 150109,
+   "tx_date": "2026-10-07",
+   "filed_date": "2026-10-08",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000179/"
   },
   {
    "id": "I-5ee56774ff65",
@@ -289,6 +729,50 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000703/"
   },
   {
+   "id": "I-5b1719eaf353",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 547800,
+   "amount_high": 547800,
+   "tx_date": "2026-10-07",
+   "filed_date": "2026-10-08",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000179/"
+  },
+  {
+   "id": "I-556bc90cb4b9",
+   "source": "insider",
+   "person": "Mills Matt",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President",
+   "ticker": "SAIL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 3332,
+   "amount_high": 3332,
+   "tx_date": "2026-10-07",
+   "filed_date": "2026-10-08",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2030781/000178688326000033/"
+  },
+  {
    "id": "I-4cd289a65caf",
    "source": "insider",
    "person": "Tien Bor-Zen",
@@ -309,6 +793,160 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000708/"
+  },
+  {
+   "id": "I-4bee63460364",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 84256,
+   "amount_high": 84256,
+   "tx_date": "2026-10-07",
+   "filed_date": "2026-10-08",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000179/"
+  },
+  {
+   "id": "I-496c1515bd38",
+   "source": "insider",
+   "person": "Gnanasambandam Chandrasekar",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP Product & CTO",
+   "ticker": "SAIL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1778,
+   "amount_high": 1778,
+   "tx_date": "2026-10-07",
+   "filed_date": "2026-10-08",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2030781/000205835726000033/"
+  },
+  {
+   "id": "I-49666e859eb1",
+   "source": "insider",
+   "person": "McClain Mark D.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Executive Officer",
+   "ticker": "SAIL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 2264912,
+   "amount_high": 2264912,
+   "tx_date": "2026-10-07",
+   "filed_date": "2026-10-08",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2030781/000172249826000034/"
+  },
+  {
+   "id": "I-4043a79ff9a8",
+   "source": "insider",
+   "person": "Mills Matt",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President",
+   "ticker": "SAIL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 833311,
+   "amount_high": 833311,
+   "tx_date": "2026-10-07",
+   "filed_date": "2026-10-08",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2030781/000178688326000033/"
+  },
+  {
+   "id": "I-2e78bae803f9",
+   "source": "insider",
+   "person": "Stata Ray",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "ADI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 95963,
+   "amount_high": 95963,
+   "tx_date": "2026-10-07",
+   "filed_date": "2026-10-08",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/6281/000090072926000019/"
+  },
+  {
+   "id": "I-2b9b258928e3",
+   "source": "insider",
+   "person": "Carolan Brian",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Financial Officer",
+   "ticker": "SAIL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 4149,
+   "amount_high": 4149,
+   "tx_date": "2026-10-07",
+   "filed_date": "2026-10-08",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2030781/000127971426000031/"
+  },
+  {
+   "id": "I-2b55102d9521",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 54476,
+   "amount_high": 54476,
+   "tx_date": "2026-10-07",
+   "filed_date": "2026-10-08",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000179/"
   },
   {
    "id": "I-242979299d02",
@@ -377,6 +1015,512 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000702/"
   },
   {
+   "id": "I-0c4c2f2e89d5",
+   "source": "insider",
+   "person": "Stata Ray",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "ADI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 195892,
+   "amount_high": 195892,
+   "tx_date": "2026-10-07",
+   "filed_date": "2026-10-08",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/6281/000090072926000019/"
+  },
+  {
+   "id": "I-09126cb3e41f",
+   "source": "insider",
+   "person": "Stata Ray",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "ADI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 10716,
+   "amount_high": 10716,
+   "tx_date": "2026-10-07",
+   "filed_date": "2026-10-08",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/6281/000090072926000019/"
+  },
+  {
+   "id": "I-07b7860fd7b9",
+   "source": "insider",
+   "person": "Rezvan Mitra",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Accounting Officer",
+   "ticker": "SAIL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 347,
+   "amount_high": 347,
+   "tx_date": "2026-10-07",
+   "filed_date": "2026-10-08",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2030781/000191724626000012/"
+  },
+  {
+   "id": "I-015636d934a5",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 313362,
+   "amount_high": 313362,
+   "tx_date": "2026-10-07",
+   "filed_date": "2026-10-08",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000179/"
+  },
+  {
+   "id": "I-fbf75d34a679",
+   "source": "insider",
+   "person": "Gnanasambandam Chandrasekar",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP Product & CTO",
+   "ticker": "SAIL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 234679,
+   "amount_high": 234679,
+   "tx_date": "2026-10-06",
+   "filed_date": "2026-10-08",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2030781/000205835726000033/"
+  },
+  {
+   "id": "I-efd989656ab2",
+   "source": "insider",
+   "person": "Stata Ray",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "ADI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 179532,
+   "amount_high": 179532,
+   "tx_date": "2026-10-06",
+   "filed_date": "2026-10-08",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/6281/000090072926000019/"
+  },
+  {
+   "id": "I-ee7d8a08937e",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 334020,
+   "amount_high": 334020,
+   "tx_date": "2026-10-06",
+   "filed_date": "2026-10-08",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000179/"
+  },
+  {
+   "id": "I-ec0e149462f6",
+   "source": "insider",
+   "person": "Stata Ray",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "ADI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 295053,
+   "amount_high": 295053,
+   "tx_date": "2026-10-06",
+   "filed_date": "2026-10-08",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/6281/000090072926000019/"
+  },
+  {
+   "id": "I-e79f44b4e896",
+   "source": "insider",
+   "person": "Stata Ray",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "ADI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 78351,
+   "amount_high": 78351,
+   "tx_date": "2026-10-06",
+   "filed_date": "2026-10-08",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/6281/000090072926000019/"
+  },
+  {
+   "id": "I-e0a38ab04c8e",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 102246,
+   "amount_high": 102246,
+   "tx_date": "2026-10-06",
+   "filed_date": "2026-10-08",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000179/"
+  },
+  {
+   "id": "I-db1c23e02749",
+   "source": "insider",
+   "person": "Payne Abby",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief People Officer",
+   "ticker": "SAIL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 45636,
+   "amount_high": 45636,
+   "tx_date": "2026-10-06",
+   "filed_date": "2026-10-08",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2030781/000205244426000034/"
+  },
+  {
+   "id": "I-d8840e9dd65d",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1060580,
+   "amount_high": 1060580,
+   "tx_date": "2026-10-06",
+   "filed_date": "2026-10-08",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000179/"
+  },
+  {
+   "id": "I-bad420e975d3",
+   "source": "insider",
+   "person": "Stata Ray",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "ADI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 41840,
+   "amount_high": 41840,
+   "tx_date": "2026-10-06",
+   "filed_date": "2026-10-08",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/6281/000090072926000019/"
+  },
+  {
+   "id": "I-b8fa9456b344",
+   "source": "insider",
+   "person": "Schmitt Christopher",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "General Counsel and Secretary",
+   "ticker": "SAIL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 50725,
+   "amount_high": 50725,
+   "tx_date": "2026-10-06",
+   "filed_date": "2026-10-08",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2030781/000182048226000033/"
+  },
+  {
+   "id": "I-b739c9f30562",
+   "source": "insider",
+   "person": "Carolan Brian",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Financial Officer",
+   "ticker": "SAIL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 512122,
+   "amount_high": 512122,
+   "tx_date": "2026-10-06",
+   "filed_date": "2026-10-08",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2030781/000127971426000031/"
+  },
+  {
+   "id": "I-b55da677a039",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 338370,
+   "amount_high": 338370,
+   "tx_date": "2026-10-06",
+   "filed_date": "2026-10-08",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000179/"
+  },
+  {
+   "id": "I-b0c30aa8bfc3",
+   "source": "insider",
+   "person": "Rezvan Mitra",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Accounting Officer",
+   "ticker": "SAIL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 46575,
+   "amount_high": 46575,
+   "tx_date": "2026-10-06",
+   "filed_date": "2026-10-08",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2030781/000191724626000012/"
+  },
+  {
+   "id": "I-966018443b30",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 52393,
+   "amount_high": 52393,
+   "tx_date": "2026-10-06",
+   "filed_date": "2026-10-08",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000179/"
+  },
+  {
+   "id": "I-8fb5dd13f640",
+   "source": "insider",
+   "person": "Mills Matt",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President",
+   "ticker": "SAIL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 685896,
+   "amount_high": 685896,
+   "tx_date": "2026-10-06",
+   "filed_date": "2026-10-08",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2030781/000178688326000033/"
+  },
+  {
+   "id": "I-7a9e30ebab24",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 90976,
+   "amount_high": 90976,
+   "tx_date": "2026-10-06",
+   "filed_date": "2026-10-08",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000179/"
+  },
+  {
+   "id": "I-79112cf872c1",
+   "source": "insider",
+   "person": "Payne Abby",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief People Officer",
+   "ticker": "SAIL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 339807,
+   "amount_high": 339807,
+   "tx_date": "2026-10-06",
+   "filed_date": "2026-10-08",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2030781/000205244426000034/"
+  },
+  {
+   "id": "I-5ed634322e81",
+   "source": "insider",
+   "person": "Gnanasambandam Chandrasekar",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP Product & CTO",
+   "ticker": "SAIL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 31524,
+   "amount_high": 31524,
+   "tx_date": "2026-10-06",
+   "filed_date": "2026-10-08",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2030781/000205835726000033/"
+  },
+  {
+   "id": "I-5e716e966b4a",
+   "source": "insider",
+   "person": "McClain Mark D.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Executive Officer",
+   "ticker": "SAIL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 250408,
+   "amount_high": 250408,
+   "tx_date": "2026-10-06",
+   "filed_date": "2026-10-08",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2030781/000172249826000034/"
+  },
+  {
    "id": "I-422357aac53f",
    "source": "insider",
    "person": "Zuraitis Marita",
@@ -397,6 +1541,226 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/850141/000121465926012678/"
+  },
+  {
+   "id": "I-3d673a417dc7",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 168192,
+   "amount_high": 168192,
+   "tx_date": "2026-10-06",
+   "filed_date": "2026-10-08",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000179/"
+  },
+  {
+   "id": "I-3b4f9f8db6d4",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 96197,
+   "amount_high": 96197,
+   "tx_date": "2026-10-06",
+   "filed_date": "2026-10-08",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000179/"
+  },
+  {
+   "id": "I-26c253197ca5",
+   "source": "insider",
+   "person": "Schmitt Christopher",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "General Counsel and Secretary",
+   "ticker": "SAIL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 377606,
+   "amount_high": 377606,
+   "tx_date": "2026-10-06",
+   "filed_date": "2026-10-08",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2030781/000182048226000033/"
+  },
+  {
+   "id": "I-1779bdeaf662",
+   "source": "insider",
+   "person": "Newstead Jennifer",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "SVP, GC and Government Affairs",
+   "ticker": "AAPL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 796492,
+   "amount_high": 796492,
+   "tx_date": "2026-10-06",
+   "filed_date": "2026-10-08",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/320193/000114036126039158/"
+  },
+  {
+   "id": "I-10ac1112f3af",
+   "source": "insider",
+   "person": "Rezvan Mitra",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Accounting Officer",
+   "ticker": "SAIL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 6267,
+   "amount_high": 6267,
+   "tx_date": "2026-10-06",
+   "filed_date": "2026-10-08",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2030781/000191724626000012/"
+  },
+  {
+   "id": "I-0de367a13909",
+   "source": "insider",
+   "person": "McClain Mark D.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Executive Officer",
+   "ticker": "SAIL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1864335,
+   "amount_high": 1864335,
+   "tx_date": "2026-10-06",
+   "filed_date": "2026-10-08",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2030781/000172249826000034/"
+  },
+  {
+   "id": "I-0ba181f8556d",
+   "source": "insider",
+   "person": "Mills Matt",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President",
+   "ticker": "SAIL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 92134,
+   "amount_high": 92134,
+   "tx_date": "2026-10-06",
+   "filed_date": "2026-10-08",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2030781/000178688326000033/"
+  },
+  {
+   "id": "I-0b09d148a25b",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 33242,
+   "amount_high": 33242,
+   "tx_date": "2026-10-06",
+   "filed_date": "2026-10-08",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000179/"
+  },
+  {
+   "id": "I-0379d9e1f278",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 528938,
+   "amount_high": 528938,
+   "tx_date": "2026-10-06",
+   "filed_date": "2026-10-08",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000179/"
+  },
+  {
+   "id": "I-02681cbc16d1",
+   "source": "insider",
+   "person": "Carolan Brian",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Financial Officer",
+   "ticker": "SAIL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 68790,
+   "amount_high": 68790,
+   "tx_date": "2026-10-06",
+   "filed_date": "2026-10-08",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2030781/000127971426000031/"
   },
   {
    "id": "I-b7c1d26e8def",
@@ -2135,6 +3499,1106 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1327811/000192890826000017/"
+  },
+  {
+   "id": "C-9b74fee624db",
+   "source": "congress",
+   "person": "Josh Gottheimer",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Permanent Select Committee on Intelligence",
+     "House Committee on Financial Services"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MCD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-25",
+   "filed_date": "2026-10-07",
+   "lag_days": 12,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035590.pdf"
+  },
+  {
+   "id": "C-e9a64e31924b",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MSFT",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-24",
+   "filed_date": "2026-10-07",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-e1e021a99cb8",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "HONA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-24",
+   "filed_date": "2026-10-07",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-dd97430f3c60",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CB",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-24",
+   "filed_date": "2026-10-07",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-b2ffc6406d06",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MRVL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-24",
+   "filed_date": "2026-10-07",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-b01dc64316e1",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "UNH",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-24",
+   "filed_date": "2026-10-07",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-a3ce5fd43dcb",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "BEP",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-24",
+   "filed_date": "2026-10-07",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-7a23ef98fbc3",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CSCO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-24",
+   "filed_date": "2026-10-07",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-77c02a03264a",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "OKTA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-24",
+   "filed_date": "2026-10-07",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-7714846b67a9",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "C",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-24",
+   "filed_date": "2026-10-07",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-738e3b58a665",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MRNA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-24",
+   "filed_date": "2026-10-07",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-67dbdee4ac36",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "GLW",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-24",
+   "filed_date": "2026-10-07",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-6244f9e8acb4",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "GS",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-24",
+   "filed_date": "2026-10-07",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-489df4ffb999",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-24",
+   "filed_date": "2026-10-07",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-467c205d453a",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MRK",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-24",
+   "filed_date": "2026-10-07",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-45db01978ada",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "FDX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-24",
+   "filed_date": "2026-10-07",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-3f4c488fb81a",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "HON",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-24",
+   "filed_date": "2026-10-07",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-3ab97266bfc8",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CRM",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-24",
+   "filed_date": "2026-10-07",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-36b4f0ed8459",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "RH",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-24",
+   "filed_date": "2026-10-07",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-2d2c0de896a0",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "SPCX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-24",
+   "filed_date": "2026-10-07",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-2846b0b26680",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "META",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-24",
+   "filed_date": "2026-10-07",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-2391cf2fcd51",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "BRK.B",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-24",
+   "filed_date": "2026-10-07",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-1f6eb85ff9a2",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CSCO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-09-24",
+   "filed_date": "2026-10-07",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-1687d1b18ab6",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "SNOW",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-24",
+   "filed_date": "2026-10-07",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-1668150d0a6c",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "BIIB",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-24",
+   "filed_date": "2026-10-07",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-1271846fe713",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "PTON",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-24",
+   "filed_date": "2026-10-07",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-1184550cfbaa",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "GE",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-24",
+   "filed_date": "2026-10-07",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-10c99140f061",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "URI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-24",
+   "filed_date": "2026-10-07",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-019afeaafba3",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "BA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-24",
+   "filed_date": "2026-10-07",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-b1787fcbd60d",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "META",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-22",
+   "filed_date": "2026-10-07",
+   "lag_days": 15,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-9ebe7b533126",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "META",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-22",
+   "filed_date": "2026-10-07",
+   "lag_days": 15,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-30875e013cd8",
+   "source": "congress",
+   "person": "Josh Gottheimer",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Permanent Select Committee on Intelligence",
+     "House Committee on Financial Services"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "AMAT",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-15",
+   "filed_date": "2026-10-07",
+   "lag_days": 22,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035590.pdf"
+  },
+  {
+   "id": "C-88b8bf72e1ee",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "GLW",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-08",
+   "filed_date": "2026-10-07",
+   "lag_days": 29,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-818a377c3889",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CSCO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-08",
+   "filed_date": "2026-10-07",
+   "lag_days": 29,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-0c520fe96760",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "GLW",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-08",
+   "filed_date": "2026-10-07",
+   "lag_days": 29,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-f136fe8a6630",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "OKTA",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-04",
+   "filed_date": "2026-10-07",
+   "lag_days": 33,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-ec0a2719d7b9",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "SNOW",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-09-04",
+   "filed_date": "2026-10-07",
+   "lag_days": 33,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-eb9ee31deac8",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "SNOW",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-04",
+   "filed_date": "2026-10-07",
+   "lag_days": 33,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-dcbe9e02324b",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "GLW",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-04",
+   "filed_date": "2026-10-07",
+   "lag_days": 33,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-c7d8dd910491",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "IBM",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-04",
+   "filed_date": "2026-10-07",
+   "lag_days": 33,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-b64be989d523",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "GLW",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-04",
+   "filed_date": "2026-10-07",
+   "lag_days": 33,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-024cb60abf14",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "IBM",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-04",
+   "filed_date": "2026-10-07",
+   "lag_days": 33,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-001c0ebcac42",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "OKTA",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-04",
+   "filed_date": "2026-10-07",
+   "lag_days": 33,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-03aeb66fc911",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CVX",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-02",
+   "filed_date": "2026-10-07",
+   "lag_days": 35,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
   },
   {
    "id": "I-f323aee5d0e0",
@@ -9328,6 +11792,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177861026000024/"
   },
   {
+   "id": "I-ff2c1330ad21",
+   "source": "insider",
+   "person": "Le-Quoc Alexis",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Technology Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 343758,
+   "amount_high": 343758,
+   "tx_date": "2026-09-23",
+   "filed_date": "2026-09-25",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000320/"
+  },
+  {
    "id": "I-f1437008083c",
    "source": "insider",
    "person": "Cheng Chi Fung",
@@ -9570,6 +12056,94 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/000162828026063555/"
   },
   {
+   "id": "I-b927c0f0502f",
+   "source": "insider",
+   "person": "Le-Quoc Alexis",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Technology Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 2430952,
+   "amount_high": 2430952,
+   "tx_date": "2026-09-23",
+   "filed_date": "2026-09-25",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000320/"
+  },
+  {
+   "id": "I-a9b9beba79cc",
+   "source": "insider",
+   "person": "Le-Quoc Alexis",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Technology Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 160739,
+   "amount_high": 160739,
+   "tx_date": "2026-09-23",
+   "filed_date": "2026-09-25",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000320/"
+  },
+  {
+   "id": "I-a753375e9056",
+   "source": "insider",
+   "person": "Le-Quoc Alexis",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Technology Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 408946,
+   "amount_high": 408946,
+   "tx_date": "2026-09-23",
+   "filed_date": "2026-09-25",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000320/"
+  },
+  {
+   "id": "I-97b32e4a8292",
+   "source": "insider",
+   "person": "Le-Quoc Alexis",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Technology Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 5533568,
+   "amount_high": 5533568,
+   "tx_date": "2026-09-23",
+   "filed_date": "2026-09-25",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000320/"
+  },
+  {
    "id": "I-86b75bae9525",
    "source": "insider",
    "person": "Samueli Henry",
@@ -9702,6 +12276,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526403089/"
   },
   {
+   "id": "I-74802b8f4c8e",
+   "source": "insider",
+   "person": "Le-Quoc Alexis",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Technology Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 158811,
+   "amount_high": 158811,
+   "tx_date": "2026-09-23",
+   "filed_date": "2026-09-25",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000320/"
+  },
+  {
    "id": "I-4a4b23117251",
    "source": "insider",
    "person": "Samueli Henry",
@@ -9810,6 +12406,50 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1730168/000110465926110983/"
+  },
+  {
+   "id": "I-27fd9020f4f5",
+   "source": "insider",
+   "person": "Le-Quoc Alexis",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Technology Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1354514,
+   "amount_high": 1354514,
+   "tx_date": "2026-09-23",
+   "filed_date": "2026-09-25",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000320/"
+  },
+  {
+   "id": "I-27a05685347c",
+   "source": "insider",
+   "person": "Le-Quoc Alexis",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Technology Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 508699,
+   "amount_high": 508699,
+   "tx_date": "2026-09-23",
+   "filed_date": "2026-09-25",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000320/"
   },
   {
    "id": "I-24e23da30328",
@@ -12426,6 +15066,50 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000171/"
   },
   {
+   "id": "I-fbd2561656c2",
+   "source": "insider",
+   "person": "Demilio Mark S",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "RH",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 132000,
+   "amount_high": 132000,
+   "tx_date": "2026-09-22",
+   "filed_date": "2026-09-24",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1528849/000124471526000014/"
+  },
+  {
+   "id": "I-f6f5a761cda6",
+   "source": "insider",
+   "person": "McKinnon Todd",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Executive Officer",
+   "ticker": "OKTA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1961659,
+   "amount_high": 1961659,
+   "tx_date": "2026-09-22",
+   "filed_date": "2026-09-24",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1660134/000170062626000008/"
+  },
+  {
    "id": "I-f12dadfee0fb",
    "source": "insider",
    "person": "Kurtz George",
@@ -12446,6 +15130,28 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000171/"
+  },
+  {
+   "id": "I-eea40e81f86b",
+   "source": "insider",
+   "person": "McKinnon Todd",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Executive Officer",
+   "ticker": "OKTA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 757529,
+   "amount_high": 757529,
+   "tx_date": "2026-09-22",
+   "filed_date": "2026-09-24",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1660134/000170062626000008/"
   },
   {
    "id": "I-e7a7b8e0eef4",
@@ -12470,6 +15176,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026063378/"
   },
   {
+   "id": "I-e29f67264ce1",
+   "source": "insider",
+   "person": "McKinnon Todd",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Executive Officer",
+   "ticker": "OKTA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 879136,
+   "amount_high": 879136,
+   "tx_date": "2026-09-22",
+   "filed_date": "2026-09-24",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1660134/000170062626000008/"
+  },
+  {
    "id": "I-d8b0aa05a302",
    "source": "insider",
    "person": "Skule Jeremy",
@@ -12490,6 +15218,94 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1120193/000119312526400998/"
+  },
+  {
+   "id": "I-d4a6a288534b",
+   "source": "insider",
+   "person": "McKinnon Todd",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Executive Officer",
+   "ticker": "OKTA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1024818,
+   "amount_high": 1024818,
+   "tx_date": "2026-09-22",
+   "filed_date": "2026-09-24",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1660134/000170062626000008/"
+  },
+  {
+   "id": "I-bf46629fd796",
+   "source": "insider",
+   "person": "McKinnon Todd",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Executive Officer",
+   "ticker": "OKTA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 365317,
+   "amount_high": 365317,
+   "tx_date": "2026-09-22",
+   "filed_date": "2026-09-24",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1660134/000170062626000008/"
+  },
+  {
+   "id": "I-be2f9e021da5",
+   "source": "insider",
+   "person": "McKinnon Todd",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Executive Officer",
+   "ticker": "OKTA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 624293,
+   "amount_high": 624293,
+   "tx_date": "2026-09-22",
+   "filed_date": "2026-09-24",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1660134/000170062626000008/"
+  },
+  {
+   "id": "I-ba2c34ffbc41",
+   "source": "insider",
+   "person": "McKinnon Todd",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Executive Officer",
+   "ticker": "OKTA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 906082,
+   "amount_high": 906082,
+   "tx_date": "2026-09-22",
+   "filed_date": "2026-09-24",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1660134/000170062626000008/"
   },
   {
    "id": "I-b4cd2c61a639",
@@ -12602,6 +15418,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000171/"
   },
   {
+   "id": "I-57bdc4f1c8df",
+   "source": "insider",
+   "person": "McKinnon Todd",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Executive Officer",
+   "ticker": "OKTA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1196021,
+   "amount_high": 1196021,
+   "tx_date": "2026-09-22",
+   "filed_date": "2026-09-24",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1660134/000170062626000008/"
+  },
+  {
    "id": "I-2af8bc279441",
    "source": "insider",
    "person": "Shotwell Gwynne",
@@ -12644,6 +15482,50 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026063378/"
+  },
+  {
+   "id": "I-2505c63ee354",
+   "source": "insider",
+   "person": "McKinnon Todd",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Executive Officer",
+   "ticker": "OKTA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1322915,
+   "amount_high": 1322915,
+   "tx_date": "2026-09-22",
+   "filed_date": "2026-09-24",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1660134/000170062626000008/"
+  },
+  {
+   "id": "I-20d9b61dd634",
+   "source": "insider",
+   "person": "McKinnon Todd",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Executive Officer",
+   "ticker": "OKTA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 408096,
+   "amount_high": 408096,
+   "tx_date": "2026-09-22",
+   "filed_date": "2026-09-24",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1660134/000170062626000008/"
   },
   {
    "id": "I-0f44da496501",
@@ -12954,6 +15836,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326014402/"
   },
   {
+   "id": "I-d6e3885295e6",
+   "source": "insider",
+   "person": "Obstler David M",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Financial Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 723750,
+   "amount_high": 723750,
+   "tx_date": "2026-09-21",
+   "filed_date": "2026-09-23",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000318/"
+  },
+  {
    "id": "I-c2c05c8d8311",
    "source": "insider",
    "person": "Haas Alesia J",
@@ -13130,6 +16034,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326014403/"
   },
   {
+   "id": "I-5139f963c541",
+   "source": "insider",
+   "person": "Obstler David M",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Financial Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 2412500,
+   "amount_high": 2412500,
+   "tx_date": "2026-09-21",
+   "filed_date": "2026-09-23",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000318/"
+  },
+  {
    "id": "I-49dfff503f8c",
    "source": "insider",
    "person": "Olivan Javier",
@@ -13282,6 +16208,28 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000169684126000014/"
+  },
+  {
+   "id": "I-1600fecdd972",
+   "source": "insider",
+   "person": "Obstler David M",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Financial Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 723750,
+   "amount_high": 723750,
+   "tx_date": "2026-09-21",
+   "filed_date": "2026-09-23",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000318/"
   },
   {
    "id": "I-0df8ba12da39",
@@ -15135,6 +18083,50 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1640147/000162828026063114/"
   },
   {
+   "id": "I-ea71e8f5ae2c",
+   "source": "insider",
+   "person": "Kelleher Eric Robert",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "See Remarks",
+   "ticker": "OKTA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 55694,
+   "amount_high": 55694,
+   "tx_date": "2026-09-18",
+   "filed_date": "2026-09-22",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1660134/000205365226000010/"
+  },
+  {
+   "id": "I-dda2e5154cb2",
+   "source": "insider",
+   "person": "Kelleher Eric Robert",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "See Remarks",
+   "ticker": "OKTA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 56009,
+   "amount_high": 56009,
+   "tx_date": "2026-09-18",
+   "filed_date": "2026-09-22",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1660134/000205365226000010/"
+  },
+  {
    "id": "I-dccb64251c22",
    "source": "insider",
    "person": "Stevens Mark A",
@@ -15223,6 +18215,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1640147/000162828026063114/"
   },
   {
+   "id": "I-55aadd65b1ab",
+   "source": "insider",
+   "person": "Kelleher Eric Robert",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "See Remarks",
+   "ticker": "OKTA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 18856,
+   "amount_high": 18856,
+   "tx_date": "2026-09-18",
+   "filed_date": "2026-09-22",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1660134/000205365226000010/"
+  },
+  {
    "id": "I-52b603d4bcd1",
    "source": "insider",
    "person": "Slootman Frank",
@@ -15267,6 +18281,50 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1640147/000162828026063114/"
   },
   {
+   "id": "I-37bcb9a368e9",
+   "source": "insider",
+   "person": "Kelleher Eric Robert",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "See Remarks",
+   "ticker": "OKTA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 176154,
+   "amount_high": 176154,
+   "tx_date": "2026-09-18",
+   "filed_date": "2026-09-22",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1660134/000205365226000010/"
+  },
+  {
+   "id": "I-1ff3955f41c9",
+   "source": "insider",
+   "person": "Kelleher Eric Robert",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "See Remarks",
+   "ticker": "OKTA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 272440,
+   "amount_high": 272440,
+   "tx_date": "2026-09-18",
+   "filed_date": "2026-09-22",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1660134/000205365226000010/"
+  },
+  {
    "id": "I-13a4d620d75f",
    "source": "insider",
    "person": "Stevens Mark A",
@@ -15287,6 +18345,28 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000119903926000016/"
+  },
+  {
+   "id": "I-07f000cedc78",
+   "source": "insider",
+   "person": "Kelleher Eric Robert",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "See Remarks",
+   "ticker": "OKTA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 594847,
+   "amount_high": 594847,
+   "tx_date": "2026-09-18",
+   "filed_date": "2026-09-22",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1660134/000205365226000010/"
   },
   {
    "id": "I-049e90fa0754",
@@ -20580,6 +23660,72 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000251/"
   },
   {
+   "id": "I-fa8fd93bce0a",
+   "source": "insider",
+   "person": "Acocella Kerry",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "General Counsel and Secretary",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 92162,
+   "amount_high": 92162,
+   "tx_date": "2026-09-14",
+   "filed_date": "2026-09-16",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000314/"
+  },
+  {
+   "id": "I-f5517ef987a1",
+   "source": "insider",
+   "person": "Obstler David M",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Financial Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 82291,
+   "amount_high": 82291,
+   "tx_date": "2026-09-14",
+   "filed_date": "2026-09-16",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000315/"
+  },
+  {
+   "id": "I-f2e09e4cdcf4",
+   "source": "insider",
+   "person": "Obstler David M",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Financial Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 38484,
+   "amount_high": 38484,
+   "tx_date": "2026-09-14",
+   "filed_date": "2026-09-16",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000315/"
+  },
+  {
    "id": "I-ee53de3b36c3",
    "source": "insider",
    "person": "Blecharczyk Nathan",
@@ -20600,6 +23746,72 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1559720/000119312526393171/"
+  },
+  {
+   "id": "I-e6ff4dad5ef8",
+   "source": "insider",
+   "person": "Obstler David M",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Financial Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 42976,
+   "amount_high": 42976,
+   "tx_date": "2026-09-14",
+   "filed_date": "2026-09-16",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000315/"
+  },
+  {
+   "id": "I-e4bd9ff49a6d",
+   "source": "insider",
+   "person": "Acocella Kerry",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "General Counsel and Secretary",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 23337,
+   "amount_high": 23337,
+   "tx_date": "2026-09-14",
+   "filed_date": "2026-09-16",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000314/"
+  },
+  {
+   "id": "I-d9fb2f6eae5b",
+   "source": "insider",
+   "person": "Obstler David M",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Financial Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 167629,
+   "amount_high": 167629,
+   "tx_date": "2026-09-14",
+   "filed_date": "2026-09-16",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000315/"
   },
   {
    "id": "I-d79dda00fcb6",
@@ -20624,6 +23836,138 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326014061/"
   },
   {
+   "id": "I-d13df8c87af9",
+   "source": "insider",
+   "person": "Acocella Kerry",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "General Counsel and Secretary",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 265700,
+   "amount_high": 265700,
+   "tx_date": "2026-09-14",
+   "filed_date": "2026-09-16",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000314/"
+  },
+  {
+   "id": "I-cff41655b50c",
+   "source": "insider",
+   "person": "Obstler David M",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Financial Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 389330,
+   "amount_high": 389330,
+   "tx_date": "2026-09-14",
+   "filed_date": "2026-09-16",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000315/"
+  },
+  {
+   "id": "I-c8b8110f5104",
+   "source": "insider",
+   "person": "Obstler David M",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Financial Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 271785,
+   "amount_high": 271785,
+   "tx_date": "2026-09-14",
+   "filed_date": "2026-09-16",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000316/"
+  },
+  {
+   "id": "I-c5e5a90b498d",
+   "source": "insider",
+   "person": "Acocella Kerry",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "General Counsel and Secretary",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 89727,
+   "amount_high": 89727,
+   "tx_date": "2026-09-14",
+   "filed_date": "2026-09-16",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000314/"
+  },
+  {
+   "id": "I-c4fe6e22fe27",
+   "source": "insider",
+   "person": "Obstler David M",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Financial Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 81838,
+   "amount_high": 81838,
+   "tx_date": "2026-09-14",
+   "filed_date": "2026-09-16",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000315/"
+  },
+  {
+   "id": "I-c2d68571a84b",
+   "source": "insider",
+   "person": "Obstler David M",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Financial Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 146512,
+   "amount_high": 146512,
+   "tx_date": "2026-09-14",
+   "filed_date": "2026-09-16",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000316/"
+  },
+  {
    "id": "I-b61930f60fc0",
    "source": "insider",
    "person": "Reifenheiser Thomas V",
@@ -20646,6 +23990,116 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1090425/000119248226000451/"
   },
   {
+   "id": "I-b3420494e979",
+   "source": "insider",
+   "person": "Obstler David M",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Financial Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 165082,
+   "amount_high": 165082,
+   "tx_date": "2026-09-14",
+   "filed_date": "2026-09-16",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000315/"
+  },
+  {
+   "id": "I-ace96bc0a76d",
+   "source": "insider",
+   "person": "Obstler David M",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Financial Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 360798,
+   "amount_high": 360798,
+   "tx_date": "2026-09-14",
+   "filed_date": "2026-09-16",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000315/"
+  },
+  {
+   "id": "I-aa0852b03079",
+   "source": "insider",
+   "person": "Obstler David M",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Financial Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 176547,
+   "amount_high": 176547,
+   "tx_date": "2026-09-14",
+   "filed_date": "2026-09-16",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000315/"
+  },
+  {
+   "id": "I-a6aa3ad10e18",
+   "source": "insider",
+   "person": "Acocella Kerry",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "General Counsel and Secretary",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 43228,
+   "amount_high": 43228,
+   "tx_date": "2026-09-14",
+   "filed_date": "2026-09-16",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000314/"
+  },
+  {
+   "id": "I-a53be45d49ab",
+   "source": "insider",
+   "person": "Obstler David M",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Financial Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 37118,
+   "amount_high": 37118,
+   "tx_date": "2026-09-14",
+   "filed_date": "2026-09-16",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000315/"
+  },
+  {
    "id": "I-a4e4a9637549",
    "source": "insider",
    "person": "Blecharczyk Nathan",
@@ -20666,6 +24120,94 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1559720/000119312526393171/"
+  },
+  {
+   "id": "I-96876e556807",
+   "source": "insider",
+   "person": "Obstler David M",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Financial Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 122267,
+   "amount_high": 122267,
+   "tx_date": "2026-09-14",
+   "filed_date": "2026-09-16",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000315/"
+  },
+  {
+   "id": "I-9668b4049fd5",
+   "source": "insider",
+   "person": "Obstler David M",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Financial Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 363235,
+   "amount_high": 363235,
+   "tx_date": "2026-09-14",
+   "filed_date": "2026-09-16",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000315/"
+  },
+  {
+   "id": "I-9476da6ebdd3",
+   "source": "insider",
+   "person": "Obstler David M",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Financial Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 209204,
+   "amount_high": 209204,
+   "tx_date": "2026-09-14",
+   "filed_date": "2026-09-16",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000315/"
+  },
+  {
+   "id": "I-938804bb2b51",
+   "source": "insider",
+   "person": "Obstler David M",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Financial Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 142274,
+   "amount_high": 142274,
+   "tx_date": "2026-09-14",
+   "filed_date": "2026-09-16",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000316/"
   },
   {
    "id": "I-91e52e7e14dd",
@@ -20734,6 +24276,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/000162828026062295/"
   },
   {
+   "id": "I-8fc26ab00734",
+   "source": "insider",
+   "person": "Obstler David M",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Financial Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 213626,
+   "amount_high": 213626,
+   "tx_date": "2026-09-14",
+   "filed_date": "2026-09-16",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000315/"
+  },
+  {
    "id": "I-8afd35901964",
    "source": "insider",
    "person": "Olivan Javier",
@@ -20778,6 +24342,50 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285226000176/"
   },
   {
+   "id": "I-87f6e0e2738b",
+   "source": "insider",
+   "person": "Obstler David M",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Financial Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 40941,
+   "amount_high": 40941,
+   "tx_date": "2026-09-14",
+   "filed_date": "2026-09-16",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000315/"
+  },
+  {
+   "id": "I-836a1da33acb",
+   "source": "insider",
+   "person": "Acocella Kerry",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "General Counsel and Secretary",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 137336,
+   "amount_high": 137336,
+   "tx_date": "2026-09-14",
+   "filed_date": "2026-09-16",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000314/"
+  },
+  {
    "id": "I-8208c14ecd6d",
    "source": "insider",
    "person": "Blecharczyk Nathan",
@@ -20798,6 +24406,204 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1559720/000119312526393171/"
+  },
+  {
+   "id": "I-807dd392064b",
+   "source": "insider",
+   "person": "Acocella Kerry",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "General Counsel and Secretary",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 44326,
+   "amount_high": 44326,
+   "tx_date": "2026-09-14",
+   "filed_date": "2026-09-16",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000314/"
+  },
+  {
+   "id": "I-7f5883033884",
+   "source": "insider",
+   "person": "Obstler David M",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Financial Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 674806,
+   "amount_high": 674806,
+   "tx_date": "2026-09-14",
+   "filed_date": "2026-09-16",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000315/"
+  },
+  {
+   "id": "I-7a1aea8aa062",
+   "source": "insider",
+   "person": "Obstler David M",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Financial Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1296605,
+   "amount_high": 1296605,
+   "tx_date": "2026-09-14",
+   "filed_date": "2026-09-16",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000316/"
+  },
+  {
+   "id": "I-7995440e5893",
+   "source": "insider",
+   "person": "Obstler David M",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Financial Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 711386,
+   "amount_high": 711386,
+   "tx_date": "2026-09-14",
+   "filed_date": "2026-09-16",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000316/"
+  },
+  {
+   "id": "I-77cb4802396e",
+   "source": "insider",
+   "person": "Obstler David M",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Financial Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 587606,
+   "amount_high": 587606,
+   "tx_date": "2026-09-14",
+   "filed_date": "2026-09-16",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000316/"
+  },
+  {
+   "id": "I-724fa8daffcd",
+   "source": "insider",
+   "person": "Obstler David M",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Financial Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 161759,
+   "amount_high": 161759,
+   "tx_date": "2026-09-14",
+   "filed_date": "2026-09-16",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000315/"
+  },
+  {
+   "id": "I-6ea720350214",
+   "source": "insider",
+   "person": "Obstler David M",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Financial Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 558916,
+   "amount_high": 558916,
+   "tx_date": "2026-09-14",
+   "filed_date": "2026-09-16",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000316/"
+  },
+  {
+   "id": "I-6a5a30bf6640",
+   "source": "insider",
+   "person": "Acocella Kerry",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "General Counsel and Secretary",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 209258,
+   "amount_high": 209258,
+   "tx_date": "2026-09-14",
+   "filed_date": "2026-09-16",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000314/"
+  },
+  {
+   "id": "I-60d110efd1cb",
+   "source": "insider",
+   "person": "Obstler David M",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Financial Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 404043,
+   "amount_high": 404043,
+   "tx_date": "2026-09-14",
+   "filed_date": "2026-09-16",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000316/"
   },
   {
    "id": "I-5c47f18e6a1d",
@@ -20822,6 +24628,72 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/000162828026062295/"
   },
   {
+   "id": "I-5bfd700185bd",
+   "source": "insider",
+   "person": "Obstler David M",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Financial Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 42461,
+   "amount_high": 42461,
+   "tx_date": "2026-09-14",
+   "filed_date": "2026-09-16",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000315/"
+  },
+  {
+   "id": "I-5bd30a6887d4",
+   "source": "insider",
+   "person": "Obstler David M",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Financial Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 164660,
+   "amount_high": 164660,
+   "tx_date": "2026-09-14",
+   "filed_date": "2026-09-16",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000315/"
+  },
+  {
+   "id": "I-5a74c8107130",
+   "source": "insider",
+   "person": "Acocella Kerry",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "General Counsel and Secretary",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 236413,
+   "amount_high": 236413,
+   "tx_date": "2026-09-14",
+   "filed_date": "2026-09-16",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000314/"
+  },
+  {
    "id": "I-51dd9774c6d0",
    "source": "insider",
    "person": "Blecharczyk Nathan",
@@ -20842,6 +24714,72 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1559720/000119312526393171/"
+  },
+  {
+   "id": "I-4eebaabdef78",
+   "source": "insider",
+   "person": "Obstler David M",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Financial Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 266107,
+   "amount_high": 266107,
+   "tx_date": "2026-09-14",
+   "filed_date": "2026-09-16",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000315/"
+  },
+  {
+   "id": "I-4dc602ffa7ed",
+   "source": "insider",
+   "person": "Obstler David M",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Financial Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 173894,
+   "amount_high": 173894,
+   "tx_date": "2026-09-14",
+   "filed_date": "2026-09-16",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000315/"
+  },
+  {
+   "id": "I-49cb6d48e074",
+   "source": "insider",
+   "person": "Obstler David M",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Financial Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 547082,
+   "amount_high": 547082,
+   "tx_date": "2026-09-14",
+   "filed_date": "2026-09-16",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000316/"
   },
   {
    "id": "I-48dc3bf745e8",
@@ -20866,6 +24804,204 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326014061/"
   },
   {
+   "id": "I-43fcbc4375d2",
+   "source": "insider",
+   "person": "Obstler David M",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Financial Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 2212526,
+   "amount_high": 2212526,
+   "tx_date": "2026-09-14",
+   "filed_date": "2026-09-16",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000316/"
+  },
+  {
+   "id": "I-42f237155f81",
+   "source": "insider",
+   "person": "Obstler David M",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Financial Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 398545,
+   "amount_high": 398545,
+   "tx_date": "2026-09-14",
+   "filed_date": "2026-09-16",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000315/"
+  },
+  {
+   "id": "I-4218ebb4279b",
+   "source": "insider",
+   "person": "Acocella Kerry",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "General Counsel and Secretary",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 66841,
+   "amount_high": 66841,
+   "tx_date": "2026-09-14",
+   "filed_date": "2026-09-16",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000314/"
+  },
+  {
+   "id": "I-37dd428541e0",
+   "source": "insider",
+   "person": "Obstler David M",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Financial Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 660563,
+   "amount_high": 660563,
+   "tx_date": "2026-09-14",
+   "filed_date": "2026-09-16",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000315/"
+  },
+  {
+   "id": "I-2ff117e25c25",
+   "source": "insider",
+   "person": "Obstler David M",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Financial Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1205025,
+   "amount_high": 1205025,
+   "tx_date": "2026-09-14",
+   "filed_date": "2026-09-16",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000316/"
+  },
+  {
+   "id": "I-28ec761b77bc",
+   "source": "insider",
+   "person": "Obstler David M",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Financial Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 887023,
+   "amount_high": 887023,
+   "tx_date": "2026-09-14",
+   "filed_date": "2026-09-16",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000316/"
+  },
+  {
+   "id": "I-235b8e86ca66",
+   "source": "insider",
+   "person": "Obstler David M",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Financial Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 44327,
+   "amount_high": 44327,
+   "tx_date": "2026-09-14",
+   "filed_date": "2026-09-16",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000315/"
+  },
+  {
+   "id": "I-120a2f74c875",
+   "source": "insider",
+   "person": "Obstler David M",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Financial Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 117781,
+   "amount_high": 117781,
+   "tx_date": "2026-09-14",
+   "filed_date": "2026-09-16",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000315/"
+  },
+  {
+   "id": "I-060ebc900f01",
+   "source": "insider",
+   "person": "Obstler David M",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Financial Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 263178,
+   "amount_high": 263178,
+   "tx_date": "2026-09-14",
+   "filed_date": "2026-09-16",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000315/"
+  },
+  {
    "id": "I-053bd1ee6eb8",
    "source": "insider",
    "person": "Brennan William Joseph",
@@ -20886,6 +25022,28 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/000162828026062295/"
+  },
+  {
+   "id": "I-0252d92538e3",
+   "source": "insider",
+   "person": "Obstler David M",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Financial Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 127976,
+   "amount_high": 127976,
+   "tx_date": "2026-09-14",
+   "filed_date": "2026-09-16",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000316/"
   },
   {
    "id": "I-0169c530c8aa",
@@ -21834,6 +25992,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/789019/000078901926000212/"
   },
   {
+   "id": "I-fc452a1d8bb3",
+   "source": "insider",
+   "person": "Li Yanbing",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Product Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 66909,
+   "amount_high": 66909,
+   "tx_date": "2026-09-11",
+   "filed_date": "2026-09-15",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000309/"
+  },
+  {
    "id": "I-f2fc1aebd922",
    "source": "insider",
    "person": "Romano Gianluca",
@@ -22120,6 +26300,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000241/"
   },
   {
+   "id": "I-d5e9d1a317e1",
+   "source": "insider",
+   "person": "Walters Sean Michael",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Revenue Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 111156,
+   "amount_high": 111156,
+   "tx_date": "2026-09-11",
+   "filed_date": "2026-09-15",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000310/"
+  },
+  {
    "id": "I-d368424ac519",
    "source": "insider",
    "person": "Kurtz George",
@@ -22340,6 +26542,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1543151/000177529726000012/"
   },
   {
+   "id": "I-b99cae2e521d",
+   "source": "insider",
+   "person": "Walters Sean Michael",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Revenue Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1285195,
+   "amount_high": 1285195,
+   "tx_date": "2026-09-11",
+   "filed_date": "2026-09-15",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000310/"
+  },
+  {
    "id": "I-b88b589a8004",
    "source": "insider",
    "person": "Romano Gianluca",
@@ -22360,6 +26584,28 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000241/"
+  },
+  {
+   "id": "I-b6389b12adae",
+   "source": "insider",
+   "person": "Li Yanbing",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Product Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1616373,
+   "amount_high": 1616373,
+   "tx_date": "2026-09-11",
+   "filed_date": "2026-09-15",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000309/"
   },
   {
    "id": "I-b1df7cbfa0ea",
@@ -22582,6 +26828,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000241/"
   },
   {
+   "id": "I-84ba7a82ee3a",
+   "source": "insider",
+   "person": "Walters Sean Michael",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Revenue Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 948927,
+   "amount_high": 948927,
+   "tx_date": "2026-09-11",
+   "filed_date": "2026-09-15",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000310/"
+  },
+  {
    "id": "I-84523774f91d",
    "source": "insider",
    "person": "Romano Gianluca",
@@ -22626,6 +26894,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000240/"
   },
   {
+   "id": "I-73fa7277a445",
+   "source": "insider",
+   "person": "Li Yanbing",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Product Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 87618,
+   "amount_high": 87618,
+   "tx_date": "2026-09-11",
+   "filed_date": "2026-09-15",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000309/"
+  },
+  {
    "id": "I-72ffbd468a79",
    "source": "insider",
    "person": "Romano Gianluca",
@@ -22646,6 +26936,28 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000241/"
+  },
+  {
+   "id": "I-71c82d6ae8d8",
+   "source": "insider",
+   "person": "Walters Sean Michael",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Revenue Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 175748,
+   "amount_high": 175748,
+   "tx_date": "2026-09-11",
+   "filed_date": "2026-09-15",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000310/"
   },
   {
    "id": "I-6e8751d290a3",
@@ -22714,6 +27026,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000241/"
   },
   {
+   "id": "I-68269b78d4ad",
+   "source": "insider",
+   "person": "Li Yanbing",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Product Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 67463,
+   "amount_high": 67463,
+   "tx_date": "2026-09-11",
+   "filed_date": "2026-09-15",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000309/"
+  },
+  {
    "id": "I-66776049f2ae",
    "source": "insider",
    "person": "Kurtz George",
@@ -22778,6 +27112,50 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000240/"
+  },
+  {
+   "id": "I-5f91873aab18",
+   "source": "insider",
+   "person": "Kelleher Eric Robert",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "See Remarks",
+   "ticker": "OKTA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 429643,
+   "amount_high": 429643,
+   "tx_date": "2026-09-11",
+   "filed_date": "2026-09-15",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1660134/000205365226000008/"
+  },
+  {
+   "id": "I-5b44a2dc74ee",
+   "source": "insider",
+   "person": "Li Yanbing",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Product Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 816104,
+   "amount_high": 816104,
+   "tx_date": "2026-09-11",
+   "filed_date": "2026-09-15",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000309/"
   },
   {
    "id": "I-5a50fc3af14c",
@@ -22978,6 +27356,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000240/"
   },
   {
+   "id": "I-237da73d531f",
+   "source": "insider",
+   "person": "Walters Sean Michael",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Revenue Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 67336,
+   "amount_high": 67336,
+   "tx_date": "2026-09-11",
+   "filed_date": "2026-09-15",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000310/"
+  },
+  {
    "id": "I-143242a8a327",
    "source": "insider",
    "person": "Romano Gianluca",
@@ -23020,6 +27420,28 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1745201/000119312526391959/"
+  },
+  {
+   "id": "I-079ba059c3d5",
+   "source": "insider",
+   "person": "Li Yanbing",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Product Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 155524,
+   "amount_high": 155524,
+   "tx_date": "2026-09-11",
+   "filed_date": "2026-09-15",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000309/"
   },
   {
    "id": "I-0655d911d3ab",
@@ -26558,6 +30980,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326013794/"
   },
   {
+   "id": "I-e73a1c3e7bd8",
+   "source": "insider",
+   "person": "Pomel Olivier",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Executive Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 616870,
+   "amount_high": 616870,
+   "tx_date": "2026-09-08",
+   "filed_date": "2026-09-10",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000306/"
+  },
+  {
    "id": "I-e5161cc0221e",
    "source": "insider",
    "person": "Stata Ray",
@@ -26622,6 +31066,50 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/6281/000090072926000017/"
+  },
+  {
+   "id": "I-e130417fe64f",
+   "source": "insider",
+   "person": "Pomel Olivier",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Executive Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 2078084,
+   "amount_high": 2078084,
+   "tx_date": "2026-09-08",
+   "filed_date": "2026-09-10",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000306/"
+  },
+  {
+   "id": "I-e062d37cea51",
+   "source": "insider",
+   "person": "Pomel Olivier",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Executive Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1678817,
+   "amount_high": 1678817,
+   "tx_date": "2026-09-08",
+   "filed_date": "2026-09-10",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000306/"
   },
   {
    "id": "I-ddd3593a69ed",
@@ -27064,6 +31552,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326013794/"
   },
   {
+   "id": "I-61e38a066886",
+   "source": "insider",
+   "person": "Pomel Olivier",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Executive Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 2958937,
+   "amount_high": 2958937,
+   "tx_date": "2026-09-08",
+   "filed_date": "2026-09-10",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000306/"
+  },
+  {
    "id": "I-5985ff212737",
    "source": "insider",
    "person": "Andreessen Marc L",
@@ -27174,6 +31684,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326013794/"
   },
   {
+   "id": "I-42a1de0312d1",
+   "source": "insider",
+   "person": "Pomel Olivier",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Executive Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 5063681,
+   "amount_high": 5063681,
+   "tx_date": "2026-09-08",
+   "filed_date": "2026-09-10",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000306/"
+  },
+  {
    "id": "I-3d5e850a06b8",
    "source": "insider",
    "person": "Thompson Laura K",
@@ -27240,6 +31772,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326013794/"
   },
   {
+   "id": "I-2cd7524bdb99",
+   "source": "insider",
+   "person": "Pomel Olivier",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Executive Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 4002735,
+   "amount_high": 4002735,
+   "tx_date": "2026-09-08",
+   "filed_date": "2026-09-10",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000306/"
+  },
+  {
    "id": "I-24fdf13a52b7",
    "source": "insider",
    "person": "Olivan Javier",
@@ -27282,6 +31836,28 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326013794/"
+  },
+  {
+   "id": "I-1c0ae5458731",
+   "source": "insider",
+   "person": "Pomel Olivier",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Executive Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 2203479,
+   "amount_high": 2203479,
+   "tx_date": "2026-09-08",
+   "filed_date": "2026-09-10",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000306/"
   },
   {
    "id": "I-173cf684b302",
@@ -30315,6 +34891,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1640147/000123191926001154/"
   },
   {
+   "id": "I-8ec5e97f9f21",
+   "source": "insider",
+   "person": "Richardson Julie",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 87908,
+   "amount_high": 87908,
+   "tx_date": "2026-09-04",
+   "filed_date": "2026-09-09",
+   "lag_days": 5,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000146685726000012/"
+  },
+  {
    "id": "I-7411810cdf2f",
    "source": "insider",
    "person": "Speiser Michael L",
@@ -30357,6 +34955,28 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000157/"
+  },
+  {
+   "id": "I-604a71e98a49",
+   "source": "insider",
+   "person": "Richardson Julie",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1106013,
+   "amount_high": 1106013,
+   "tx_date": "2026-09-04",
+   "filed_date": "2026-09-09",
+   "lag_days": 5,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000146685726000012/"
   },
   {
    "id": "I-5e6976f9415b",
@@ -33255,6 +37875,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/106040/000126682426000198/"
   },
   {
+   "id": "I-c5459741d5cb",
+   "source": "insider",
+   "person": "Gullo Michelle L",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Senior Vice President & CHRO",
+   "ticker": "GLW",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1503713,
+   "amount_high": 1503713,
+   "tx_date": "2026-09-04",
+   "filed_date": "2026-09-08",
+   "lag_days": 4,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/24741/000002474126000259/"
+  },
+  {
    "id": "I-bfca2d5ab1c3",
    "source": "insider",
    "person": "Tregillis Cynthia L",
@@ -33717,6 +38359,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/850141/000121465926011461/"
   },
   {
+   "id": "I-e6d42ba8edb3",
+   "source": "insider",
+   "person": "Blitzer Adam",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Operating Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 21780,
+   "amount_high": 21780,
+   "tx_date": "2026-09-03",
+   "filed_date": "2026-09-08",
+   "lag_days": 5,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000303/"
+  },
+  {
    "id": "I-df999aa21dc8",
    "source": "insider",
    "person": "Stevens Mark A",
@@ -33783,6 +38447,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000119903926000014/"
   },
   {
+   "id": "I-af978b4c47ea",
+   "source": "insider",
+   "person": "Blitzer Adam",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Operating Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 214098,
+   "amount_high": 214098,
+   "tx_date": "2026-09-03",
+   "filed_date": "2026-09-08",
+   "lag_days": 5,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000303/"
+  },
+  {
    "id": "I-ac2a47d2bb2c",
    "source": "insider",
    "person": "Zatlyn Michelle",
@@ -33805,6 +38491,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1477333/000178695126000023/"
   },
   {
+   "id": "I-aa0a6387486a",
+   "source": "insider",
+   "person": "Blitzer Adam",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Operating Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 63505,
+   "amount_high": 63505,
+   "tx_date": "2026-09-03",
+   "filed_date": "2026-09-08",
+   "lag_days": 5,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000303/"
+  },
+  {
    "id": "I-a6b2c0391778",
    "source": "insider",
    "person": "Hershey Trust Co Trustee In Trust For Milton Hershey School",
@@ -33825,6 +38533,28 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002512/"
+  },
+  {
+   "id": "I-a44eeeb3e0a1",
+   "source": "insider",
+   "person": "Blitzer Adam",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Operating Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1015665,
+   "amount_high": 1015665,
+   "tx_date": "2026-09-03",
+   "filed_date": "2026-09-08",
+   "lag_days": 5,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000303/"
   },
   {
    "id": "I-a343e2d862d9",
@@ -33869,6 +38599,28 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1633917/000200641626000017/"
+  },
+  {
+   "id": "I-9e8be37b98ac",
+   "source": "insider",
+   "person": "Blitzer Adam",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Operating Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 23238,
+   "amount_high": 23238,
+   "tx_date": "2026-09-03",
+   "filed_date": "2026-09-08",
+   "lag_days": 5,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000303/"
   },
   {
    "id": "I-9e36b483542d",
@@ -34069,6 +38821,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1591588/000119312526385264/"
   },
   {
+   "id": "I-754608583020",
+   "source": "insider",
+   "person": "Blitzer Adam",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Operating Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1070145,
+   "amount_high": 1070145,
+   "tx_date": "2026-09-03",
+   "filed_date": "2026-09-08",
+   "lag_days": 5,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000303/"
+  },
+  {
    "id": "I-5e2a003951c0",
    "source": "insider",
    "person": "Anderson Aaron",
@@ -34179,6 +38953,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1869198/000188499626000020/"
   },
   {
+   "id": "I-2c1042b03de4",
+   "source": "insider",
+   "person": "Blitzer Adam",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Operating Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 22015,
+   "amount_high": 22015,
+   "tx_date": "2026-09-03",
+   "filed_date": "2026-09-08",
+   "lag_days": 5,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000303/"
+  },
+  {
    "id": "I-29f2f9eae9ff",
    "source": "insider",
    "person": "CASCADE INVESTMENT, L.L.C. et al.",
@@ -34223,6 +39019,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1477333/000178695126000023/"
   },
   {
+   "id": "I-22e140c6d7a8",
+   "source": "insider",
+   "person": "Blitzer Adam",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Operating Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 148929,
+   "amount_high": 148929,
+   "tx_date": "2026-09-03",
+   "filed_date": "2026-09-08",
+   "lag_days": 5,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000303/"
+  },
+  {
    "id": "I-225ed9c0f6bc",
    "source": "insider",
    "person": "Zatlyn Michelle",
@@ -34265,6 +39083,28 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002512/"
+  },
+  {
+   "id": "I-19e39afe20bb",
+   "source": "insider",
+   "person": "Richardson Julie",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1237500,
+   "amount_high": 1237500,
+   "tx_date": "2026-09-03",
+   "filed_date": "2026-09-08",
+   "lag_days": 5,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000304/"
   },
   {
    "id": "C-9f08dbb5d498",
@@ -34914,6 +39754,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/8670/000122520826007685/"
   },
   {
+   "id": "I-fb10400d2bfa",
+   "source": "insider",
+   "person": "Tighe Brett",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Financial Officer",
+   "ticker": "OKTA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1989266,
+   "amount_high": 1989266,
+   "tx_date": "2026-09-02",
+   "filed_date": "2026-09-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1660134/000186508426000008/"
+  },
+  {
    "id": "I-f6eec887e0f2",
    "source": "insider",
    "person": "Brown Gregory Q",
@@ -34978,6 +39840,28 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000155/"
+  },
+  {
+   "id": "I-e7807f6f2d1c",
+   "source": "insider",
+   "person": "Tighe Brett",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Financial Officer",
+   "ticker": "OKTA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1625135,
+   "amount_high": 1625135,
+   "tx_date": "2026-09-02",
+   "filed_date": "2026-09-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1660134/000186508426000008/"
   },
   {
    "id": "I-e70c7c2d01cc",
@@ -35066,6 +39950,28 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1792789/000183261426000032/"
+  },
+  {
+   "id": "I-d236bc92f0c4",
+   "source": "insider",
+   "person": "Tighe Brett",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Financial Officer",
+   "ticker": "OKTA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 410094,
+   "amount_high": 410094,
+   "tx_date": "2026-09-02",
+   "filed_date": "2026-09-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1660134/000186508426000008/"
   },
   {
    "id": "I-d1545cb9ef63",
@@ -35244,6 +40150,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1792789/000183261426000032/"
   },
   {
+   "id": "I-96c1ce5fe149",
+   "source": "insider",
+   "person": "Tighe Brett",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Financial Officer",
+   "ticker": "OKTA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 166205,
+   "amount_high": 166205,
+   "tx_date": "2026-09-02",
+   "filed_date": "2026-09-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1660134/000186508426000008/"
+  },
+  {
    "id": "I-94535af70e14",
    "source": "insider",
    "person": "Green Andrew M",
@@ -35264,6 +40192,50 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/784199/000162828026060667/"
+  },
+  {
+   "id": "I-90788bd19523",
+   "source": "insider",
+   "person": "Tighe Brett",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Financial Officer",
+   "ticker": "OKTA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 100252,
+   "amount_high": 100252,
+   "tx_date": "2026-09-02",
+   "filed_date": "2026-09-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1660134/000186508426000008/"
+  },
+  {
+   "id": "I-8fac077f5835",
+   "source": "insider",
+   "person": "Pomel Olivier",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Executive Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 5605978,
+   "amount_high": 5605978,
+   "tx_date": "2026-09-02",
+   "filed_date": "2026-09-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000300/"
   },
   {
    "id": "I-7bdd25e9ae08",
@@ -35332,6 +40304,50 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000155/"
   },
   {
+   "id": "I-686817057928",
+   "source": "insider",
+   "person": "Walters Sean Michael",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Revenue Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 2890170,
+   "amount_high": 2890170,
+   "tx_date": "2026-09-02",
+   "filed_date": "2026-09-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000297/"
+  },
+  {
+   "id": "I-67b85bb473fc",
+   "source": "insider",
+   "person": "Obstler David M",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Financial Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 3518027,
+   "amount_high": 3518027,
+   "tx_date": "2026-09-02",
+   "filed_date": "2026-09-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000299/"
+  },
+  {
    "id": "I-54baec0d76cd",
    "source": "insider",
    "person": "Kurtz George",
@@ -35376,6 +40392,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/820318/000089914026001054/"
   },
   {
+   "id": "I-44289a0956ee",
+   "source": "insider",
+   "person": "Tighe Brett",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Financial Officer",
+   "ticker": "OKTA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 148676,
+   "amount_high": 148676,
+   "tx_date": "2026-09-02",
+   "filed_date": "2026-09-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1660134/000186508426000008/"
+  },
+  {
    "id": "I-42d573e55423",
    "source": "insider",
    "person": "Vassil Jonathan",
@@ -35396,6 +40434,28 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1650164/000165016426000187/"
+  },
+  {
+   "id": "I-403478ddf470",
+   "source": "insider",
+   "person": "Tighe Brett",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Financial Officer",
+   "ticker": "OKTA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1760032,
+   "amount_high": 1760032,
+   "tx_date": "2026-09-02",
+   "filed_date": "2026-09-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1660134/000186508426000008/"
   },
   {
    "id": "I-3e12379dda30",
@@ -35442,6 +40502,50 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000155/"
   },
   {
+   "id": "I-3cfc2004d6eb",
+   "source": "insider",
+   "person": "Tighe Brett",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Financial Officer",
+   "ticker": "OKTA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 2126355,
+   "amount_high": 2126355,
+   "tx_date": "2026-09-02",
+   "filed_date": "2026-09-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1660134/000186508426000008/"
+  },
+  {
+   "id": "I-3b485b82fae2",
+   "source": "insider",
+   "person": "Tighe Brett",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Financial Officer",
+   "ticker": "OKTA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 2272875,
+   "amount_high": 2272875,
+   "tx_date": "2026-09-02",
+   "filed_date": "2026-09-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1660134/000186508426000008/"
+  },
+  {
    "id": "I-3b28245cfd03",
    "source": "insider",
    "person": "Wupen Yuen",
@@ -35464,6 +40568,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1633978/000148955026000009/"
   },
   {
+   "id": "I-38931baaabd5",
+   "source": "insider",
+   "person": "Le-Quoc Alexis",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Technology Officer",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 4635352,
+   "amount_high": 4635352,
+   "tx_date": "2026-09-02",
+   "filed_date": "2026-09-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000298/"
+  },
+  {
    "id": "I-33a352afef18",
    "source": "insider",
    "person": "Kurtz George",
@@ -35484,6 +40610,28 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000155/"
+  },
+  {
+   "id": "I-2962e4fcb111",
+   "source": "insider",
+   "person": "Tighe Brett",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Financial Officer",
+   "ticker": "OKTA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 2278579,
+   "amount_high": 2278579,
+   "tx_date": "2026-09-02",
+   "filed_date": "2026-09-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1660134/000186508426000008/"
   },
   {
    "id": "I-2136a32fe3c8",
@@ -44514,6 +49662,28 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000150/"
+  },
+  {
+   "id": "I-cdc5f7009ad0",
+   "source": "insider",
+   "person": "Steverson Lewis A",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Vice Chairman, EVP and CLAO",
+   "ticker": "GLW",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1981929,
+   "amount_high": 1981929,
+   "tx_date": "2026-08-28",
+   "filed_date": "2026-08-31",
+   "lag_days": 3,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/24741/000002474126000257/"
   },
   {
    "id": "I-c60c5f18ba5f",
@@ -56596,6 +61766,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1477333/000178695126000018/"
   },
   {
+   "id": "I-f58e79d8de65",
+   "source": "insider",
+   "person": "Baig Saqib",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Accounting Officer",
+   "ticker": "PTON",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 26780,
+   "amount_high": 26780,
+   "tx_date": "2026-08-19",
+   "filed_date": "2026-08-21",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1639825/000195458426000021/"
+  },
+  {
    "id": "I-f21ba8db2db4",
    "source": "insider",
    "person": "Vlcek Ondrej",
@@ -56638,6 +61830,28 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1600033/000161071726000366/"
+  },
+  {
+   "id": "I-e1e824afe7bf",
+   "source": "insider",
+   "person": "Sanders Dion C.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Commercial Officer",
+   "ticker": "PTON",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 613427,
+   "amount_high": 613427,
+   "tx_date": "2026-08-19",
+   "filed_date": "2026-08-21",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1639825/000168079826000017/"
   },
   {
    "id": "I-d25fdaac2702",
@@ -71508,6 +76722,28 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/899051/000089905126000123/"
   },
   {
+   "id": "I-92dc465fd2f9",
+   "source": "insider",
+   "person": "Giglietti Robert M.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Vice President",
+   "ticker": "GE",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1812113,
+   "amount_high": 1812113,
+   "tx_date": "2026-08-11",
+   "filed_date": "2026-08-12",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/40545/000195306326000009/"
+  },
+  {
    "id": "I-90b87f64651d",
    "source": "insider",
    "person": "Rizzo Mario",
@@ -72012,6 +77248,28 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1060955/000162828026056324/"
+  },
+  {
+   "id": "I-3fb7dd754949",
+   "source": "insider",
+   "person": "Giglietti Robert M.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Vice President",
+   "ticker": "GE",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1976639,
+   "amount_high": 1976639,
+   "tx_date": "2026-08-11",
+   "filed_date": "2026-08-12",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/40545/000195306326000009/"
   },
   {
    "id": "I-3e69bd578e54",
@@ -169376,1414 +174634,6 @@
    "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034717.pdf"
   },
   {
-   "id": "I-a7a68074816a",
-   "source": "insider",
-   "person": "Rivers Kim A.",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Chairman and CEO",
-   "ticker": "TCNNF",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 2450700,
-   "amount_high": 2450700,
-   "tx_date": "2026-06-25",
-   "filed_date": "2026-06-25",
-   "lag_days": 0,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1754195/000121390026072230/"
-  },
-  {
-   "id": "I-5a42a6cca4a0",
-   "source": "insider",
-   "person": "Feeney John J.",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Vice President and Secretary",
-   "ticker": "RBC",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 148037,
-   "amount_high": 148037,
-   "tx_date": "2026-06-25",
-   "filed_date": "2026-06-25",
-   "lag_days": 0,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1324948/000132494826000034/"
-  },
-  {
-   "id": "I-eadadcc07393",
-   "source": "insider",
-   "person": "Rivers Kim A.",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Chairman and CEO",
-   "ticker": "TCNNF",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 3267600,
-   "amount_high": 3267600,
-   "tx_date": "2026-06-24",
-   "filed_date": "2026-06-25",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1754195/000121390026072230/"
-  },
-  {
-   "id": "I-e91c26c70084",
-   "source": "insider",
-   "person": "Kurtz George",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "PRESIDENT AND CEO",
-   "ticker": "CRWD",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 123321,
-   "amount_high": 123321,
-   "tx_date": "2026-06-24",
-   "filed_date": "2026-06-25",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000103/"
-  },
-  {
-   "id": "I-e84239c1a5d1",
-   "source": "insider",
-   "person": "Kurtz George",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "PRESIDENT AND CEO",
-   "ticker": "CRWD",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 58734,
-   "amount_high": 58734,
-   "tx_date": "2026-06-24",
-   "filed_date": "2026-06-25",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000104/"
-  },
-  {
-   "id": "I-cfabc9d3636d",
-   "source": "insider",
-   "person": "Ennico Dolores J",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Director",
-   "ticker": "RBC",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 381669,
-   "amount_high": 381669,
-   "tx_date": "2026-06-24",
-   "filed_date": "2026-06-25",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1324948/000132494826000033/"
-  },
-  {
-   "id": "I-c9fa6692cb62",
-   "source": "insider",
-   "person": "Garrison Michael David",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "EVP & Pres Med.Essntl&BioPharm",
-   "ticker": "BDX",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 160226,
-   "amount_high": 160226,
-   "tx_date": "2026-06-24",
-   "filed_date": "2026-06-25",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/10795/000162828026045374/"
-  },
-  {
-   "id": "I-b6a03abce83c",
-   "source": "insider",
-   "person": "Silbermann Benjamin",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Director",
-   "ticker": "PINS",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 932667,
-   "amount_high": 932667,
-   "tx_date": "2026-06-24",
-   "filed_date": "2026-06-25",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1506293/000177391426000010/"
-  },
-  {
-   "id": "I-a5a1d4a82d31",
-   "source": "insider",
-   "person": "Kurtz George",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "PRESIDENT AND CEO",
-   "ticker": "CRWD",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 8931,
-   "amount_high": 8931,
-   "tx_date": "2026-06-24",
-   "filed_date": "2026-06-25",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000104/"
-  },
-  {
-   "id": "I-9b70b90a738d",
-   "source": "insider",
-   "person": "Kurtz George",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "PRESIDENT AND CEO",
-   "ticker": "CRWD",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 168079,
-   "amount_high": 168079,
-   "tx_date": "2026-06-24",
-   "filed_date": "2026-06-25",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000104/"
-  },
-  {
-   "id": "I-8f05dc993894",
-   "source": "insider",
-   "person": "Walcott Wanjiku Juanita",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Chief Legal & Bus Affairs Ofc.",
-   "ticker": "PINS",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 279187,
-   "amount_high": 279187,
-   "tx_date": "2026-06-24",
-   "filed_date": "2026-06-25",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1506293/000178137326000010/"
-  },
-  {
-   "id": "I-8de1aa56c3ba",
-   "source": "insider",
-   "person": "Kurtz George",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "PRESIDENT AND CEO",
-   "ticker": "CRWD",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 61359,
-   "amount_high": 61359,
-   "tx_date": "2026-06-24",
-   "filed_date": "2026-06-25",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000103/"
-  },
-  {
-   "id": "I-74c9b2341011",
-   "source": "insider",
-   "person": "Saha Anurag",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "CHIEF ACCOUNTING OFFICER",
-   "ticker": "CRWD",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1018694,
-   "amount_high": 1018694,
-   "tx_date": "2026-06-24",
-   "filed_date": "2026-06-25",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000192160226000008/"
-  },
-  {
-   "id": "I-5872c74bdf1e",
-   "source": "insider",
-   "person": "Kurtz George",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "PRESIDENT AND CEO",
-   "ticker": "CRWD",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 183822,
-   "amount_high": 183822,
-   "tx_date": "2026-06-24",
-   "filed_date": "2026-06-25",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000103/"
-  },
-  {
-   "id": "I-4d30cc92cdf3",
-   "source": "insider",
-   "person": "Kurtz George",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "PRESIDENT AND CEO",
-   "ticker": "CRWD",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 47960,
-   "amount_high": 47960,
-   "tx_date": "2026-06-24",
-   "filed_date": "2026-06-25",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000104/"
-  },
-  {
-   "id": "I-49ddd5a3d5ca",
-   "source": "insider",
-   "person": "Kurtz George",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "PRESIDENT AND CEO",
-   "ticker": "CRWD",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 52290,
-   "amount_high": 52290,
-   "tx_date": "2026-06-24",
-   "filed_date": "2026-06-25",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000103/"
-  },
-  {
-   "id": "I-480e1fc74d04",
-   "source": "insider",
-   "person": "Kurtz George",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "PRESIDENT AND CEO",
-   "ticker": "CRWD",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 165841,
-   "amount_high": 165841,
-   "tx_date": "2026-06-24",
-   "filed_date": "2026-06-25",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000103/"
-  },
-  {
-   "id": "I-47fdfc672ca5",
-   "source": "insider",
-   "person": "Kurtz George",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "PRESIDENT AND CEO",
-   "ticker": "CRWD",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 203176,
-   "amount_high": 203176,
-   "tx_date": "2026-06-24",
-   "filed_date": "2026-06-25",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000104/"
-  },
-  {
-   "id": "I-3e06e5eb1028",
-   "source": "insider",
-   "person": "Kurtz George",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "PRESIDENT AND CEO",
-   "ticker": "CRWD",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 105548,
-   "amount_high": 105548,
-   "tx_date": "2026-06-24",
-   "filed_date": "2026-06-25",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000103/"
-  },
-  {
-   "id": "I-2b697ebce91b",
-   "source": "insider",
-   "person": "Marshall Tucker H",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Chief Financial Officer",
-   "ticker": "SJM",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 403112,
-   "amount_high": 403112,
-   "tx_date": "2026-06-24",
-   "filed_date": "2026-06-25",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/91419/000009141926000068/"
-  },
-  {
-   "id": "I-25332aeadabe",
-   "source": "insider",
-   "person": "Kelly Jeffrey D",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Director",
-   "ticker": "PGR",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1514321,
-   "amount_high": 1514321,
-   "tx_date": "2026-06-24",
-   "filed_date": "2026-06-25",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/80661/000008066126000214/"
-  },
-  {
-   "id": "I-22765d633a48",
-   "source": "insider",
-   "person": "Kurtz George",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "PRESIDENT AND CEO",
-   "ticker": "CRWD",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 229981,
-   "amount_high": 229981,
-   "tx_date": "2026-06-24",
-   "filed_date": "2026-06-25",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000103/"
-  },
-  {
-   "id": "I-1806701d83a5",
-   "source": "insider",
-   "person": "Kurtz George",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "PRESIDENT AND CEO",
-   "ticker": "CRWD",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 70227,
-   "amount_high": 70227,
-   "tx_date": "2026-06-24",
-   "filed_date": "2026-06-25",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000103/"
-  },
-  {
-   "id": "I-10664521ee8a",
-   "source": "insider",
-   "person": "Kurtz George",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "PRESIDENT AND CEO",
-   "ticker": "CRWD",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 79766,
-   "amount_high": 79766,
-   "tx_date": "2026-06-24",
-   "filed_date": "2026-06-25",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000104/"
-  },
-  {
-   "id": "I-0f91edeb323f",
-   "source": "insider",
-   "person": "Kurtz George",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "PRESIDENT AND CEO",
-   "ticker": "CRWD",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 132321,
-   "amount_high": 132321,
-   "tx_date": "2026-06-24",
-   "filed_date": "2026-06-25",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000104/"
-  },
-  {
-   "id": "I-fddb6fa81823",
-   "source": "insider",
-   "person": "Cheng Chi Fung",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Chief Technology Officer",
-   "ticker": "CRDO",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 55284,
-   "amount_high": 55284,
-   "tx_date": "2026-06-23",
-   "filed_date": "2026-06-25",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/000162828026045488/"
-  },
-  {
-   "id": "I-fd2b2268243e",
-   "source": "insider",
-   "person": "Cheng Chi Fung",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Chief Technology Officer",
-   "ticker": "CRDO",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1195669,
-   "amount_high": 1195669,
-   "tx_date": "2026-06-23",
-   "filed_date": "2026-06-25",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/000162828026045488/"
-  },
-  {
-   "id": "I-f620d30dff54",
-   "source": "insider",
-   "person": "Kurtz George",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "PRESIDENT AND CEO",
-   "ticker": "CRWD",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 17376,
-   "amount_high": 17376,
-   "tx_date": "2026-06-23",
-   "filed_date": "2026-06-25",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000103/"
-  },
-  {
-   "id": "I-eae3b575a20b",
-   "source": "insider",
-   "person": "Kurtz George",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "PRESIDENT AND CEO",
-   "ticker": "CRWD",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 52683,
-   "amount_high": 52683,
-   "tx_date": "2026-06-23",
-   "filed_date": "2026-06-25",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000103/"
-  },
-  {
-   "id": "I-dc739a46e66b",
-   "source": "insider",
-   "person": "Kurtz George",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "PRESIDENT AND CEO",
-   "ticker": "CRWD",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 8632,
-   "amount_high": 8632,
-   "tx_date": "2026-06-23",
-   "filed_date": "2026-06-25",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000103/"
-  },
-  {
-   "id": "I-d9f9e1c1fc8f",
-   "source": "insider",
-   "person": "Cheng Chi Fung",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Chief Technology Officer",
-   "ticker": "CRDO",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 411866,
-   "amount_high": 411866,
-   "tx_date": "2026-06-23",
-   "filed_date": "2026-06-25",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/000162828026045488/"
-  },
-  {
-   "id": "I-d6a0f4e8639d",
-   "source": "insider",
-   "person": "Rivers Kim A.",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Chairman and CEO",
-   "ticker": "TCNNF",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 3218220,
-   "amount_high": 3218220,
-   "tx_date": "2026-06-23",
-   "filed_date": "2026-06-25",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1754195/000121390026072230/"
-  },
-  {
-   "id": "I-d2e00d0092f0",
-   "source": "insider",
-   "person": "Kurtz George",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "PRESIDENT AND CEO",
-   "ticker": "CRWD",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 114712,
-   "amount_high": 114712,
-   "tx_date": "2026-06-23",
-   "filed_date": "2026-06-25",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000103/"
-  },
-  {
-   "id": "I-c8c58431a30c",
-   "source": "insider",
-   "person": "Cheng Chi Fung",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Chief Technology Officer",
-   "ticker": "CRDO",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 42751,
-   "amount_high": 42751,
-   "tx_date": "2026-06-23",
-   "filed_date": "2026-06-25",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/000162828026045488/"
-  },
-  {
-   "id": "I-ba138dfa7a5b",
-   "source": "insider",
-   "person": "Kurtz George",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "PRESIDENT AND CEO",
-   "ticker": "CRWD",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 8975,
-   "amount_high": 8975,
-   "tx_date": "2026-06-23",
-   "filed_date": "2026-06-25",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000103/"
-  },
-  {
-   "id": "I-b642a173266f",
-   "source": "insider",
-   "person": "Kurtz George",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "PRESIDENT AND CEO",
-   "ticker": "CRWD",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 35159,
-   "amount_high": 35159,
-   "tx_date": "2026-06-23",
-   "filed_date": "2026-06-25",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000103/"
-  },
-  {
-   "id": "I-b19bb0f39416",
-   "source": "insider",
-   "person": "Kurtz George",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "PRESIDENT AND CEO",
-   "ticker": "CRWD",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 71724,
-   "amount_high": 71724,
-   "tx_date": "2026-06-23",
-   "filed_date": "2026-06-25",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000103/"
-  },
-  {
-   "id": "I-a4b1507b5d07",
-   "source": "insider",
-   "person": "Kurtz George",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "PRESIDENT AND CEO",
-   "ticker": "CRWD",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 365016,
-   "amount_high": 365016,
-   "tx_date": "2026-06-23",
-   "filed_date": "2026-06-25",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000103/"
-  },
-  {
-   "id": "I-a3ee506350df",
-   "source": "insider",
-   "person": "Kurtz George",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "PRESIDENT AND CEO",
-   "ticker": "CRWD",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 80054,
-   "amount_high": 80054,
-   "tx_date": "2026-06-23",
-   "filed_date": "2026-06-25",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000103/"
-  },
-  {
-   "id": "I-9e025ba32c6e",
-   "source": "insider",
-   "person": "Silbermann Benjamin",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Director",
-   "ticker": "PINS",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 526541,
-   "amount_high": 526541,
-   "tx_date": "2026-06-23",
-   "filed_date": "2026-06-25",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1506293/000177391426000010/"
-  },
-  {
-   "id": "I-92a5771da2eb",
-   "source": "insider",
-   "person": "Cheng Chi Fung",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Chief Technology Officer",
-   "ticker": "CRDO",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 519364,
-   "amount_high": 519364,
-   "tx_date": "2026-06-23",
-   "filed_date": "2026-06-25",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/000162828026045488/"
-  },
-  {
-   "id": "I-8d3097bae762",
-   "source": "insider",
-   "person": "Silbermann Benjamin",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Director",
-   "ticker": "PINS",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 410394,
-   "amount_high": 410394,
-   "tx_date": "2026-06-23",
-   "filed_date": "2026-06-25",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1506293/000177391426000010/"
-  },
-  {
-   "id": "I-89ceac91ac17",
-   "source": "insider",
-   "person": "Cheng Chi Fung",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Chief Technology Officer",
-   "ticker": "CRDO",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1139835,
-   "amount_high": 1139835,
-   "tx_date": "2026-06-23",
-   "filed_date": "2026-06-25",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/000162828026045488/"
-  },
-  {
-   "id": "I-8836e24f5544",
-   "source": "insider",
-   "person": "Cheng Chi Fung",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Chief Technology Officer",
-   "ticker": "CRDO",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 557925,
-   "amount_high": 557925,
-   "tx_date": "2026-06-23",
-   "filed_date": "2026-06-25",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/000162828026045488/"
-  },
-  {
-   "id": "I-86c9680adb0d",
-   "source": "insider",
-   "person": "Kurtz George",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "PRESIDENT AND CEO",
-   "ticker": "CRWD",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 145814,
-   "amount_high": 145814,
-   "tx_date": "2026-06-23",
-   "filed_date": "2026-06-25",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000103/"
-  },
-  {
-   "id": "I-77f5f4df07d2",
-   "source": "insider",
-   "person": "Cheng Chi Fung",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Chief Technology Officer",
-   "ticker": "CRDO",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 133202,
-   "amount_high": 133202,
-   "tx_date": "2026-06-23",
-   "filed_date": "2026-06-25",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/000162828026045488/"
-  },
-  {
-   "id": "I-6ec12e0c7743",
-   "source": "insider",
-   "person": "Cheng Chi Fung",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Chief Technology Officer",
-   "ticker": "CRDO",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 28105,
-   "amount_high": 28105,
-   "tx_date": "2026-06-23",
-   "filed_date": "2026-06-25",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/000162828026045488/"
-  },
-  {
-   "id": "I-60ab9a48dbfe",
-   "source": "insider",
-   "person": "Kurtz George",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "PRESIDENT AND CEO",
-   "ticker": "CRWD",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 71263,
-   "amount_high": 71263,
-   "tx_date": "2026-06-23",
-   "filed_date": "2026-06-25",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000103/"
-  },
-  {
-   "id": "I-5ae193261350",
-   "source": "insider",
-   "person": "Cheng Chi Fung",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Chief Technology Officer",
-   "ticker": "CRDO",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 303174,
-   "amount_high": 303174,
-   "tx_date": "2026-06-23",
-   "filed_date": "2026-06-25",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/000162828026045488/"
-  },
-  {
-   "id": "I-54bae0627cee",
-   "source": "insider",
-   "person": "Kurtz George",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "PRESIDENT AND CEO",
-   "ticker": "CRWD",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 186838,
-   "amount_high": 186838,
-   "tx_date": "2026-06-23",
-   "filed_date": "2026-06-25",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000103/"
-  },
-  {
-   "id": "I-54904db35505",
-   "source": "insider",
-   "person": "Kurtz George",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "PRESIDENT AND CEO",
-   "ticker": "CRWD",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 88790,
-   "amount_high": 88790,
-   "tx_date": "2026-06-23",
-   "filed_date": "2026-06-25",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000103/"
-  },
-  {
-   "id": "I-51aec7b47dfc",
-   "source": "insider",
-   "person": "Kurtz George",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "PRESIDENT AND CEO",
-   "ticker": "CRWD",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 26165,
-   "amount_high": 26165,
-   "tx_date": "2026-06-23",
-   "filed_date": "2026-06-25",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000103/"
-  },
-  {
-   "id": "I-50b7f5428967",
-   "source": "insider",
-   "person": "Cheng Chi Fung",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Chief Technology Officer",
-   "ticker": "CRDO",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 798019,
-   "amount_high": 798019,
-   "tx_date": "2026-06-23",
-   "filed_date": "2026-06-25",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/000162828026045488/"
-  },
-  {
-   "id": "I-4c8fe57ee294",
-   "source": "insider",
-   "person": "Kurtz George",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "PRESIDENT AND CEO",
-   "ticker": "CRWD",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 52857,
-   "amount_high": 52857,
-   "tx_date": "2026-06-23",
-   "filed_date": "2026-06-25",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000103/"
-  },
-  {
-   "id": "I-45c5edfa9761",
-   "source": "insider",
-   "person": "Denman Kenneth D",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Director",
-   "ticker": "COST",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 847345,
-   "amount_high": 847345,
-   "tx_date": "2026-06-23",
-   "filed_date": "2026-06-25",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000053/"
-  },
-  {
-   "id": "I-3bd3083c0aa5",
-   "source": "insider",
-   "person": "Kurtz George",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "PRESIDENT AND CEO",
-   "ticker": "CRWD",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 24089,
-   "amount_high": 24089,
-   "tx_date": "2026-06-23",
-   "filed_date": "2026-06-25",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000103/"
-  },
-  {
-   "id": "I-367a09686755",
-   "source": "insider",
-   "person": "Cheng Chi Fung",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Chief Technology Officer",
-   "ticker": "CRDO",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 899359,
-   "amount_high": 899359,
-   "tx_date": "2026-06-23",
-   "filed_date": "2026-06-25",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/000162828026045488/"
-  },
-  {
-   "id": "I-3186e22b9348",
-   "source": "insider",
-   "person": "Cheng Chi Fung",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Chief Technology Officer",
-   "ticker": "CRDO",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 68881,
-   "amount_high": 68881,
-   "tx_date": "2026-06-23",
-   "filed_date": "2026-06-25",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/000162828026045488/"
-  },
-  {
-   "id": "I-1c8715930eed",
-   "source": "insider",
-   "person": "Kurtz George",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "PRESIDENT AND CEO",
-   "ticker": "CRWD",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 17418,
-   "amount_high": 17418,
-   "tx_date": "2026-06-23",
-   "filed_date": "2026-06-25",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000103/"
-  },
-  {
-   "id": "I-13b24c6005c0",
-   "source": "insider",
-   "person": "Kurtz George",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "PRESIDENT AND CEO",
-   "ticker": "CRWD",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 98181,
-   "amount_high": 98181,
-   "tx_date": "2026-06-23",
-   "filed_date": "2026-06-25",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000103/"
-  },
-  {
-   "id": "I-1360c7a7db11",
-   "source": "insider",
-   "person": "Kurtz George",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "PRESIDENT AND CEO",
-   "ticker": "CRWD",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 167965,
-   "amount_high": 167965,
-   "tx_date": "2026-06-23",
-   "filed_date": "2026-06-25",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000103/"
-  },
-  {
-   "id": "I-0bea718ce9d2",
-   "source": "insider",
-   "person": "Kurtz George",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "PRESIDENT AND CEO",
-   "ticker": "CRWD",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 43822,
-   "amount_high": 43822,
-   "tx_date": "2026-06-23",
-   "filed_date": "2026-06-25",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000103/"
-  },
-  {
-   "id": "I-0705acf9af3c",
-   "source": "insider",
-   "person": "Kurtz George",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "PRESIDENT AND CEO",
-   "ticker": "CRWD",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 25961,
-   "amount_high": 25961,
-   "tx_date": "2026-06-23",
-   "filed_date": "2026-06-25",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000103/"
-  },
-  {
-   "id": "I-03c320db2a50",
-   "source": "insider",
-   "person": "Cheng Chi Fung",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Chief Technology Officer",
-   "ticker": "CRDO",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1297544,
-   "amount_high": 1297544,
-   "tx_date": "2026-06-23",
-   "filed_date": "2026-06-25",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/000162828026045488/"
-  },
-  {
    "id": "C-eabd949e0bcb",
    "source": "congress",
    "person": "Jerry Moran,",
@@ -170927,72 +174777,6 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://efdsearch.senate.gov/search/view/ptr/7caf1b69-3678-4420-8812-a1476a1a6158/"
-  },
-  {
-   "id": "I-c1e8ea1983c1",
-   "source": "insider",
-   "person": "Ishihara Tomohiko",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Executive Officer",
-   "ticker": "IX",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 151,
-   "amount_high": 151,
-   "tx_date": "2026-05-20",
-   "filed_date": "2026-06-25",
-   "lag_days": 36,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1070304/000119312526281785/"
-  },
-  {
-   "id": "I-9a438c941ab6",
-   "source": "insider",
-   "person": "Otsuka Takashi",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "See Remarks",
-   "ticker": "IX",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 503,
-   "amount_high": 503,
-   "tx_date": "2026-05-20",
-   "filed_date": "2026-06-25",
-   "lag_days": 36,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1070304/000119312526281791/"
-  },
-  {
-   "id": "I-2579ae554485",
-   "source": "insider",
-   "person": "Matsuzaki Satoru",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "See remarks",
-   "ticker": "IX",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 251,
-   "amount_high": 251,
-   "tx_date": "2026-05-20",
-   "filed_date": "2026-06-25",
-   "lag_days": 36,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1070304/000119312526281787/"
   },
   {
    "id": "C-b6271105ba38",

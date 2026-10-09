@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-08T18:00:09Z",
+ "generated_at": "2026-10-09T17:34:26Z",
  "tickers": {
   "ZTS": {
    "name": "Zoetis Inc.",
@@ -5738,6 +5738,33 @@
    "sic": "",
    "sic_desc": "",
    "sectors": []
+  },
+  "RH": {
+   "name": "RH",
+   "cik": 1528849,
+   "sic": "5712",
+   "sic_desc": "Retail-Furniture Stores",
+   "sectors": [
+    "retail"
+   ]
+  },
+  "OKTA": {
+   "name": "Okta, Inc.",
+   "cik": 1660134,
+   "sic": "7372",
+   "sic_desc": "Services-Prepackaged Software",
+   "sectors": [
+    "tech"
+   ]
+  },
+  "C": {
+   "name": "CITIGROUP INC",
+   "cik": 831001,
+   "sic": "6021",
+   "sic_desc": "National Commercial Banks",
+   "sectors": [
+    "banks"
+   ]
   }
  }
 }

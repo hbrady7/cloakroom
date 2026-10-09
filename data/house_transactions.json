@@ -1,6 +1,1106 @@
 {
- "generated_at": "2026-10-08T17:58:58Z",
+ "generated_at": "2026-10-09T17:32:53Z",
  "transactions": [
+  {
+   "id": "C-9b74fee624db",
+   "source": "congress",
+   "person": "Josh Gottheimer",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Permanent Select Committee on Intelligence",
+     "House Committee on Financial Services"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MCD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-25",
+   "filed_date": "2026-10-07",
+   "lag_days": 12,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035590.pdf"
+  },
+  {
+   "id": "C-e9a64e31924b",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MSFT",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-24",
+   "filed_date": "2026-10-07",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-e1e021a99cb8",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "HONA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-24",
+   "filed_date": "2026-10-07",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-dd97430f3c60",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CB",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-24",
+   "filed_date": "2026-10-07",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-b2ffc6406d06",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MRVL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-24",
+   "filed_date": "2026-10-07",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-b01dc64316e1",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "UNH",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-24",
+   "filed_date": "2026-10-07",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-a3ce5fd43dcb",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "BEP",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-24",
+   "filed_date": "2026-10-07",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-7a23ef98fbc3",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CSCO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-24",
+   "filed_date": "2026-10-07",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-77c02a03264a",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "OKTA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-24",
+   "filed_date": "2026-10-07",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-7714846b67a9",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "C",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-24",
+   "filed_date": "2026-10-07",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-738e3b58a665",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MRNA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-24",
+   "filed_date": "2026-10-07",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-67dbdee4ac36",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "GLW",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-24",
+   "filed_date": "2026-10-07",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-6244f9e8acb4",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "GS",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-24",
+   "filed_date": "2026-10-07",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-489df4ffb999",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-24",
+   "filed_date": "2026-10-07",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-467c205d453a",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MRK",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-24",
+   "filed_date": "2026-10-07",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-45db01978ada",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "FDX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-24",
+   "filed_date": "2026-10-07",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-3f4c488fb81a",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "HON",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-24",
+   "filed_date": "2026-10-07",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-3ab97266bfc8",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CRM",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-24",
+   "filed_date": "2026-10-07",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-36b4f0ed8459",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "RH",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-24",
+   "filed_date": "2026-10-07",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-2d2c0de896a0",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "SPCX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-24",
+   "filed_date": "2026-10-07",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-2846b0b26680",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "META",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-24",
+   "filed_date": "2026-10-07",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-2391cf2fcd51",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "BRK.B",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-24",
+   "filed_date": "2026-10-07",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-1f6eb85ff9a2",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CSCO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-09-24",
+   "filed_date": "2026-10-07",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-1687d1b18ab6",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "SNOW",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-24",
+   "filed_date": "2026-10-07",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-1668150d0a6c",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "BIIB",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-24",
+   "filed_date": "2026-10-07",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-1271846fe713",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "PTON",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-24",
+   "filed_date": "2026-10-07",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-1184550cfbaa",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "GE",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-24",
+   "filed_date": "2026-10-07",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-10c99140f061",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "URI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-24",
+   "filed_date": "2026-10-07",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-019afeaafba3",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "BA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-24",
+   "filed_date": "2026-10-07",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-b1787fcbd60d",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "META",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-22",
+   "filed_date": "2026-10-07",
+   "lag_days": 15,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-9ebe7b533126",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "META",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-22",
+   "filed_date": "2026-10-07",
+   "lag_days": 15,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-30875e013cd8",
+   "source": "congress",
+   "person": "Josh Gottheimer",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Permanent Select Committee on Intelligence",
+     "House Committee on Financial Services"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "AMAT",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-15",
+   "filed_date": "2026-10-07",
+   "lag_days": 22,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035590.pdf"
+  },
+  {
+   "id": "C-88b8bf72e1ee",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "GLW",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-08",
+   "filed_date": "2026-10-07",
+   "lag_days": 29,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-818a377c3889",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CSCO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-08",
+   "filed_date": "2026-10-07",
+   "lag_days": 29,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-0c520fe96760",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "GLW",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-08",
+   "filed_date": "2026-10-07",
+   "lag_days": 29,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-f136fe8a6630",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "OKTA",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-04",
+   "filed_date": "2026-10-07",
+   "lag_days": 33,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-ec0a2719d7b9",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "SNOW",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-09-04",
+   "filed_date": "2026-10-07",
+   "lag_days": 33,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-eb9ee31deac8",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "SNOW",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-04",
+   "filed_date": "2026-10-07",
+   "lag_days": 33,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-dcbe9e02324b",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "GLW",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-04",
+   "filed_date": "2026-10-07",
+   "lag_days": 33,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-c7d8dd910491",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "IBM",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-04",
+   "filed_date": "2026-10-07",
+   "lag_days": 33,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-b64be989d523",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "GLW",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-04",
+   "filed_date": "2026-10-07",
+   "lag_days": 33,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-024cb60abf14",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "IBM",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-04",
+   "filed_date": "2026-10-07",
+   "lag_days": 33,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-001c0ebcac42",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "OKTA",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-04",
+   "filed_date": "2026-10-07",
+   "lag_days": 33,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
+  {
+   "id": "C-03aeb66fc911",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CVX",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-02",
+   "filed_date": "2026-10-07",
+   "lag_days": 35,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
+  },
   {
    "id": "C-79b002e87a47",
    "source": "congress",
@@ -52214,32 +53314,6 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034105.pdf"
-  },
-  {
-   "id": "C-017fb1d4336e",
-   "source": "congress",
-   "person": "Virginia Foxx",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Education and Workforce",
-     "House Committee on Oversight and Government Reform",
-     "House Committee on Rules"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "ARLP",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-02-13",
-   "filed_date": "2026-03-02",
-   "lag_days": 17,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034095.pdf"
   }
  ]
 }
