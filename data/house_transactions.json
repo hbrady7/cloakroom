@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-09T17:32:53Z",
+ "generated_at": "2026-10-12T20:25:03Z",
  "transactions": [
   {
    "id": "C-9b74fee624db",
@@ -53238,82 +53238,6 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034134.pdf"
-  },
-  {
-   "id": "C-92b6c9907242",
-   "source": "congress",
-   "person": "Lloyd Doggett",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on the Budget",
-     "House Committee on Ways and Means",
-     "Joint Committee on Taxation"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "PG",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-02-17",
-   "filed_date": "2026-03-05",
-   "lag_days": 16,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034132.pdf"
-  },
-  {
-   "id": "C-3aafbcfece4f",
-   "source": "congress",
-   "person": "Lisa McClain",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on Education and Workforce"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "BBAI",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-02-06",
-   "filed_date": "2026-03-04",
-   "lag_days": 26,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034105.pdf"
-  },
-  {
-   "id": "C-92dbb1dac7ca",
-   "source": "congress",
-   "person": "Lisa McClain",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on Education and Workforce"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "BBAI",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-02-04",
-   "filed_date": "2026-03-04",
-   "lag_days": 28,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034105.pdf"
   }
  ]
 }
