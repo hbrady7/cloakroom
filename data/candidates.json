@@ -161,7 +161,7 @@
    "stats": {
     "congress_buys": 5,
     "distinct_buyers": 3,
-    "insider_open_market_buys": 90,
+    "insider_open_market_buys": 88,
     "options_positions": 0
    },
    "name": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
@@ -417,7 +417,7 @@
  "caution": [
   {
    "ticker": "CRWD",
-   "score": 26.7,
+   "score": 34.3,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -426,7 +426,7 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 26.7,
+     "points": 34.3,
      "distinct_sellers": 9,
      "weighted_sellers": 7.5
     },
@@ -437,105 +437,105 @@
    },
    "evidence": [
     {
-     "id": "I-e3715acf272a",
+     "id": "I-ef7b59e949f0",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-c261cdbcd845",
+     "id": "I-ee11ae33f20e",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-c0eb18beb60d",
+     "id": "I-e9333c28abe0",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-b7d6dbf24b30",
+     "id": "I-e00523e2c8b2",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-8120825f5d66",
+     "id": "I-d91cda6ca965",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-6c921ff86b1f",
+     "id": "I-d49f62fa8da5",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-642202167a95",
+     "id": "I-c0740525619a",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-5b1719eaf353",
+     "id": "I-9bb6eb498c73",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-4bee63460364",
+     "id": "I-8b5dc8497b6f",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-2b55102d9521",
+     "id": "I-899df02c6223",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-015636d934a5",
+     "id": "I-57c3a8a47c6d",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-ee7d8a08937e",
+     "id": "I-53a97f5cb66a",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-e0a38ab04c8e",
+     "id": "I-441ea69e5181",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-d8840e9dd65d",
+     "id": "I-fc83af88dec6",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-b55da677a039",
+     "id": "I-e6850f647536",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-966018443b30",
+     "id": "I-dc072e3a4400",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-7a9e30ebab24",
+     "id": "I-d5653d57c83e",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-3d673a417dc7",
+     "id": "I-b907102abeb7",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-3b4f9f8db6d4",
+     "id": "I-80305a7b9eaf",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-0b09d148a25b",
+     "id": "I-77cd705fb294",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-0379d9e1f278",
+     "id": "I-570188b0f80c",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-9fbcc7f37d89",
+     "id": "I-54551c6237e0",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-6150a1cca828",
+     "id": "I-541d2c6e3363",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-4dbb568ff1fc",
+     "id": "I-11a6164206ed",
      "signal": "insider_distribution"
     }
    ],
    "stats": {
     "congress_sells": 2,
-    "insider_sells": 821
+    "insider_sells": 856
    },
    "name": "CrowdStrike Holdings, Inc.",
    "sectors": [
@@ -925,8 +925,8 @@
    ]
   },
   {
-   "ticker": "HMN",
-   "score": 26.5,
+   "ticker": "CYTK",
+   "score": 26.6,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -935,9 +935,9 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 26.5,
-     "distinct_sellers": 5,
-     "weighted_sellers": 4.5
+     "points": 26.6,
+     "distinct_sellers": 6,
+     "weighted_sellers": 3.0
     },
     "committee_sell": {
      "fired": false,
@@ -946,52 +946,101 @@
    },
    "evidence": [
     {
-     "id": "I-790d0ca436f5",
+     "id": "I-444061fa00ea",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-422357aac53f",
+     "id": "I-c52b393d8be7",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-ed623699e3be",
+     "id": "I-7d3d0f0b8747",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-85ee4f493f77",
+     "id": "I-d8ea05ef0d0d",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-7a2db04a41d3",
+     "id": "I-44eaa0cdeacc",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-5daa033aed90",
+     "id": "I-22bce676a38f",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-2a5279338fd2",
+     "id": "I-d7b4c003232c",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-955fd125bb7c",
+     "id": "I-973542cb3353",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-406a6855f244",
+     "id": "I-48d795fd2be4",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-9c82e3f27a7d",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-fd5b26df8003",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-bc820f66b64d",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-8f4c26812c47",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-e11be6e751f8",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-40509b36c502",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-e82afb108625",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-c62dbf8c1e53",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-55b5fbe0376d",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-ef957c5d2646",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-c56f3ade18ac",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-08f7d846baf4",
      "signal": "insider_distribution"
     }
    ],
    "stats": {
     "congress_sells": 0,
-    "insider_sells": 9
+    "insider_sells": 21
    },
-   "name": "HORACE MANN EDUCATORS CORP /DE/",
+   "name": "CYTOKINETICS INC",
    "sectors": [
-    "insurance"
+    "pharma",
+    "biotech"
    ]
   }
  ],
- "universe": 734,
- "generated_at": "2026-10-13T18:30:52Z"
+ "universe": 733,
+ "generated_at": "2026-10-14T15:57:31Z"
 }
