@@ -1,9 +1,9 @@
 {
- "as_of": "2026-10-14",
+ "as_of": "2026-10-15",
  "candidates": [
   {
    "ticker": "TSM",
-   "score": 24.3,
+   "score": 23.1,
    "signals": {
     "cluster": {
      "fired": false,
@@ -21,7 +21,7 @@
     },
     "convergence": {
      "fired": true,
-     "points": 23.5,
+     "points": 22.4,
      "insider_buyers": [
       "Chang Tzonz-Sheng",
       "Chen Chih-Ho",
@@ -56,7 +56,7 @@
     },
     "size": {
      "fired": false,
-     "points": 0.8,
+     "points": 0.7,
      "max_band_mid": 8000
     }
    },
@@ -172,7 +172,7 @@
   },
   {
    "ticker": "BRK.B",
-   "score": 9.7,
+   "score": 15.6,
    "signals": {
     "cluster": {
      "fired": false,
@@ -191,7 +191,7 @@
     },
     "convergence": {
      "fired": true,
-     "points": 9.3,
+     "points": 15.2,
      "insider_buyers": [
       "BERKSHIRE HATHAWAY INC et al.",
       "O'Sullivan Michael J."
@@ -222,11 +222,15 @@
      "signal": "committee"
     },
     {
-     "id": "I-e20125b1a330",
+     "id": "I-f9d3e2365af6",
      "signal": "convergence"
     },
     {
      "id": "I-e5a6cc32c7a4",
+     "signal": "convergence"
+    },
+    {
+     "id": "C-b65605ab6d36",
      "signal": "convergence"
     },
     {
@@ -240,14 +244,10 @@
     {
      "id": "C-905c2619c5c4",
      "signal": "convergence"
-    },
-    {
-     "id": "C-4e01f0c69a18",
-     "signal": "convergence"
     }
    ],
    "stats": {
-    "congress_buys": 10,
+    "congress_buys": 11,
     "distinct_buyers": 4,
     "insider_open_market_buys": 48,
     "options_positions": 0
@@ -259,7 +259,7 @@
   },
   {
    "ticker": "JNJ",
-   "score": 3.4,
+   "score": 3.2,
    "signals": {
     "cluster": {
      "fired": false,
@@ -268,7 +268,7 @@
     },
     "committee": {
      "fired": true,
-     "points": 3.4,
+     "points": 3.2,
      "aligned_buyers": [
       "Alan Armstrong",
       "Lloyd Doggett"
@@ -323,101 +323,12 @@
     "pharma",
     "biotech"
    ]
-  },
-  {
-   "ticker": "BSX",
-   "score": 3.1,
-   "signals": {
-    "cluster": {
-     "fired": false,
-     "points": 0.0,
-     "distinct_buyers": 1
-    },
-    "committee": {
-     "fired": true,
-     "points": 0.0,
-     "aligned_buyers": [
-      "Alan Armstrong"
-     ],
-     "sectors": [
-      "healthcare"
-     ]
-    },
-    "convergence": {
-     "fired": true,
-     "points": 2.9,
-     "insider_buyers": [
-      "Habiger David C",
-      "Ludwig Edward J",
-      "Mahoney Michael F",
-      "Morano Susan E"
-     ]
-    },
-    "options": {
-     "fired": false,
-     "points": 0.0,
-     "count": 0
-    },
-    "size": {
-     "fired": false,
-     "points": 0.1,
-     "max_band_mid": 8000
-    }
-   },
-   "evidence": [
-    {
-     "id": "C-5e098111dae1",
-     "signal": "committee"
-    },
-    {
-     "id": "I-5336c29afde2",
-     "signal": "convergence"
-    },
-    {
-     "id": "I-d443020db24b",
-     "signal": "convergence"
-    },
-    {
-     "id": "I-49c041db62c0",
-     "signal": "convergence"
-    },
-    {
-     "id": "I-d70f1348ae24",
-     "signal": "convergence"
-    },
-    {
-     "id": "C-5513f3693061",
-     "signal": "convergence"
-    },
-    {
-     "id": "C-5e098111dae1",
-     "signal": "convergence"
-    },
-    {
-     "id": "C-e3377c1fcf80",
-     "signal": "convergence"
-    },
-    {
-     "id": "C-006c100b07b2",
-     "signal": "convergence"
-    }
-   ],
-   "stats": {
-    "congress_buys": 6,
-    "distinct_buyers": 2,
-    "insider_open_market_buys": 6,
-    "options_positions": 0
-   },
-   "name": "BOSTON SCIENTIFIC CORP",
-   "sectors": [
-    "healthcare"
-   ]
   }
  ],
  "caution": [
   {
    "ticker": "CRWD",
-   "score": 32.6,
+   "score": 34.3,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -426,7 +337,7 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 32.6,
+     "points": 34.3,
      "distinct_sellers": 9,
      "weighted_sellers": 7.5
     },
@@ -436,6 +347,70 @@
     }
    },
    "evidence": [
+    {
+     "id": "I-f9efc1ceb2c9",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-c37a73d9ade5",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-c0d2863cf6c2",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-b504d9b5c461",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-8d023c7ef64e",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-77aed5687ddb",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-3bdb51e2b95a",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-08d763e2eef3",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-c1a0c0124095",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-8df620a93ecf",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-7dd0bc2de606",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-673c0d332630",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-6544a7702c5e",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-51b21363bdde",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-450d1b84d747",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-11919083e0b9",
+     "signal": "insider_distribution"
+    },
     {
      "id": "I-ef7b59e949f0",
      "signal": "insider_distribution"
@@ -467,75 +442,11 @@
     {
      "id": "I-9bb6eb498c73",
      "signal": "insider_distribution"
-    },
-    {
-     "id": "I-8b5dc8497b6f",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-899df02c6223",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-57c3a8a47c6d",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-53a97f5cb66a",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-441ea69e5181",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-fc83af88dec6",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-e6850f647536",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-dc072e3a4400",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-d5653d57c83e",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-b907102abeb7",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-80305a7b9eaf",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-77cd705fb294",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-570188b0f80c",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-54551c6237e0",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-541d2c6e3363",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-11a6164206ed",
-     "signal": "insider_distribution"
     }
    ],
    "stats": {
     "congress_sells": 2,
-    "insider_sells": 809
+    "insider_sells": 787
    },
    "name": "CrowdStrike Holdings, Inc.",
    "sectors": [
@@ -544,7 +455,7 @@
   },
   {
    "ticker": "DASH",
-   "score": 32.6,
+   "score": 31.0,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -553,7 +464,7 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 32.6,
+     "points": 31.0,
      "distinct_sellers": 8,
      "weighted_sellers": 6.0
     },
@@ -671,7 +582,7 @@
   },
   {
    "ticker": "LTH",
-   "score": 32.6,
+   "score": 31.0,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -680,7 +591,7 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 32.6,
+     "points": 31.0,
      "distinct_sellers": 8,
      "weighted_sellers": 8.0
     },
@@ -776,7 +687,7 @@
   },
   {
    "ticker": "META",
-   "score": 32.6,
+   "score": 31.0,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -785,7 +696,7 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 32.6,
+     "points": 31.0,
      "distinct_sellers": 10,
      "weighted_sellers": 6.0
     },
@@ -903,16 +814,16 @@
   },
   {
    "ticker": "MSFT",
-   "score": 28.5,
+   "score": 27.2,
    "signals": {
     "sell_cluster": {
      "fired": true,
-     "points": 1.9,
+     "points": 1.8,
      "distinct_sellers": 5
     },
     "insider_distribution": {
      "fired": true,
-     "points": 26.6,
+     "points": 25.4,
      "distinct_sellers": 4,
      "weighted_sellers": 3.0
     },
@@ -1029,6 +940,6 @@
    ]
   }
  ],
- "universe": 733,
- "generated_at": "2026-10-15T15:44:39Z"
+ "universe": 734,
+ "generated_at": "2026-10-16T15:30:40Z"
 }
