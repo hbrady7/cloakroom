@@ -1,7 +1,975 @@
 {
- "generated_at": "2026-10-16T15:29:50Z",
+ "generated_at": "2026-10-19T17:42:13Z",
  "window_days": 180,
  "trades": [
+  {
+   "id": "I-db354f79d258",
+   "source": "insider",
+   "person": "Ptak Stash",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "* See Remarks",
+   "ticker": "SIG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 48600,
+   "amount_high": 48600,
+   "tx_date": "2026-10-16",
+   "filed_date": "2026-10-16",
+   "lag_days": 0,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/832988/000083298826000236/"
+  },
+  {
+   "id": "I-bd412ad99436",
+   "source": "insider",
+   "person": "Finucane Anne A.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "WSM",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 3544,
+   "amount_high": 3544,
+   "tx_date": "2026-10-16",
+   "filed_date": "2026-10-16",
+   "lag_days": 0,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/719955/000071995526000221/"
+  },
+  {
+   "id": "I-9abce5e829d2",
+   "source": "insider",
+   "person": "Bharathi Sandeep",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President, Data Center Group",
+   "ticker": "MRVL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 865864,
+   "amount_high": 865864,
+   "tx_date": "2026-10-16",
+   "filed_date": "2026-10-16",
+   "lag_days": 0,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1835632/000162828026066137/"
+  },
+  {
+   "id": "I-42dc10079b6a",
+   "source": "insider",
+   "person": "Finucane Anne A.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "WSM",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 196654,
+   "amount_high": 196654,
+   "tx_date": "2026-10-16",
+   "filed_date": "2026-10-16",
+   "lag_days": 0,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/719955/000071995526000221/"
+  },
+  {
+   "id": "I-29d4fb6c7e20",
+   "source": "insider",
+   "person": "Chaplin Ann C",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP, GenCounsel&CorpSecretary",
+   "ticker": "QCOM",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 319268,
+   "amount_high": 319268,
+   "tx_date": "2026-10-16",
+   "filed_date": "2026-10-16",
+   "lag_days": 0,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/804328/000080432826000103/"
+  },
+  {
+   "id": "I-fded6d0f0bf7",
+   "source": "insider",
+   "person": "Furner John R.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President & CEO",
+   "ticker": "WMT",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 852995,
+   "amount_high": 852995,
+   "tx_date": "2026-10-15",
+   "filed_date": "2026-10-16",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/104169/000169673726000021/"
+  },
+  {
+   "id": "I-f42d6e84ac0e",
+   "source": "insider",
+   "person": "Reiss Joel",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Co-Chief Operating Officer",
+   "ticker": "TDG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 147124,
+   "amount_high": 147124,
+   "tx_date": "2026-10-15",
+   "filed_date": "2026-10-16",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1260221/000165610926000009/"
+  },
+  {
+   "id": "I-ef67e8710cc0",
+   "source": "insider",
+   "person": "Reiss Joel",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Co-Chief Operating Officer",
+   "ticker": "TDG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 67295,
+   "amount_high": 67295,
+   "tx_date": "2026-10-15",
+   "filed_date": "2026-10-16",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1260221/000165610926000009/"
+  },
+  {
+   "id": "I-ec44f2739194",
+   "source": "insider",
+   "person": "Goldstein Jeffrey A",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "FIS",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 57694,
+   "amount_high": 57694,
+   "tx_date": "2026-10-15",
+   "filed_date": "2026-10-16",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1136893/000162828026066127/"
+  },
+  {
+   "id": "I-e78b84644840",
+   "source": "insider",
+   "person": "Reiss Joel",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Co-Chief Operating Officer",
+   "ticker": "TDG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 111901,
+   "amount_high": 111901,
+   "tx_date": "2026-10-15",
+   "filed_date": "2026-10-16",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1260221/000165610926000009/"
+  },
+  {
+   "id": "I-d6175656f66d",
+   "source": "insider",
+   "person": "Reiss Joel",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Co-Chief Operating Officer",
+   "ticker": "TDG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 55801,
+   "amount_high": 55801,
+   "tx_date": "2026-10-15",
+   "filed_date": "2026-10-16",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1260221/000165610926000009/"
+  },
+  {
+   "id": "I-d473d9d55c51",
+   "source": "insider",
+   "person": "Reiss Joel",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Co-Chief Operating Officer",
+   "ticker": "TDG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 561823,
+   "amount_high": 561823,
+   "tx_date": "2026-10-15",
+   "filed_date": "2026-10-16",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1260221/000165610926000009/"
+  },
+  {
+   "id": "I-d46ff24b885d",
+   "source": "insider",
+   "person": "Reiss Joel",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Co-Chief Operating Officer",
+   "ticker": "TDG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 111358,
+   "amount_high": 111358,
+   "tx_date": "2026-10-15",
+   "filed_date": "2026-10-16",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1260221/000165610926000009/"
+  },
+  {
+   "id": "I-c374141e2350",
+   "source": "insider",
+   "person": "Ptak Stash",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "* See Remarks",
+   "ticker": "SIG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 191400,
+   "amount_high": 191400,
+   "tx_date": "2026-10-15",
+   "filed_date": "2026-10-16",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/832988/000083298826000236/"
+  },
+  {
+   "id": "I-c1cd24342ffe",
+   "source": "insider",
+   "person": "Hoge Stephen",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President",
+   "ticker": "MRNA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 8640084,
+   "amount_high": 8640084,
+   "tx_date": "2026-10-15",
+   "filed_date": "2026-10-16",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285226000187/"
+  },
+  {
+   "id": "I-c0cde557ae57",
+   "source": "insider",
+   "person": "Reiss Joel",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Co-Chief Operating Officer",
+   "ticker": "TDG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 312989,
+   "amount_high": 312989,
+   "tx_date": "2026-10-15",
+   "filed_date": "2026-10-16",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1260221/000165610926000009/"
+  },
+  {
+   "id": "I-bc6ac6f8b690",
+   "source": "insider",
+   "person": "Reiss Joel",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Co-Chief Operating Officer",
+   "ticker": "TDG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 237783,
+   "amount_high": 237783,
+   "tx_date": "2026-10-15",
+   "filed_date": "2026-10-16",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1260221/000165610926000009/"
+  },
+  {
+   "id": "I-afd189a49192",
+   "source": "insider",
+   "person": "Reiss Joel",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Co-Chief Operating Officer",
+   "ticker": "TDG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 359442,
+   "amount_high": 359442,
+   "tx_date": "2026-10-15",
+   "filed_date": "2026-10-16",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1260221/000165610926000009/"
+  },
+  {
+   "id": "I-aba92ccce07d",
+   "source": "insider",
+   "person": "Reiss Joel",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Co-Chief Operating Officer",
+   "ticker": "TDG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 22245,
+   "amount_high": 22245,
+   "tx_date": "2026-10-15",
+   "filed_date": "2026-10-16",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1260221/000165610926000009/"
+  },
+  {
+   "id": "I-9700a706530f",
+   "source": "insider",
+   "person": "Reiss Joel",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Co-Chief Operating Officer",
+   "ticker": "TDG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 135348,
+   "amount_high": 135348,
+   "tx_date": "2026-10-15",
+   "filed_date": "2026-10-16",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1260221/000165610926000009/"
+  },
+  {
+   "id": "I-838c70d53dc3",
+   "source": "insider",
+   "person": "Reiss Joel",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Co-Chief Operating Officer",
+   "ticker": "TDG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 343739,
+   "amount_high": 343739,
+   "tx_date": "2026-10-15",
+   "filed_date": "2026-10-16",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1260221/000165610926000009/"
+  },
+  {
+   "id": "I-7219e6cbc290",
+   "source": "insider",
+   "person": "Reiss Joel",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Co-Chief Operating Officer",
+   "ticker": "TDG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 147072,
+   "amount_high": 147072,
+   "tx_date": "2026-10-15",
+   "filed_date": "2026-10-16",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1260221/000165610926000009/"
+  },
+  {
+   "id": "I-6c338910f678",
+   "source": "insider",
+   "person": "Murphy Matthew J",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chairman of the Board and CEO",
+   "ticker": "MRVL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1766025,
+   "amount_high": 1766025,
+   "tx_date": "2026-10-15",
+   "filed_date": "2026-10-16",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1835632/000162828026066130/"
+  },
+  {
+   "id": "I-6a8f92c8c589",
+   "source": "insider",
+   "person": "Reiss Joel",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Co-Chief Operating Officer",
+   "ticker": "TDG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 111482,
+   "amount_high": 111482,
+   "tx_date": "2026-10-15",
+   "filed_date": "2026-10-16",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1260221/000165610926000009/"
+  },
+  {
+   "id": "I-699614febbf9",
+   "source": "insider",
+   "person": "Reiss Joel",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Co-Chief Operating Officer",
+   "ticker": "TDG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 33609,
+   "amount_high": 33609,
+   "tx_date": "2026-10-15",
+   "filed_date": "2026-10-16",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1260221/000165610926000009/"
+  },
+  {
+   "id": "I-6636cf9686da",
+   "source": "insider",
+   "person": "Reiss Joel",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Co-Chief Operating Officer",
+   "ticker": "TDG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 497548,
+   "amount_high": 497548,
+   "tx_date": "2026-10-15",
+   "filed_date": "2026-10-16",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1260221/000165610926000009/"
+  },
+  {
+   "id": "I-60a66797a851",
+   "source": "insider",
+   "person": "Reiss Joel",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Co-Chief Operating Officer",
+   "ticker": "TDG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 67027,
+   "amount_high": 67027,
+   "tx_date": "2026-10-15",
+   "filed_date": "2026-10-16",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1260221/000165610926000009/"
+  },
+  {
+   "id": "I-5ac721a823e0",
+   "source": "insider",
+   "person": "Reiss Joel",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Co-Chief Operating Officer",
+   "ticker": "TDG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 169407,
+   "amount_high": 169407,
+   "tx_date": "2026-10-15",
+   "filed_date": "2026-10-16",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1260221/000165610926000009/"
+  },
+  {
+   "id": "I-4f55891f7290",
+   "source": "insider",
+   "person": "Furner John R.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President & CEO",
+   "ticker": "WMT",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 729907,
+   "amount_high": 729907,
+   "tx_date": "2026-10-15",
+   "filed_date": "2026-10-16",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/104169/000169673726000021/"
+  },
+  {
+   "id": "I-44650276e28b",
+   "source": "insider",
+   "person": "Mann Elizabeth",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Financial Officer",
+   "ticker": "VRSK",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 73940,
+   "amount_high": 73940,
+   "tx_date": "2026-10-15",
+   "filed_date": "2026-10-16",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1442145/000119312526424119/"
+  },
+  {
+   "id": "I-3dc60b63b3dd",
+   "source": "insider",
+   "person": "Nicholas Christopher James",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Executive Vice President",
+   "ticker": "WMT",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 192522,
+   "amount_high": 192522,
+   "tx_date": "2026-10-15",
+   "filed_date": "2026-10-16",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/104169/000199280826000029/"
+  },
+  {
+   "id": "I-2d0b04bde154",
+   "source": "insider",
+   "person": "Reiss Joel",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Co-Chief Operating Officer",
+   "ticker": "TDG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 113006,
+   "amount_high": 113006,
+   "tx_date": "2026-10-15",
+   "filed_date": "2026-10-16",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1260221/000165610926000009/"
+  },
+  {
+   "id": "I-23f673605e91",
+   "source": "insider",
+   "person": "Nicholas Christopher James",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Executive Vice President",
+   "ticker": "WMT",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 157229,
+   "amount_high": 157229,
+   "tx_date": "2026-10-15",
+   "filed_date": "2026-10-16",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/104169/000199280826000029/"
+  },
+  {
+   "id": "I-1de2ed81ce35",
+   "source": "insider",
+   "person": "Reiss Joel",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Co-Chief Operating Officer",
+   "ticker": "TDG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 343944,
+   "amount_high": 343944,
+   "tx_date": "2026-10-15",
+   "filed_date": "2026-10-16",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1260221/000165610926000009/"
+  },
+  {
+   "id": "I-155c7c3f20f9",
+   "source": "insider",
+   "person": "Reiss Joel",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Co-Chief Operating Officer",
+   "ticker": "TDG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 675001,
+   "amount_high": 675001,
+   "tx_date": "2026-10-15",
+   "filed_date": "2026-10-16",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1260221/000165610926000009/"
+  },
+  {
+   "id": "I-12d6860a1f16",
+   "source": "insider",
+   "person": "Cunningham Paul",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Sr. Vice President",
+   "ticker": "CDNS",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 648260,
+   "amount_high": 648260,
+   "tx_date": "2026-10-15",
+   "filed_date": "2026-10-16",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/813672/000081367226000112/"
+  },
+  {
+   "id": "I-e494afdad236",
+   "source": "insider",
+   "person": "Pohlad Robert C",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "PEP",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 5782221,
+   "amount_high": 5782221,
+   "tx_date": "2026-10-14",
+   "filed_date": "2026-10-16",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/77476/000106127226000004/"
+  },
+  {
+   "id": "I-de90ff7be3af",
+   "source": "insider",
+   "person": "Hoge Stephen",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President",
+   "ticker": "MRNA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 8277086,
+   "amount_high": 8277086,
+   "tx_date": "2026-10-14",
+   "filed_date": "2026-10-16",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285226000187/"
+  },
+  {
+   "id": "I-d4b345853486",
+   "source": "insider",
+   "person": "Velli Joseph M",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "PAYX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 844104,
+   "amount_high": 844104,
+   "tx_date": "2026-10-14",
+   "filed_date": "2026-10-16",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/723531/000119312526424044/"
+  },
+  {
+   "id": "I-8c805a125275",
+   "source": "insider",
+   "person": "Watkins Latriece",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Executive Vice President",
+   "ticker": "WMT",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 575000,
+   "amount_high": 575000,
+   "tx_date": "2026-10-14",
+   "filed_date": "2026-10-16",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/104169/000188636726000029/"
+  },
+  {
+   "id": "I-8907c6da8527",
+   "source": "insider",
+   "person": "Hoge Stephen",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President",
+   "ticker": "MRNA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 96368,
+   "amount_high": 96368,
+   "tx_date": "2026-10-14",
+   "filed_date": "2026-10-16",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285226000187/"
+  },
+  {
+   "id": "I-5dd5eabc98d5",
+   "source": "insider",
+   "person": "Pohlad Robert C",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "PEP",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 5782221,
+   "amount_high": 5782221,
+   "tx_date": "2026-10-14",
+   "filed_date": "2026-10-16",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/77476/000106127226000004/"
+  },
+  {
+   "id": "I-5b23472357c7",
+   "source": "insider",
+   "person": "Pohlad Robert C",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "PEP",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1281389,
+   "amount_high": 1281389,
+   "tx_date": "2026-10-14",
+   "filed_date": "2026-10-16",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/77476/000106127226000004/"
+  },
+  {
+   "id": "I-0671b2eb79cf",
+   "source": "insider",
+   "person": "Pohlad Robert C",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "PEP",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 10840558,
+   "amount_high": 10840558,
+   "tx_date": "2026-10-14",
+   "filed_date": "2026-10-16",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/77476/000106127226000004/"
+  },
   {
    "id": "I-f9efc1ceb2c9",
    "source": "insider",
@@ -187343,783 +188311,6 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034401.pdf"
-  },
-  {
-   "id": "C-b78b9e3dfa71",
-   "source": "congress",
-   "person": "Daniel Meuser",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "NVDA",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-03-25",
-   "filed_date": "2026-04-21",
-   "lag_days": 27,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034359.pdf"
-  },
-  {
-   "id": "C-9f0f030a08e8",
-   "source": "congress",
-   "person": "Terri A. Sewell",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on House Administration",
-     "House Committee on Ways and Means",
-     "Joint Committee on Printing"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "TPR",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-03-25",
-   "filed_date": "2026-04-21",
-   "lag_days": 27,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034384.pdf"
-  },
-  {
-   "id": "C-709db8a34b2e",
-   "source": "congress",
-   "person": "Maria Elvira Salazar",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on Foreign Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "FDX",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-03-25",
-   "filed_date": "2026-04-21",
-   "lag_days": 27,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033993.pdf"
-  },
-  {
-   "id": "C-3818f901660f",
-   "source": "congress",
-   "person": "Terri A. Sewell",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on House Administration",
-     "House Committee on Ways and Means",
-     "Joint Committee on Printing"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "GEHC",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-03-25",
-   "filed_date": "2026-04-21",
-   "lag_days": 27,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034384.pdf"
-  },
-  {
-   "id": "C-28c474d133c0",
-   "source": "congress",
-   "person": "Maria Elvira Salazar",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on Foreign Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "URI",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-03-25",
-   "filed_date": "2026-04-21",
-   "lag_days": 27,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033993.pdf"
-  },
-  {
-   "id": "C-c071da1eadf2",
-   "source": "congress",
-   "person": "Maria Elvira Salazar",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on Foreign Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "GE",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-03-24",
-   "filed_date": "2026-04-21",
-   "lag_days": 28,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033993.pdf"
-  },
-  {
-   "id": "C-4c00a7d41aad",
-   "source": "congress",
-   "person": "Maria Elvira Salazar",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on Foreign Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "HON",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-03-24",
-   "filed_date": "2026-04-21",
-   "lag_days": 28,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033993.pdf"
-  },
-  {
-   "id": "C-302e4d9805bc",
-   "source": "congress",
-   "person": "Maria Elvira Salazar",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on Foreign Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "AMGN",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-03-24",
-   "filed_date": "2026-04-21",
-   "lag_days": 28,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033993.pdf"
-  },
-  {
-   "id": "C-ff738b057194",
-   "source": "congress",
-   "person": "Maria Elvira Salazar",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on Foreign Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "GLW",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-03-19",
-   "filed_date": "2026-04-21",
-   "lag_days": 33,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033993.pdf"
-  },
-  {
-   "id": "C-f5fc382cda69",
-   "source": "congress",
-   "person": "Maria Elvira Salazar",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on Foreign Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "WHR",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-03-19",
-   "filed_date": "2026-04-21",
-   "lag_days": 33,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033993.pdf"
-  },
-  {
-   "id": "C-f37cabebfcc9",
-   "source": "congress",
-   "person": "Maria Elvira Salazar",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on Foreign Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "PTON",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-03-19",
-   "filed_date": "2026-04-21",
-   "lag_days": 33,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033993.pdf"
-  },
-  {
-   "id": "C-d898b94593dc",
-   "source": "congress",
-   "person": "Maria Elvira Salazar",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on Foreign Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "RH",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-03-19",
-   "filed_date": "2026-04-21",
-   "lag_days": 33,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033993.pdf"
-  },
-  {
-   "id": "C-d823ce195e63",
-   "source": "congress",
-   "person": "Maria Elvira Salazar",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on Foreign Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "VG",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-03-19",
-   "filed_date": "2026-04-21",
-   "lag_days": 33,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033993.pdf"
-  },
-  {
-   "id": "C-d742fe7ffb39",
-   "source": "congress",
-   "person": "Maria Elvira Salazar",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on Foreign Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "CSCO",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-03-19",
-   "filed_date": "2026-04-21",
-   "lag_days": 33,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033993.pdf"
-  },
-  {
-   "id": "C-d58e6d86d00c",
-   "source": "congress",
-   "person": "Maria Elvira Salazar",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on Foreign Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "C",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-03-19",
-   "filed_date": "2026-04-21",
-   "lag_days": 33,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033993.pdf"
-  },
-  {
-   "id": "C-ca6cf9bac3ad",
-   "source": "congress",
-   "person": "Maria Elvira Salazar",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on Foreign Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "BA",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-03-19",
-   "filed_date": "2026-04-21",
-   "lag_days": 33,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033993.pdf"
-  },
-  {
-   "id": "C-c4ad3906db64",
-   "source": "congress",
-   "person": "Maria Elvira Salazar",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on Foreign Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "GS",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-03-19",
-   "filed_date": "2026-04-21",
-   "lag_days": 33,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033993.pdf"
-  },
-  {
-   "id": "C-a61fb2b03b89",
-   "source": "congress",
-   "person": "Maria Elvira Salazar",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on Foreign Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "GS",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-03-19",
-   "filed_date": "2026-04-21",
-   "lag_days": 33,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033993.pdf"
-  },
-  {
-   "id": "C-a51817286985",
-   "source": "congress",
-   "person": "Maria Elvira Salazar",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on Foreign Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "WHR",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-03-19",
-   "filed_date": "2026-04-21",
-   "lag_days": 33,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033993.pdf"
-  },
-  {
-   "id": "C-9dc0a6ed3267",
-   "source": "congress",
-   "person": "Maria Elvira Salazar",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on Foreign Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "RH",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-03-19",
-   "filed_date": "2026-04-21",
-   "lag_days": 33,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033993.pdf"
-  },
-  {
-   "id": "C-9a92cdf7c650",
-   "source": "congress",
-   "person": "Maria Elvira Salazar",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on Foreign Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "CSCO",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-03-19",
-   "filed_date": "2026-04-21",
-   "lag_days": 33,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033993.pdf"
-  },
-  {
-   "id": "C-72d0e06d5ea6",
-   "source": "congress",
-   "person": "Maria Elvira Salazar",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on Foreign Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "PTON",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-03-19",
-   "filed_date": "2026-04-21",
-   "lag_days": 33,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033993.pdf"
-  },
-  {
-   "id": "C-5e28c9b288bd",
-   "source": "congress",
-   "person": "Maria Elvira Salazar",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on Foreign Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "GLW",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-03-19",
-   "filed_date": "2026-04-21",
-   "lag_days": 33,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033993.pdf"
-  },
-  {
-   "id": "C-58eaa292c148",
-   "source": "congress",
-   "person": "Maria Elvira Salazar",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on Foreign Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "C",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-03-19",
-   "filed_date": "2026-04-21",
-   "lag_days": 33,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033993.pdf"
-  },
-  {
-   "id": "C-376150f6cfef",
-   "source": "congress",
-   "person": "Maria Elvira Salazar",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on Foreign Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "FDX",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-03-19",
-   "filed_date": "2026-04-21",
-   "lag_days": 33,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033993.pdf"
-  },
-  {
-   "id": "C-2c0cf59bb880",
-   "source": "congress",
-   "person": "Maria Elvira Salazar",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on Foreign Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "NVR",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-03-19",
-   "filed_date": "2026-04-21",
-   "lag_days": 33,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033993.pdf"
-  },
-  {
-   "id": "C-25deee5d740a",
-   "source": "congress",
-   "person": "Maria Elvira Salazar",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on Foreign Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "ULTA",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-03-19",
-   "filed_date": "2026-04-21",
-   "lag_days": 33,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033993.pdf"
-  },
-  {
-   "id": "C-24105df050e6",
-   "source": "congress",
-   "person": "Maria Elvira Salazar",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on Foreign Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "BA",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-03-19",
-   "filed_date": "2026-04-21",
-   "lag_days": 33,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033993.pdf"
-  },
-  {
-   "id": "C-b4a8c6b2926d",
-   "source": "congress",
-   "person": "James Banks",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": [
-     "Senate Committee on Armed Services",
-     "Senate Committee on Banking, Housing, and Urban Affairs",
-     "Senate Committee on Health, Education, Labor, and Pensions",
-     "Senate Committee on Veterans' Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "SBUX",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-15",
-   "filed_date": "2026-04-20",
-   "lag_days": 5,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/680da3d8-5f81-43a3-a658-0493c0070378/"
-  },
-  {
-   "id": "C-b5d1eb7ac5c2",
-   "source": "congress",
-   "person": "Cleo Fields",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Financial Services"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "TSM",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-09",
-   "filed_date": "2026-04-20",
-   "lag_days": 11,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034357.pdf"
-  },
-  {
-   "id": "C-1904d6a39cae",
-   "source": "congress",
-   "person": "Dwight Evans",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Ways and Means"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "MU",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-03-24",
-   "filed_date": "2026-04-20",
-   "lag_days": 27,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034379.pdf"
   }
  ]
 }

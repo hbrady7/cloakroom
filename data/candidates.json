@@ -1,14 +1,14 @@
 {
- "as_of": "2026-10-15",
+ "as_of": "2026-10-16",
  "candidates": [
   {
    "ticker": "TSM",
-   "score": 23.1,
+   "score": 22.0,
    "signals": {
     "cluster": {
      "fired": false,
      "points": 0.0,
-     "distinct_buyers": 2
+     "distinct_buyers": 1
     },
     "committee": {
      "fired": false,
@@ -21,7 +21,7 @@
     },
     "convergence": {
      "fired": true,
-     "points": 22.4,
+     "points": 21.3,
      "insider_buyers": [
       "Chang Tzonz-Sheng",
       "Chen Chih-Ho",
@@ -159,7 +159,7 @@
     }
    ],
    "stats": {
-    "congress_buys": 5,
+    "congress_buys": 4,
     "distinct_buyers": 3,
     "insider_open_market_buys": 88,
     "options_positions": 0
@@ -172,7 +172,7 @@
   },
   {
    "ticker": "BRK.B",
-   "score": 15.6,
+   "score": 14.9,
    "signals": {
     "cluster": {
      "fired": false,
@@ -191,7 +191,7 @@
     },
     "convergence": {
      "fired": true,
-     "points": 15.2,
+     "points": 14.5,
      "insider_buyers": [
       "BERKSHIRE HATHAWAY INC et al.",
       "O'Sullivan Michael J."
@@ -259,7 +259,7 @@
   },
   {
    "ticker": "JNJ",
-   "score": 3.2,
+   "score": 3.0,
    "signals": {
     "cluster": {
      "fired": false,
@@ -268,7 +268,7 @@
     },
     "committee": {
      "fired": true,
-     "points": 3.2,
+     "points": 3.0,
      "aligned_buyers": [
       "Alan Armstrong",
       "Lloyd Doggett"
@@ -328,7 +328,7 @@
  "caution": [
   {
    "ticker": "CRWD",
-   "score": 34.3,
+   "score": 32.6,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -337,7 +337,7 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 34.3,
+     "points": 32.6,
      "distinct_sellers": 9,
      "weighted_sellers": 7.5
     },
@@ -455,7 +455,7 @@
   },
   {
    "ticker": "DASH",
-   "score": 31.0,
+   "score": 29.5,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -464,7 +464,7 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 31.0,
+     "points": 29.5,
      "distinct_sellers": 8,
      "weighted_sellers": 6.0
     },
@@ -582,7 +582,7 @@
   },
   {
    "ticker": "LTH",
-   "score": 31.0,
+   "score": 29.5,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -591,7 +591,7 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 31.0,
+     "points": 29.5,
      "distinct_sellers": 8,
      "weighted_sellers": 8.0
     },
@@ -687,7 +687,7 @@
   },
   {
    "ticker": "META",
-   "score": 31.0,
+   "score": 29.5,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -696,7 +696,7 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 31.0,
+     "points": 29.5,
      "distinct_sellers": 10,
      "weighted_sellers": 6.0
     },
@@ -813,19 +813,19 @@
    ]
   },
   {
-   "ticker": "MSFT",
-   "score": 27.2,
+   "ticker": "PAYX",
+   "score": 29.0,
    "signals": {
     "sell_cluster": {
-     "fired": true,
-     "points": 1.8,
-     "distinct_sellers": 5
+     "fired": false,
+     "points": 0.0,
+     "distinct_sellers": 2
     },
     "insider_distribution": {
      "fired": true,
-     "points": 25.4,
+     "points": 29.0,
      "distinct_sellers": 4,
-     "weighted_sellers": 3.0
+     "weighted_sellers": 4.0
     },
     "committee_sell": {
      "fired": false,
@@ -834,112 +834,32 @@
    },
    "evidence": [
     {
-     "id": "C-892072bcfb93",
-     "signal": "sell_cluster"
-    },
-    {
-     "id": "C-a3f2a91f05e8",
-     "signal": "sell_cluster"
-    },
-    {
-     "id": "C-5c90e808bdf9",
-     "signal": "sell_cluster"
-    },
-    {
-     "id": "C-168e2ce0f682",
-     "signal": "sell_cluster"
-    },
-    {
-     "id": "C-3dea2f979525",
-     "signal": "sell_cluster"
-    },
-    {
-     "id": "C-d55bec63e6bf",
-     "signal": "sell_cluster"
-    },
-    {
-     "id": "C-af719b82d30e",
-     "signal": "sell_cluster"
-    },
-    {
-     "id": "I-bffee60ddba5",
+     "id": "I-d4b345853486",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-2668902e69b9",
+     "id": "I-d25462115c20",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-017b2305cb45",
+     "id": "I-e193550099ff",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-c3eaea55b454",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-ac31d1e9dedd",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-94992e3e14ee",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-77235d07abdd",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-2587f2fc5f44",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-141e547aacde",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-d7a4a64d8a63",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-bd25cd21e7ce",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-bbb5ef01fd0f",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-a49ba2407ffb",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-862b25fe4195",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-21cc4f889aed",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-1c51fd39deb1",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-16072ae5dafc",
+     "id": "I-bab5188dc86f",
      "signal": "insider_distribution"
     }
    ],
    "stats": {
-    "congress_sells": 25,
-    "insider_sells": 19
+    "congress_sells": 6,
+    "insider_sells": 4
    },
-   "name": "MICROSOFT CORP",
+   "name": "PAYCHEX INC",
    "sectors": [
-    "tech"
+    "industrial"
    ]
   }
  ],
- "universe": 734,
- "generated_at": "2026-10-16T15:30:40Z"
+ "universe": 731,
+ "generated_at": "2026-10-19T17:43:05Z"
 }
