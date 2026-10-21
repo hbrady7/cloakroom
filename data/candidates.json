@@ -1,9 +1,9 @@
 {
- "as_of": "2026-10-19",
+ "as_of": "2026-10-20",
  "candidates": [
   {
    "ticker": "TSM",
-   "score": 18.9,
+   "score": 18.0,
    "signals": {
     "cluster": {
      "fired": false,
@@ -21,7 +21,7 @@
     },
     "convergence": {
      "fired": true,
-     "points": 18.3,
+     "points": 17.5,
      "insider_buyers": [
       "Chang Tzonz-Sheng",
       "Chen Chih-Ho",
@@ -172,7 +172,7 @@
   },
   {
    "ticker": "BRK.B",
-   "score": 12.8,
+   "score": 12.2,
    "signals": {
     "cluster": {
      "fired": false,
@@ -191,7 +191,7 @@
     },
     "convergence": {
      "fired": true,
-     "points": 12.5,
+     "points": 11.9,
      "insider_buyers": [
       "BERKSHIRE HATHAWAY INC et al.",
       "O'Sullivan Michael J."
@@ -261,7 +261,7 @@
  "caution": [
   {
    "ticker": "CRWD",
-   "score": 31.0,
+   "score": 29.5,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -270,7 +270,7 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 31.0,
+     "points": 29.5,
      "distinct_sellers": 10,
      "weighted_sellers": 8.0
     },
@@ -379,7 +379,7 @@
    ],
    "stats": {
     "congress_sells": 2,
-    "insider_sells": 827
+    "insider_sells": 802
    },
    "name": "CrowdStrike Holdings, Inc.",
    "sectors": [
@@ -388,7 +388,7 @@
   },
   {
    "ticker": "NET",
-   "score": 30.0,
+   "score": 28.6,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -397,7 +397,7 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 30.0,
+     "points": 28.6,
      "distinct_sellers": 7,
      "weighted_sellers": 3.5
     },
@@ -515,7 +515,7 @@
   },
   {
    "ticker": "HMN",
-   "score": 29.3,
+   "score": 27.9,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -524,7 +524,7 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 29.3,
+     "points": 27.9,
      "distinct_sellers": 5,
      "weighted_sellers": 4.5
     },
@@ -585,19 +585,19 @@
    ]
   },
   {
-   "ticker": "DASH",
-   "score": 25.5,
+   "ticker": "CYTK",
+   "score": 26.0,
    "signals": {
     "sell_cluster": {
      "fired": false,
      "points": 0.0,
-     "distinct_sellers": 1
+     "distinct_sellers": 0
     },
     "insider_distribution": {
      "fired": true,
-     "points": 25.5,
-     "distinct_sellers": 8,
-     "weighted_sellers": 6.0
+     "points": 26.0,
+     "distinct_sellers": 5,
+     "weighted_sellers": 2.5
     },
     "committee_sell": {
      "fired": false,
@@ -606,114 +606,91 @@
    },
    "evidence": [
     {
-     "id": "I-59b6934f5f99",
+     "id": "I-facab519593d",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-fe98f2231d4b",
+     "id": "I-444061fa00ea",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-fbc5122f5357",
+     "id": "I-c52b393d8be7",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-dbac438aa843",
+     "id": "I-7d3d0f0b8747",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-d50fca765217",
+     "id": "I-d8ea05ef0d0d",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-a867fbaa964c",
+     "id": "I-44eaa0cdeacc",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-93f607826e94",
+     "id": "I-22bce676a38f",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-871f3c20f585",
+     "id": "I-d7b4c003232c",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-6c96d572293b",
+     "id": "I-973542cb3353",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-378fc4eb13fb",
+     "id": "I-48d795fd2be4",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-f5fbce7c4714",
+     "id": "I-9c82e3f27a7d",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-b5476a5f0a33",
+     "id": "I-fd5b26df8003",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-f9b2f9e3d1b6",
+     "id": "I-bc820f66b64d",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-cd0957ad0ab1",
+     "id": "I-8f4c26812c47",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-bd465cc704c8",
+     "id": "I-e11be6e751f8",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-7f81ab20af1c",
+     "id": "I-40509b36c502",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-757f0d09c7dc",
+     "id": "I-e82afb108625",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-7568a7bbe289",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-69db58516241",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-499d33476b1e",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-3fed79af9a15",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-e8ddd421060f",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-e18ee8d8a4d8",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-dab396c8fc35",
+     "id": "I-c62dbf8c1e53",
      "signal": "insider_distribution"
     }
    ],
    "stats": {
-    "congress_sells": 3,
-    "insider_sells": 80
+    "congress_sells": 0,
+    "insider_sells": 18
    },
-   "name": "DoorDash, Inc.",
+   "name": "CYTOKINETICS INC",
    "sectors": [
-    "tech"
+    "pharma",
+    "biotech"
    ]
   },
   {
-   "ticker": "LTH",
-   "score": 25.5,
+   "ticker": "QCOM",
+   "score": 26.0,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -722,9 +699,9 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 25.5,
-     "distinct_sellers": 8,
-     "weighted_sellers": 8.0
+     "points": 26.0,
+     "distinct_sellers": 5,
+     "weighted_sellers": 2.5
     },
     "committee_sell": {
      "fired": false,
@@ -733,90 +710,112 @@
    },
    "evidence": [
     {
-     "id": "I-2ee287b7d8b0",
+     "id": "I-f194982b0d80",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-8590a1b880f2",
+     "id": "I-ec5a809f5eb6",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-7b4e22b910ce",
+     "id": "I-d1a2e444acca",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-3c86a6d34f06",
+     "id": "I-cf56af33de67",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-dfc444208e48",
+     "id": "I-857dfd8a3760",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-888dbf388813",
+     "id": "I-6a411730ef2a",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-3f2038dee8e8",
+     "id": "I-29d4fb6c7e20",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-247b5a409256",
+     "id": "I-2f847386be74",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-1f5f3f584281",
+     "id": "I-1122797767b3",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-fea2a6dfcf99",
+     "id": "I-7a4fed04421d",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-c514b1ee77ab",
+     "id": "I-dc366b9b7101",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-65a49d694282",
+     "id": "I-c1324a81d05d",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-4e433934f793",
+     "id": "I-ada40ff0f583",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-45210af9d3c8",
+     "id": "I-9537828c0ba3",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-d333e2993a0c",
+     "id": "I-8f612f5a183d",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-c81d3499021e",
+     "id": "I-7b111a103055",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-9d3d352764f0",
+     "id": "I-786ef66a2215",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-83a4507831f9",
+     "id": "I-57980ca2fee1",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-4d31dbc6c7da",
+     "id": "I-1c7bd94e7d5c",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-1ecd875cf055",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-bbcf8888d047",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-c9a020cc9716",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-6ce78d4617a9",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-53457e20f9e1",
      "signal": "insider_distribution"
     }
    ],
    "stats": {
-    "congress_sells": 1,
-    "insider_sells": 19
+    "congress_sells": 6,
+    "insider_sells": 38
    },
-   "name": "Life Time Group Holdings, Inc.",
-   "sectors": []
+   "name": "QUALCOMM INC/DE",
+   "sectors": [
+    "industrial"
+   ]
   }
  ],
- "universe": 732,
- "generated_at": "2026-10-20T15:47:47Z"
+ "universe": 735,
+ "generated_at": "2026-10-21T16:06:10Z"
 }

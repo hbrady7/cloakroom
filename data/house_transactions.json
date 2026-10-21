@@ -1,6 +1,206 @@
 {
- "generated_at": "2026-10-20T15:45:43Z",
+ "generated_at": "2026-10-21T16:03:51Z",
  "transactions": [
+  {
+   "id": "C-e419a322669e",
+   "source": "congress",
+   "person": "Michael Rulli",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Education and Workforce",
+     "House Committee on Energy and Commerce"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "WSBC",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-10-16",
+   "filed_date": "2026-10-19",
+   "lag_days": 3,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035671.pdf"
+  },
+  {
+   "id": "C-0d5dfd3e2877",
+   "source": "congress",
+   "person": "Michael Rulli",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Education and Workforce",
+     "House Committee on Energy and Commerce"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "GOOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 50001,
+   "amount_high": 100000,
+   "tx_date": "2026-10-16",
+   "filed_date": "2026-10-19",
+   "lag_days": 3,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035671.pdf"
+  },
+  {
+   "id": "C-ee841a6159ab",
+   "source": "congress",
+   "person": "Jonathan Jackson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "WMT",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 50001,
+   "amount_high": 100000,
+   "tx_date": "2026-09-28",
+   "filed_date": "2026-10-19",
+   "lag_days": 21,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035551.pdf"
+  },
+  {
+   "id": "C-baf938c96961",
+   "source": "congress",
+   "person": "Jonathan Jackson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "EL",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 50001,
+   "amount_high": 100000,
+   "tx_date": "2026-09-28",
+   "filed_date": "2026-10-19",
+   "lag_days": 21,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035551.pdf"
+  },
+  {
+   "id": "C-698c50190c25",
+   "source": "congress",
+   "person": "Jonathan Jackson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "DDOG",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 50001,
+   "amount_high": 100000,
+   "tx_date": "2026-09-28",
+   "filed_date": "2026-10-19",
+   "lag_days": 21,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035551.pdf"
+  },
+  {
+   "id": "C-51ff9e8af1c0",
+   "source": "congress",
+   "person": "Jonathan Jackson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "VSAT",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 50001,
+   "amount_high": 100000,
+   "tx_date": "2026-09-28",
+   "filed_date": "2026-10-19",
+   "lag_days": 21,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035551.pdf"
+  },
+  {
+   "id": "C-4606f217d654",
+   "source": "congress",
+   "person": "Jonathan Jackson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "GH",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-09-28",
+   "filed_date": "2026-10-19",
+   "lag_days": 21,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035551.pdf"
+  },
+  {
+   "id": "C-ac8d97664b9c",
+   "source": "congress",
+   "person": "Jonathan Jackson",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "TYG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-04",
+   "filed_date": "2026-10-19",
+   "lag_days": 45,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035551.pdf"
+  },
   {
    "id": "C-07a8bbb515d3",
    "source": "congress",
@@ -49890,30 +50090,6 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034160.pdf"
-  },
-  {
-   "id": "C-e3255d8beee6",
-   "source": "congress",
-   "person": "Ed Case",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Appropriations"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "AAPL",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-02-12",
-   "filed_date": "2026-03-14",
-   "lag_days": 30,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034176.pdf"
   }
  ]
 }
