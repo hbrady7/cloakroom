@@ -1,9 +1,9 @@
 {
- "as_of": "2026-10-21",
+ "as_of": "2026-10-22",
  "candidates": [
   {
    "ticker": "TSM",
-   "score": 17.2,
+   "score": 16.3,
    "signals": {
     "cluster": {
      "fired": false,
@@ -21,15 +21,10 @@
     },
     "convergence": {
      "fired": true,
-     "points": 16.6,
+     "points": 15.8,
      "insider_buyers": [
-      "Chang Tzonz-Sheng",
       "Chen Chih-Ho",
-      "Chen Pei-Hung",
-      "Chin Yung-Pei",
-      "Chuang Juiping",
       "Fang Shu-Hua",
-      "Hou Yung-Chin",
       "Jang Syun-Ming",
       "Ku Yao-Ching",
       "Lee Chun-Hsien",
@@ -138,30 +133,26 @@
      "signal": "convergence"
     },
     {
-     "id": "I-bbd1f32e66c6",
+     "id": "C-fe12703564c7",
      "signal": "convergence"
     },
     {
-     "id": "I-b59338114d33",
+     "id": "C-9cb1b410dce8",
      "signal": "convergence"
     },
     {
-     "id": "I-7f3c9fea2d24",
+     "id": "C-762ae2ba0bb8",
      "signal": "convergence"
     },
     {
-     "id": "I-609a9587df1e",
-     "signal": "convergence"
-    },
-    {
-     "id": "I-3efabefb82f8",
+     "id": "C-203eba300f9f",
      "signal": "convergence"
     }
    ],
    "stats": {
     "congress_buys": 4,
     "distinct_buyers": 3,
-    "insider_open_market_buys": 88,
+    "insider_open_market_buys": 71,
     "options_positions": 0
    },
    "name": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
@@ -172,7 +163,7 @@
   },
   {
    "ticker": "BRK.B",
-   "score": 11.6,
+   "score": 11.1,
    "signals": {
     "cluster": {
      "fired": false,
@@ -191,7 +182,7 @@
     },
     "convergence": {
      "fired": true,
-     "points": 11.3,
+     "points": 10.8,
      "insider_buyers": [
       "BERKSHIRE HATHAWAY INC et al.",
       "O'Sullivan Michael J."
@@ -261,7 +252,7 @@
  "caution": [
   {
    "ticker": "CRWD",
-   "score": 34.3,
+   "score": 32.6,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -270,7 +261,7 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 34.3,
+     "points": 32.6,
      "distinct_sellers": 10,
      "weighted_sellers": 8.0
     },
@@ -379,7 +370,7 @@
    ],
    "stats": {
     "congress_sells": 2,
-    "insider_sells": 815
+    "insider_sells": 797
    },
    "name": "CrowdStrike Holdings, Inc.",
    "sectors": [
@@ -388,7 +379,7 @@
   },
   {
    "ticker": "CVX",
-   "score": 34.3,
+   "score": 32.6,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -397,7 +388,7 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 34.3,
+     "points": 32.6,
      "distinct_sellers": 5,
      "weighted_sellers": 5.0
     },
@@ -483,7 +474,7 @@
   },
   {
    "ticker": "META",
-   "score": 32.6,
+   "score": 31.0,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -492,7 +483,7 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 32.6,
+     "points": 31.0,
      "distinct_sellers": 10,
      "weighted_sellers": 6.0
     },
@@ -610,7 +601,7 @@
   },
   {
    "ticker": "SNOW",
-   "score": 32.6,
+   "score": 31.0,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -619,7 +610,7 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 32.6,
+     "points": 31.0,
      "distinct_sellers": 8,
      "weighted_sellers": 5.5
     },
@@ -736,134 +727,129 @@
    ]
   },
   {
-   "ticker": "ADI",
-   "score": 31.4,
+   "ticker": "VSAT",
+   "score": 30.8,
    "signals": {
     "sell_cluster": {
      "fired": false,
      "points": 0.0,
-     "distinct_sellers": 2
+     "distinct_sellers": 1
     },
     "insider_distribution": {
      "fired": true,
-     "points": 30.5,
-     "distinct_sellers": 6,
-     "weighted_sellers": 4.0
+     "points": 30.8,
+     "distinct_sellers": 7,
+     "weighted_sellers": 4.5
     },
     "committee_sell": {
-     "fired": true,
-     "points": 1.0
+     "fired": false,
+     "points": 0.0
     }
    },
    "evidence": [
     {
-     "id": "I-ad2100cfcb75",
+     "id": "I-d7747f8bc2e4",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-166bd75769a5",
+     "id": "I-82098803b5f7",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-c04f834291b1",
+     "id": "I-ed909a35e2a4",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-db37c81e9f72",
+     "id": "I-92555bf2db69",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-ae6daa707dc2",
+     "id": "I-0c6a07a865c6",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-999b266e77ea",
+     "id": "I-71425c5c3d85",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-96b756cb5eba",
+     "id": "I-74ad61986685",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-2e78bae803f9",
+     "id": "I-35058a2b4dd2",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-0c4c2f2e89d5",
+     "id": "I-dedfdc108bda",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-09126cb3e41f",
+     "id": "I-146001e19a75",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-efd989656ab2",
+     "id": "I-549ce057392d",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-ec0e149462f6",
+     "id": "I-35e2f893f03f",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-e79f44b4e896",
+     "id": "I-e2d1997ae52e",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-bad420e975d3",
+     "id": "I-48adef5aa64c",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-b618fac10858",
+     "id": "I-0cef55f046de",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-89e6ebb1c088",
+     "id": "I-0c390f4df199",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-606b95aa4db1",
+     "id": "I-81b1a6ad88e3",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-0aa483f897ca",
+     "id": "I-81be736d3874",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-e6c0a252d386",
+     "id": "I-588bfcdccba6",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-f78ee7869146",
+     "id": "I-bf158aabbb55",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-7b166fd085b0",
+     "id": "I-af5ffb98f525",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-6b7b3a1bfcef",
+     "id": "I-9b22ebcdef05",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-533787c890f1",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-46734dd951fe",
+     "id": "I-9852f350ba20",
      "signal": "insider_distribution"
     }
    ],
    "stats": {
-    "congress_sells": 6,
-    "insider_sells": 76
+    "congress_sells": 2,
+    "insider_sells": 23
    },
-   "name": "ANALOG DEVICES INC",
+   "name": "VIASAT INC",
    "sectors": [
-    "semis",
-    "tech"
+    "telecom"
    ]
   }
  ],
  "universe": 735,
- "generated_at": "2026-10-22T16:01:12Z"
+ "generated_at": "2026-10-23T15:51:12Z"
 }

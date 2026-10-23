@@ -4,55 +4,55 @@
    "ok": true,
    "detail": "congress-legislators",
    "count": 548,
-   "at": "2026-10-22T15:57:13Z"
+   "at": "2026-10-23T15:49:15Z"
   },
   "senate": {
-   "ok": true,
-   "detail": "mode=efd",
-   "count": 732,
-   "at": "2026-10-22T15:59:15Z"
+   "ok": false,
+   "detail": "HTTPError: 403 Client Error: Forbidden for url: https://efdsearch.senate.gov/search/home/",
+   "count": null,
+   "at": "2026-10-23T15:49:17Z"
   },
   "house": {
    "ok": true,
-   "detail": "parsed=2 no_text=0 errors=0",
-   "count": 2001,
-   "at": "2026-10-22T15:59:16Z"
+   "detail": "parsed=0 no_text=0 errors=0",
+   "count": 1985,
+   "at": "2026-10-23T15:49:17Z"
   },
   "insider": {
    "ok": true,
-   "detail": "tickers=250 new_filings=50",
-   "count": 5658,
-   "at": "2026-10-22T16:00:35Z"
+   "detail": "tickers=250 new_filings=19",
+   "count": 5584,
+   "at": "2026-10-23T15:50:19Z"
   },
   "merge": {
    "ok": true,
-   "detail": "congress=2378 insider=5658",
-   "count": 8036,
-   "at": "2026-10-22T16:00:37Z"
+   "detail": "congress=2378 insider=5584",
+   "count": 7962,
+   "at": "2026-10-23T15:50:21Z"
   },
   "prices": {
    "ok": true,
    "detail": "stooq=0 yf=497 cached=2 missing=4",
    "count": 497,
-   "at": "2026-10-22T16:01:11Z"
+   "at": "2026-10-23T15:51:11Z"
   },
   "score": {
    "ok": true,
-   "detail": "as_of=2026-10-21 universe=735",
+   "detail": "as_of=2026-10-22 universe=735",
    "count": 2,
-   "at": "2026-10-22T16:01:12Z"
+   "at": "2026-10-23T15:51:12Z"
   },
   "leaderboard": {
    "ok": true,
    "detail": "min_trades=5",
    "count": 36,
-   "at": "2026-10-22T16:01:12Z"
+   "at": "2026-10-23T15:51:12Z"
   },
   "brief": {
    "ok": false,
    "detail": "engine_only fallback",
    "count": 0,
-   "at": "2026-10-22T16:01:23Z"
+   "at": "2026-10-23T15:51:23Z"
   }
  }
 }
