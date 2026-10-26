@@ -1,6 +1,102 @@
 {
- "generated_at": "2026-10-23T15:49:17Z",
+ "generated_at": "2026-10-26T17:31:13Z",
  "transactions": [
+  {
+   "id": "C-fa771c622950",
+   "source": "congress",
+   "person": "Cleo Fields",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Financial Services"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "TSM",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-10-09",
+   "filed_date": "2026-10-22",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035669.pdf"
+  },
+  {
+   "id": "C-e12af8e073cb",
+   "source": "congress",
+   "person": "Cleo Fields",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Financial Services"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "NVDA",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-10-01",
+   "filed_date": "2026-10-22",
+   "lag_days": 21,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035669.pdf"
+  },
+  {
+   "id": "C-dcd4b8767885",
+   "source": "congress",
+   "person": "Cleo Fields",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Financial Services"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "NVDA",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-10-01",
+   "filed_date": "2026-10-22",
+   "lag_days": 21,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035669.pdf"
+  },
+  {
+   "id": "C-378729624b3e",
+   "source": "congress",
+   "person": "Cleo Fields",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on Financial Services"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "NVDA",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-10-01",
+   "filed_date": "2026-10-22",
+   "lag_days": 21,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035669.pdf"
+  },
   {
    "id": "C-e419a322669e",
    "source": "congress",
@@ -49395,275 +49491,6 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034207.pdf"
-  },
-  {
-   "id": "C-25b5b8380318",
-   "source": "congress",
-   "person": "August Lee Pfluger",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Homeland Security",
-     "House Committee on Energy and Commerce"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "WBD",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-02-10",
-   "filed_date": "2026-03-19",
-   "lag_days": 37,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034054.pdf"
-  },
-  {
-   "id": "C-1c662324739d",
-   "source": "congress",
-   "person": "Thomas H. Kean",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Foreign Affairs",
-     "House Committee on Energy and Commerce"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "LIN",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-02-18",
-   "filed_date": "2026-03-18",
-   "lag_days": 28,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034190.pdf"
-  },
-  {
-   "id": "C-eb813f5426c3",
-   "source": "congress",
-   "person": "Thomas H. Kean",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Foreign Affairs",
-     "House Committee on Energy and Commerce"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "WAT",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-02-13",
-   "filed_date": "2026-03-18",
-   "lag_days": 33,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034190.pdf"
-  },
-  {
-   "id": "C-849447f9242b",
-   "source": "congress",
-   "person": "Thomas H. Kean",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Foreign Affairs",
-     "House Committee on Energy and Commerce"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "GOOGL",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-02-05",
-   "filed_date": "2026-03-18",
-   "lag_days": 41,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034190.pdf"
-  },
-  {
-   "id": "C-32560d833270",
-   "source": "congress",
-   "person": "Thomas H. Kean",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Foreign Affairs",
-     "House Committee on Energy and Commerce"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "FCNCA",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-02-05",
-   "filed_date": "2026-03-18",
-   "lag_days": 41,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034190.pdf"
-  },
-  {
-   "id": "C-a5e09924ec1d",
-   "source": "congress",
-   "person": "Cleo Fields",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Financial Services"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "MSFT",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-03-12",
-   "filed_date": "2026-03-17",
-   "lag_days": 5,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034179.pdf"
-  },
-  {
-   "id": "C-a43f3edfd83f",
-   "source": "congress",
-   "person": "Cleo Fields",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Financial Services"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "MSFT",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-03-12",
-   "filed_date": "2026-03-17",
-   "lag_days": 5,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034179.pdf"
-  },
-  {
-   "id": "C-e633be153e7b",
-   "source": "congress",
-   "person": "Thomas Suozzi",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Ways and Means"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "AAPL",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-02-18",
-   "filed_date": "2026-03-17",
-   "lag_days": 27,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034188.pdf"
-  },
-  {
-   "id": "C-d4c464d8295f",
-   "source": "congress",
-   "person": "Thomas Suozzi",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Ways and Means"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "PLTR",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-02-18",
-   "filed_date": "2026-03-17",
-   "lag_days": 27,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034188.pdf"
-  },
-  {
-   "id": "C-4ceb32dfd4f2",
-   "source": "congress",
-   "person": "Thomas Suozzi",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Ways and Means"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "URI",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-02-18",
-   "filed_date": "2026-03-17",
-   "lag_days": 27,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034188.pdf"
-  },
-  {
-   "id": "C-1c5ed6bd33ff",
-   "source": "congress",
-   "person": "Thomas Suozzi",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Ways and Means"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "AMD",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-02-18",
-   "filed_date": "2026-03-17",
-   "lag_days": 27,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034188.pdf"
   }
  ]
 }
