@@ -262,8 +262,8 @@
     "insider_distribution": {
      "fired": true,
      "points": 32.6,
-     "distinct_sellers": 10,
-     "weighted_sellers": 8.0
+     "distinct_sellers": 9,
+     "weighted_sellers": 7.0
     },
     "committee_sell": {
      "fired": false,
@@ -370,9 +370,136 @@
    ],
    "stats": {
     "congress_sells": 2,
-    "insider_sells": 828
+    "insider_sells": 804
    },
    "name": "CrowdStrike Holdings, Inc.",
+   "sectors": [
+    "tech"
+   ]
+  },
+  {
+   "ticker": "META",
+   "score": 32.6,
+   "signals": {
+    "sell_cluster": {
+     "fired": false,
+     "points": 0.0,
+     "distinct_sellers": 2
+    },
+    "insider_distribution": {
+     "fired": true,
+     "points": 32.6,
+     "distinct_sellers": 10,
+     "weighted_sellers": 6.0
+    },
+    "committee_sell": {
+     "fired": false,
+     "points": 0.0
+    }
+   },
+   "evidence": [
+    {
+     "id": "I-ff9ac1a5ead1",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-e21886e1111b",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-da8a84c01ace",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-7d38b918763a",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-7863df222d98",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-283d1759bf1f",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-cab3dcaf9195",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-6dd84f0bffae",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-4aec511aa845",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-381b9d4da6df",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-13f15603f3e8",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-e601be58b24b",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-df3afbc8e557",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-d976c6567ed9",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-c9d779cd1647",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-ad068a252b62",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-c8a8e6c6994d",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-b150896d237d",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-9ddc0665465e",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-7983e5cea13c",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-26a2a880b050",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-87061428b134",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-76096b55e98d",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-5d64ec499fc4",
+     "signal": "insider_distribution"
+    }
+   ],
+   "stats": {
+    "congress_sells": 6,
+    "insider_sells": 114
+   },
+   "name": "Meta Platforms, Inc.",
    "sectors": [
     "tech"
    ]
@@ -674,117 +801,8 @@
     "fintech",
     "banks"
    ]
-  },
-  {
-   "ticker": "PG",
-   "score": 28.1,
-   "signals": {
-    "sell_cluster": {
-     "fired": false,
-     "points": 0.0,
-     "distinct_sellers": 2
-    },
-    "insider_distribution": {
-     "fired": true,
-     "points": 28.1,
-     "distinct_sellers": 12,
-     "weighted_sellers": 12.0
-    },
-    "committee_sell": {
-     "fired": false,
-     "points": 0.0
-    }
-   },
-   "evidence": [
-    {
-     "id": "I-fc974a0018e7",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-eda536da3139",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-7af758ab12b9",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-f323aee5d0e0",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-5d0194799518",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-2c8b0a98371c",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-0721c5340244",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-12162de68a12",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-ef53455ec4be",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-ce630003f79b",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-c58c5290128f",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-c5493f4615fc",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-adfeea973a6f",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-92250bf30e66",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-77618981e34c",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-6738e9a06eda",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-50c9935acdd9",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-3dd9bd90cfaa",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-789bf8e41f21",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-234cd2684064",
-     "signal": "insider_distribution"
-    }
-   ],
-   "stats": {
-    "congress_sells": 8,
-    "insider_sells": 20
-   },
-   "name": "PROCTER & GAMBLE Co",
-   "sectors": []
   }
  ],
- "universe": 728,
- "generated_at": "2026-10-28T17:16:58Z"
+ "universe": 729,
+ "generated_at": "2026-10-29T17:32:03Z"
 }

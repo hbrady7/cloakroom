@@ -1,6 +1,853 @@
 {
- "generated_at": "2026-10-28T17:14:57Z",
+ "generated_at": "2026-10-29T17:29:59Z",
  "transactions": [
+  {
+   "id": "C-7e55f6aec323",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ASML",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-10-23",
+   "filed_date": "2026-10-28",
+   "lag_days": 5,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035710.pdf"
+  },
+  {
+   "id": "C-2ba954f1d243",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "STX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-10-23",
+   "filed_date": "2026-10-28",
+   "lag_days": 5,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035710.pdf"
+  },
+  {
+   "id": "C-07ea5c96fe1a",
+   "source": "congress",
+   "person": "Kevin Hern",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "TXN",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-10-14",
+   "filed_date": "2026-10-28",
+   "lag_days": 14,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035710.pdf"
+  },
+  {
+   "id": "C-86de27313f03",
+   "source": "congress",
+   "person": "Pete Sessions",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Oversight and Government Reform"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "DIS",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-10-28",
+   "filed_date": "2026-10-27",
+   "lag_days": 0,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf"
+  },
+  {
+   "id": "C-c6def648d31c",
+   "source": "congress",
+   "person": "Pete Sessions",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Oversight and Government Reform"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MCD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-10-27",
+   "filed_date": "2026-10-27",
+   "lag_days": 0,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf"
+  },
+  {
+   "id": "C-41b923c55a0d",
+   "source": "congress",
+   "person": "Pete Sessions",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Oversight and Government Reform"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "AMZN",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-10-27",
+   "filed_date": "2026-10-27",
+   "lag_days": 0,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf"
+  },
+  {
+   "id": "C-b563489267c0",
+   "source": "congress",
+   "person": "Pete Sessions",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Oversight and Government Reform"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "HD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-10-22",
+   "filed_date": "2026-10-27",
+   "lag_days": 5,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf"
+  },
+  {
+   "id": "C-04f05941c461",
+   "source": "congress",
+   "person": "Pete Sessions",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Oversight and Government Reform"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "LOW",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-10-22",
+   "filed_date": "2026-10-27",
+   "lag_days": 5,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf"
+  },
+  {
+   "id": "C-68b6d9ea7b7a",
+   "source": "congress",
+   "person": "Pete Sessions",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Oversight and Government Reform"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "PEP",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-10-21",
+   "filed_date": "2026-10-27",
+   "lag_days": 6,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf"
+  },
+  {
+   "id": "C-30c4795ac634",
+   "source": "congress",
+   "person": "Pete Sessions",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Oversight and Government Reform"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "SOLS",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-10-21",
+   "filed_date": "2026-10-27",
+   "lag_days": 6,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf"
+  },
+  {
+   "id": "C-6f4d0a8e343b",
+   "source": "congress",
+   "person": "Pete Sessions",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Oversight and Government Reform"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "IBM",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-10-20",
+   "filed_date": "2026-10-27",
+   "lag_days": 7,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf"
+  },
+  {
+   "id": "C-1de50cfbc725",
+   "source": "congress",
+   "person": "Pete Sessions",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Oversight and Government Reform"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "BRK.B",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-10-15",
+   "filed_date": "2026-10-27",
+   "lag_days": 12,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf"
+  },
+  {
+   "id": "C-d86a20b7b124",
+   "source": "congress",
+   "person": "Pete Sessions",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Oversight and Government Reform"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "XOM",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-10-14",
+   "filed_date": "2026-10-27",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf"
+  },
+  {
+   "id": "C-58231cd01dc8",
+   "source": "congress",
+   "person": "Pete Sessions",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Oversight and Government Reform"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CVX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-10-14",
+   "filed_date": "2026-10-27",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf"
+  },
+  {
+   "id": "C-26ce65eb7d99",
+   "source": "congress",
+   "person": "Pete Sessions",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Oversight and Government Reform"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "COST",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 100001,
+   "amount_high": 250000,
+   "tx_date": "2026-10-13",
+   "filed_date": "2026-10-27",
+   "lag_days": 14,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf"
+  },
+  {
+   "id": "C-648d8e304ab5",
+   "source": "congress",
+   "person": "Pete Sessions",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Oversight and Government Reform"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "REZI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-10-08",
+   "filed_date": "2026-10-27",
+   "lag_days": 19,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf"
+  },
+  {
+   "id": "C-f9d70b507929",
+   "source": "congress",
+   "person": "Pete Sessions",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Oversight and Government Reform"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MSFT",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 250001,
+   "amount_high": 500000,
+   "tx_date": "2026-10-02",
+   "filed_date": "2026-10-27",
+   "lag_days": 25,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf"
+  },
+  {
+   "id": "C-f52dc54b979f",
+   "source": "congress",
+   "person": "Pete Sessions",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Oversight and Government Reform"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CMG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-10-02",
+   "filed_date": "2026-10-27",
+   "lag_days": 25,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf"
+  },
+  {
+   "id": "C-ee6f94c3bec8",
+   "source": "congress",
+   "person": "Pete Sessions",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Oversight and Government Reform"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "SBUX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-10-02",
+   "filed_date": "2026-10-27",
+   "lag_days": 25,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf"
+  },
+  {
+   "id": "C-edd11bf13879",
+   "source": "congress",
+   "person": "Pete Sessions",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Oversight and Government Reform"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "V",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-10-02",
+   "filed_date": "2026-10-27",
+   "lag_days": 25,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf"
+  },
+  {
+   "id": "C-df7818a590af",
+   "source": "congress",
+   "person": "Pete Sessions",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Oversight and Government Reform"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ABT",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 50001,
+   "amount_high": 100000,
+   "tx_date": "2026-10-02",
+   "filed_date": "2026-10-27",
+   "lag_days": 25,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf"
+  },
+  {
+   "id": "C-c832295d7dd6",
+   "source": "congress",
+   "person": "Pete Sessions",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Oversight and Government Reform"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "WMT",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 50001,
+   "amount_high": 100000,
+   "tx_date": "2026-10-02",
+   "filed_date": "2026-10-27",
+   "lag_days": 25,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf"
+  },
+  {
+   "id": "C-c2c940dcc814",
+   "source": "congress",
+   "person": "Pete Sessions",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Oversight and Government Reform"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "TJX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-10-02",
+   "filed_date": "2026-10-27",
+   "lag_days": 25,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf"
+  },
+  {
+   "id": "C-b0434c22b126",
+   "source": "congress",
+   "person": "Pete Sessions",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Oversight and Government Reform"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-10-02",
+   "filed_date": "2026-10-27",
+   "lag_days": 25,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf"
+  },
+  {
+   "id": "C-ac2687036170",
+   "source": "congress",
+   "person": "Pete Sessions",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Oversight and Government Reform"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "NVDA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-10-02",
+   "filed_date": "2026-10-27",
+   "lag_days": 25,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf"
+  },
+  {
+   "id": "C-a1b461ea82c8",
+   "source": "congress",
+   "person": "Pete Sessions",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Oversight and Government Reform"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MCD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-10-02",
+   "filed_date": "2026-10-27",
+   "lag_days": 25,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf"
+  },
+  {
+   "id": "C-7b55eb261a87",
+   "source": "congress",
+   "person": "Pete Sessions",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Oversight and Government Reform"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "AMZN",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 100001,
+   "amount_high": 250000,
+   "tx_date": "2026-10-02",
+   "filed_date": "2026-10-27",
+   "lag_days": 25,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf"
+  },
+  {
+   "id": "C-6378a3e5b362",
+   "source": "congress",
+   "person": "Pete Sessions",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Oversight and Government Reform"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "TJX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-10-02",
+   "filed_date": "2026-10-27",
+   "lag_days": 25,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf"
+  },
+  {
+   "id": "C-5f2302220319",
+   "source": "congress",
+   "person": "Pete Sessions",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Oversight and Government Reform"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "AAPL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 250001,
+   "amount_high": 500000,
+   "tx_date": "2026-10-02",
+   "filed_date": "2026-10-27",
+   "lag_days": 25,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf"
+  },
+  {
+   "id": "C-445b01a32bc7",
+   "source": "congress",
+   "person": "Pete Sessions",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Oversight and Government Reform"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "VZ",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-10-02",
+   "filed_date": "2026-10-27",
+   "lag_days": 25,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf"
+  },
+  {
+   "id": "C-42b0abcdd7ed",
+   "source": "congress",
+   "person": "Pete Sessions",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Oversight and Government Reform"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "TSLA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-10-02",
+   "filed_date": "2026-10-27",
+   "lag_days": 25,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf"
+  },
+  {
+   "id": "C-1e1a13543b3f",
+   "source": "congress",
+   "person": "Pete Sessions",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Oversight and Government Reform"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "GOOG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 100001,
+   "amount_high": 250000,
+   "tx_date": "2026-10-02",
+   "filed_date": "2026-10-27",
+   "lag_days": 25,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf"
+  },
+  {
+   "id": "C-19198330dca5",
+   "source": "congress",
+   "person": "Pete Sessions",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Oversight and Government Reform"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "COST",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 250001,
+   "amount_high": 500000,
+   "tx_date": "2026-10-02",
+   "filed_date": "2026-10-27",
+   "lag_days": 25,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf"
+  },
+  {
+   "id": "C-f4ddfad89f2e",
+   "source": "congress",
+   "person": "Pete Sessions",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Oversight and Government Reform"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "HON",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-10-01",
+   "filed_date": "2026-10-27",
+   "lag_days": 26,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf"
+  },
   {
    "id": "C-fa771c622950",
    "source": "congress",
