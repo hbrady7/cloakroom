@@ -1,9 +1,9 @@
 {
- "as_of": "2026-10-28",
+ "as_of": "2026-10-29",
  "candidates": [
   {
    "ticker": "TSM",
-   "score": 12.6,
+   "score": 12.0,
    "signals": {
     "cluster": {
      "fired": false,
@@ -21,9 +21,8 @@
     },
     "convergence": {
      "fired": true,
-     "points": 11.7,
+     "points": 11.2,
      "insider_buyers": [
-      "Chen Chih-Ho",
       "Fang Shu-Hua",
       "Jang Syun-Ming",
       "Ku Yao-Ching",
@@ -51,7 +50,7 @@
     },
     "size": {
      "fired": false,
-     "points": 0.9,
+     "points": 0.8,
      "max_band_mid": 8000
     }
    },
@@ -129,10 +128,6 @@
      "signal": "convergence"
     },
     {
-     "id": "I-393d6b8a87e2",
-     "signal": "convergence"
-    },
-    {
      "id": "C-fa771c622950",
      "signal": "convergence"
     },
@@ -152,7 +147,7 @@
    "stats": {
     "congress_buys": 5,
     "distinct_buyers": 3,
-    "insider_open_market_buys": 71,
+    "insider_open_market_buys": 70,
     "options_positions": 0
    },
    "name": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
@@ -163,7 +158,7 @@
   },
   {
    "ticker": "BRK.B",
-   "score": 8.2,
+   "score": 7.8,
    "signals": {
     "cluster": {
      "fired": false,
@@ -182,7 +177,7 @@
     },
     "convergence": {
      "fired": true,
-     "points": 8.0,
+     "points": 7.6,
      "insider_buyers": [
       "BERKSHIRE HATHAWAY INC et al.",
       "O'Sullivan Michael J."
@@ -252,7 +247,7 @@
  "caution": [
   {
    "ticker": "CRWD",
-   "score": 32.6,
+   "score": 34.3,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -261,7 +256,7 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 32.6,
+     "points": 34.3,
      "distinct_sellers": 9,
      "weighted_sellers": 7.0
     },
@@ -271,6 +266,74 @@
     }
    },
    "evidence": [
+    {
+     "id": "I-c635e9eff0a0",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-a7b0080ebd48",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-a409a5fe6691",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-91afe6cb5b08",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-6c6aa07e7432",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-4fd6247580b0",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-402f829d82a5",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-1e64a3cd531e",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-b453be769616",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-9c0666f6174b",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-89b2ff74ff18",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-6acd34dcb064",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-64505030ecbc",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-3a466865c4cd",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-33fe355d8989",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-32418bdeb21b",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-312715ffd40c",
+     "signal": "insider_distribution"
+    },
     {
      "id": "I-dde6353010b3",
      "signal": "insider_distribution"
@@ -298,79 +361,11 @@
     {
      "id": "I-2d145b012090",
      "signal": "insider_distribution"
-    },
-    {
-     "id": "I-133aa7df1d3d",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-03dcfa132ac8",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-ebbd529f2880",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-ea67fcae25b2",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-c17cdfd41f03",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-be688c8aa1f5",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-9c41fe71f7da",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-8d66d459df55",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-8c4b9b480ee0",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-8a64243f47ed",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-821fb2298710",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-7417d9777f4e",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-72ddf874b280",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-6f8e16c5b53e",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-4dfb30523f09",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-2f292bc7ff16",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-26236c0afb22",
-     "signal": "insider_distribution"
     }
    ],
    "stats": {
     "congress_sells": 2,
-    "insider_sells": 804
+    "insider_sells": 821
    },
    "name": "CrowdStrike Holdings, Inc.",
    "sectors": [
@@ -379,7 +374,7 @@
   },
   {
    "ticker": "META",
-   "score": 32.6,
+   "score": 31.0,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -388,7 +383,7 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 32.6,
+     "points": 31.0,
      "distinct_sellers": 10,
      "weighted_sellers": 6.0
     },
@@ -506,7 +501,7 @@
   },
   {
    "ticker": "NFLX",
-   "score": 30.8,
+   "score": 29.3,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -515,7 +510,7 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 30.8,
+     "points": 29.3,
      "distinct_sellers": 6,
      "weighted_sellers": 4.5
     },
@@ -588,8 +583,8 @@
    ]
   },
   {
-   "ticker": "MRSH",
-   "score": 29.9,
+   "ticker": "NDAQ",
+   "score": 29.0,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -598,85 +593,90 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 28.1,
-     "distinct_sellers": 8,
-     "weighted_sellers": 6.0
+     "points": 29.0,
+     "distinct_sellers": 5,
+     "weighted_sellers": 4.0
     },
     "committee_sell": {
-     "fired": true,
-     "points": 1.8
+     "fired": false,
+     "points": 0.0
     }
    },
    "evidence": [
     {
-     "id": "I-259a45f214ad",
+     "id": "I-e566c2405466",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-05f64966d2ba",
+     "id": "I-7b0fec037cd4",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-e8cc9fd6cba5",
+     "id": "I-5f37e245e497",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-91b17c52a318",
+     "id": "I-336b3648df39",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-2f2a383f4cfe",
+     "id": "I-10d67d85d7e9",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-f180ae994f0e",
+     "id": "I-d8b0aa05a302",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-c7761317eac7",
+     "id": "I-dd6755921eac",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-ccb36d393646",
+     "id": "I-dfa8178f34a4",
      "signal": "insider_distribution"
     },
     {
-     "id": "C-941790ae5931",
-     "signal": "committee_sell"
+     "id": "I-9f16a2f5b230",
+     "signal": "insider_distribution"
     },
     {
-     "id": "C-7280d8650a30",
-     "signal": "committee_sell"
+     "id": "I-c6aeebeb6ae8",
+     "signal": "insider_distribution"
     },
     {
-     "id": "C-b6fbe35a8b2c",
-     "signal": "committee_sell"
+     "id": "I-1d42a65f9d36",
+     "signal": "insider_distribution"
     },
     {
-     "id": "C-431a4e1d2715",
-     "signal": "committee_sell"
+     "id": "I-a941e090e56b",
+     "signal": "insider_distribution"
     },
     {
-     "id": "C-2cecf339882b",
-     "signal": "committee_sell"
+     "id": "I-482028119502",
+     "signal": "insider_distribution"
     },
     {
-     "id": "C-940d3d7f30e2",
-     "signal": "committee_sell"
+     "id": "I-1d5037cb3bf1",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-087207339726",
+     "signal": "insider_distribution"
     }
    ],
    "stats": {
-    "congress_sells": 7,
-    "insider_sells": 8
+    "congress_sells": 2,
+    "insider_sells": 15
    },
-   "name": "MARSH & MCLENNAN COMPANIES, INC.",
+   "name": "NASDAQ, INC.",
    "sectors": [
-    "insurance"
+    "fintech",
+    "banks"
    ]
   },
   {
-   "ticker": "GS",
-   "score": 28.5,
+   "ticker": "TXN",
+   "score": 29.0,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -685,124 +685,56 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 26.6,
-     "distinct_sellers": 3,
-     "weighted_sellers": 3.0
+     "points": 29.0,
+     "distinct_sellers": 4,
+     "weighted_sellers": 4.0
     },
     "committee_sell": {
-     "fired": true,
-     "points": 1.9
+     "fired": false,
+     "points": 0.0
     }
    },
    "evidence": [
     {
-     "id": "I-f10e826e6349",
+     "id": "I-e06592aaa815",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-acd2c75458d4",
+     "id": "I-c664f6984786",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-78bf39e5588e",
+     "id": "I-3446015dc7b8",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-658bd892768a",
+     "id": "I-32a587d11d3f",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-513a4eeed14b",
+     "id": "I-1ccb3f6be470",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-2ef8402c3c67",
+     "id": "I-73f86e54dee6",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-f7a1895058e4",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-f460aeaf05a4",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-f3b58a2f6ccc",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-d1b3e5276e72",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-b1de1504ade3",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-93916854a738",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-87642a91d0c2",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-86ddcdb6cf79",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-75b464bcba1e",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-726c7400637a",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-6b300145b558",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-697be5f7b10a",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-6308b9c10d3c",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-4eaaf7f9765f",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-473bd62b1486",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-2c4b6fa4bf7f",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-2a5f0faf1566",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-1d31365af733",
+     "id": "I-5efbcef7445b",
      "signal": "insider_distribution"
     }
    ],
    "stats": {
     "congress_sells": 3,
-    "insider_sells": 34
+    "insider_sells": 7
    },
-   "name": "GOLDMAN SACHS GROUP INC",
+   "name": "TEXAS INSTRUMENTS INC",
    "sectors": [
-    "fintech",
-    "banks"
+    "semis",
+    "tech"
    ]
   }
  ],
  "universe": 729,
- "generated_at": "2026-10-29T17:32:03Z"
+ "generated_at": "2026-10-30T17:07:17Z"
 }
