@@ -1,6 +1,456 @@
 {
- "generated_at": "2026-10-30T17:05:19Z",
+ "generated_at": "2026-11-02T20:51:50Z",
  "transactions": [
+  {
+   "id": "C-e88355e1d75b",
+   "source": "congress",
+   "person": "John J Mr McGuire",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Oversight and Government Reform"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MU",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-10-01",
+   "filed_date": "2026-11-01",
+   "lag_days": 31,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035484.pdf"
+  },
+  {
+   "id": "C-5b8ea7a51b9b",
+   "source": "congress",
+   "person": "John J Mr McGuire",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Oversight and Government Reform"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MU",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-25",
+   "filed_date": "2026-11-01",
+   "lag_days": 37,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035484.pdf"
+  },
+  {
+   "id": "C-d36703a8377e",
+   "source": "congress",
+   "person": "John J Mr McGuire",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Oversight and Government Reform"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "AVGO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-24",
+   "filed_date": "2026-11-01",
+   "lag_days": 38,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035484.pdf"
+  },
+  {
+   "id": "C-5b6d2b505d22",
+   "source": "congress",
+   "person": "John J Mr McGuire",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Oversight and Government Reform"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MU",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-24",
+   "filed_date": "2026-11-01",
+   "lag_days": 38,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035484.pdf"
+  },
+  {
+   "id": "C-bdb4fbf50178",
+   "source": "congress",
+   "person": "Thomas H. Kean",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on Energy and Commerce"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "JNJ",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-30",
+   "filed_date": "2026-10-30",
+   "lag_days": 30,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035591.pdf"
+  },
+  {
+   "id": "C-9c9b01cde61b",
+   "source": "congress",
+   "person": "Thomas H. Kean",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on Energy and Commerce"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "SYK",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-30",
+   "filed_date": "2026-10-30",
+   "lag_days": 30,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035591.pdf"
+  },
+  {
+   "id": "C-70ad0379111a",
+   "source": "congress",
+   "person": "Thomas H. Kean",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on Energy and Commerce"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ESAB",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-29",
+   "filed_date": "2026-10-30",
+   "lag_days": 31,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035591.pdf"
+  },
+  {
+   "id": "C-f0ed96fe4afd",
+   "source": "congress",
+   "person": "Thomas H. Kean",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on Energy and Commerce"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MDLZ",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-23",
+   "filed_date": "2026-10-30",
+   "lag_days": 37,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035591.pdf"
+  },
+  {
+   "id": "C-a4cdf0e7bc60",
+   "source": "congress",
+   "person": "Thomas H. Kean",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on Energy and Commerce"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ABT",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-17",
+   "filed_date": "2026-10-30",
+   "lag_days": 43,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035591.pdf"
+  },
+  {
+   "id": "C-969006a3a142",
+   "source": "congress",
+   "person": "Thomas H. Kean",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on Energy and Commerce"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "TXN",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-17",
+   "filed_date": "2026-10-30",
+   "lag_days": 43,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035591.pdf"
+  },
+  {
+   "id": "C-f81865b4dbc5",
+   "source": "congress",
+   "person": "David J. Taylor",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Transportation and Infrastructure"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MPC",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-10-15",
+   "filed_date": "2026-10-29",
+   "lag_days": 14,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035727.pdf"
+  },
+  {
+   "id": "C-dc29a2c62d8c",
+   "source": "congress",
+   "person": "David J. Taylor",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Transportation and Infrastructure"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "PLD",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-10-15",
+   "filed_date": "2026-10-29",
+   "lag_days": 14,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035727.pdf"
+  },
+  {
+   "id": "C-c764b9a46b9c",
+   "source": "congress",
+   "person": "David J. Taylor",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Transportation and Infrastructure"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "PLD",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-10-15",
+   "filed_date": "2026-10-29",
+   "lag_days": 14,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035727.pdf"
+  },
+  {
+   "id": "C-c2bd9c10c672",
+   "source": "congress",
+   "person": "David J. Taylor",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Transportation and Infrastructure"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "T",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-10-15",
+   "filed_date": "2026-10-29",
+   "lag_days": 14,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035727.pdf"
+  },
+  {
+   "id": "C-b2146958a32d",
+   "source": "congress",
+   "person": "David J. Taylor",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Transportation and Infrastructure"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "V",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-10-15",
+   "filed_date": "2026-10-29",
+   "lag_days": 14,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035727.pdf"
+  },
+  {
+   "id": "C-61781be38b99",
+   "source": "congress",
+   "person": "David J. Taylor",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Transportation and Infrastructure"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MPC",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-10-15",
+   "filed_date": "2026-10-29",
+   "lag_days": 14,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035727.pdf"
+  },
+  {
+   "id": "C-602164fcd25e",
+   "source": "congress",
+   "person": "David J. Taylor",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Transportation and Infrastructure"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "LRCX",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-10-15",
+   "filed_date": "2026-10-29",
+   "lag_days": 14,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035727.pdf"
+  },
+  {
+   "id": "C-22f3bd8a09f3",
+   "source": "congress",
+   "person": "David J. Taylor",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Transportation and Infrastructure"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "RPM",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-10-15",
+   "filed_date": "2026-10-29",
+   "lag_days": 14,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035727.pdf"
+  },
   {
    "id": "C-7e55f6aec323",
    "source": "congress",
@@ -49787,256 +50237,6 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034129.pdf"
-  },
-  {
-   "id": "C-a47f255bb450",
-   "source": "congress",
-   "person": "Warren Davidson",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on Foreign Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "GEHC",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-03-23",
-   "filed_date": "2026-03-25",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034223.pdf"
-  },
-  {
-   "id": "C-6581ae3627a0",
-   "source": "congress",
-   "person": "Tim Moore",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on the Budget"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "CBRL",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-03-23",
-   "filed_date": "2026-03-24",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034217.pdf"
-  },
-  {
-   "id": "C-b37b8476d270",
-   "source": "congress",
-   "person": "Tim Moore",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on the Budget"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "LGIH",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-03-20",
-   "filed_date": "2026-03-24",
-   "lag_days": 4,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034217.pdf"
-  },
-  {
-   "id": "C-4a7fff2ed1e6",
-   "source": "congress",
-   "person": "Tim Moore",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on the Budget"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "LGIH",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 50001,
-   "amount_high": 100000,
-   "tx_date": "2026-03-19",
-   "filed_date": "2026-03-24",
-   "lag_days": 5,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034217.pdf"
-  },
-  {
-   "id": "C-206b45f3e119",
-   "source": "congress",
-   "person": "Tim Moore",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on the Budget"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "LGIH",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-03-18",
-   "filed_date": "2026-03-24",
-   "lag_days": 6,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034217.pdf"
-  },
-  {
-   "id": "C-d4c6fb456af8",
-   "source": "congress",
-   "person": "Tim Moore",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on the Budget"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "DNUT",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-03-17",
-   "filed_date": "2026-03-24",
-   "lag_days": 7,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034217.pdf"
-  },
-  {
-   "id": "C-22ac1d261f53",
-   "source": "congress",
-   "person": "Tim Moore",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on the Budget"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "SMPL",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-03-13",
-   "filed_date": "2026-03-24",
-   "lag_days": 11,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034217.pdf"
-  },
-  {
-   "id": "C-a3c1f1e5c261",
-   "source": "congress",
-   "person": "Tim Moore",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on the Budget"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "HOG",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-03-12",
-   "filed_date": "2026-03-24",
-   "lag_days": 12,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034217.pdf"
-  },
-  {
-   "id": "C-6beef6277515",
-   "source": "congress",
-   "person": "Tim Moore",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on the Budget"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "LGIH",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-03-12",
-   "filed_date": "2026-03-24",
-   "lag_days": 12,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034217.pdf"
-  },
-  {
-   "id": "C-3991a2d82b35",
-   "source": "congress",
-   "person": "Tim Moore",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on the Budget"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "SMPL",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-03-12",
-   "filed_date": "2026-03-24",
-   "lag_days": 12,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034217.pdf"
   }
  ]
 }

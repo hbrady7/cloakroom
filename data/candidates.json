@@ -1,9 +1,9 @@
 {
- "as_of": "2026-10-29",
+ "as_of": "2026-11-01",
  "candidates": [
   {
    "ticker": "TSM",
-   "score": 12.0,
+   "score": 10.3,
    "signals": {
     "cluster": {
      "fired": false,
@@ -21,7 +21,7 @@
     },
     "convergence": {
      "fired": true,
-     "points": 11.2,
+     "points": 9.6,
      "insider_buyers": [
       "Fang Shu-Hua",
       "Jang Syun-Ming",
@@ -50,7 +50,7 @@
     },
     "size": {
      "fired": false,
-     "points": 0.8,
+     "points": 0.7,
      "max_band_mid": 8000
     }
    },
@@ -158,7 +158,7 @@
   },
   {
    "ticker": "BRK.B",
-   "score": 7.8,
+   "score": 6.7,
    "signals": {
     "cluster": {
      "fired": false,
@@ -177,7 +177,7 @@
     },
     "convergence": {
      "fired": true,
-     "points": 7.6,
+     "points": 6.6,
      "insider_buyers": [
       "BERKSHIRE HATHAWAY INC et al.",
       "O'Sullivan Michael J."
@@ -242,12 +242,128 @@
    "sectors": [
     "insurance"
    ]
+  },
+  {
+   "ticker": "LRCX",
+   "score": 6.1,
+   "signals": {
+    "cluster": {
+     "fired": false,
+     "points": 0.0,
+     "distinct_buyers": 1
+    },
+    "committee": {
+     "fired": true,
+     "points": 5.2,
+     "aligned_buyers": [
+      "David J. Taylor"
+     ],
+     "sectors": [
+      "industrial"
+     ]
+    },
+    "convergence": {
+     "fired": false,
+     "points": 0.0,
+     "insider_buyers": []
+    },
+    "options": {
+     "fired": false,
+     "points": 0.0,
+     "count": 0
+    },
+    "size": {
+     "fired": false,
+     "points": 1.0,
+     "max_band_mid": 8000
+    }
+   },
+   "evidence": [
+    {
+     "id": "C-602164fcd25e",
+     "signal": "committee"
+    }
+   ],
+   "stats": {
+    "congress_buys": 2,
+    "distinct_buyers": 2,
+    "insider_open_market_buys": 0,
+    "options_positions": 0
+   },
+   "name": "LAM RESEARCH CORP",
+   "sectors": [
+    "industrial"
+   ]
   }
  ],
  "caution": [
   {
+   "ticker": "TXN",
+   "score": 31.0,
+   "signals": {
+    "sell_cluster": {
+     "fired": false,
+     "points": 0.0,
+     "distinct_sellers": 1
+    },
+    "insider_distribution": {
+     "fired": true,
+     "points": 31.0,
+     "distinct_sellers": 5,
+     "weighted_sellers": 5.0
+    },
+    "committee_sell": {
+     "fired": false,
+     "points": 0.0
+    }
+   },
+   "evidence": [
+    {
+     "id": "I-07bfd1a63d38",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-e06592aaa815",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-c664f6984786",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-3446015dc7b8",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-32a587d11d3f",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-1ccb3f6be470",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-73f86e54dee6",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-5efbcef7445b",
+     "signal": "insider_distribution"
+    }
+   ],
+   "stats": {
+    "congress_sells": 3,
+    "insider_sells": 8
+   },
+   "name": "TEXAS INSTRUMENTS INC",
+   "sectors": [
+    "semis",
+    "tech"
+   ]
+  },
+  {
    "ticker": "CRWD",
-   "score": 34.3,
+   "score": 29.5,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -256,7 +372,7 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 34.3,
+     "points": 29.5,
      "distinct_sellers": 9,
      "weighted_sellers": 7.0
     },
@@ -365,7 +481,7 @@
    ],
    "stats": {
     "congress_sells": 2,
-    "insider_sells": 821
+    "insider_sells": 803
    },
    "name": "CrowdStrike Holdings, Inc.",
    "sectors": [
@@ -373,8 +489,135 @@
    ]
   },
   {
+   "ticker": "DDOG",
+   "score": 29.5,
+   "signals": {
+    "sell_cluster": {
+     "fired": false,
+     "points": 0.0,
+     "distinct_sellers": 1
+    },
+    "insider_distribution": {
+     "fired": true,
+     "points": 29.5,
+     "distinct_sellers": 9,
+     "weighted_sellers": 6.5
+    },
+    "committee_sell": {
+     "fired": false,
+     "points": 0.0
+    }
+   },
+   "evidence": [
+    {
+     "id": "I-f3c3bc260218",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-f27427a69780",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-6e303afd9c30",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-58c4f04ff23f",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-4c3616e3a101",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-4a16f81371f7",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-3a373558ff6a",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-31ddc82e20f2",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-27cd5ce5ddcb",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-e079666d3363",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-dd7bc1729463",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-ccb97b3380e6",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-bc56474b1299",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-7ef42c55fe88",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-6b21cac9ca52",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-6a45a46e54dc",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-15f6ed9a2e64",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-03af1f3e4521",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-ff2c1330ad21",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-b927c0f0502f",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-a9b9beba79cc",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-a753375e9056",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-97b32e4a8292",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-74802b8f4c8e",
+     "signal": "insider_distribution"
+    }
+   ],
+   "stats": {
+    "congress_sells": 2,
+    "insider_sells": 121
+   },
+   "name": "Datadog, Inc.",
+   "sectors": [
+    "tech"
+   ]
+  },
+  {
    "ticker": "META",
-   "score": 31.0,
+   "score": 26.7,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -383,7 +626,7 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 31.0,
+     "points": 26.7,
      "distinct_sellers": 10,
      "weighted_sellers": 6.0
     },
@@ -500,8 +743,8 @@
    ]
   },
   {
-   "ticker": "NFLX",
-   "score": 29.3,
+   "ticker": "WDC",
+   "score": 25.9,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -510,92 +753,9 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 29.3,
-     "distinct_sellers": 6,
-     "weighted_sellers": 4.5
-    },
-    "committee_sell": {
-     "fired": false,
-     "points": 0.0
-    }
-   },
-   "evidence": [
-    {
-     "id": "I-fef6d51bd4e6",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-f25d2ad82fbe",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-0f49333904fb",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-8c3ebc2aa78e",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-a8f04a378af5",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-8d77a4911883",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-4bd6c602d878",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-b2939e4c136c",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-6cd542ba2181",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-f172adb3355c",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-56cbf6e5497f",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-7041e37c73bb",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-4d482531c3db",
-     "signal": "insider_distribution"
-    }
-   ],
-   "stats": {
-    "congress_sells": 2,
-    "insider_sells": 13
-   },
-   "name": "NETFLIX INC",
-   "sectors": [
-    "media"
-   ]
-  },
-  {
-   "ticker": "NDAQ",
-   "score": 29.0,
-   "signals": {
-    "sell_cluster": {
-     "fired": false,
-     "points": 0.0,
-     "distinct_sellers": 1
-    },
-    "insider_distribution": {
-     "fired": true,
-     "points": 29.0,
+     "points": 25.9,
      "distinct_sellers": 5,
-     "weighted_sellers": 4.0
+     "weighted_sellers": 3.5
     },
     "committee_sell": {
      "fired": false,
@@ -604,137 +764,112 @@
    },
    "evidence": [
     {
-     "id": "I-e566c2405466",
+     "id": "I-e969940cb7f9",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-7b0fec037cd4",
+     "id": "I-e05a72265ce4",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-5f37e245e497",
+     "id": "I-cc768c777a70",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-336b3648df39",
+     "id": "I-ba42d9bb8624",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-10d67d85d7e9",
+     "id": "I-a14baac4b721",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-d8b0aa05a302",
+     "id": "I-79d34bd7352b",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-dd6755921eac",
+     "id": "I-71eb37ba947e",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-dfa8178f34a4",
+     "id": "I-6c4ee2b31926",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-9f16a2f5b230",
+     "id": "I-55b91eb5ea14",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-c6aeebeb6ae8",
+     "id": "I-36fd0d435892",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-1d42a65f9d36",
+     "id": "I-363ba25718dc",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-a941e090e56b",
+     "id": "I-32f383096885",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-482028119502",
+     "id": "I-f4b1b2aeeca4",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-1d5037cb3bf1",
+     "id": "I-d21886faab2d",
      "signal": "insider_distribution"
     },
     {
-     "id": "I-087207339726",
+     "id": "I-bfca2d5ab1c3",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-c44934446fac",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-f43ee5aa570b",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-131da6b9f1bb",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-06a56b5179b6",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-3ff2c1b97819",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-14463ff793b1",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-9c70125a6c03",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-cbb249fdcf3f",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-aa225333005b",
      "signal": "insider_distribution"
     }
    ],
    "stats": {
-    "congress_sells": 2,
-    "insider_sells": 15
+    "congress_sells": 1,
+    "insider_sells": 62
    },
-   "name": "NASDAQ, INC.",
+   "name": "WESTERN DIGITAL CORP",
    "sectors": [
-    "fintech",
-    "banks"
-   ]
-  },
-  {
-   "ticker": "TXN",
-   "score": 29.0,
-   "signals": {
-    "sell_cluster": {
-     "fired": false,
-     "points": 0.0,
-     "distinct_sellers": 1
-    },
-    "insider_distribution": {
-     "fired": true,
-     "points": 29.0,
-     "distinct_sellers": 4,
-     "weighted_sellers": 4.0
-    },
-    "committee_sell": {
-     "fired": false,
-     "points": 0.0
-    }
-   },
-   "evidence": [
-    {
-     "id": "I-e06592aaa815",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-c664f6984786",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-3446015dc7b8",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-32a587d11d3f",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-1ccb3f6be470",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-73f86e54dee6",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-5efbcef7445b",
-     "signal": "insider_distribution"
-    }
-   ],
-   "stats": {
-    "congress_sells": 3,
-    "insider_sells": 7
-   },
-   "name": "TEXAS INSTRUMENTS INC",
-   "sectors": [
-    "semis",
     "tech"
    ]
   }
  ],
  "universe": 729,
- "generated_at": "2026-10-30T17:07:17Z"
+ "generated_at": "2026-11-02T20:54:00Z"
 }
