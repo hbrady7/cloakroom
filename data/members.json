@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T18:33:56Z",
+ "generated_at": "2026-11-04T18:45:16Z",
  "members": [
   {
    "bioguide": "A000370",
@@ -918,8 +918,18 @@
    "party": "Democrat",
    "state": "GA",
    "district": 13,
-   "committees": [],
-   "sectors": []
+   "committees": [
+    {
+     "id": "HSBA",
+     "name": "House Committee on Financial Services"
+    }
+   ],
+   "sectors": [
+    "banks",
+    "fintech",
+    "insurance",
+    "real_estate"
+   ]
   },
   {
    "bioguide": "B000825",
@@ -13878,8 +13888,32 @@
    "party": "Republican",
    "state": "SC",
    "district": null,
-   "committees": [],
-   "sectors": []
+   "committees": [
+    {
+     "id": "SSAP",
+     "name": "Senate Committee on Appropriations"
+    },
+    {
+     "id": "SSBU",
+     "name": "Senate Committee on the Budget"
+    },
+    {
+     "id": "SSEV",
+     "name": "Senate Committee on Environment and Public Works"
+    },
+    {
+     "id": "SSJU",
+     "name": "Senate Committee on the Judiciary"
+    }
+   ],
+   "sectors": [
+    "defense",
+    "energy",
+    "utilities",
+    "transport",
+    "tech",
+    "media"
+   ]
   },
   {
    "bioguide": "G000386",
@@ -14223,7 +14257,7 @@
   },
   {
    "bioguide": "H001104",
-   "former": false,
+   "former": true,
    "name": "Jon Husted",
    "first": "Jon",
    "last": "Husted",
@@ -15023,7 +15057,7 @@
   },
   {
    "bioguide": "M001244",
-   "former": false,
+   "former": true,
    "name": "Ashley Moody",
    "first": "Ashley",
    "last": "Moody",
