@@ -1,7 +1,447 @@
 {
- "generated_at": "2026-11-04T18:46:40Z",
+ "generated_at": "2026-11-05T18:54:54Z",
  "window_days": 180,
  "trades": [
+  {
+   "id": "I-9aa51eeaa965",
+   "source": "insider",
+   "person": "Schulten Andre",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Financial Officer",
+   "ticker": "PG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 5547960,
+   "amount_high": 5547960,
+   "tx_date": "2026-11-04",
+   "filed_date": "2026-11-05",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/80424/000008042426000271/"
+  },
+  {
+   "id": "I-61e90618a443",
+   "source": "insider",
+   "person": "Hyman David A",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Legal Officer",
+   "ticker": "NFLX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 369678,
+   "amount_high": 369678,
+   "tx_date": "2026-11-04",
+   "filed_date": "2026-11-04",
+   "lag_days": 0,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528026000312/"
+  },
+  {
+   "id": "I-ff0cd85d02d3",
+   "source": "insider",
+   "person": "Disbrow Lisa S",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "CACI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 142460,
+   "amount_high": 142460,
+   "tx_date": "2026-11-03",
+   "filed_date": "2026-11-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/16058/000171236026000007/"
+  },
+  {
+   "id": "I-f8bd772d12ea",
+   "source": "insider",
+   "person": "Santana Rafael",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President and CEO",
+   "ticker": "WAB",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 19126,
+   "amount_high": 19126,
+   "tx_date": "2026-11-03",
+   "filed_date": "2026-11-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/943452/000176779926000007/"
+  },
+  {
+   "id": "I-e9774be21241",
+   "source": "insider",
+   "person": "Santana Rafael",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President and CEO",
+   "ticker": "WAB",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 46407,
+   "amount_high": 46407,
+   "tx_date": "2026-11-03",
+   "filed_date": "2026-11-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/943452/000176779926000007/"
+  },
+  {
+   "id": "I-e7a962d5fae8",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 370545,
+   "amount_high": 370545,
+   "tx_date": "2026-11-03",
+   "filed_date": "2026-11-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000202/"
+  },
+  {
+   "id": "I-de2d194b2a3d",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 489880,
+   "amount_high": 489880,
+   "tx_date": "2026-11-03",
+   "filed_date": "2026-11-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000202/"
+  },
+  {
+   "id": "I-b8cdcaf7fd19",
+   "source": "insider",
+   "person": "Santana Rafael",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President and CEO",
+   "ticker": "WAB",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 38134,
+   "amount_high": 38134,
+   "tx_date": "2026-11-03",
+   "filed_date": "2026-11-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/943452/000176779926000007/"
+  },
+  {
+   "id": "I-9607ec1e908c",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 242490,
+   "amount_high": 242490,
+   "tx_date": "2026-11-03",
+   "filed_date": "2026-11-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000202/"
+  },
+  {
+   "id": "I-766068a2e2af",
+   "source": "insider",
+   "person": "Armas Joseph Jay",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President, Otis Americas",
+   "ticker": "OTIS",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 44860,
+   "amount_high": 44860,
+   "tx_date": "2026-11-03",
+   "filed_date": "2026-11-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1781335/000178133526000132/"
+  },
+  {
+   "id": "I-75a51348519b",
+   "source": "insider",
+   "person": "Santana Rafael",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President and CEO",
+   "ticker": "WAB",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 97833,
+   "amount_high": 97833,
+   "tx_date": "2026-11-03",
+   "filed_date": "2026-11-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/943452/000176779926000007/"
+  },
+  {
+   "id": "I-7417b3d87f4d",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 317057,
+   "amount_high": 317057,
+   "tx_date": "2026-11-03",
+   "filed_date": "2026-11-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000202/"
+  },
+  {
+   "id": "I-6c484f422b92",
+   "source": "insider",
+   "person": "Malady Kyle",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP and Group CEO-VZ Business",
+   "ticker": "VZ",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 49269,
+   "amount_high": 49269,
+   "tx_date": "2026-11-03",
+   "filed_date": "2026-11-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/732712/000176058126000077/"
+  },
+  {
+   "id": "I-3affbebd8e9b",
+   "source": "insider",
+   "person": "Santana Rafael",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President and CEO",
+   "ticker": "WAB",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 116168,
+   "amount_high": 116168,
+   "tx_date": "2026-11-03",
+   "filed_date": "2026-11-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/943452/000176779926000007/"
+  },
+  {
+   "id": "I-217841b75e27",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 125100,
+   "amount_high": 125100,
+   "tx_date": "2026-11-03",
+   "filed_date": "2026-11-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000203/"
+  },
+  {
+   "id": "I-164981f84864",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 317666,
+   "amount_high": 317666,
+   "tx_date": "2026-11-03",
+   "filed_date": "2026-11-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000203/"
+  },
+  {
+   "id": "I-1435cc65ea1b",
+   "source": "insider",
+   "person": "Armas Joseph Jay",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President, Otis Americas",
+   "ticker": "OTIS",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 20056,
+   "amount_high": 20056,
+   "tx_date": "2026-11-03",
+   "filed_date": "2026-11-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1781335/000178133526000132/"
+  },
+  {
+   "id": "I-0b832685f1db",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 295284,
+   "amount_high": 295284,
+   "tx_date": "2026-11-03",
+   "filed_date": "2026-11-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000202/"
+  },
+  {
+   "id": "I-031ec3dd4b03",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 304033,
+   "amount_high": 304033,
+   "tx_date": "2026-11-03",
+   "filed_date": "2026-11-04",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000203/"
+  },
+  {
+   "id": "I-fab452cb61b2",
+   "source": "insider",
+   "person": "Gandhi Sameer K",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 257768,
+   "amount_high": 257768,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000120132626000029/"
+  },
   {
    "id": "I-f62fb87f5c75",
    "source": "insider",
@@ -23,6 +463,138 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1707925/000162828026069910/"
+  },
+  {
+   "id": "I-f3ec5114ca7d",
+   "source": "insider",
+   "person": "Gandhi Sameer K",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 259337,
+   "amount_high": 259337,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000120132626000029/"
+  },
+  {
+   "id": "I-f01ad896361d",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 3476534,
+   "amount_high": 3476534,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000202/"
+  },
+  {
+   "id": "I-ee8b7363d932",
+   "source": "insider",
+   "person": "Gustavson Jeff B",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President, New Energies",
+   "ticker": "CVX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 5638275,
+   "amount_high": 5638275,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/93410/000009341026000198/"
+  },
+  {
+   "id": "I-ee6a769ff55f",
+   "source": "insider",
+   "person": "Gandhi Sameer K",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 626568,
+   "amount_high": 626568,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000120132626000029/"
+  },
+  {
+   "id": "I-e802f8482b85",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 225207,
+   "amount_high": 225207,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000202/"
+  },
+  {
+   "id": "I-e7378ce3767a",
+   "source": "insider",
+   "person": "Tang Stanley",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "DASH",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 54755,
+   "amount_high": 54755,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1792789/000183261426000037/"
   },
   {
    "id": "I-e6905aef6fd3",
@@ -47,6 +619,556 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/21344/000002134426000169/"
   },
   {
+   "id": "I-e4bd116e383f",
+   "source": "insider",
+   "person": "Gandhi Sameer K",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 78874,
+   "amount_high": 78874,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000120132626000029/"
+  },
+  {
+   "id": "I-e447eb038d67",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 405635,
+   "amount_high": 405635,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000202/"
+  },
+  {
+   "id": "I-dc572254431e",
+   "source": "insider",
+   "person": "Santana Rafael",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President and CEO",
+   "ticker": "WAB",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 86839,
+   "amount_high": 86839,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/943452/000176779926000007/"
+  },
+  {
+   "id": "I-d89adb408e98",
+   "source": "insider",
+   "person": "Palmer Benjamin Edward",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "SVP, Pres Commercial",
+   "ticker": "VSAT",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 154040,
+   "amount_high": 154040,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/797721/000119312526447274/"
+  },
+  {
+   "id": "I-d70721630cad",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 403272,
+   "amount_high": 403272,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000202/"
+  },
+  {
+   "id": "I-ce539f5e85d0",
+   "source": "insider",
+   "person": "Gandhi Sameer K",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 530706,
+   "amount_high": 530706,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000120132626000029/"
+  },
+  {
+   "id": "I-cc4d2b571919",
+   "source": "insider",
+   "person": "Tang Stanley",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "DASH",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 38162,
+   "amount_high": 38162,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1792789/000183261426000037/"
+  },
+  {
+   "id": "I-cb912fd14e78",
+   "source": "insider",
+   "person": "Tang Stanley",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "DASH",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 18335,
+   "amount_high": 18335,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1792789/000183261426000037/"
+  },
+  {
+   "id": "I-cb3cdcdcc476",
+   "source": "insider",
+   "person": "Pope Daniel M",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "TYL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 277141,
+   "amount_high": 277141,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/860731/000213003526000007/"
+  },
+  {
+   "id": "I-c74e682d57af",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 479845,
+   "amount_high": 479845,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000202/"
+  },
+  {
+   "id": "I-c13ecc2a481b",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 264815,
+   "amount_high": 264815,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000202/"
+  },
+  {
+   "id": "I-bf81ad4732d5",
+   "source": "insider",
+   "person": "Gandhi Sameer K",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 337576,
+   "amount_high": 337576,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000120132626000029/"
+  },
+  {
+   "id": "I-be1f480d8a79",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 64653,
+   "amount_high": 64653,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000202/"
+  },
+  {
+   "id": "I-b00a4f42e23b",
+   "source": "insider",
+   "person": "Love Timothy Michael",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CAO",
+   "ticker": "MTZ",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 72658,
+   "amount_high": 72658,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/15615/000001561526000130/"
+  },
+  {
+   "id": "I-afb696b7fb1d",
+   "source": "insider",
+   "person": "Gandhi Sameer K",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 356978,
+   "amount_high": 356978,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000120132626000029/"
+  },
+  {
+   "id": "I-a567cba287ca",
+   "source": "insider",
+   "person": "Herrington Douglas J",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CEO Worldwide Amazon Stores",
+   "ticker": "AMZN",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 243470,
+   "amount_high": 243470,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1018724/000193600626000028/"
+  },
+  {
+   "id": "I-a2ddbca61c1b",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 268250,
+   "amount_high": 268250,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000202/"
+  },
+  {
+   "id": "I-a1d092048595",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 529529,
+   "amount_high": 529529,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000202/"
+  },
+  {
+   "id": "I-9fbb422afb3e",
+   "source": "insider",
+   "person": "Santana Rafael",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President and CEO",
+   "ticker": "WAB",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 10504,
+   "amount_high": 10504,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/943452/000176779926000007/"
+  },
+  {
+   "id": "I-9f9d1200d5d7",
+   "source": "insider",
+   "person": "Kleinerman Christian",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP, Product Management",
+   "ticker": "SNOW",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 3060100,
+   "amount_high": 3060100,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1640147/000197908826000023/"
+  },
+  {
+   "id": "I-9e5b333349ce",
+   "source": "insider",
+   "person": "Gandhi Sameer K",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 258417,
+   "amount_high": 258417,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000120132626000029/"
+  },
+  {
+   "id": "I-9e48e6fbdfde",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 191573,
+   "amount_high": 191573,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000202/"
+  },
+  {
+   "id": "I-9d81526f7d36",
+   "source": "insider",
+   "person": "Podbere Burt W.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CHIEF FINANCIAL OFFICER",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1110482,
+   "amount_high": 1110482,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177861026000026/"
+  },
+  {
+   "id": "I-970b2677f1d8",
+   "source": "insider",
+   "person": "Andreessen Marc L",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "META",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 3381975,
+   "amount_high": 3381975,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000116007726000013/"
+  },
+  {
+   "id": "I-95350a9519ac",
+   "source": "insider",
+   "person": "Gandhi Sameer K",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 140557,
+   "amount_high": 140557,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000120132626000029/"
+  },
+  {
    "id": "I-90e8365dab5c",
    "source": "insider",
    "person": "Perez Beatriz R",
@@ -67,6 +1189,358 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/21344/000002134426000169/"
+  },
+  {
+   "id": "I-9039ae5ff0ee",
+   "source": "insider",
+   "person": "Tang Stanley",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "DASH",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 18015,
+   "amount_high": 18015,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1792789/000183261426000037/"
+  },
+  {
+   "id": "I-8a3044ff9937",
+   "source": "insider",
+   "person": "Gandhi Sameer K",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 177787,
+   "amount_high": 177787,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000120132626000029/"
+  },
+  {
+   "id": "I-879ba8518fe3",
+   "source": "insider",
+   "person": "Tang Stanley",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "DASH",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 93282,
+   "amount_high": 93282,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1792789/000183261426000037/"
+  },
+  {
+   "id": "I-807f8d9588c8",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 120509,
+   "amount_high": 120509,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000202/"
+  },
+  {
+   "id": "I-7e0cf6e05f96",
+   "source": "insider",
+   "person": "Olivan Javier",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Operating Officer",
+   "ticker": "META",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 35007,
+   "amount_high": 35007,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326016962/"
+  },
+  {
+   "id": "I-7d57fcdd7268",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 227046,
+   "amount_high": 227046,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000202/"
+  },
+  {
+   "id": "I-7bef18a36112",
+   "source": "insider",
+   "person": "Andreessen Marc L",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "META",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1215670,
+   "amount_high": 1215670,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000116007726000013/"
+  },
+  {
+   "id": "I-76f0c8e99a76",
+   "source": "insider",
+   "person": "Jordan Joseph Hugh",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Executive Officer",
+   "ticker": "DPZ",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1541355,
+   "amount_high": 1541355,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1286681/000180469526000014/"
+  },
+  {
+   "id": "I-76a99c4d0055",
+   "source": "insider",
+   "person": "Tang Stanley",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "DASH",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1913661,
+   "amount_high": 1913661,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1792789/000183261426000037/"
+  },
+  {
+   "id": "I-74515375fd60",
+   "source": "insider",
+   "person": "Bhutani Amanpal Singh",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Executive Officer",
+   "ticker": "GDDY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 530100,
+   "amount_high": 530100,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1609711/000160971126000123/"
+  },
+  {
+   "id": "I-6f8a7688a466",
+   "source": "insider",
+   "person": "Olivan Javier",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Operating Officer",
+   "ticker": "META",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 250573,
+   "amount_high": 250573,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326016962/"
+  },
+  {
+   "id": "I-6b9fbd7da5fd",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 430034,
+   "amount_high": 430034,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000202/"
+  },
+  {
+   "id": "I-6477cb6645fc",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 105294,
+   "amount_high": 105294,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000202/"
+  },
+  {
+   "id": "I-640fef8e3ac8",
+   "source": "insider",
+   "person": "Andreessen Marc L",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "META",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 39288,
+   "amount_high": 39288,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000116007726000013/"
+  },
+  {
+   "id": "I-5e1385f39453",
+   "source": "insider",
+   "person": "Tang Stanley",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "DASH",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 35670,
+   "amount_high": 35670,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1792789/000183261426000037/"
+  },
+  {
+   "id": "I-5735e2e7da84",
+   "source": "insider",
+   "person": "Podbere Burt W.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CHIEF FINANCIAL OFFICER",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 655089,
+   "amount_high": 655089,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177861026000026/"
   },
   {
    "id": "I-4eded39efa2c",
@@ -91,6 +1565,116 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/21344/000002134426000169/"
   },
   {
+   "id": "I-4ec88563a8fe",
+   "source": "insider",
+   "person": "Fang Andy",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "DASH",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 905850,
+   "amount_high": 905850,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1792789/000183239026000027/"
+  },
+  {
+   "id": "I-4d75b56276c4",
+   "source": "insider",
+   "person": "Bales Brian A",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP, Chief Development Officer",
+   "ticker": "RSG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 829600,
+   "amount_high": 829600,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1060391/000106039126000329/"
+  },
+  {
+   "id": "I-4cc956ba11cf",
+   "source": "insider",
+   "person": "Podbere Burt W.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "CHIEF FINANCIAL OFFICER",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 177883,
+   "amount_high": 177883,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177861026000026/"
+  },
+  {
+   "id": "I-4bdf00077a19",
+   "source": "insider",
+   "person": "Santana Rafael",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President and CEO",
+   "ticker": "WAB",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 49698,
+   "amount_high": 49698,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/943452/000176779926000007/"
+  },
+  {
+   "id": "I-4b882d7ed4d6",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 254330,
+   "amount_high": 254330,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000202/"
+  },
+  {
    "id": "I-4ad3febf6e9e",
    "source": "insider",
    "person": "Zuraitis Marita",
@@ -111,6 +1695,556 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/850141/000121465926013718/"
+  },
+  {
+   "id": "I-48cfa249e597",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 878520,
+   "amount_high": 878520,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000202/"
+  },
+  {
+   "id": "I-454ac680edfc",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 41679,
+   "amount_high": 41679,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000202/"
+  },
+  {
+   "id": "I-44a83783f61f",
+   "source": "insider",
+   "person": "Olivan Javier",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Operating Officer",
+   "ticker": "META",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 50360,
+   "amount_high": 50360,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326016962/"
+  },
+  {
+   "id": "I-43bc7c140d14",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 182642,
+   "amount_high": 182642,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000202/"
+  },
+  {
+   "id": "I-42150db3ad10",
+   "source": "insider",
+   "person": "Tang Stanley",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "DASH",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 185695,
+   "amount_high": 185695,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1792789/000183261426000037/"
+  },
+  {
+   "id": "I-40722f362006",
+   "source": "insider",
+   "person": "Andreessen Marc L",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "META",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 792125,
+   "amount_high": 792125,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000116007726000013/"
+  },
+  {
+   "id": "I-3d519566f520",
+   "source": "insider",
+   "person": "Andreessen Marc L",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "META",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1196724,
+   "amount_high": 1196724,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000116007726000013/"
+  },
+  {
+   "id": "I-3bc8b5013734",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 162628,
+   "amount_high": 162628,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000202/"
+  },
+  {
+   "id": "I-33d29f29e7a2",
+   "source": "insider",
+   "person": "Olivan Javier",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Operating Officer",
+   "ticker": "META",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 580986,
+   "amount_high": 580986,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326016962/"
+  },
+  {
+   "id": "I-31b5397a9842",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 99993,
+   "amount_high": 99993,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000202/"
+  },
+  {
+   "id": "I-2ed4816e3825",
+   "source": "insider",
+   "person": "Andreessen Marc L",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "META",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 530403,
+   "amount_high": 530403,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000116007726000013/"
+  },
+  {
+   "id": "I-2a6ca63b7e1b",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 157299,
+   "amount_high": 157299,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000202/"
+  },
+  {
+   "id": "I-29a3b2c56d62",
+   "source": "insider",
+   "person": "Tang Stanley",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "DASH",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 845852,
+   "amount_high": 845852,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1792789/000183261426000037/"
+  },
+  {
+   "id": "I-2923910f9f89",
+   "source": "insider",
+   "person": "Gandhi Sameer K",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 417855,
+   "amount_high": 417855,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000120132626000029/"
+  },
+  {
+   "id": "I-26131c9ac295",
+   "source": "insider",
+   "person": "Andreessen Marc L",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "META",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 2824940,
+   "amount_high": 2824940,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000116007726000013/"
+  },
+  {
+   "id": "I-1ffc7215a103",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 139222,
+   "amount_high": 139222,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000202/"
+  },
+  {
+   "id": "I-1de386e9bf1c",
+   "source": "insider",
+   "person": "Sine Jared F.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Strategy & Legal Officer",
+   "ticker": "GDDY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 117800,
+   "amount_high": 117800,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1609711/000160971126000124/"
+  },
+  {
+   "id": "I-1811668b7705",
+   "source": "insider",
+   "person": "Tang Stanley",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "DASH",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 90807,
+   "amount_high": 90807,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1792789/000183261426000037/"
+  },
+  {
+   "id": "I-139deb412213",
+   "source": "insider",
+   "person": "Santana Rafael",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President and CEO",
+   "ticker": "WAB",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 150802,
+   "amount_high": 150802,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/943452/000176779926000007/"
+  },
+  {
+   "id": "I-0cbcf8ac0ff7",
+   "source": "insider",
+   "person": "Olivan Javier",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Operating Officer",
+   "ticker": "META",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 50360,
+   "amount_high": 50360,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326016962/"
+  },
+  {
+   "id": "I-0a3b73d654e9",
+   "source": "insider",
+   "person": "Santana Rafael",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President and CEO",
+   "ticker": "WAB",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 13855,
+   "amount_high": 13855,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/943452/000176779926000007/"
+  },
+  {
+   "id": "I-07cc3d19c123",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 221485,
+   "amount_high": 221485,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000202/"
+  },
+  {
+   "id": "I-04c2d3094e29",
+   "source": "insider",
+   "person": "Tang Stanley",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "DASH",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1069674,
+   "amount_high": 1069674,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1792789/000183261426000037/"
+  },
+  {
+   "id": "I-01667d2ea1c8",
+   "source": "insider",
+   "person": "Andreessen Marc L",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "META",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 2793521,
+   "amount_high": 2793521,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000116007726000013/"
+  },
+  {
+   "id": "I-00e1c55977f5",
+   "source": "insider",
+   "person": "Kurtz George",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "PRESIDENT AND CEO",
+   "ticker": "CRWD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 197768,
+   "amount_high": 197768,
+   "tx_date": "2026-11-02",
+   "filed_date": "2026-11-04",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000202/"
   },
   {
    "id": "I-e8398fe38960",
@@ -143966,1216 +146100,6 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000457/"
   },
   {
-   "id": "I-db6b0dc65559",
-   "source": "insider",
-   "person": "Silbermann Benjamin",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Director",
-   "ticker": "PINS",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1057753,
-   "amount_high": 1057753,
-   "tx_date": "2026-07-22",
-   "filed_date": "2026-07-22",
-   "lag_days": 0,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1506293/000177391426000017/"
-  },
-  {
-   "id": "I-d8e1c0b9aa3b",
-   "source": "insider",
-   "person": "Hershey Trust Co Trustee In Trust For Milton Hershey School",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "10% owner",
-   "ticker": "HSY",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 701218,
-   "amount_high": 701218,
-   "tx_date": "2026-07-22",
-   "filed_date": "2026-07-22",
-   "lag_days": 0,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002145/"
-  },
-  {
-   "id": "I-b924a41b4f44",
-   "source": "insider",
-   "person": "Hershey Trust Co Trustee In Trust For Milton Hershey School",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "10% owner",
-   "ticker": "HSY",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 21359,
-   "amount_high": 21359,
-   "tx_date": "2026-07-22",
-   "filed_date": "2026-07-22",
-   "lag_days": 0,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002145/"
-  },
-  {
-   "id": "I-892b127ceeca",
-   "source": "insider",
-   "person": "Karros Kirt P",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "SVP, Treasurer, Corp Dev",
-   "ticker": "HPE",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1113198,
-   "amount_high": 1113198,
-   "tx_date": "2026-07-22",
-   "filed_date": "2026-07-22",
-   "lag_days": 0,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1645590/000158488326000006/"
-  },
-  {
-   "id": "I-58a1e0ccd9ce",
-   "source": "insider",
-   "person": "Hershey Trust Co Trustee In Trust For Milton Hershey School",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "10% owner",
-   "ticker": "HSY",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 997711,
-   "amount_high": 997711,
-   "tx_date": "2026-07-22",
-   "filed_date": "2026-07-22",
-   "lag_days": 0,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002145/"
-  },
-  {
-   "id": "I-46d1b04c71f6",
-   "source": "insider",
-   "person": "Briggs Andrew J",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Director",
-   "ticker": "FMAO",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 92520,
-   "amount_high": 92520,
-   "tx_date": "2026-07-22",
-   "filed_date": "2026-07-22",
-   "lag_days": 0,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/792966/000119312526312607/"
-  },
-  {
-   "id": "I-fd118a27cd65",
-   "source": "insider",
-   "person": "Kurtz George",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "PRESIDENT AND CEO",
-   "ticker": "CRWD",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 54019,
-   "amount_high": 54019,
-   "tx_date": "2026-07-21",
-   "filed_date": "2026-07-22",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000125/"
-  },
-  {
-   "id": "I-fb70faecf902",
-   "source": "insider",
-   "person": "Briggs Andrew J",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Director",
-   "ticker": "FMAO",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 92250,
-   "amount_high": 92250,
-   "tx_date": "2026-07-21",
-   "filed_date": "2026-07-22",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/792966/000119312526312607/"
-  },
-  {
-   "id": "I-f9158f9110f2",
-   "source": "insider",
-   "person": "Hershey Trust Co Trustee In Trust For Milton Hershey School",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "10% owner",
-   "ticker": "HSY",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1429239,
-   "amount_high": 1429239,
-   "tx_date": "2026-07-21",
-   "filed_date": "2026-07-22",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002145/"
-  },
-  {
-   "id": "I-f90b8512423d",
-   "source": "insider",
-   "person": "Bidzos D James",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Exec. Chairman, Pres, & CEO",
-   "ticker": "VRSN",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 53726,
-   "amount_high": 53726,
-   "tx_date": "2026-07-21",
-   "filed_date": "2026-07-22",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1014473/000120481626000026/"
-  },
-  {
-   "id": "I-f5bbfc958ef4",
-   "source": "insider",
-   "person": "Kurtz George",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "PRESIDENT AND CEO",
-   "ticker": "CRWD",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 621989,
-   "amount_high": 621989,
-   "tx_date": "2026-07-21",
-   "filed_date": "2026-07-22",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000125/"
-  },
-  {
-   "id": "I-f4da2a680c84",
-   "source": "insider",
-   "person": "Bidzos D James",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Exec. Chairman, Pres, & CEO",
-   "ticker": "VRSN",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 187311,
-   "amount_high": 187311,
-   "tx_date": "2026-07-21",
-   "filed_date": "2026-07-22",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1014473/000120481626000026/"
-  },
-  {
-   "id": "I-f1f4aa0e5141",
-   "source": "insider",
-   "person": "Silbermann Benjamin",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Director",
-   "ticker": "PINS",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1056427,
-   "amount_high": 1056427,
-   "tx_date": "2026-07-21",
-   "filed_date": "2026-07-22",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1506293/000177391426000017/"
-  },
-  {
-   "id": "I-e615c2b31b5b",
-   "source": "insider",
-   "person": "Robinhood Markets, Inc.",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "10% owner",
-   "ticker": "HOOD",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 198713,
-   "amount_high": 198713,
-   "tx_date": "2026-07-21",
-   "filed_date": "2026-07-22",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1783879/000178387926000099/"
-  },
-  {
-   "id": "I-dbde37e8699e",
-   "source": "insider",
-   "person": "Bidzos D James",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Exec. Chairman, Pres, & CEO",
-   "ticker": "VRSN",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 274484,
-   "amount_high": 274484,
-   "tx_date": "2026-07-21",
-   "filed_date": "2026-07-22",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1014473/000120481626000026/"
-  },
-  {
-   "id": "I-ce5bb5b61d61",
-   "source": "insider",
-   "person": "Bidzos D James",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Exec. Chairman, Pres, & CEO",
-   "ticker": "VRSN",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 81710,
-   "amount_high": 81710,
-   "tx_date": "2026-07-21",
-   "filed_date": "2026-07-22",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1014473/000120481626000026/"
-  },
-  {
-   "id": "I-a97690bd241a",
-   "source": "insider",
-   "person": "Lin Shyue-Shyh",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "VP",
-   "ticker": "TSM",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 74130,
-   "amount_high": 74130,
-   "tx_date": "2026-07-21",
-   "filed_date": "2026-07-22",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000455/"
-  },
-  {
-   "id": "I-a6c57ea7f872",
-   "source": "insider",
-   "person": "Kurtz George",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "PRESIDENT AND CEO",
-   "ticker": "CRWD",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 306388,
-   "amount_high": 306388,
-   "tx_date": "2026-07-21",
-   "filed_date": "2026-07-22",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000125/"
-  },
-  {
-   "id": "I-8fe757fbfb36",
-   "source": "insider",
-   "person": "Kurtz George",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "PRESIDENT AND CEO",
-   "ticker": "CRWD",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 534076,
-   "amount_high": 534076,
-   "tx_date": "2026-07-21",
-   "filed_date": "2026-07-22",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000125/"
-  },
-  {
-   "id": "I-868dc2611ef5",
-   "source": "insider",
-   "person": "Kurtz George",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "PRESIDENT AND CEO",
-   "ticker": "CRWD",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 29854,
-   "amount_high": 29854,
-   "tx_date": "2026-07-21",
-   "filed_date": "2026-07-22",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000125/"
-  },
-  {
-   "id": "I-82946908cbe7",
-   "source": "insider",
-   "person": "Kurtz George",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "PRESIDENT AND CEO",
-   "ticker": "CRWD",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 101913,
-   "amount_high": 101913,
-   "tx_date": "2026-07-21",
-   "filed_date": "2026-07-22",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000125/"
-  },
-  {
-   "id": "I-73755bef65d3",
-   "source": "insider",
-   "person": "Kurtz George",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "PRESIDENT AND CEO",
-   "ticker": "CRWD",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 13595,
-   "amount_high": 13595,
-   "tx_date": "2026-07-21",
-   "filed_date": "2026-07-22",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000125/"
-  },
-  {
-   "id": "I-550073ec8c0a",
-   "source": "insider",
-   "person": "Kurtz George",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "PRESIDENT AND CEO",
-   "ticker": "CRWD",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 91223,
-   "amount_high": 91223,
-   "tx_date": "2026-07-21",
-   "filed_date": "2026-07-22",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000125/"
-  },
-  {
-   "id": "I-4ee661147111",
-   "source": "insider",
-   "person": "Kurtz George",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "PRESIDENT AND CEO",
-   "ticker": "CRWD",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 97795,
-   "amount_high": 97795,
-   "tx_date": "2026-07-21",
-   "filed_date": "2026-07-22",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000125/"
-  },
-  {
-   "id": "I-4cc1c0dea041",
-   "source": "insider",
-   "person": "Hershey Trust Co Trustee In Trust For Milton Hershey School",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "10% owner",
-   "ticker": "HSY",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 32342,
-   "amount_high": 32342,
-   "tx_date": "2026-07-21",
-   "filed_date": "2026-07-22",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002145/"
-  },
-  {
-   "id": "I-496531608c52",
-   "source": "insider",
-   "person": "Hershey Trust Co Trustee In Trust For Milton Hershey School",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "10% owner",
-   "ticker": "HSY",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 6882,
-   "amount_high": 6882,
-   "tx_date": "2026-07-21",
-   "filed_date": "2026-07-22",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002145/"
-  },
-  {
-   "id": "I-49271f68f659",
-   "source": "insider",
-   "person": "Kurtz George",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "PRESIDENT AND CEO",
-   "ticker": "CRWD",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 75875,
-   "amount_high": 75875,
-   "tx_date": "2026-07-21",
-   "filed_date": "2026-07-22",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000125/"
-  },
-  {
-   "id": "I-3e453e56fd12",
-   "source": "insider",
-   "person": "Robinhood Markets, Inc.",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "10% owner",
-   "ticker": "HOOD",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 149486,
-   "amount_high": 149486,
-   "tx_date": "2026-07-21",
-   "filed_date": "2026-07-22",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1783879/000178387926000099/"
-  },
-  {
-   "id": "I-28275517256c",
-   "source": "insider",
-   "person": "Bidzos D James",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Exec. Chairman, Pres, & CEO",
-   "ticker": "VRSN",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 27189,
-   "amount_high": 27189,
-   "tx_date": "2026-07-21",
-   "filed_date": "2026-07-22",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1014473/000120481626000026/"
-  },
-  {
-   "id": "I-22b528658684",
-   "source": "insider",
-   "person": "Hershey Trust Co Trustee In Trust For Milton Hershey School",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "10% owner",
-   "ticker": "HSY",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 235102,
-   "amount_high": 235102,
-   "tx_date": "2026-07-21",
-   "filed_date": "2026-07-22",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002145/"
-  },
-  {
-   "id": "I-15810fc26ff1",
-   "source": "insider",
-   "person": "Bidzos D James",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Exec. Chairman, Pres, & CEO",
-   "ticker": "VRSN",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 108359,
-   "amount_high": 108359,
-   "tx_date": "2026-07-21",
-   "filed_date": "2026-07-22",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1014473/000120481626000026/"
-  },
-  {
-   "id": "I-014213bd1d61",
-   "source": "insider",
-   "person": "Bidzos D James",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Exec. Chairman, Pres, & CEO",
-   "ticker": "VRSN",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 159687,
-   "amount_high": 159687,
-   "tx_date": "2026-07-21",
-   "filed_date": "2026-07-22",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1014473/000120481626000026/"
-  },
-  {
-   "id": "I-f529cce048bb",
-   "source": "insider",
-   "person": "Hershey Trust Co Trustee In Trust For Milton Hershey School",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "10% owner",
-   "ticker": "HSY",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 250676,
-   "amount_high": 250676,
-   "tx_date": "2026-07-20",
-   "filed_date": "2026-07-22",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002145/"
-  },
-  {
-   "id": "I-f3b9e4a76cb3",
-   "source": "insider",
-   "person": "Olivan Javier",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Chief Operating Officer",
-   "ticker": "META",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 263507,
-   "amount_high": 263507,
-   "tx_date": "2026-07-20",
-   "filed_date": "2026-07-22",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326011028/"
-  },
-  {
-   "id": "I-d6bc6d47bd4e",
-   "source": "insider",
-   "person": "Olivan Javier",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Chief Operating Officer",
-   "ticker": "META",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 36813,
-   "amount_high": 36813,
-   "tx_date": "2026-07-20",
-   "filed_date": "2026-07-22",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326011028/"
-  },
-  {
-   "id": "I-bf158aabbb55",
-   "source": "insider",
-   "person": "Chase Garrett L.",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "SVP, Chief Financial Officer",
-   "ticker": "VSAT",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 7368,
-   "amount_high": 7368,
-   "tx_date": "2026-07-20",
-   "filed_date": "2026-07-22",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/797721/000119312526312434/"
-  },
-  {
-   "id": "I-b5b121d35dc7",
-   "source": "insider",
-   "person": "Olivan Javier",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Chief Operating Officer",
-   "ticker": "META",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 52960,
-   "amount_high": 52960,
-   "tx_date": "2026-07-20",
-   "filed_date": "2026-07-22",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326011028/"
-  },
-  {
-   "id": "I-b5432dd4b861",
-   "source": "insider",
-   "person": "Philipson Stephen L",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Vice Chair",
-   "ticker": "USB",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 2327920,
-   "amount_high": 2327920,
-   "tx_date": "2026-07-20",
-   "filed_date": "2026-07-22",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/36104/000122520826006705/"
-  },
-  {
-   "id": "I-af5ffb98f525",
-   "source": "insider",
-   "person": "Chase Garrett L.",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "SVP, Chief Financial Officer",
-   "ticker": "VSAT",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 70550,
-   "amount_high": 70550,
-   "tx_date": "2026-07-20",
-   "filed_date": "2026-07-22",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/797721/000119312526312434/"
-  },
-  {
-   "id": "I-9c6d07062270",
-   "source": "insider",
-   "person": "Robinhood Markets, Inc.",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "10% owner",
-   "ticker": "HOOD",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 135911,
-   "amount_high": 135911,
-   "tx_date": "2026-07-20",
-   "filed_date": "2026-07-22",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1783879/000178387926000099/"
-  },
-  {
-   "id": "I-9b22ebcdef05",
-   "source": "insider",
-   "person": "Chase Garrett L.",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "SVP, Chief Financial Officer",
-   "ticker": "VSAT",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 138765,
-   "amount_high": 138765,
-   "tx_date": "2026-07-20",
-   "filed_date": "2026-07-22",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/797721/000119312526312434/"
-  },
-  {
-   "id": "I-9852f350ba20",
-   "source": "insider",
-   "person": "Chase Garrett L.",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "SVP, Chief Financial Officer",
-   "ticker": "VSAT",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 72252,
-   "amount_high": 72252,
-   "tx_date": "2026-07-20",
-   "filed_date": "2026-07-22",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/797721/000119312526312434/"
-  },
-  {
-   "id": "I-7096caf65128",
-   "source": "insider",
-   "person": "Blecharczyk Nathan",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Chief Strategy Officer",
-   "ticker": "ABNB",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1739084,
-   "amount_high": 1739084,
-   "tx_date": "2026-07-20",
-   "filed_date": "2026-07-22",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1559720/000119312526312447/"
-  },
-  {
-   "id": "I-5d5ada22ea15",
-   "source": "insider",
-   "person": "Hershey Trust Co Trustee In Trust For Milton Hershey School",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "10% owner",
-   "ticker": "HSY",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 3039,
-   "amount_high": 3039,
-   "tx_date": "2026-07-20",
-   "filed_date": "2026-07-22",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002145/"
-  },
-  {
-   "id": "I-51f35162e94d",
-   "source": "insider",
-   "person": "Briggs Andrew J",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Director",
-   "ticker": "FMAO",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 91410,
-   "amount_high": 91410,
-   "tx_date": "2026-07-20",
-   "filed_date": "2026-07-22",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/792966/000119312526312607/"
-  },
-  {
-   "id": "I-4f7470e5dbcf",
-   "source": "insider",
-   "person": "Hershey Trust Co Trustee In Trust For Milton Hershey School",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "10% owner",
-   "ticker": "HSY",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 763517,
-   "amount_high": 763517,
-   "tx_date": "2026-07-20",
-   "filed_date": "2026-07-22",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002145/"
-  },
-  {
-   "id": "I-4f57829e1a7e",
-   "source": "insider",
-   "person": "Olivan Javier",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Chief Operating Officer",
-   "ticker": "META",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 52960,
-   "amount_high": 52960,
-   "tx_date": "2026-07-20",
-   "filed_date": "2026-07-22",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326011028/"
-  },
-  {
-   "id": "I-4ddcfd12859f",
-   "source": "insider",
-   "person": "Hershey Trust Co Trustee In Trust For Milton Hershey School",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "10% owner",
-   "ticker": "HSY",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 233186,
-   "amount_high": 233186,
-   "tx_date": "2026-07-20",
-   "filed_date": "2026-07-22",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002145/"
-  },
-  {
-   "id": "I-2d8c246fc683",
-   "source": "insider",
-   "person": "Rogers William H Jr",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Chairman & CEO",
-   "ticker": "TFC",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 693810,
-   "amount_high": 693810,
-   "tx_date": "2026-07-20",
-   "filed_date": "2026-07-22",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/92230/000118200226000006/"
-  },
-  {
-   "id": "I-25cd3b70b1e0",
-   "source": "insider",
-   "person": "Blecharczyk Nathan",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Chief Strategy Officer",
-   "ticker": "ABNB",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 240991,
-   "amount_high": 240991,
-   "tx_date": "2026-07-20",
-   "filed_date": "2026-07-22",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1559720/000119312526312447/"
-  },
-  {
-   "id": "I-25415e5802cc",
-   "source": "insider",
-   "person": "Hershey Trust Co Trustee In Trust For Milton Hershey School",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "10% owner",
-   "ticker": "HSY",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 460790,
-   "amount_high": 460790,
-   "tx_date": "2026-07-20",
-   "filed_date": "2026-07-22",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002145/"
-  },
-  {
-   "id": "I-24dfbe4934df",
-   "source": "insider",
-   "person": "Robinhood Markets, Inc.",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "10% owner",
-   "ticker": "HOOD",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 114394,
-   "amount_high": 114394,
-   "tx_date": "2026-07-20",
-   "filed_date": "2026-07-22",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1783879/000178387926000099/"
-  },
-  {
-   "id": "I-0becd52299d5",
-   "source": "insider",
-   "person": "Lin Shyue-Shyh",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "VP",
-   "ticker": "TSM",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 72650,
-   "amount_high": 72650,
-   "tx_date": "2026-07-20",
-   "filed_date": "2026-07-22",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000455/"
-  },
-  {
-   "id": "I-0a167943398e",
-   "source": "insider",
-   "person": "Olivan Javier",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Chief Operating Officer",
-   "ticker": "META",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 540576,
-   "amount_high": 540576,
-   "tx_date": "2026-07-20",
-   "filed_date": "2026-07-22",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326011028/"
-  },
-  {
-   "id": "I-01d7b31b5ef5",
-   "source": "insider",
-   "person": "Indelicarto Thomas C",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "EVP, Gen Counsel & Secretary",
-   "ticker": "VRSN",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 140000,
-   "amount_high": 140000,
-   "tx_date": "2026-07-20",
-   "filed_date": "2026-07-22",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1014473/000162465126000039/"
-  },
-  {
    "id": "C-352b6034c43b",
    "source": "congress",
    "person": "Alan Armstrong",
@@ -171786,2743 +172710,6 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034524.pdf"
-  },
-  {
-   "id": "C-ff6c06ef99c0",
-   "source": "congress",
-   "person": "Maria Elvira Salazar",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on Foreign Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "CARR",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-05-01",
-   "filed_date": "2026-05-08",
-   "lag_days": 7,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034479.pdf"
-  },
-  {
-   "id": "C-b2bea5862a09",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "DASH",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-05-01",
-   "filed_date": "2026-05-08",
-   "lag_days": 7,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-9c601f90645b",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "FSV",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-05-01",
-   "filed_date": "2026-05-08",
-   "lag_days": 7,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-9bfe219336fa",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "SSNC",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-05-01",
-   "filed_date": "2026-05-08",
-   "lag_days": 7,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-8cec0cdc8e25",
-   "source": "congress",
-   "person": "Maria Elvira Salazar",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on Foreign Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "CARR",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-05-01",
-   "filed_date": "2026-05-08",
-   "lag_days": 7,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034479.pdf"
-  },
-  {
-   "id": "C-81abe4e1f2cd",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "VLTO",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-05-01",
-   "filed_date": "2026-05-08",
-   "lag_days": 7,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-64021a9cfce4",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "W",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-05-01",
-   "filed_date": "2026-05-08",
-   "lag_days": 7,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-5febbb3beda7",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "LPLA",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-05-01",
-   "filed_date": "2026-05-08",
-   "lag_days": 7,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-5bb78bf11b2b",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "STE",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-05-01",
-   "filed_date": "2026-05-08",
-   "lag_days": 7,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-31bc2d4d2078",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "RVTY",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-05-01",
-   "filed_date": "2026-05-08",
-   "lag_days": 7,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-24896e6f66b8",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "FLEX",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-05-01",
-   "filed_date": "2026-05-08",
-   "lag_days": 7,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-0c48e22cdd65",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "ST",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-05-01",
-   "filed_date": "2026-05-08",
-   "lag_days": 7,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-dfa3826bd8a5",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "GIL",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-29",
-   "filed_date": "2026-05-08",
-   "lag_days": 9,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-c6fbb8d6d704",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "SSNC",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-29",
-   "filed_date": "2026-05-08",
-   "lag_days": 9,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-61bb299c45cf",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "BBIO",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-29",
-   "filed_date": "2026-05-08",
-   "lag_days": 9,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-5e65e04c5769",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "STE",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-29",
-   "filed_date": "2026-05-08",
-   "lag_days": 9,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-393d882599de",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "GIL",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-27",
-   "filed_date": "2026-05-08",
-   "lag_days": 11,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-2ab704190626",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "FLEX",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-27",
-   "filed_date": "2026-05-08",
-   "lag_days": 11,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-f4f32a7ae625",
-   "source": "congress",
-   "person": "Maria Elvira Salazar",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on Foreign Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "URI",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-24",
-   "filed_date": "2026-05-08",
-   "lag_days": 14,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034479.pdf"
-  },
-  {
-   "id": "C-d3858153243e",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "FSV",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-24",
-   "filed_date": "2026-05-08",
-   "lag_days": 14,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-5f1b5a26c943",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "GIL",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-24",
-   "filed_date": "2026-05-08",
-   "lag_days": 14,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-08dcec35f24f",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "SNEJF",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-24",
-   "filed_date": "2026-05-08",
-   "lag_days": 14,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-9bbef79708c2",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "HESAF",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-23",
-   "filed_date": "2026-05-08",
-   "lag_days": 15,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-ca25d7aba9a8",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "GIL",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-22",
-   "filed_date": "2026-05-08",
-   "lag_days": 16,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-b594259a8ee0",
-   "source": "congress",
-   "person": "Maria Elvira Salazar",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on Foreign Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "UNH",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-22",
-   "filed_date": "2026-05-08",
-   "lag_days": 16,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034479.pdf"
-  },
-  {
-   "id": "C-75b3ffbeb4e7",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "FLEX",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-22",
-   "filed_date": "2026-05-08",
-   "lag_days": 16,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-3141dd5e7d37",
-   "source": "congress",
-   "person": "Maria Elvira Salazar",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on Foreign Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "UNH",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-22",
-   "filed_date": "2026-05-08",
-   "lag_days": 16,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034479.pdf"
-  },
-  {
-   "id": "C-031b746605fd",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "AMZN",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-22",
-   "filed_date": "2026-05-08",
-   "lag_days": 16,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-efc4b2c4935a",
-   "source": "congress",
-   "person": "Maria Elvira Salazar",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on Foreign Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "SHW",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-20",
-   "filed_date": "2026-05-08",
-   "lag_days": 18,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034479.pdf"
-  },
-  {
-   "id": "C-be1e23e40b21",
-   "source": "congress",
-   "person": "Maria Elvira Salazar",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on Foreign Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "SHW",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-04-20",
-   "filed_date": "2026-05-08",
-   "lag_days": 18,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034479.pdf"
-  },
-  {
-   "id": "C-c5fee0b0f084",
-   "source": "congress",
-   "person": "Maria Elvira Salazar",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on Foreign Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "MSFT",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-04-17",
-   "filed_date": "2026-05-08",
-   "lag_days": 21,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034479.pdf"
-  },
-  {
-   "id": "C-a1e90cd6b9cc",
-   "source": "congress",
-   "person": "Maria Elvira Salazar",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on Foreign Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "AMGN",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-04-17",
-   "filed_date": "2026-05-08",
-   "lag_days": 21,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034479.pdf"
-  },
-  {
-   "id": "C-7603851f4683",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "DASH",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-15",
-   "filed_date": "2026-05-08",
-   "lag_days": 23,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-4859fb34cf31",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "FLEX",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-15",
-   "filed_date": "2026-05-08",
-   "lag_days": 23,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-feee1fbd18bf",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "WDAY",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-14",
-   "filed_date": "2026-05-08",
-   "lag_days": 24,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-fe1902c55e6c",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "GDDY",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-14",
-   "filed_date": "2026-05-08",
-   "lag_days": 24,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-f791b06b5eac",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "FTNT",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-14",
-   "filed_date": "2026-05-08",
-   "lag_days": 24,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-f3c8d8f22f6c",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "TRMB",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-14",
-   "filed_date": "2026-05-08",
-   "lag_days": 24,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-f37b836bfbac",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "IT",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-14",
-   "filed_date": "2026-05-08",
-   "lag_days": 24,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-f1a0d4d196b5",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "LITE",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-14",
-   "filed_date": "2026-05-08",
-   "lag_days": 24,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-f15e91defb1f",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "VRSK",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-14",
-   "filed_date": "2026-05-08",
-   "lag_days": 24,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-eef7af378289",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "DDOG",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-14",
-   "filed_date": "2026-05-08",
-   "lag_days": 24,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-edc546cb44cc",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "EFX",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-14",
-   "filed_date": "2026-05-08",
-   "lag_days": 24,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-e79d8576b8b9",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "COIN",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-14",
-   "filed_date": "2026-05-08",
-   "lag_days": 24,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-e59ed2df6e50",
-   "source": "congress",
-   "person": "Maria Elvira Salazar",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on Foreign Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "VOYG",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-14",
-   "filed_date": "2026-05-08",
-   "lag_days": 24,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034479.pdf"
-  },
-  {
-   "id": "C-e3753d042ee7",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "AMZN",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-14",
-   "filed_date": "2026-05-08",
-   "lag_days": 24,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-e30a07dc542e",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "MOS",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-14",
-   "filed_date": "2026-05-08",
-   "lag_days": 24,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-db675ebb15c7",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "DASH",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-14",
-   "filed_date": "2026-05-08",
-   "lag_days": 24,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-d64107bd5f63",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "CVNA",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-14",
-   "filed_date": "2026-05-08",
-   "lag_days": 24,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-d0226b36eeb4",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "TYL",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-14",
-   "filed_date": "2026-05-08",
-   "lag_days": 24,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-cf434ab52f5b",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "FISV",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-14",
-   "filed_date": "2026-05-08",
-   "lag_days": 24,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-cd297200ab4f",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "CTSH",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-14",
-   "filed_date": "2026-05-08",
-   "lag_days": 24,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-cd053f3cea83",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "ADP",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-14",
-   "filed_date": "2026-05-08",
-   "lag_days": 24,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-c81f94159499",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "CSGP",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-14",
-   "filed_date": "2026-05-08",
-   "lag_days": 24,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-c75b962281d0",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "VZ",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-14",
-   "filed_date": "2026-05-08",
-   "lag_days": 24,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-bc97a3be9ce6",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "ROP",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-14",
-   "filed_date": "2026-05-08",
-   "lag_days": 24,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-bc085db24992",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "EPAM",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-14",
-   "filed_date": "2026-05-08",
-   "lag_days": 24,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-bbf8b5993be6",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "GEN",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-14",
-   "filed_date": "2026-05-08",
-   "lag_days": 24,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-ba86713bceef",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "PAYX",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-14",
-   "filed_date": "2026-05-08",
-   "lag_days": 24,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-ba35c02d495c",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "APP",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-14",
-   "filed_date": "2026-05-08",
-   "lag_days": 24,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-b064a1b3ce09",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "INTU",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-14",
-   "filed_date": "2026-05-08",
-   "lag_days": 24,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-addbceda8706",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "JKHY",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-14",
-   "filed_date": "2026-05-08",
-   "lag_days": 24,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-ad0f725e30d2",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "PLTR",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-04-14",
-   "filed_date": "2026-05-08",
-   "lag_days": 24,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-aab1843a025f",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "FICO",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-14",
-   "filed_date": "2026-05-08",
-   "lag_days": 24,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-a3bcaca9381b",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "IBM",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-04-14",
-   "filed_date": "2026-05-08",
-   "lag_days": 24,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-9f590220afcf",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "ADBE",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-14",
-   "filed_date": "2026-05-08",
-   "lag_days": 24,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-9db2eb104ff8",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "UNH",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-14",
-   "filed_date": "2026-05-08",
-   "lag_days": 24,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-87be00d51971",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "NWS",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-14",
-   "filed_date": "2026-05-08",
-   "lag_days": 24,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-80d3c02f4878",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "BKNG",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-14",
-   "filed_date": "2026-05-08",
-   "lag_days": 24,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-80034d6afaac",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "PANW",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-14",
-   "filed_date": "2026-05-08",
-   "lag_days": 24,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-7c5836029887",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "MSFT",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-04-14",
-   "filed_date": "2026-05-08",
-   "lag_days": 24,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-79a00d52aa84",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "TTD",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-14",
-   "filed_date": "2026-05-08",
-   "lag_days": 24,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-71e11017e143",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "IP",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-14",
-   "filed_date": "2026-05-08",
-   "lag_days": 24,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-5bb2bc6be2c5",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "HOOD",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-14",
-   "filed_date": "2026-05-08",
-   "lag_days": 24,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-523b22d8c362",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "ARE",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-14",
-   "filed_date": "2026-05-08",
-   "lag_days": 24,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-51937b9fdfb9",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "TSLA",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-14",
-   "filed_date": "2026-05-08",
-   "lag_days": 24,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-4ed3e21fc4c4",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "CHTR",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-14",
-   "filed_date": "2026-05-08",
-   "lag_days": 24,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-4d11e662d198",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "NKE",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-14",
-   "filed_date": "2026-05-08",
-   "lag_days": 24,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-455c08cb653d",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "UBER",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-14",
-   "filed_date": "2026-05-08",
-   "lag_days": 24,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-40699a37b924",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "BR",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-14",
-   "filed_date": "2026-05-08",
-   "lag_days": 24,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-3c0869f1d06e",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "CRWD",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-14",
-   "filed_date": "2026-05-08",
-   "lag_days": 24,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-3658f3d790ff",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "OMC",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-14",
-   "filed_date": "2026-05-08",
-   "lag_days": 24,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-30b2c41b6ccf",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "ACN",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-14",
-   "filed_date": "2026-05-08",
-   "lag_days": 24,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-1e390877452c",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "CAG",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-14",
-   "filed_date": "2026-05-08",
-   "lag_days": 24,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-16eb88d736dd",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "DPZ",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-14",
-   "filed_date": "2026-05-08",
-   "lag_days": 24,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-13ef9c4025e3",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "GPN",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-14",
-   "filed_date": "2026-05-08",
-   "lag_days": 24,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-13ca508b83fc",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "CMCSA",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-04-14",
-   "filed_date": "2026-05-08",
-   "lag_days": 24,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-13499eb55525",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "FIS",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-14",
-   "filed_date": "2026-05-08",
-   "lag_days": 24,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-124ea9c85802",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "APO",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-14",
-   "filed_date": "2026-05-08",
-   "lag_days": 24,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-112d86c8b042",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "NVDA",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-14",
-   "filed_date": "2026-05-08",
-   "lag_days": 24,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-0bdbc115cc3a",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "ZTS",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-14",
-   "filed_date": "2026-05-08",
-   "lag_days": 24,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-0af0b8e1bc84",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "NOW",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-14",
-   "filed_date": "2026-05-08",
-   "lag_days": 24,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-098f81951a29",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "LLY",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-14",
-   "filed_date": "2026-05-08",
-   "lag_days": 24,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-084a0d13d177",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "PAYC",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-14",
-   "filed_date": "2026-05-08",
-   "lag_days": 24,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-04d777f4c603",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "AMD",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-04-14",
-   "filed_date": "2026-05-08",
-   "lag_days": 24,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-033f1239b6fe",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "KHC",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-14",
-   "filed_date": "2026-05-08",
-   "lag_days": 24,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-fd8f4004ca75",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "VLTO",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-13",
-   "filed_date": "2026-05-08",
-   "lag_days": 25,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-ec4227b3ae43",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "SSNC",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-13",
-   "filed_date": "2026-05-08",
-   "lag_days": 25,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-a6bb90ad1b3c",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "FLEX",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-04-13",
-   "filed_date": "2026-05-08",
-   "lag_days": 25,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-2e1afcb1d786",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "DASH",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-13",
-   "filed_date": "2026-05-08",
-   "lag_days": 25,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-11499a7e020d",
-   "source": "congress",
-   "person": "John Boozman",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": [
-     "Commission on Security and Cooperation in Europe",
-     "Senate Committee on Agriculture, Nutrition, and Forestry",
-     "Senate Committee on Appropriations",
-     "Senate Committee on Environment and Public Works",
-     "Senate Committee on Rules and Administration",
-     "Senate Committee on Veterans' Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "DVN",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-09",
-   "filed_date": "2026-05-08",
-   "lag_days": 29,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/f148dc2e-d440-4759-be4d-f000c1cd6e89/"
-  },
-  {
-   "id": "C-fdc8ef21a474",
-   "source": "congress",
-   "person": "Maria Elvira Salazar",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on Foreign Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "MRVL",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-04-06",
-   "filed_date": "2026-05-08",
-   "lag_days": 32,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034479.pdf"
-  },
-  {
-   "id": "C-ee680b4762c2",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "DASH",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-06",
-   "filed_date": "2026-05-08",
-   "lag_days": 32,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-85b1fb8c4d9e",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "VLTO",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-06",
-   "filed_date": "2026-05-08",
-   "lag_days": 32,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-70747c741f9a",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "LPLA",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-06",
-   "filed_date": "2026-05-08",
-   "lag_days": 32,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-59a2bbbc3899",
-   "source": "congress",
-   "person": "Gilbert Cisneros",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Armed Services",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "SSNC",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-04-06",
-   "filed_date": "2026-05-08",
-   "lag_days": 32,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
-  },
-  {
-   "id": "C-3afd81de912b",
-   "source": "congress",
-   "person": "Maria Elvira Salazar",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on Foreign Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "CRM",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-04-06",
-   "filed_date": "2026-05-08",
-   "lag_days": 32,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034479.pdf"
-  },
-  {
-   "id": "C-f1a172dc371e",
-   "source": "congress",
-   "person": "John Boozman",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": [
-     "Commission on Security and Cooperation in Europe",
-     "Senate Committee on Agriculture, Nutrition, and Forestry",
-     "Senate Committee on Appropriations",
-     "Senate Committee on Environment and Public Works",
-     "Senate Committee on Rules and Administration",
-     "Senate Committee on Veterans' Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "TBLL",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-02",
-   "filed_date": "2026-05-08",
-   "lag_days": 36,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/c99d5ebd-82ce-439c-a678-014946f46c50/"
-  },
-  {
-   "id": "C-32ca5e87c082",
-   "source": "congress",
-   "person": "John Boozman",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": [
-     "Commission on Security and Cooperation in Europe",
-     "Senate Committee on Agriculture, Nutrition, and Forestry",
-     "Senate Committee on Appropriations",
-     "Senate Committee on Environment and Public Works",
-     "Senate Committee on Rules and Administration",
-     "Senate Committee on Veterans' Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "CEG",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-02",
-   "filed_date": "2026-05-08",
-   "lag_days": 36,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/f148dc2e-d440-4759-be4d-f000c1cd6e89/"
   }
  ]
 }
