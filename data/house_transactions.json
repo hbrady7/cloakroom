@@ -1,6 +1,156 @@
 {
- "generated_at": "2026-11-05T18:53:34Z",
+ "generated_at": "2026-11-06T18:13:05Z",
  "transactions": [
+  {
+   "id": "C-cf407ecc936f",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "NVDA",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-10-23",
+   "filed_date": "2026-11-05",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035778.pdf"
+  },
+  {
+   "id": "C-a18ea405638f",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "NVDA",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-10-23",
+   "filed_date": "2026-11-05",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035778.pdf"
+  },
+  {
+   "id": "C-720bd1f3f3bb",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "PG",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-10-23",
+   "filed_date": "2026-11-05",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035778.pdf"
+  },
+  {
+   "id": "C-6bab4917ab19",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "PG",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-10-23",
+   "filed_date": "2026-11-05",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035778.pdf"
+  },
+  {
+   "id": "C-4c1af6a7658e",
+   "source": "congress",
+   "person": "Maria Elvira Salazar",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Foreign Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CSCO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-10-23",
+   "filed_date": "2026-11-05",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035778.pdf"
+  },
+  {
+   "id": "C-d552c8bbf0f9",
+   "source": "congress",
+   "person": "Daniel Meuser",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Financial Services",
+     "House Committee on Small Business"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "NVDA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-25",
+   "filed_date": "2026-11-05",
+   "lag_days": 41,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035662.pdf"
+  },
   {
    "id": "C-2d5653a5695b",
    "source": "congress",
@@ -50183,84 +50333,6 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034201.pdf"
-  },
-  {
-   "id": "C-763d522d7790",
-   "source": "congress",
-   "person": "Jared Moskowitz",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Foreign Affairs",
-     "House Committee on the Judiciary",
-     "House Select Subcommittee to Investigate the Remaining Questions Surrounding January 6, 2021"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "ROP",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-02-27",
-   "filed_date": "2026-03-30",
-   "lag_days": 31,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034129.pdf"
-  },
-  {
-   "id": "C-550e05b02adf",
-   "source": "congress",
-   "person": "Jared Moskowitz",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Foreign Affairs",
-     "House Committee on the Judiciary",
-     "House Select Subcommittee to Investigate the Remaining Questions Surrounding January 6, 2021"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "ROP",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-02-27",
-   "filed_date": "2026-03-30",
-   "lag_days": 31,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034129.pdf"
-  },
-  {
-   "id": "C-2c2e8389d26e",
-   "source": "congress",
-   "person": "Jared Moskowitz",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Foreign Affairs",
-     "House Committee on the Judiciary",
-     "House Select Subcommittee to Investigate the Remaining Questions Surrounding January 6, 2021"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "ROP",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-02-27",
-   "filed_date": "2026-03-30",
-   "lag_days": 31,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034129.pdf"
   }
  ]
 }
