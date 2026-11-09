@@ -1,6 +1,78 @@
 {
- "generated_at": "2026-11-06T18:13:05Z",
+ "generated_at": "2026-11-09T21:34:50Z",
  "transactions": [
+  {
+   "id": "C-3ceac1c3327b",
+   "source": "congress",
+   "person": "John J Mr McGuire",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Armed Services",
+     "House Committee on Oversight and Government Reform"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "WDC",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-10-15",
+   "filed_date": "2026-11-06",
+   "lag_days": 22,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035775.pdf"
+  },
+  {
+   "id": "C-b65f44d59cd4",
+   "source": "congress",
+   "person": "Nancy Pelosi",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": []
+   },
+   "insider_title": "",
+   "ticker": "WBD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 50001,
+   "amount_high": 100000,
+   "tx_date": "2026-10-07",
+   "filed_date": "2026-11-06",
+   "lag_days": 30,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035780.pdf"
+  },
+  {
+   "id": "C-2c836a10964e",
+   "source": "congress",
+   "person": "Josh Gottheimer",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Permanent Select Committee on Intelligence",
+     "House Committee on Financial Services"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "AMAT",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-10-26",
+   "filed_date": "2026-11-05",
+   "lag_days": 10,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035770.pdf"
+  },
   {
    "id": "C-cf407ecc936f",
    "source": "congress",
@@ -125,6 +197,56 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035778.pdf"
+  },
+  {
+   "id": "C-2d60225c55a1",
+   "source": "congress",
+   "person": "Josh Gottheimer",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Permanent Select Committee on Intelligence",
+     "House Committee on Financial Services"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "TLK",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-10-15",
+   "filed_date": "2026-11-05",
+   "lag_days": 21,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035770.pdf"
+  },
+  {
+   "id": "C-64c010b69e73",
+   "source": "congress",
+   "person": "Josh Gottheimer",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Permanent Select Committee on Intelligence",
+     "House Committee on Financial Services"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "BHE",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-10-12",
+   "filed_date": "2026-11-05",
+   "lag_days": 24,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035770.pdf"
   },
   {
    "id": "C-d552c8bbf0f9",
@@ -50108,231 +50230,6 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034158.pdf"
-  },
-  {
-   "id": "C-399a6bced201",
-   "source": "congress",
-   "person": "David J. Taylor",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Agriculture",
-     "House Committee on Transportation and Infrastructure"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "IBP",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-03-24",
-   "filed_date": "2026-04-02",
-   "lag_days": 9,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034280.pdf"
-  },
-  {
-   "id": "C-28be306fbf30",
-   "source": "congress",
-   "person": "David J. Taylor",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Agriculture",
-     "House Committee on Transportation and Infrastructure"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "KR",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-03-24",
-   "filed_date": "2026-04-02",
-   "lag_days": 9,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034280.pdf"
-  },
-  {
-   "id": "C-c389b18cc973",
-   "source": "congress",
-   "person": "Mark Alford",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Appropriations",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "PYPL",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-03-16",
-   "filed_date": "2026-03-31",
-   "lag_days": 15,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034201.pdf"
-  },
-  {
-   "id": "C-ac5b61a52371",
-   "source": "congress",
-   "person": "Mark Alford",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Appropriations",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "SPYB",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-03-16",
-   "filed_date": "2026-03-31",
-   "lag_days": 15,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034201.pdf"
-  },
-  {
-   "id": "C-9f9e277f2247",
-   "source": "congress",
-   "person": "Mark Alford",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Appropriations",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "AAPL",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-03-16",
-   "filed_date": "2026-03-31",
-   "lag_days": 15,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034201.pdf"
-  },
-  {
-   "id": "C-8272bcb44ec0",
-   "source": "congress",
-   "person": "Mark Alford",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Appropriations",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "BRK.B",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-03-16",
-   "filed_date": "2026-03-31",
-   "lag_days": 15,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034201.pdf"
-  },
-  {
-   "id": "C-7cd09850cee7",
-   "source": "congress",
-   "person": "Mark Alford",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Appropriations",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "T",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-03-16",
-   "filed_date": "2026-03-31",
-   "lag_days": 15,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034201.pdf"
-  },
-  {
-   "id": "C-769958c4f078",
-   "source": "congress",
-   "person": "Mark Alford",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Appropriations",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "SPYB",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-03-16",
-   "filed_date": "2026-03-31",
-   "lag_days": 15,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034201.pdf"
-  },
-  {
-   "id": "C-35357afbd3d0",
-   "source": "congress",
-   "person": "Mark Alford",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Appropriations",
-     "House Committee on Small Business"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "AMZN",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-03-16",
-   "filed_date": "2026-03-31",
-   "lag_days": 15,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034201.pdf"
   }
  ]
 }

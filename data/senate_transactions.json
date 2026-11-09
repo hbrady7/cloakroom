@@ -1,7 +1,534 @@
 {
- "generated_at": "2026-10-22T15:59:14Z",
+ "generated_at": "2026-11-09T21:34:47Z",
  "mode": "efd",
  "transactions": [
+  {
+   "id": "C-90cc4f28cbb7",
+   "source": "congress",
+   "person": "Shelley M Capito",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Committee on Appropriations",
+     "Senate Committee on Commerce, Science, and Transportation",
+     "Senate Committee on Environment and Public Works",
+     "Senate Committee on Rules and Administration"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "META",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-10-21",
+   "filed_date": "2026-11-04",
+   "lag_days": 14,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/a89c0c6b-4c12-4955-98f9-3a54ca52d8a3/"
+  },
+  {
+   "id": "C-550448bcf01c",
+   "source": "congress",
+   "person": "Shelley M Capito",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Committee on Appropriations",
+     "Senate Committee on Commerce, Science, and Transportation",
+     "Senate Committee on Environment and Public Works",
+     "Senate Committee on Rules and Administration"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "AAPL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-10-21",
+   "filed_date": "2026-11-04",
+   "lag_days": 14,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/a89c0c6b-4c12-4955-98f9-3a54ca52d8a3/"
+  },
+  {
+   "id": "C-47889e01f7f3",
+   "source": "congress",
+   "person": "Shelley M Capito",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Committee on Appropriations",
+     "Senate Committee on Commerce, Science, and Transportation",
+     "Senate Committee on Environment and Public Works",
+     "Senate Committee on Rules and Administration"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ZTS",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-10-21",
+   "filed_date": "2026-11-04",
+   "lag_days": 14,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/a89c0c6b-4c12-4955-98f9-3a54ca52d8a3/"
+  },
+  {
+   "id": "C-18ccaced5b84",
+   "source": "congress",
+   "person": "Shelley M Capito",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Committee on Appropriations",
+     "Senate Committee on Commerce, Science, and Transportation",
+     "Senate Committee on Environment and Public Works",
+     "Senate Committee on Rules and Administration"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MSFT",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-10-21",
+   "filed_date": "2026-11-04",
+   "lag_days": 14,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/a89c0c6b-4c12-4955-98f9-3a54ca52d8a3/"
+  },
+  {
+   "id": "C-41cf1207eaf7",
+   "source": "congress",
+   "person": "Sheldon Whitehouse",
+   "role": {
+    "chamber": "senate",
+    "party": "Democrat",
+    "committees": [
+     "Commission on Security and Cooperation in Europe",
+     "United States Senate Caucus on International Narcotics Control",
+     "Senate Committee on the Budget",
+     "Senate Committee on Environment and Public Works",
+     "Senate Committee on Finance",
+     "Senate Committee on the Judiciary"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "AMGN",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-10-15",
+   "filed_date": "2026-11-02",
+   "lag_days": 18,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/02b5fe88-e8e1-4ef3-b6b5-6a46b420fb3c/"
+  },
+  {
+   "id": "C-1691ef4d6097",
+   "source": "congress",
+   "person": "Sheldon Whitehouse",
+   "role": {
+    "chamber": "senate",
+    "party": "Democrat",
+    "committees": [
+     "Commission on Security and Cooperation in Europe",
+     "United States Senate Caucus on International Narcotics Control",
+     "Senate Committee on the Budget",
+     "Senate Committee on Environment and Public Works",
+     "Senate Committee on Finance",
+     "Senate Committee on the Judiciary"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MSFT",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-10-15",
+   "filed_date": "2026-11-02",
+   "lag_days": 18,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/02b5fe88-e8e1-4ef3-b6b5-6a46b420fb3c/"
+  },
+  {
+   "id": "C-2cc6dd265f49",
+   "source": "congress",
+   "person": "Richard Blumenthal",
+   "role": {
+    "chamber": "senate",
+    "party": "Democrat",
+    "committees": [
+     "United States Senate Caucus on International Narcotics Control",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Homeland Security and Governmental Affairs",
+     "Senate Committee on the Judiciary",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "STLN",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-23",
+   "filed_date": "2026-10-26",
+   "lag_days": 33,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/e67780bf-56e4-46f0-a81e-574a701dd539/"
+  },
+  {
+   "id": "C-213bfe7af2a1",
+   "source": "congress",
+   "person": "Richard Blumenthal",
+   "role": {
+    "chamber": "senate",
+    "party": "Democrat",
+    "committees": [
+     "United States Senate Caucus on International Narcotics Control",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Homeland Security and Governmental Affairs",
+     "Senate Committee on the Judiciary",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "STLN",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-23",
+   "filed_date": "2026-10-26",
+   "lag_days": 33,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/e67780bf-56e4-46f0-a81e-574a701dd539/"
+  },
+  {
+   "id": "C-cce974822ec3",
+   "source": "congress",
+   "person": "Richard Blumenthal",
+   "role": {
+    "chamber": "senate",
+    "party": "Democrat",
+    "committees": [
+     "United States Senate Caucus on International Narcotics Control",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Homeland Security and Governmental Affairs",
+     "Senate Committee on the Judiciary",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "STLN",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-09-22",
+   "filed_date": "2026-10-26",
+   "lag_days": 34,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/e67780bf-56e4-46f0-a81e-574a701dd539/"
+  },
+  {
+   "id": "C-406ba662b735",
+   "source": "congress",
+   "person": "Richard Blumenthal",
+   "role": {
+    "chamber": "senate",
+    "party": "Democrat",
+    "committees": [
+     "United States Senate Caucus on International Narcotics Control",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Homeland Security and Governmental Affairs",
+     "Senate Committee on the Judiciary",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "STLN",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-09-22",
+   "filed_date": "2026-10-26",
+   "lag_days": 34,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/e67780bf-56e4-46f0-a81e-574a701dd539/"
+  },
+  {
+   "id": "C-1ca857facdac",
+   "source": "congress",
+   "person": "Richard Blumenthal",
+   "role": {
+    "chamber": "senate",
+    "party": "Democrat",
+    "committees": [
+     "United States Senate Caucus on International Narcotics Control",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Homeland Security and Governmental Affairs",
+     "Senate Committee on the Judiciary",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "STLN",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-22",
+   "filed_date": "2026-10-26",
+   "lag_days": 34,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/e67780bf-56e4-46f0-a81e-574a701dd539/"
+  },
+  {
+   "id": "C-19dca1906deb",
+   "source": "congress",
+   "person": "Richard Blumenthal",
+   "role": {
+    "chamber": "senate",
+    "party": "Democrat",
+    "committees": [
+     "United States Senate Caucus on International Narcotics Control",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Homeland Security and Governmental Affairs",
+     "Senate Committee on the Judiciary",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "STLN",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-22",
+   "filed_date": "2026-10-26",
+   "lag_days": 34,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/e67780bf-56e4-46f0-a81e-574a701dd539/"
+  },
+  {
+   "id": "C-0900fd582295",
+   "source": "congress",
+   "person": "Richard Blumenthal",
+   "role": {
+    "chamber": "senate",
+    "party": "Democrat",
+    "committees": [
+     "United States Senate Caucus on International Narcotics Control",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Homeland Security and Governmental Affairs",
+     "Senate Committee on the Judiciary",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "STLN",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-09-22",
+   "filed_date": "2026-10-26",
+   "lag_days": 34,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/e67780bf-56e4-46f0-a81e-574a701dd539/"
+  },
+  {
+   "id": "C-deb3e9b29d01",
+   "source": "congress",
+   "person": "Richard Blumenthal",
+   "role": {
+    "chamber": "senate",
+    "party": "Democrat",
+    "committees": [
+     "United States Senate Caucus on International Narcotics Control",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Homeland Security and Governmental Affairs",
+     "Senate Committee on the Judiciary",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "STLN",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-09-18",
+   "filed_date": "2026-10-26",
+   "lag_days": 38,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/e67780bf-56e4-46f0-a81e-574a701dd539/"
+  },
+  {
+   "id": "C-d8a4594cfc4e",
+   "source": "congress",
+   "person": "Richard Blumenthal",
+   "role": {
+    "chamber": "senate",
+    "party": "Democrat",
+    "committees": [
+     "United States Senate Caucus on International Narcotics Control",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Homeland Security and Governmental Affairs",
+     "Senate Committee on the Judiciary",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "STLN",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-18",
+   "filed_date": "2026-10-26",
+   "lag_days": 38,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/e67780bf-56e4-46f0-a81e-574a701dd539/"
+  },
+  {
+   "id": "C-cc69aa1f6c24",
+   "source": "congress",
+   "person": "Richard Blumenthal",
+   "role": {
+    "chamber": "senate",
+    "party": "Democrat",
+    "committees": [
+     "United States Senate Caucus on International Narcotics Control",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Homeland Security and Governmental Affairs",
+     "Senate Committee on the Judiciary",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "STLN",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-09-18",
+   "filed_date": "2026-10-26",
+   "lag_days": 38,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/e67780bf-56e4-46f0-a81e-574a701dd539/"
+  },
+  {
+   "id": "C-956bd6b36441",
+   "source": "congress",
+   "person": "Richard Blumenthal",
+   "role": {
+    "chamber": "senate",
+    "party": "Democrat",
+    "committees": [
+     "United States Senate Caucus on International Narcotics Control",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Homeland Security and Governmental Affairs",
+     "Senate Committee on the Judiciary",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "STLN",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-09-18",
+   "filed_date": "2026-10-26",
+   "lag_days": 38,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/e67780bf-56e4-46f0-a81e-574a701dd539/"
+  },
+  {
+   "id": "C-7dfd2fe7860c",
+   "source": "congress",
+   "person": "Richard Blumenthal",
+   "role": {
+    "chamber": "senate",
+    "party": "Democrat",
+    "committees": [
+     "United States Senate Caucus on International Narcotics Control",
+     "Senate Committee on Armed Services",
+     "Senate Committee on Homeland Security and Governmental Affairs",
+     "Senate Committee on the Judiciary",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "STLN",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-09-18",
+   "filed_date": "2026-10-26",
+   "lag_days": 38,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/e67780bf-56e4-46f0-a81e-574a701dd539/"
+  },
+  {
+   "id": "C-c5734c47fe82",
+   "source": "congress",
+   "person": "Alan Armstrong",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Senate Committee on Indian Affairs",
+     "Senate Committee on Health, Education, Labor, and Pensions"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "WMB",
+   "asset_type": "option",
+   "side": "sell",
+   "amount_low": 250001,
+   "amount_high": 500000,
+   "tx_date": "2026-09-08",
+   "filed_date": "2026-10-22",
+   "lag_days": 44,
+   "option_detail": "Williams Companies, Inc. (The) Common Stock Option Type: Call Strike price: $80.00 Expires: 2026-12-18",
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/6aa5ccb2-ff27-491a-9314-778b9ab37964/"
+  },
   {
    "id": "C-3b84cf9432de",
    "source": "congress",
@@ -18849,680 +19376,6 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://efdsearch.senate.gov/search/view/ptr/86810b3e-3dee-4e8e-9b47-6d3822385b7d/"
-  },
-  {
-   "id": "C-b6c64a8dbd7d",
-   "source": "congress",
-   "person": "Gary C Peters",
-   "role": {
-    "chamber": "senate",
-    "party": "Democrat",
-    "committees": [
-     "Senate Committee on Appropriations",
-     "Senate Committee on Armed Services",
-     "Senate Committee on Commerce, Science, and Transportation",
-     "Senate Committee on Homeland Security and Governmental Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "CTVA",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-04-23",
-   "filed_date": "2026-05-11",
-   "lag_days": 18,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/969f5bc0-89d8-4c76-a55e-944fb03aff0d/"
-  },
-  {
-   "id": "C-e7486307d6a6",
-   "source": "congress",
-   "person": "John Boozman",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": [
-     "Commission on Security and Cooperation in Europe",
-     "Senate Committee on Agriculture, Nutrition, and Forestry",
-     "Senate Committee on Appropriations",
-     "Senate Committee on Environment and Public Works",
-     "Senate Committee on Rules and Administration",
-     "Senate Committee on Veterans' Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "GOOGL",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2025-09-17",
-   "filed_date": "2026-05-11",
-   "lag_days": 236,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/27f15751-bcec-4e3e-a0ab-d7e843c08d06/"
-  },
-  {
-   "id": "C-a16c84ba3c60",
-   "source": "congress",
-   "person": "John Boozman",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": [
-     "Commission on Security and Cooperation in Europe",
-     "Senate Committee on Agriculture, Nutrition, and Forestry",
-     "Senate Committee on Appropriations",
-     "Senate Committee on Environment and Public Works",
-     "Senate Committee on Rules and Administration",
-     "Senate Committee on Veterans' Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "SHY",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2025-09-16",
-   "filed_date": "2026-05-11",
-   "lag_days": 237,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/27f15751-bcec-4e3e-a0ab-d7e843c08d06/"
-  },
-  {
-   "id": "C-75d6980fbd8c",
-   "source": "congress",
-   "person": "John Boozman",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": [
-     "Commission on Security and Cooperation in Europe",
-     "Senate Committee on Agriculture, Nutrition, and Forestry",
-     "Senate Committee on Appropriations",
-     "Senate Committee on Environment and Public Works",
-     "Senate Committee on Rules and Administration",
-     "Senate Committee on Veterans' Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "SCHP",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2025-09-16",
-   "filed_date": "2026-05-11",
-   "lag_days": 237,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/27f15751-bcec-4e3e-a0ab-d7e843c08d06/"
-  },
-  {
-   "id": "C-5606ccceefdc",
-   "source": "congress",
-   "person": "John Boozman",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": [
-     "Commission on Security and Cooperation in Europe",
-     "Senate Committee on Agriculture, Nutrition, and Forestry",
-     "Senate Committee on Appropriations",
-     "Senate Committee on Environment and Public Works",
-     "Senate Committee on Rules and Administration",
-     "Senate Committee on Veterans' Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "IEF",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2025-09-16",
-   "filed_date": "2026-05-11",
-   "lag_days": 237,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/27f15751-bcec-4e3e-a0ab-d7e843c08d06/"
-  },
-  {
-   "id": "C-3e73933536cd",
-   "source": "congress",
-   "person": "John Boozman",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": [
-     "Commission on Security and Cooperation in Europe",
-     "Senate Committee on Agriculture, Nutrition, and Forestry",
-     "Senate Committee on Appropriations",
-     "Senate Committee on Environment and Public Works",
-     "Senate Committee on Rules and Administration",
-     "Senate Committee on Veterans' Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "IEI",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2025-09-16",
-   "filed_date": "2026-05-11",
-   "lag_days": 237,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/27f15751-bcec-4e3e-a0ab-d7e843c08d06/"
-  },
-  {
-   "id": "C-96ea2d39b1e4",
-   "source": "congress",
-   "person": "John Boozman",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": [
-     "Commission on Security and Cooperation in Europe",
-     "Senate Committee on Agriculture, Nutrition, and Forestry",
-     "Senate Committee on Appropriations",
-     "Senate Committee on Environment and Public Works",
-     "Senate Committee on Rules and Administration",
-     "Senate Committee on Veterans' Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "ETN",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2025-09-12",
-   "filed_date": "2026-05-11",
-   "lag_days": 241,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/27f15751-bcec-4e3e-a0ab-d7e843c08d06/"
-  },
-  {
-   "id": "C-9701eeb5b411",
-   "source": "congress",
-   "person": "John Boozman",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": [
-     "Commission on Security and Cooperation in Europe",
-     "Senate Committee on Agriculture, Nutrition, and Forestry",
-     "Senate Committee on Appropriations",
-     "Senate Committee on Environment and Public Works",
-     "Senate Committee on Rules and Administration",
-     "Senate Committee on Veterans' Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "ADBE",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2025-09-04",
-   "filed_date": "2026-05-11",
-   "lag_days": 249,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/27f15751-bcec-4e3e-a0ab-d7e843c08d06/"
-  },
-  {
-   "id": "C-bf91f44cf06f",
-   "source": "congress",
-   "person": "John Boozman",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": [
-     "Commission on Security and Cooperation in Europe",
-     "Senate Committee on Agriculture, Nutrition, and Forestry",
-     "Senate Committee on Appropriations",
-     "Senate Committee on Environment and Public Works",
-     "Senate Committee on Rules and Administration",
-     "Senate Committee on Veterans' Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "IVW",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2025-03-19",
-   "filed_date": "2026-05-11",
-   "lag_days": 418,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/8292d644-09cf-45f9-8126-cbf54a114745/"
-  },
-  {
-   "id": "C-b7a287b10dd0",
-   "source": "congress",
-   "person": "John Boozman",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": [
-     "Commission on Security and Cooperation in Europe",
-     "Senate Committee on Agriculture, Nutrition, and Forestry",
-     "Senate Committee on Appropriations",
-     "Senate Committee on Environment and Public Works",
-     "Senate Committee on Rules and Administration",
-     "Senate Committee on Veterans' Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "DTE",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2025-03-19",
-   "filed_date": "2026-05-11",
-   "lag_days": 418,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/8292d644-09cf-45f9-8126-cbf54a114745/"
-  },
-  {
-   "id": "C-fb0cc03bafb9",
-   "source": "congress",
-   "person": "Tina Smith",
-   "role": {
-    "chamber": "senate",
-    "party": "Democrat",
-    "committees": [
-     "Senate Committee on Indian Affairs",
-     "Senate Committee on Agriculture, Nutrition, and Forestry",
-     "Senate Committee on Banking, Housing, and Urban Affairs",
-     "Senate Committee on Finance"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "PODD",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 100001,
-   "amount_high": 250000,
-   "tx_date": "2026-05-07",
-   "filed_date": "2026-05-10",
-   "lag_days": 3,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/3f315067-5f69-42b3-b32d-063ce735957b/"
-  },
-  {
-   "id": "C-afec09abf1e6",
-   "source": "congress",
-   "person": "Tina Smith",
-   "role": {
-    "chamber": "senate",
-    "party": "Democrat",
-    "committees": [
-     "Senate Committee on Indian Affairs",
-     "Senate Committee on Agriculture, Nutrition, and Forestry",
-     "Senate Committee on Banking, Housing, and Urban Affairs",
-     "Senate Committee on Finance"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "DXCM",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 100001,
-   "amount_high": 250000,
-   "tx_date": "2026-05-07",
-   "filed_date": "2026-05-10",
-   "lag_days": 3,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/3f315067-5f69-42b3-b32d-063ce735957b/"
-  },
-  {
-   "id": "C-b7096be45717",
-   "source": "congress",
-   "person": "Tina Smith",
-   "role": {
-    "chamber": "senate",
-    "party": "Democrat",
-    "committees": [
-     "Senate Committee on Indian Affairs",
-     "Senate Committee on Agriculture, Nutrition, and Forestry",
-     "Senate Committee on Banking, Housing, and Urban Affairs",
-     "Senate Committee on Finance"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "PODD",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 100001,
-   "amount_high": 250000,
-   "tx_date": "2026-04-29",
-   "filed_date": "2026-05-10",
-   "lag_days": 11,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/3f315067-5f69-42b3-b32d-063ce735957b/"
-  },
-  {
-   "id": "C-87f887127b3f",
-   "source": "congress",
-   "person": "Tina Smith",
-   "role": {
-    "chamber": "senate",
-    "party": "Democrat",
-    "committees": [
-     "Senate Committee on Indian Affairs",
-     "Senate Committee on Agriculture, Nutrition, and Forestry",
-     "Senate Committee on Banking, Housing, and Urban Affairs",
-     "Senate Committee on Finance"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "DXCM",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 100001,
-   "amount_high": 250000,
-   "tx_date": "2026-04-29",
-   "filed_date": "2026-05-10",
-   "lag_days": 11,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/3f315067-5f69-42b3-b32d-063ce735957b/"
-  },
-  {
-   "id": "C-11499a7e020d",
-   "source": "congress",
-   "person": "John Boozman",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": [
-     "Commission on Security and Cooperation in Europe",
-     "Senate Committee on Agriculture, Nutrition, and Forestry",
-     "Senate Committee on Appropriations",
-     "Senate Committee on Environment and Public Works",
-     "Senate Committee on Rules and Administration",
-     "Senate Committee on Veterans' Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "DVN",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-09",
-   "filed_date": "2026-05-08",
-   "lag_days": 29,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/f148dc2e-d440-4759-be4d-f000c1cd6e89/"
-  },
-  {
-   "id": "C-f1a172dc371e",
-   "source": "congress",
-   "person": "John Boozman",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": [
-     "Commission on Security and Cooperation in Europe",
-     "Senate Committee on Agriculture, Nutrition, and Forestry",
-     "Senate Committee on Appropriations",
-     "Senate Committee on Environment and Public Works",
-     "Senate Committee on Rules and Administration",
-     "Senate Committee on Veterans' Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "TBLL",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-02",
-   "filed_date": "2026-05-08",
-   "lag_days": 36,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/c99d5ebd-82ce-439c-a678-014946f46c50/"
-  },
-  {
-   "id": "C-32ca5e87c082",
-   "source": "congress",
-   "person": "John Boozman",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": [
-     "Commission on Security and Cooperation in Europe",
-     "Senate Committee on Agriculture, Nutrition, and Forestry",
-     "Senate Committee on Appropriations",
-     "Senate Committee on Environment and Public Works",
-     "Senate Committee on Rules and Administration",
-     "Senate Committee on Veterans' Affairs"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "CEG",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-02",
-   "filed_date": "2026-05-08",
-   "lag_days": 36,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/f148dc2e-d440-4759-be4d-f000c1cd6e89/"
-  },
-  {
-   "id": "C-3609478dd45b",
-   "source": "congress",
-   "person": "Shelley M Capito",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": [
-     "Senate Committee on Appropriations",
-     "Senate Committee on Commerce, Science, and Transportation",
-     "Senate Committee on Environment and Public Works",
-     "Senate Committee on Rules and Administration"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "CEG",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-17",
-   "filed_date": "2026-05-07",
-   "lag_days": 20,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/029f67f3-121a-406c-bddf-a9a7e7d6267b/"
-  },
-  {
-   "id": "C-0cab06dcde35",
-   "source": "congress",
-   "person": "Shelley M Capito",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": [
-     "Senate Committee on Appropriations",
-     "Senate Committee on Commerce, Science, and Transportation",
-     "Senate Committee on Environment and Public Works",
-     "Senate Committee on Rules and Administration"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "AAPL",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-17",
-   "filed_date": "2026-05-07",
-   "lag_days": 20,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/029f67f3-121a-406c-bddf-a9a7e7d6267b/"
-  },
-  {
-   "id": "C-abbac784b703",
-   "source": "congress",
-   "person": "Shelley M Capito",
-   "role": {
-    "chamber": "senate",
-    "party": "Republican",
-    "committees": [
-     "Senate Committee on Appropriations",
-     "Senate Committee on Commerce, Science, and Transportation",
-     "Senate Committee on Environment and Public Works",
-     "Senate Committee on Rules and Administration"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "AVGO",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-13",
-   "filed_date": "2026-05-07",
-   "lag_days": 24,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/029f67f3-121a-406c-bddf-a9a7e7d6267b/"
-  },
-  {
-   "id": "C-c9310be71e47",
-   "source": "congress",
-   "person": "John W Hickenlooper",
-   "role": {
-    "chamber": "senate",
-    "party": "Democrat",
-    "committees": [
-     "Senate Committee on Commerce, Science, and Transportation",
-     "Senate Committee on Energy and Natural Resources",
-     "Senate Committee on Health, Education, Labor, and Pensions",
-     "Senate Committee on Small Business and Entrepreneurship"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "PLTR",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2025-06-03",
-   "filed_date": "2026-05-05",
-   "lag_days": 336,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/8036348f-2470-41f7-be97-d822d0b17e7c/"
-  },
-  {
-   "id": "C-feaca7644755",
-   "source": "congress",
-   "person": "John W Hickenlooper",
-   "role": {
-    "chamber": "senate",
-    "party": "Democrat",
-    "committees": [
-     "Senate Committee on Commerce, Science, and Transportation",
-     "Senate Committee on Energy and Natural Resources",
-     "Senate Committee on Health, Education, Labor, and Pensions",
-     "Senate Committee on Small Business and Entrepreneurship"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "LBRDK",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 500001,
-   "amount_high": 1000000,
-   "tx_date": "2025-05-19",
-   "filed_date": "2026-05-05",
-   "lag_days": 351,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/8036348f-2470-41f7-be97-d822d0b17e7c/"
-  },
-  {
-   "id": "C-3daf10004267",
-   "source": "congress",
-   "person": "John W Hickenlooper",
-   "role": {
-    "chamber": "senate",
-    "party": "Democrat",
-    "committees": [
-     "Senate Committee on Commerce, Science, and Transportation",
-     "Senate Committee on Energy and Natural Resources",
-     "Senate Committee on Health, Education, Labor, and Pensions",
-     "Senate Committee on Small Business and Entrepreneurship"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "PLTR",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2025-04-16",
-   "filed_date": "2026-05-05",
-   "lag_days": 384,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/8036348f-2470-41f7-be97-d822d0b17e7c/"
-  },
-  {
-   "id": "C-6ba607012fd4",
-   "source": "congress",
-   "person": "Sheldon Whitehouse",
-   "role": {
-    "chamber": "senate",
-    "party": "Democrat",
-    "committees": [
-     "Commission on Security and Cooperation in Europe",
-     "United States Senate Caucus on International Narcotics Control",
-     "Senate Committee on the Budget",
-     "Senate Committee on Environment and Public Works",
-     "Senate Committee on Finance",
-     "Senate Committee on the Judiciary"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "JPM",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-04-13",
-   "filed_date": "2026-05-04",
-   "lag_days": 21,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://efdsearch.senate.gov/search/view/ptr/747b4aac-bbc9-4636-bf0f-95b0454e39d9/"
   }
  ]
 }
