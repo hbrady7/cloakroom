@@ -1,5 +1,5 @@
 {
- "as_of": "2026-11-09",
+ "as_of": "2026-11-10",
  "candidates": [
   {
    "ticker": "TSM",
@@ -21,9 +21,10 @@
     },
     "convergence": {
      "fired": true,
-     "points": 27.7,
+     "points": 27.6,
      "insider_buyers": [
       "Fang Shu-Hua",
+      "Hwang Yuan-Ko",
       "Jang Syun-Ming",
       "Ku Yao-Ching",
       "Lee Chun-Hsien",
@@ -57,19 +58,71 @@
    },
    "evidence": [
     {
+     "id": "I-fee6783cf0cb",
+     "signal": "convergence"
+    },
+    {
+     "id": "I-f65c26328e21",
+     "signal": "convergence"
+    },
+    {
+     "id": "I-f154b0f44785",
+     "signal": "convergence"
+    },
+    {
+     "id": "I-ecb7d7c7ac8f",
+     "signal": "convergence"
+    },
+    {
+     "id": "I-dfc4124c73c6",
+     "signal": "convergence"
+    },
+    {
+     "id": "I-d8e929eee651",
+     "signal": "convergence"
+    },
+    {
+     "id": "I-ccc8d188c653",
+     "signal": "convergence"
+    },
+    {
+     "id": "I-caa131db1d5a",
+     "signal": "convergence"
+    },
+    {
+     "id": "I-b1045eb907ac",
+     "signal": "convergence"
+    },
+    {
+     "id": "I-9d7e9125b5ae",
+     "signal": "convergence"
+    },
+    {
+     "id": "I-9852961b7875",
+     "signal": "convergence"
+    },
+    {
+     "id": "I-8a6807062ff7",
+     "signal": "convergence"
+    },
+    {
+     "id": "I-4d67bb525b2c",
+     "signal": "convergence"
+    },
+    {
+     "id": "I-4b4b92b0c2ae",
+     "signal": "convergence"
+    },
+    {
+     "id": "I-1af1bd58187f",
+     "signal": "convergence"
+    },
+    {
+     "id": "I-0c64672f3638",
+     "signal": "convergence"
+    },
+    {
      "id": "I-d32b46ce7572",
-     "signal": "convergence"
-    },
-    {
-     "id": "I-101561862b3a",
-     "signal": "convergence"
-    },
-    {
-     "id": "I-fead7dea478c",
-     "signal": "convergence"
-    },
-    {
-     "id": "I-d6cbe6b8e325",
      "signal": "convergence"
     },
     {
@@ -77,55 +130,7 @@
      "signal": "convergence"
     },
     {
-     "id": "I-a9b65a8fa867",
-     "signal": "convergence"
-    },
-    {
-     "id": "I-9ad007d7db9c",
-     "signal": "convergence"
-    },
-    {
-     "id": "I-936aac928e3d",
-     "signal": "convergence"
-    },
-    {
-     "id": "I-93217f3f15cf",
-     "signal": "convergence"
-    },
-    {
-     "id": "I-917279f5bd43",
-     "signal": "convergence"
-    },
-    {
      "id": "I-8ccfca18ceb5",
-     "signal": "convergence"
-    },
-    {
-     "id": "I-819595653c19",
-     "signal": "convergence"
-    },
-    {
-     "id": "I-792aa2d353f3",
-     "signal": "convergence"
-    },
-    {
-     "id": "I-5ee56774ff65",
-     "signal": "convergence"
-    },
-    {
-     "id": "I-242979299d02",
-     "signal": "convergence"
-    },
-    {
-     "id": "I-12711778b4ca",
-     "signal": "convergence"
-    },
-    {
-     "id": "I-108d99d2b322",
-     "signal": "convergence"
-    },
-    {
-     "id": "I-7d734d8f169a",
      "signal": "convergence"
     },
     {
@@ -152,7 +157,7 @@
    "stats": {
     "congress_buys": 5,
     "distinct_buyers": 3,
-    "insider_open_market_buys": 62,
+    "insider_open_market_buys": 79,
     "options_positions": 0
    },
    "name": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
@@ -163,7 +168,7 @@
   },
   {
    "ticker": "BRK.B",
-   "score": 20.1,
+   "score": 19.2,
    "signals": {
     "cluster": {
      "fired": false,
@@ -182,7 +187,7 @@
     },
     "convergence": {
      "fired": true,
-     "points": 20.0,
+     "points": 19.0,
      "insider_buyers": [
       "BERKSHIRE HATHAWAY INC et al.",
       "O'Sullivan Michael J."
@@ -196,7 +201,7 @@
     "size": {
      "fired": false,
      "points": 0.0,
-     "max_band_mid": 75000
+     "max_band_mid": 32500
     }
    },
    "evidence": [
@@ -238,8 +243,8 @@
     }
    ],
    "stats": {
-    "congress_buys": 11,
-    "distinct_buyers": 4,
+    "congress_buys": 10,
+    "distinct_buyers": 3,
     "insider_open_market_buys": 51,
     "options_positions": 0
    },
@@ -250,7 +255,7 @@
   },
   {
    "ticker": "LRCX",
-   "score": 4.1,
+   "score": 3.9,
    "signals": {
     "cluster": {
      "fired": false,
@@ -259,7 +264,7 @@
     },
     "committee": {
      "fired": true,
-     "points": 3.5,
+     "points": 3.3,
      "aligned_buyers": [
       "David J. Taylor"
      ],
@@ -279,7 +284,7 @@
     },
     "size": {
      "fired": false,
-     "points": 0.7,
+     "points": 0.6,
      "max_band_mid": 8000
     }
    },
@@ -290,8 +295,8 @@
     }
    ],
    "stats": {
-    "congress_buys": 2,
-    "distinct_buyers": 2,
+    "congress_buys": 1,
+    "distinct_buyers": 1,
     "insider_open_market_buys": 0,
     "options_positions": 0
    },
@@ -304,7 +309,7 @@
  "caution": [
   {
    "ticker": "EL",
-   "score": 36.0,
+   "score": 34.3,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -313,7 +318,7 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 36.0,
+     "points": 34.3,
      "distinct_sellers": 5,
      "weighted_sellers": 5.0
     },
@@ -405,7 +410,7 @@
   },
   {
    "ticker": "MRSH",
-   "score": 30.5,
+   "score": 29.0,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -414,13 +419,13 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 29.5,
+     "points": 28.1,
      "distinct_sellers": 7,
      "weighted_sellers": 5.0
     },
     "committee_sell": {
      "fired": true,
-     "points": 1.0
+     "points": 0.9
     }
    },
    "evidence": [
@@ -482,7 +487,7 @@
     }
    ],
    "stats": {
-    "congress_sells": 7,
+    "congress_sells": 6,
     "insider_sells": 8
    },
    "name": "MARSH & MCLENNAN COMPANIES, INC.",
@@ -491,8 +496,8 @@
    ]
   },
   {
-   "ticker": "CL",
-   "score": 29.5,
+   "ticker": "QCOM",
+   "score": 28.6,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -501,7 +506,134 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 29.5,
+     "points": 28.6,
+     "distinct_sellers": 6,
+     "weighted_sellers": 3.5
+    },
+    "committee_sell": {
+     "fired": false,
+     "points": 0.0
+    }
+   },
+   "evidence": [
+    {
+     "id": "I-b764e092fbad",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-8b0d24b6a6b4",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-5a7820fd8a65",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-f194982b0d80",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-ec5a809f5eb6",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-d1a2e444acca",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-cf56af33de67",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-857dfd8a3760",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-6a411730ef2a",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-29d4fb6c7e20",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-2f847386be74",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-1122797767b3",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-7a4fed04421d",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-dc366b9b7101",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-c1324a81d05d",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-ada40ff0f583",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-9537828c0ba3",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-8f612f5a183d",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-7b111a103055",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-786ef66a2215",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-57980ca2fee1",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-1c7bd94e7d5c",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-1ecd875cf055",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-bbcf8888d047",
+     "signal": "insider_distribution"
+    }
+   ],
+   "stats": {
+    "congress_sells": 5,
+    "insider_sells": 30
+   },
+   "name": "QUALCOMM INC/DE",
+   "sectors": [
+    "industrial"
+   ]
+  },
+  {
+   "ticker": "CL",
+   "score": 28.1,
+   "signals": {
+    "sell_cluster": {
+     "fired": false,
+     "points": 0.0,
+     "distinct_sellers": 1
+    },
+    "insider_distribution": {
+     "fired": true,
+     "points": 28.1,
      "distinct_sellers": 5,
      "weighted_sellers": 5.0
     },
@@ -553,16 +685,16 @@
   },
   {
    "ticker": "CRWD",
-   "score": 29.5,
+   "score": 28.1,
    "signals": {
     "sell_cluster": {
      "fired": false,
      "points": 0.0,
-     "distinct_sellers": 1
+     "distinct_sellers": 0
     },
     "insider_distribution": {
      "fired": true,
-     "points": 29.5,
+     "points": 28.1,
      "distinct_sellers": 9,
      "weighted_sellers": 7.0
     },
@@ -670,111 +802,15 @@
     }
    ],
    "stats": {
-    "congress_sells": 1,
+    "congress_sells": 0,
     "insider_sells": 858
    },
    "name": "CrowdStrike Holdings, Inc.",
    "sectors": [
     "tech"
    ]
-  },
-  {
-   "ticker": "KO",
-   "score": 29.5,
-   "signals": {
-    "sell_cluster": {
-     "fired": false,
-     "points": 0.0,
-     "distinct_sellers": 1
-    },
-    "insider_distribution": {
-     "fired": true,
-     "points": 29.5,
-     "distinct_sellers": 7,
-     "weighted_sellers": 6.5
-    },
-    "committee_sell": {
-     "fired": false,
-     "points": 0.0
-    }
-   },
-   "evidence": [
-    {
-     "id": "I-a5b634284ee5",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-e6905aef6fd3",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-90e8365dab5c",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-4eded39efa2c",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-5c0b65a1aff2",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-2623f28a3e32",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-0f9183dd398c",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-43a8a7d92b1e",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-85d8f798ffaf",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-448c8876b4af",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-394a7e304ee9",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-b68e33953e09",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-6cf06603846c",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-69445e269810",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-bc9d90a96670",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-adc3d0cf1cde",
-     "signal": "insider_distribution"
-    }
-   ],
-   "stats": {
-    "congress_sells": 1,
-    "insider_sells": 16
-   },
-   "name": "COCA COLA CO",
-   "sectors": [
-    "food",
-    "ag"
-   ]
   }
  ],
- "universe": 717,
- "generated_at": "2026-11-09T21:36:54Z"
+ "universe": 603,
+ "generated_at": "2026-11-10T18:48:58Z"
 }
