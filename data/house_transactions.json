@@ -1,6 +1,30 @@
 {
- "generated_at": "2026-11-10T18:46:43Z",
+ "generated_at": "2026-11-11T18:51:38Z",
  "transactions": [
+  {
+   "id": "C-8db1835ca80a",
+   "source": "congress",
+   "person": "David Kustoff",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Ways and Means"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "WBD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-10-07",
+   "filed_date": "2026-11-09",
+   "lag_days": 33,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20024921.pdf"
+  },
   {
    "id": "C-3ceac1c3327b",
    "source": "congress",
