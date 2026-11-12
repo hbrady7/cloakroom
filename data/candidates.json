@@ -1,9 +1,9 @@
 {
- "as_of": "2026-11-10",
+ "as_of": "2026-11-12",
  "candidates": [
   {
    "ticker": "TSM",
-   "score": 28.1,
+   "score": 25.4,
    "signals": {
     "cluster": {
      "fired": false,
@@ -21,7 +21,7 @@
     },
     "convergence": {
      "fired": true,
-     "points": 27.6,
+     "points": 25.0,
      "insider_buyers": [
       "Fang Shu-Hua",
       "Hwang Yuan-Ko",
@@ -52,7 +52,7 @@
     },
     "size": {
      "fired": false,
-     "points": 0.5,
+     "points": 0.4,
      "max_band_mid": 8000
     }
    },
@@ -168,7 +168,7 @@
   },
   {
    "ticker": "BRK.B",
-   "score": 19.2,
+   "score": 17.4,
    "signals": {
     "cluster": {
      "fired": false,
@@ -187,7 +187,7 @@
     },
     "convergence": {
      "fired": true,
-     "points": 19.0,
+     "points": 17.2,
      "insider_buyers": [
       "BERKSHIRE HATHAWAY INC et al.",
       "O'Sullivan Michael J."
@@ -201,7 +201,7 @@
     "size": {
      "fired": false,
      "points": 0.0,
-     "max_band_mid": 75000
+     "max_band_mid": 32500
     }
    },
    "evidence": [
@@ -243,8 +243,8 @@
     }
    ],
    "stats": {
-    "congress_buys": 7,
-    "distinct_buyers": 4,
+    "congress_buys": 5,
+    "distinct_buyers": 2,
     "insider_open_market_buys": 51,
     "options_positions": 0
    },
@@ -255,7 +255,7 @@
   },
   {
    "ticker": "LRCX",
-   "score": 3.9,
+   "score": 3.6,
    "signals": {
     "cluster": {
      "fired": false,
@@ -264,7 +264,7 @@
     },
     "committee": {
      "fired": true,
-     "points": 3.3,
+     "points": 3.0,
      "aligned_buyers": [
       "David J. Taylor"
      ],
@@ -295,8 +295,8 @@
     }
    ],
    "stats": {
-    "congress_buys": 2,
-    "distinct_buyers": 2,
+    "congress_buys": 1,
+    "distinct_buyers": 1,
     "insider_open_market_buys": 0,
     "options_positions": 0
    },
@@ -309,16 +309,16 @@
  "caution": [
   {
    "ticker": "CRWD",
-   "score": 34.3,
+   "score": 31.0,
    "signals": {
     "sell_cluster": {
      "fired": false,
      "points": 0.0,
-     "distinct_sellers": 1
+     "distinct_sellers": 0
     },
     "insider_distribution": {
      "fired": true,
-     "points": 34.3,
+     "points": 31.0,
      "distinct_sellers": 9,
      "weighted_sellers": 7.0
     },
@@ -426,7 +426,7 @@
     }
    ],
    "stats": {
-    "congress_sells": 1,
+    "congress_sells": 0,
     "insider_sells": 867
    },
    "name": "CrowdStrike Holdings, Inc.",
@@ -436,7 +436,7 @@
   },
   {
    "ticker": "EL",
-   "score": 34.3,
+   "score": 31.0,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -445,7 +445,7 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 34.3,
+     "points": 31.0,
      "distinct_sellers": 5,
      "weighted_sellers": 5.0
     },
@@ -541,7 +541,7 @@
   },
   {
    "ticker": "NFLX",
-   "score": 34.3,
+   "score": 31.0,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -550,7 +550,7 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 34.3,
+     "points": 31.0,
      "distinct_sellers": 6,
      "weighted_sellers": 5.0
     },
@@ -640,7 +640,7 @@
   },
   {
    "ticker": "DHR",
-   "score": 30.8,
+   "score": 27.9,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -649,7 +649,7 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 30.5,
+     "points": 27.6,
      "distinct_sellers": 4,
      "weighted_sellers": 4.0
     },
@@ -716,7 +716,7 @@
   },
   {
    "ticker": "V",
-   "score": 30.8,
+   "score": 27.9,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -725,13 +725,13 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 30.5,
+     "points": 27.6,
      "distinct_sellers": 5,
      "weighted_sellers": 4.0
     },
     "committee_sell": {
      "fired": true,
-     "points": 0.4
+     "points": 0.3
     }
    },
    "evidence": [
@@ -814,6 +814,6 @@
    ]
   }
  ],
- "universe": 716,
- "generated_at": "2026-11-11T18:53:53Z"
+ "universe": 613,
+ "generated_at": "2026-11-12T19:05:33Z"
 }
