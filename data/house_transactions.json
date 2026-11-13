@@ -1,6 +1,532 @@
 {
- "generated_at": "2026-11-12T19:03:06Z",
+ "generated_at": "2026-11-13T18:40:46Z",
  "transactions": [
+  {
+   "id": "C-f9fbae871006",
+   "source": "congress",
+   "person": "David J. Taylor",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Transportation and Infrastructure"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "HD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-11-05",
+   "filed_date": "2026-11-12",
+   "lag_days": 7,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035831.pdf"
+  },
+  {
+   "id": "C-ad4b60eba085",
+   "source": "congress",
+   "person": "David J. Taylor",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Transportation and Infrastructure"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "LRCX",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-11-05",
+   "filed_date": "2026-11-12",
+   "lag_days": 7,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035831.pdf"
+  },
+  {
+   "id": "C-a0667ef6c2cb",
+   "source": "congress",
+   "person": "David J. Taylor",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Transportation and Infrastructure"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "PG",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-11-05",
+   "filed_date": "2026-11-12",
+   "lag_days": 7,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035831.pdf"
+  },
+  {
+   "id": "C-97e22335fcea",
+   "source": "congress",
+   "person": "David J. Taylor",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Transportation and Infrastructure"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "AVGO",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-11-05",
+   "filed_date": "2026-11-12",
+   "lag_days": 7,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035831.pdf"
+  },
+  {
+   "id": "C-f88c72c8f166",
+   "source": "congress",
+   "person": "David J. Taylor",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Transportation and Infrastructure"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "V",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-11-03",
+   "filed_date": "2026-11-12",
+   "lag_days": 9,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035831.pdf"
+  },
+  {
+   "id": "C-e35a5f7b83fb",
+   "source": "congress",
+   "person": "David J. Taylor",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Transportation and Infrastructure"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ETN",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-11-03",
+   "filed_date": "2026-11-12",
+   "lag_days": 9,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035831.pdf"
+  },
+  {
+   "id": "C-b6bceeaee7b6",
+   "source": "congress",
+   "person": "David J. Taylor",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Transportation and Infrastructure"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "LLY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-11-03",
+   "filed_date": "2026-11-12",
+   "lag_days": 9,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035831.pdf"
+  },
+  {
+   "id": "C-ae07e2c585fb",
+   "source": "congress",
+   "person": "David J. Taylor",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Transportation and Infrastructure"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "LLY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-11-03",
+   "filed_date": "2026-11-12",
+   "lag_days": 9,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035831.pdf"
+  },
+  {
+   "id": "C-89fdfcc96ce5",
+   "source": "congress",
+   "person": "David J. Taylor",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Transportation and Infrastructure"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "KR",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-11-03",
+   "filed_date": "2026-11-12",
+   "lag_days": 9,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035831.pdf"
+  },
+  {
+   "id": "C-76d6263016f2",
+   "source": "congress",
+   "person": "David J. Taylor",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Transportation and Infrastructure"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "V",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-11-03",
+   "filed_date": "2026-11-12",
+   "lag_days": 9,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035831.pdf"
+  },
+  {
+   "id": "C-75fdddd9ad6d",
+   "source": "congress",
+   "person": "David J. Taylor",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Transportation and Infrastructure"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "AMGN",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-11-03",
+   "filed_date": "2026-11-12",
+   "lag_days": 9,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035831.pdf"
+  },
+  {
+   "id": "C-74c2f89264d5",
+   "source": "congress",
+   "person": "David J. Taylor",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Transportation and Infrastructure"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "IBP",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-11-03",
+   "filed_date": "2026-11-12",
+   "lag_days": 9,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035831.pdf"
+  },
+  {
+   "id": "C-67148095bbc6",
+   "source": "congress",
+   "person": "David J. Taylor",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Transportation and Infrastructure"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "T",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-11-03",
+   "filed_date": "2026-11-12",
+   "lag_days": 9,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035831.pdf"
+  },
+  {
+   "id": "C-6528ee026cbe",
+   "source": "congress",
+   "person": "David J. Taylor",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Transportation and Infrastructure"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "KR",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-11-03",
+   "filed_date": "2026-11-12",
+   "lag_days": 9,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035831.pdf"
+  },
+  {
+   "id": "C-57c8812ab09b",
+   "source": "congress",
+   "person": "David J. Taylor",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Transportation and Infrastructure"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "T",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-11-03",
+   "filed_date": "2026-11-12",
+   "lag_days": 9,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035831.pdf"
+  },
+  {
+   "id": "C-52e0ffb1117c",
+   "source": "congress",
+   "person": "David J. Taylor",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Transportation and Infrastructure"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "AMGN",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-11-03",
+   "filed_date": "2026-11-12",
+   "lag_days": 9,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035831.pdf"
+  },
+  {
+   "id": "C-515264cf4ee9",
+   "source": "congress",
+   "person": "David J. Taylor",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Transportation and Infrastructure"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "ETN",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-11-03",
+   "filed_date": "2026-11-12",
+   "lag_days": 9,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035831.pdf"
+  },
+  {
+   "id": "C-3ca3d9385baf",
+   "source": "congress",
+   "person": "David J. Taylor",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Transportation and Infrastructure"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "GOOGL",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-11-03",
+   "filed_date": "2026-11-12",
+   "lag_days": 9,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035831.pdf"
+  },
+  {
+   "id": "C-359ab6d92ed9",
+   "source": "congress",
+   "person": "David J. Taylor",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Agriculture",
+     "House Committee on Transportation and Infrastructure"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "GOOGL",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-11-03",
+   "filed_date": "2026-11-12",
+   "lag_days": 9,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035831.pdf"
+  },
+  {
+   "id": "C-758d9ad5a662",
+   "source": "congress",
+   "person": "Richard W. Allen",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Education and Workforce",
+     "House Committee on Energy and Commerce"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "SHW",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-10-09",
+   "filed_date": "2026-11-11",
+   "lag_days": 33,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035821.pdf"
+  },
+  {
+   "id": "C-2a7b9e1e8f67",
+   "source": "congress",
+   "person": "Lloyd Doggett",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on the Budget",
+     "House Committee on Ways and Means",
+     "Joint Committee on Taxation"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "KO",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-10-01",
+   "filed_date": "2026-11-11",
+   "lag_days": 41,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035826.pdf"
+  },
   {
    "id": "C-45c976545ed5",
    "source": "congress",
@@ -50375,953 +50901,6 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034285.pdf"
-  },
-  {
-   "id": "C-abcadd49fe58",
-   "source": "congress",
-   "person": "April McClain Delaney",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Agriculture",
-     "House Committee on Science, Space, and Technology"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "SGI",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-03-31",
-   "filed_date": "2026-04-06",
-   "lag_days": 6,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034299.pdf"
-  },
-  {
-   "id": "C-966c0698d811",
-   "source": "congress",
-   "person": "April McClain Delaney",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Agriculture",
-     "House Committee on Science, Space, and Technology"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "ROL",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-03-31",
-   "filed_date": "2026-04-06",
-   "lag_days": 6,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034299.pdf"
-  },
-  {
-   "id": "C-7b1403177aa6",
-   "source": "congress",
-   "person": "April McClain Delaney",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Agriculture",
-     "House Committee on Science, Space, and Technology"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "TSCO",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-03-31",
-   "filed_date": "2026-04-06",
-   "lag_days": 6,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034299.pdf"
-  },
-  {
-   "id": "C-4701bf723902",
-   "source": "congress",
-   "person": "April McClain Delaney",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Agriculture",
-     "House Committee on Science, Space, and Technology"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "ENTG",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-03-31",
-   "filed_date": "2026-04-06",
-   "lag_days": 6,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034299.pdf"
-  },
-  {
-   "id": "C-0cf2080e52b7",
-   "source": "congress",
-   "person": "April McClain Delaney",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Agriculture",
-     "House Committee on Science, Space, and Technology"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "NDAQ",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-03-31",
-   "filed_date": "2026-04-06",
-   "lag_days": 6,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034299.pdf"
-  },
-  {
-   "id": "C-46fd990e3b07",
-   "source": "congress",
-   "person": "Lloyd Doggett",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on the Budget",
-     "House Committee on Ways and Means",
-     "Joint Committee on Taxation"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "HD",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-03-26",
-   "filed_date": "2026-04-06",
-   "lag_days": 11,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034292.pdf"
-  },
-  {
-   "id": "C-295d1882b1d2",
-   "source": "congress",
-   "person": "April McClain Delaney",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Agriculture",
-     "House Committee on Science, Space, and Technology"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "TECH",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-03-26",
-   "filed_date": "2026-04-06",
-   "lag_days": 11,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034299.pdf"
-  },
-  {
-   "id": "C-65d0f66af4cc",
-   "source": "congress",
-   "person": "April McClain Delaney",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Agriculture",
-     "House Committee on Science, Space, and Technology"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "PKG",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-03-20",
-   "filed_date": "2026-04-06",
-   "lag_days": 17,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034299.pdf"
-  },
-  {
-   "id": "C-252d9b3d2915",
-   "source": "congress",
-   "person": "April McClain Delaney",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Agriculture",
-     "House Committee on Science, Space, and Technology"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "NDAQ",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-03-18",
-   "filed_date": "2026-04-06",
-   "lag_days": 19,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034299.pdf"
-  },
-  {
-   "id": "C-60b5ff1d10d8",
-   "source": "congress",
-   "person": "April McClain Delaney",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Agriculture",
-     "House Committee on Science, Space, and Technology"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "PKG",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-03-17",
-   "filed_date": "2026-04-06",
-   "lag_days": 20,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034299.pdf"
-  },
-  {
-   "id": "C-905e075e442a",
-   "source": "congress",
-   "person": "April McClain Delaney",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Agriculture",
-     "House Committee on Science, Space, and Technology"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "STE",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-03-16",
-   "filed_date": "2026-04-06",
-   "lag_days": 21,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034299.pdf"
-  },
-  {
-   "id": "C-8f448dd30b21",
-   "source": "congress",
-   "person": "April McClain Delaney",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Agriculture",
-     "House Committee on Science, Space, and Technology"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "TSCO",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-03-16",
-   "filed_date": "2026-04-06",
-   "lag_days": 21,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034299.pdf"
-  },
-  {
-   "id": "C-41d01bd9c71a",
-   "source": "congress",
-   "person": "April McClain Delaney",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Agriculture",
-     "House Committee on Science, Space, and Technology"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "SGI",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-03-16",
-   "filed_date": "2026-04-06",
-   "lag_days": 21,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034299.pdf"
-  },
-  {
-   "id": "C-824adb8b3312",
-   "source": "congress",
-   "person": "April McClain Delaney",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Agriculture",
-     "House Committee on Science, Space, and Technology"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "JLL",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-03-13",
-   "filed_date": "2026-04-06",
-   "lag_days": 24,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034299.pdf"
-  },
-  {
-   "id": "C-2a14fd2d562d",
-   "source": "congress",
-   "person": "April McClain Delaney",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Agriculture",
-     "House Committee on Science, Space, and Technology"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "SGI",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-03-13",
-   "filed_date": "2026-04-06",
-   "lag_days": 24,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034299.pdf"
-  },
-  {
-   "id": "C-a9d2be235a5f",
-   "source": "congress",
-   "person": "Lloyd Doggett",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on the Budget",
-     "House Committee on Ways and Means",
-     "Joint Committee on Taxation"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "PPG",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-03-12",
-   "filed_date": "2026-04-06",
-   "lag_days": 25,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034292.pdf"
-  },
-  {
-   "id": "C-f6604597c81a",
-   "source": "congress",
-   "person": "April McClain Delaney",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Agriculture",
-     "House Committee on Science, Space, and Technology"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "NDAQ",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-03-10",
-   "filed_date": "2026-04-06",
-   "lag_days": 27,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034299.pdf"
-  },
-  {
-   "id": "C-c24d04bd71b0",
-   "source": "congress",
-   "person": "Lloyd Doggett",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on the Budget",
-     "House Committee on Ways and Means",
-     "Joint Committee on Taxation"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "JNJ",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-03-10",
-   "filed_date": "2026-04-06",
-   "lag_days": 27,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034292.pdf"
-  },
-  {
-   "id": "C-985f168c4153",
-   "source": "congress",
-   "person": "Lloyd Doggett",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on the Budget",
-     "House Committee on Ways and Means",
-     "Joint Committee on Taxation"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "IBM",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-03-10",
-   "filed_date": "2026-04-06",
-   "lag_days": 27,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034292.pdf"
-  },
-  {
-   "id": "C-9643c5809590",
-   "source": "congress",
-   "person": "April McClain Delaney",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Agriculture",
-     "House Committee on Science, Space, and Technology"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "EME",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-03-10",
-   "filed_date": "2026-04-06",
-   "lag_days": 27,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034299.pdf"
-  },
-  {
-   "id": "C-dbbdb9e27e5b",
-   "source": "congress",
-   "person": "April McClain Delaney",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Agriculture",
-     "House Committee on Science, Space, and Technology"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "EME",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-03-09",
-   "filed_date": "2026-04-06",
-   "lag_days": 28,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034299.pdf"
-  },
-  {
-   "id": "C-73bc9cb2e713",
-   "source": "congress",
-   "person": "April McClain Delaney",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Agriculture",
-     "House Committee on Science, Space, and Technology"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "SGI",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-03-09",
-   "filed_date": "2026-04-06",
-   "lag_days": 28,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034299.pdf"
-  },
-  {
-   "id": "C-6f90c144f952",
-   "source": "congress",
-   "person": "April McClain Delaney",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Agriculture",
-     "House Committee on Science, Space, and Technology"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "NDAQ",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-03-09",
-   "filed_date": "2026-04-06",
-   "lag_days": 28,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034299.pdf"
-  },
-  {
-   "id": "C-1dc54ceffff6",
-   "source": "congress",
-   "person": "April McClain Delaney",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Agriculture",
-     "House Committee on Science, Space, and Technology"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "MLM",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-03-09",
-   "filed_date": "2026-04-06",
-   "lag_days": 28,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034299.pdf"
-  },
-  {
-   "id": "C-f58ad3a1e8d4",
-   "source": "congress",
-   "person": "April McClain Delaney",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Agriculture",
-     "House Committee on Science, Space, and Technology"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "BJ",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-03-05",
-   "filed_date": "2026-04-06",
-   "lag_days": 32,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034299.pdf"
-  },
-  {
-   "id": "C-939969304930",
-   "source": "congress",
-   "person": "April McClain Delaney",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Agriculture",
-     "House Committee on Science, Space, and Technology"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "NDAQ",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-03-04",
-   "filed_date": "2026-04-06",
-   "lag_days": 33,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034299.pdf"
-  },
-  {
-   "id": "C-3861553f237a",
-   "source": "congress",
-   "person": "April McClain Delaney",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Agriculture",
-     "House Committee on Science, Space, and Technology"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "TSCO",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-03-04",
-   "filed_date": "2026-04-06",
-   "lag_days": 33,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034299.pdf"
-  },
-  {
-   "id": "C-2c46f2afb0b8",
-   "source": "congress",
-   "person": "April McClain Delaney",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Agriculture",
-     "House Committee on Science, Space, and Technology"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "BJ",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-03-04",
-   "filed_date": "2026-04-06",
-   "lag_days": 33,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034299.pdf"
-  },
-  {
-   "id": "C-f3a525cf9be9",
-   "source": "congress",
-   "person": "April McClain Delaney",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Agriculture",
-     "House Committee on Science, Space, and Technology"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "EME",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-03-03",
-   "filed_date": "2026-04-06",
-   "lag_days": 34,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034299.pdf"
-  },
-  {
-   "id": "C-7e797df699a4",
-   "source": "congress",
-   "person": "April McClain Delaney",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Agriculture",
-     "House Committee on Science, Space, and Technology"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "JLL",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-03-03",
-   "filed_date": "2026-04-06",
-   "lag_days": 34,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034299.pdf"
-  },
-  {
-   "id": "C-3733914482a3",
-   "source": "congress",
-   "person": "April McClain Delaney",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Agriculture",
-     "House Committee on Science, Space, and Technology"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "NDAQ",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-03-03",
-   "filed_date": "2026-04-06",
-   "lag_days": 34,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034299.pdf"
-  },
-  {
-   "id": "C-122a343f1e12",
-   "source": "congress",
-   "person": "Ed Case",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Appropriations"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "AAPL",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2025-11-13",
-   "filed_date": "2026-04-06",
-   "lag_days": 144,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034221.pdf"
-  },
-  {
-   "id": "C-fbd0fdf74970",
-   "source": "congress",
-   "person": "Ed Case",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Appropriations"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "AAPL",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2025-08-14",
-   "filed_date": "2026-04-06",
-   "lag_days": 235,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034221.pdf"
-  },
-  {
-   "id": "C-535cfd9bc264",
-   "source": "congress",
-   "person": "Ed Case",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Appropriations"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "AAPL",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2025-05-15",
-   "filed_date": "2026-04-06",
-   "lag_days": 326,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034221.pdf"
-  },
-  {
-   "id": "C-82b9c84381dd",
-   "source": "congress",
-   "person": "Ed Case",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Appropriations"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "AAPL",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2025-02-13",
-   "filed_date": "2026-04-06",
-   "lag_days": 417,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034221.pdf"
-  },
-  {
-   "id": "C-bebf4f472e13",
-   "source": "congress",
-   "person": "Ed Case",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Appropriations"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "AAPL",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2024-11-14",
-   "filed_date": "2026-04-06",
-   "lag_days": 508,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034221.pdf"
-  },
-  {
-   "id": "C-7aa11edfc3a8",
-   "source": "congress",
-   "person": "Ed Case",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Appropriations"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "AAPL",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2024-08-15",
-   "filed_date": "2026-04-06",
-   "lag_days": 599,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034221.pdf"
-  },
-  {
-   "id": "C-000fb26c2440",
-   "source": "congress",
-   "person": "Ed Case",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Committee on Appropriations"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "AAPL",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2024-05-16",
-   "filed_date": "2026-04-06",
-   "lag_days": 690,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034221.pdf"
   }
  ]
 }
