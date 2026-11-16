@@ -1,7 +1,271 @@
 {
- "generated_at": "2026-11-13T18:42:15Z",
+ "generated_at": "2026-11-16T21:12:48Z",
  "window_days": 180,
  "trades": [
+  {
+   "id": "I-2a4a631dcb3f",
+   "source": "insider",
+   "person": "Banner Jonathan",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP - Chief Impact Officer",
+   "ticker": "MCD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 207930,
+   "amount_high": 207930,
+   "tx_date": "2026-11-13",
+   "filed_date": "2026-11-16",
+   "lag_days": 3,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/63908/000194355126000007/"
+  },
+  {
+   "id": "I-c944bbd4848b",
+   "source": "insider",
+   "person": "Webster Meridith",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Exec VP GlobalComm/PubAffairs",
+   "ticker": "EL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 467824,
+   "amount_high": 467824,
+   "tx_date": "2026-11-13",
+   "filed_date": "2026-11-13",
+   "lag_days": 0,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1001250/000162828026073892/"
+  },
+  {
+   "id": "I-ff740a4d18e7",
+   "source": "insider",
+   "person": "Woods Isaac",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Vice President and Treasurer",
+   "ticker": "ROK",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 201305,
+   "amount_high": 201305,
+   "tx_date": "2026-11-12",
+   "filed_date": "2026-11-13",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1024478/000102447826000050/"
+  },
+  {
+   "id": "I-fcb709b77d72",
+   "source": "insider",
+   "person": "George Sarah Catherine",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Executive Vice President",
+   "ticker": "COST",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 829065,
+   "amount_high": 829065,
+   "tx_date": "2026-11-12",
+   "filed_date": "2026-11-13",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000138/"
+  },
+  {
+   "id": "I-d4aa82823005",
+   "source": "insider",
+   "person": "Quan Nancy",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Executive Vice President",
+   "ticker": "KO",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1470000,
+   "amount_high": 1470000,
+   "tx_date": "2026-11-12",
+   "filed_date": "2026-11-13",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/21344/000002134426000173/"
+  },
+  {
+   "id": "I-a5b5cf7709d8",
+   "source": "insider",
+   "person": "MacLennan David",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "CAT",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 208635,
+   "amount_high": 208635,
+   "tx_date": "2026-11-12",
+   "filed_date": "2026-11-13",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/18230/000110465926127088/"
+  },
+  {
+   "id": "I-4ecb170ed2ec",
+   "source": "insider",
+   "person": "Hobby Jean M.",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "TXN",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 2705521,
+   "amount_high": 2705521,
+   "tx_date": "2026-11-12",
+   "filed_date": "2026-11-13",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/97476/000164685026000006/"
+  },
+  {
+   "id": "I-252c8882e4f6",
+   "source": "insider",
+   "person": "Forminard Elizabeth",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "EVP, Chief Legal Officer",
+   "ticker": "JNJ",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 3717546,
+   "amount_high": 3717546,
+   "tx_date": "2026-11-12",
+   "filed_date": "2026-11-13",
+   "lag_days": 1,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/200406/000020040626000199/"
+  },
+  {
+   "id": "I-fe030051878c",
+   "source": "insider",
+   "person": "Daly Stephen G",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President and CEO",
+   "ticker": "MTSI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 2505481,
+   "amount_high": 2505481,
+   "tx_date": "2026-11-11",
+   "filed_date": "2026-11-13",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1493594/000090445426000619/"
+  },
+  {
+   "id": "I-e1388f533ac1",
+   "source": "insider",
+   "person": "Scannell John",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "MOG.A",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 42003,
+   "amount_high": 42003,
+   "tx_date": "2026-11-11",
+   "filed_date": "2026-11-13",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/67887/000134968826000006/"
+  },
+  {
+   "id": "I-e0eeba1e7d4b",
+   "source": "insider",
+   "person": "Scannell John",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "MOG.A",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 82163,
+   "amount_high": 82163,
+   "tx_date": "2026-11-11",
+   "filed_date": "2026-11-13",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/67887/000134968826000006/"
+  },
+  {
+   "id": "I-d17bd2b61fc5",
+   "source": "insider",
+   "person": "Jacobson Samantha",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "TTD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 96612,
+   "amount_high": 96612,
+   "tx_date": "2026-11-11",
+   "filed_date": "2026-11-13",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1671933/000167193326000118/"
+  },
   {
    "id": "I-ceb278c0d992",
    "source": "insider",
@@ -23,6 +287,446 @@
    "option_detail": null,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1413447/000205426626000012/"
+  },
+  {
+   "id": "I-aede78179f90",
+   "source": "insider",
+   "person": "Scannell John",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "MOG.A",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 13658,
+   "amount_high": 13658,
+   "tx_date": "2026-11-11",
+   "filed_date": "2026-11-13",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/67887/000134968826000006/"
+  },
+  {
+   "id": "I-a5ea96aa5202",
+   "source": "insider",
+   "person": "Scannell John",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "MOG.A",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 320794,
+   "amount_high": 320794,
+   "tx_date": "2026-11-11",
+   "filed_date": "2026-11-13",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/67887/000134968826000006/"
+  },
+  {
+   "id": "I-a4665d48e412",
+   "source": "insider",
+   "person": "Scannell John",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "MOG.A",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 25998,
+   "amount_high": 25998,
+   "tx_date": "2026-11-11",
+   "filed_date": "2026-11-13",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/67887/000134968826000006/"
+  },
+  {
+   "id": "I-8cb5c5a644f3",
+   "source": "insider",
+   "person": "Scannell John",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "MOG.A",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 217344,
+   "amount_high": 217344,
+   "tx_date": "2026-11-11",
+   "filed_date": "2026-11-13",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/67887/000134968826000006/"
+  },
+  {
+   "id": "I-74e13f946b0d",
+   "source": "insider",
+   "person": "Daly Stephen G",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President and CEO",
+   "ticker": "MTSI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1091552,
+   "amount_high": 1091552,
+   "tx_date": "2026-11-11",
+   "filed_date": "2026-11-13",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1493594/000090445426000619/"
+  },
+  {
+   "id": "I-735837eb1003",
+   "source": "insider",
+   "person": "Scannell John",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "MOG.A",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 89625,
+   "amount_high": 89625,
+   "tx_date": "2026-11-11",
+   "filed_date": "2026-11-13",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/67887/000134968826000006/"
+  },
+  {
+   "id": "I-55713c519bb5",
+   "source": "insider",
+   "person": "Daly Stephen G",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President and CEO",
+   "ticker": "MTSI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 411280,
+   "amount_high": 411280,
+   "tx_date": "2026-11-11",
+   "filed_date": "2026-11-13",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1493594/000090445426000619/"
+  },
+  {
+   "id": "I-4eadf7a33fb3",
+   "source": "insider",
+   "person": "Daly Stephen G",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President and CEO",
+   "ticker": "MTSI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1111558,
+   "amount_high": 1111558,
+   "tx_date": "2026-11-11",
+   "filed_date": "2026-11-13",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1493594/000090445426000619/"
+  },
+  {
+   "id": "I-4e0c30479c94",
+   "source": "insider",
+   "person": "Daly Stephen G",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President and CEO",
+   "ticker": "MTSI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 579160,
+   "amount_high": 579160,
+   "tx_date": "2026-11-11",
+   "filed_date": "2026-11-13",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1493594/000090445426000619/"
+  },
+  {
+   "id": "I-4b7a0242b733",
+   "source": "insider",
+   "person": "Scannell John",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "MOG.A",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 234317,
+   "amount_high": 234317,
+   "tx_date": "2026-11-11",
+   "filed_date": "2026-11-13",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/67887/000134968826000006/"
+  },
+  {
+   "id": "I-42e9f09fa248",
+   "source": "insider",
+   "person": "Daly Stephen G",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President and CEO",
+   "ticker": "MTSI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 514884,
+   "amount_high": 514884,
+   "tx_date": "2026-11-11",
+   "filed_date": "2026-11-13",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1493594/000090445426000619/"
+  },
+  {
+   "id": "I-42d7e1408adc",
+   "source": "insider",
+   "person": "Scannell John",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Director",
+   "ticker": "MOG.A",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 12232,
+   "amount_high": 12232,
+   "tx_date": "2026-11-11",
+   "filed_date": "2026-11-13",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/67887/000134968826000006/"
+  },
+  {
+   "id": "I-423528beb569",
+   "source": "insider",
+   "person": "Booth Thomas Ryder",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Technology & Eng Ofr",
+   "ticker": "CVX",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1272822,
+   "amount_high": 1272822,
+   "tx_date": "2026-11-11",
+   "filed_date": "2026-11-13",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/93410/000009341026000204/"
+  },
+  {
+   "id": "I-41e78a841126",
+   "source": "insider",
+   "person": "Daly Stephen G",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President and CEO",
+   "ticker": "MTSI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1694372,
+   "amount_high": 1694372,
+   "tx_date": "2026-11-11",
+   "filed_date": "2026-11-13",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1493594/000090445426000619/"
+  },
+  {
+   "id": "I-3c5dbf4ea658",
+   "source": "insider",
+   "person": "Daly Stephen G",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President and CEO",
+   "ticker": "MTSI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1446546,
+   "amount_high": 1446546,
+   "tx_date": "2026-11-11",
+   "filed_date": "2026-11-13",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1493594/000090445426000619/"
+  },
+  {
+   "id": "I-3354775517e3",
+   "source": "insider",
+   "person": "Daly Stephen G",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President and CEO",
+   "ticker": "MTSI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 3389693,
+   "amount_high": 3389693,
+   "tx_date": "2026-11-11",
+   "filed_date": "2026-11-13",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1493594/000090445426000619/"
+  },
+  {
+   "id": "I-166bed49ca96",
+   "source": "insider",
+   "person": "Daly Stephen G",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President and CEO",
+   "ticker": "MTSI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 552235,
+   "amount_high": 552235,
+   "tx_date": "2026-11-11",
+   "filed_date": "2026-11-13",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1493594/000090445426000619/"
+  },
+  {
+   "id": "I-0647cfb1b972",
+   "source": "insider",
+   "person": "Daly Stephen G",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President and CEO",
+   "ticker": "MTSI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 712022,
+   "amount_high": 712022,
+   "tx_date": "2026-11-11",
+   "filed_date": "2026-11-13",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1493594/000090445426000619/"
+  },
+  {
+   "id": "I-022ffcc5ba10",
+   "source": "insider",
+   "person": "Daly Stephen G",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "President and CEO",
+   "ticker": "MTSI",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 683310,
+   "amount_high": 683310,
+   "tx_date": "2026-11-11",
+   "filed_date": "2026-11-13",
+   "lag_days": 2,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1493594/000090445426000619/"
+  },
+  {
+   "id": "I-597a33a18576",
+   "source": "insider",
+   "person": "Baig Saqib",
+   "role": {
+    "chamber": "",
+    "party": "",
+    "committees": []
+   },
+   "insider_title": "Chief Accounting Officer",
+   "ticker": "PTON",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 28798,
+   "amount_high": 28798,
+   "tx_date": "2026-11-10",
+   "filed_date": "2026-11-13",
+   "lag_days": 3,
+   "option_detail": null,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1639825/000195458426000029/"
   },
   {
    "id": "I-623951ff70a6",
@@ -148831,798 +149535,6 @@
    "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"
   },
   {
-   "id": "I-fa0c28e2ff48",
-   "source": "insider",
-   "person": "Biddlecombe Sean",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Managing Director, EMEA",
-   "ticker": "GRMN",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 288779,
-   "amount_high": 288779,
-   "tx_date": "2026-07-31",
-   "filed_date": "2026-07-31",
-   "lag_days": 0,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1121788/000119312526329031/"
-  },
-  {
-   "id": "I-ee26b954fdc8",
-   "source": "insider",
-   "person": "Briggs Andrew J",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Director",
-   "ticker": "FMAO",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 99210,
-   "amount_high": 99210,
-   "tx_date": "2026-07-31",
-   "filed_date": "2026-07-31",
-   "lag_days": 0,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/792966/000119312526328765/"
-  },
-  {
-   "id": "I-d14c55efdd61",
-   "source": "insider",
-   "person": "Brosius Mark",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "EVP & Chief Mfg and Supply Cha",
-   "ticker": "ISRG",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 9828,
-   "amount_high": 9828,
-   "tx_date": "2026-07-31",
-   "filed_date": "2026-07-31",
-   "lag_days": 0,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1035267/000201030026000025/"
-  },
-  {
-   "id": "I-bfc8bb3b0b23",
-   "source": "insider",
-   "person": "Maxfield Joshua H",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "VP, General Counsel",
-   "ticker": "GRMN",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 129137,
-   "amount_high": 129137,
-   "tx_date": "2026-07-31",
-   "filed_date": "2026-07-31",
-   "lag_days": 0,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1121788/000119312526329030/"
-  },
-  {
-   "id": "I-47b5662dcaf9",
-   "source": "insider",
-   "person": "Maxfield Joshua H",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "VP, General Counsel",
-   "ticker": "GRMN",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 78649,
-   "amount_high": 78649,
-   "tx_date": "2026-07-31",
-   "filed_date": "2026-07-31",
-   "lag_days": 0,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1121788/000119312526329030/"
-  },
-  {
-   "id": "I-2da9e65fde4d",
-   "source": "insider",
-   "person": "Maxfield Joshua H",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "VP, General Counsel",
-   "ticker": "GRMN",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 127599,
-   "amount_high": 127599,
-   "tx_date": "2026-07-31",
-   "filed_date": "2026-07-31",
-   "lag_days": 0,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1121788/000119312526329030/"
-  },
-  {
-   "id": "I-1f8045131df0",
-   "source": "insider",
-   "person": "Beckles Kathy Card",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Chief Legal Officer",
-   "ticker": "VRSK",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 394890,
-   "amount_high": 394890,
-   "tx_date": "2026-07-31",
-   "filed_date": "2026-07-31",
-   "lag_days": 0,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1442145/000119312526328574/"
-  },
-  {
-   "id": "I-1cecf701d6e2",
-   "source": "insider",
-   "person": "Goetter Gina M",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "EVP & CFO",
-   "ticker": "HAS",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 776602,
-   "amount_high": 776602,
-   "tx_date": "2026-07-31",
-   "filed_date": "2026-07-31",
-   "lag_days": 0,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/46080/000182805726000014/"
-  },
-  {
-   "id": "I-ee91fb015aa2",
-   "source": "insider",
-   "person": "Briggs Andrew J",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Director",
-   "ticker": "FMAO",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 104580,
-   "amount_high": 104580,
-   "tx_date": "2026-07-30",
-   "filed_date": "2026-07-31",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/792966/000119312526328765/"
-  },
-  {
-   "id": "I-9d1378cf1807",
-   "source": "insider",
-   "person": "Mahon Tullier Kelly",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "VICE CHAIR, CHF PPL & CORP AFF",
-   "ticker": "V",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 7292941,
-   "amount_high": 7292941,
-   "tx_date": "2026-07-30",
-   "filed_date": "2026-07-31",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1403161/000140316126000107/"
-  },
-  {
-   "id": "I-9693e17c9682",
-   "source": "insider",
-   "person": "Unruch Joel",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "General Counsel/Corp Secretary",
-   "ticker": "ACN",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 220865,
-   "amount_high": 220865,
-   "tx_date": "2026-07-30",
-   "filed_date": "2026-07-31",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1467373/000178305926000014/"
-  },
-  {
-   "id": "I-82cad10f182f",
-   "source": "insider",
-   "person": "Kwon David",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Corp VP",
-   "ticker": "ADP",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 235605,
-   "amount_high": 235605,
-   "tx_date": "2026-07-30",
-   "filed_date": "2026-07-31",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/8670/000122520826006860/"
-  },
-  {
-   "id": "I-7ed9039832d2",
-   "source": "insider",
-   "person": "Holmes Robert S",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Executive Vice President",
-   "ticker": "CBSH",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 301000,
-   "amount_high": 301000,
-   "tx_date": "2026-07-30",
-   "filed_date": "2026-07-31",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/22356/000002235626000187/"
-  },
-  {
-   "id": "I-7c5aea786615",
-   "source": "insider",
-   "person": "Brosius Mark",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "EVP & Chief Mfg and Supply Cha",
-   "ticker": "ISRG",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 9711,
-   "amount_high": 9711,
-   "tx_date": "2026-07-30",
-   "filed_date": "2026-07-31",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1035267/000201030026000025/"
-  },
-  {
-   "id": "I-724761537e41",
-   "source": "insider",
-   "person": "Kwon David",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Corp VP",
-   "ticker": "ADP",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 279698,
-   "amount_high": 279698,
-   "tx_date": "2026-07-30",
-   "filed_date": "2026-07-31",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/8670/000122520826006860/"
-  },
-  {
-   "id": "I-6b533452ea52",
-   "source": "insider",
-   "person": "Unruch Joel",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "General Counsel/Corp Secretary",
-   "ticker": "ACN",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 455830,
-   "amount_high": 455830,
-   "tx_date": "2026-07-30",
-   "filed_date": "2026-07-31",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1467373/000178305926000014/"
-  },
-  {
-   "id": "I-6af3ddddcdeb",
-   "source": "insider",
-   "person": "Unruch Joel",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "General Counsel/Corp Secretary",
-   "ticker": "ACN",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 576958,
-   "amount_high": 576958,
-   "tx_date": "2026-07-30",
-   "filed_date": "2026-07-31",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1467373/000178305926000014/"
-  },
-  {
-   "id": "I-3d57f29356e8",
-   "source": "insider",
-   "person": "Unruch Joel",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "General Counsel/Corp Secretary",
-   "ticker": "ACN",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 419443,
-   "amount_high": 419443,
-   "tx_date": "2026-07-30",
-   "filed_date": "2026-07-31",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1467373/000178305926000014/"
-  },
-  {
-   "id": "I-311c99734168",
-   "source": "insider",
-   "person": "Mahon Tullier Kelly",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "VICE CHAIR, CHF PPL & CORP AFF",
-   "ticker": "V",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 13609399,
-   "amount_high": 13609399,
-   "tx_date": "2026-07-30",
-   "filed_date": "2026-07-31",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1403161/000140316126000107/"
-  },
-  {
-   "id": "I-19198a133a19",
-   "source": "insider",
-   "person": "Unruch Joel",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "General Counsel/Corp Secretary",
-   "ticker": "ACN",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 37822,
-   "amount_high": 37822,
-   "tx_date": "2026-07-30",
-   "filed_date": "2026-07-31",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1467373/000178305926000014/"
-  },
-  {
-   "id": "I-007ea00bfa69",
-   "source": "insider",
-   "person": "Kwon David",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Corp VP",
-   "ticker": "ADP",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 125904,
-   "amount_high": 125904,
-   "tx_date": "2026-07-30",
-   "filed_date": "2026-07-31",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/8670/000122520826006860/"
-  },
-  {
-   "id": "I-f180ae994f0e",
-   "source": "insider",
-   "person": "Beswick Paul",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "SVP, Chief Information Officer",
-   "ticker": "MRSH",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 141174,
-   "amount_high": 141174,
-   "tx_date": "2026-07-29",
-   "filed_date": "2026-07-31",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/62709/000006270926000204/"
-  },
-  {
-   "id": "I-ef8a6f7ff55a",
-   "source": "insider",
-   "person": "Bousbib Ari",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "See Remarks",
-   "ticker": "IQV",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1131560,
-   "amount_high": 1131560,
-   "tx_date": "2026-07-29",
-   "filed_date": "2026-07-31",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1478242/000162828026051449/"
-  },
-  {
-   "id": "I-eafc0ce3faa1",
-   "source": "insider",
-   "person": "Bousbib Ari",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "See Remarks",
-   "ticker": "IQV",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 13020093,
-   "amount_high": 13020093,
-   "tx_date": "2026-07-29",
-   "filed_date": "2026-07-31",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1478242/000162828026051449/"
-  },
-  {
-   "id": "I-da2f9a68b681",
-   "source": "insider",
-   "person": "Briggs Andrew J",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Director",
-   "ticker": "FMAO",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 103440,
-   "amount_high": 103440,
-   "tx_date": "2026-07-29",
-   "filed_date": "2026-07-31",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/792966/000119312526328765/"
-  },
-  {
-   "id": "I-d8aac657318d",
-   "source": "insider",
-   "person": "Pemble Clifton A",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "President and CEO",
-   "ticker": "GRMN",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1208700,
-   "amount_high": 1208700,
-   "tx_date": "2026-07-29",
-   "filed_date": "2026-07-31",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1121788/000119312526329029/"
-  },
-  {
-   "id": "I-cd82365ec7fc",
-   "source": "insider",
-   "person": "Shavel Lee",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Chief Executive Officer",
-   "ticker": "VRSK",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 550000,
-   "amount_high": 550000,
-   "tx_date": "2026-07-29",
-   "filed_date": "2026-07-31",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1442145/000119312526328459/"
-  },
-  {
-   "id": "I-ab05ff2c42ec",
-   "source": "insider",
-   "person": "Forusz Jillian",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "SVP & CAO",
-   "ticker": "ADBE",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 109961,
-   "amount_high": 109961,
-   "tx_date": "2026-07-29",
-   "filed_date": "2026-07-31",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/796343/000079634326000137/"
-  },
-  {
-   "id": "I-a941e090e56b",
-   "source": "insider",
-   "person": "Griggs PC Nelson",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Pres. Capital Access Platforms",
-   "ticker": "NDAQ",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1060814,
-   "amount_high": 1060814,
-   "tx_date": "2026-07-29",
-   "filed_date": "2026-07-31",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1120193/000119312526328462/"
-  },
-  {
-   "id": "I-88816926e6a2",
-   "source": "insider",
-   "person": "Bousbib Ari",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "See Remarks",
-   "ticker": "IQV",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 10837117,
-   "amount_high": 10837117,
-   "tx_date": "2026-07-29",
-   "filed_date": "2026-07-31",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1478242/000162828026051449/"
-  },
-  {
-   "id": "I-7e198de9a2bc",
-   "source": "insider",
-   "person": "Sherbet Eric",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "See Remarks",
-   "ticker": "IQV",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1245800,
-   "amount_high": 1245800,
-   "tx_date": "2026-07-29",
-   "filed_date": "2026-07-31",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1478242/000162828026051451/"
-  },
-  {
-   "id": "I-6e7c7952f91c",
-   "source": "insider",
-   "person": "Bousbib Ari",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "See Remarks",
-   "ticker": "IQV",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1103302,
-   "amount_high": 1103302,
-   "tx_date": "2026-07-29",
-   "filed_date": "2026-07-31",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1478242/000162828026051449/"
-  },
-  {
-   "id": "I-6e1d8bc534bc",
-   "source": "insider",
-   "person": "Honeycutt Jennifer",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "President and CEO",
-   "ticker": "VLTO",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 720487,
-   "amount_high": 720487,
-   "tx_date": "2026-07-29",
-   "filed_date": "2026-07-31",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1967680/000183404626000008/"
-  },
-  {
-   "id": "I-67694cc3b5ab",
-   "source": "insider",
-   "person": "Cherofsky Keriann",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "See Remarks",
-   "ticker": "IQV",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 136827,
-   "amount_high": 136827,
-   "tx_date": "2026-07-29",
-   "filed_date": "2026-07-31",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1478242/000162828026051450/"
-  },
-  {
-   "id": "I-22161ed2b0dc",
-   "source": "insider",
-   "person": "Bayley Michael W",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Pres&CEO, Royal Caribbean Intl",
-   "ticker": "RCL",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 4048148,
-   "amount_high": 4048148,
-   "tx_date": "2026-07-29",
-   "filed_date": "2026-07-31",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/884887/000149266226000009/"
-  },
-  {
-   "id": "I-0fd2caa26951",
-   "source": "insider",
-   "person": "Manolis Eva",
-   "role": {
-    "chamber": "",
-    "party": "",
-    "committees": []
-   },
-   "insider_title": "Director",
-   "ticker": "FICO",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1353800,
-   "amount_high": 1353800,
-   "tx_date": "2026-07-29",
-   "filed_date": "2026-07-31",
-   "lag_days": 2,
-   "option_detail": null,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/814547/000121465926009413/"
-  },
-  {
    "id": "C-762ae2ba0bb8",
    "source": "congress",
    "person": "Cleo Fields",
@@ -174752,1031 +174664,6 @@
    "option_detail": null,
    "planned_10b5_1": false,
    "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034498.pdf"
-  },
-  {
-   "id": "C-e8286c8e7632",
-   "source": "congress",
-   "person": "Tim Moore",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on the Budget"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "T",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-05-18",
-   "filed_date": "2026-05-19",
-   "lag_days": 1,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034587.pdf"
-  },
-  {
-   "id": "C-9faec6e72135",
-   "source": "congress",
-   "person": "Tim Moore",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on the Budget"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "IHG",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-05-07",
-   "filed_date": "2026-05-19",
-   "lag_days": 12,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034587.pdf"
-  },
-  {
-   "id": "C-9537a7a19732",
-   "source": "congress",
-   "person": "Tim Moore",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Financial Services",
-     "House Committee on the Budget"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "RYCEY",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-05-07",
-   "filed_date": "2026-05-19",
-   "lag_days": 12,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034587.pdf"
-  },
-  {
-   "id": "C-e7bfbea1f1dc",
-   "source": "congress",
-   "person": "Josh Gottheimer",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Permanent Select Committee on Intelligence",
-     "House Committee on Financial Services"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "MMM",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-28",
-   "filed_date": "2026-05-19",
-   "lag_days": 21,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034585.pdf"
-  },
-  {
-   "id": "C-6d084505ec3e",
-   "source": "congress",
-   "person": "Josh Gottheimer",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Permanent Select Committee on Intelligence",
-     "House Committee on Financial Services"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "AMD",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-27",
-   "filed_date": "2026-05-19",
-   "lag_days": 22,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034585.pdf"
-  },
-  {
-   "id": "C-b6f4392b046c",
-   "source": "congress",
-   "person": "Josh Gottheimer",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Permanent Select Committee on Intelligence",
-     "House Committee on Financial Services"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "NOW",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-24",
-   "filed_date": "2026-05-19",
-   "lag_days": 25,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034585.pdf"
-  },
-  {
-   "id": "C-8a2c17b8b427",
-   "source": "congress",
-   "person": "Josh Gottheimer",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Permanent Select Committee on Intelligence",
-     "House Committee on Financial Services"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "IBM",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-24",
-   "filed_date": "2026-05-19",
-   "lag_days": 25,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034585.pdf"
-  },
-  {
-   "id": "C-43f373d10137",
-   "source": "congress",
-   "person": "Josh Gottheimer",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Permanent Select Committee on Intelligence",
-     "House Committee on Financial Services"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "AMD",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-23",
-   "filed_date": "2026-05-19",
-   "lag_days": 26,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034585.pdf"
-  },
-  {
-   "id": "C-d92b8d8511ea",
-   "source": "congress",
-   "person": "Josh Gottheimer",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Permanent Select Committee on Intelligence",
-     "House Committee on Financial Services"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "GS",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-16",
-   "filed_date": "2026-05-19",
-   "lag_days": 33,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034585.pdf"
-  },
-  {
-   "id": "C-bde6f799152f",
-   "source": "congress",
-   "person": "Josh Gottheimer",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Permanent Select Committee on Intelligence",
-     "House Committee on Financial Services"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "FCX",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-15",
-   "filed_date": "2026-05-19",
-   "lag_days": 34,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034585.pdf"
-  },
-  {
-   "id": "C-767bb11b2ba0",
-   "source": "congress",
-   "person": "Josh Gottheimer",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Permanent Select Committee on Intelligence",
-     "House Committee on Financial Services"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "HDB",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-13",
-   "filed_date": "2026-05-19",
-   "lag_days": 36,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034585.pdf"
-  },
-  {
-   "id": "C-6f102ed01c4a",
-   "source": "congress",
-   "person": "Josh Gottheimer",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Permanent Select Committee on Intelligence",
-     "House Committee on Financial Services"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "INTA",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-13",
-   "filed_date": "2026-05-19",
-   "lag_days": 36,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034585.pdf"
-  },
-  {
-   "id": "C-000f3c99928b",
-   "source": "congress",
-   "person": "Josh Gottheimer",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Permanent Select Committee on Intelligence",
-     "House Committee on Financial Services"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "IFNNY",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-13",
-   "filed_date": "2026-05-19",
-   "lag_days": 36,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034585.pdf"
-  },
-  {
-   "id": "C-f8d44d1f92d7",
-   "source": "congress",
-   "person": "Josh Gottheimer",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Permanent Select Committee on Intelligence",
-     "House Committee on Financial Services"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "T",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-09",
-   "filed_date": "2026-05-19",
-   "lag_days": 40,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034585.pdf"
-  },
-  {
-   "id": "C-ee2bb3f8140f",
-   "source": "congress",
-   "person": "Josh Gottheimer",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Permanent Select Committee on Intelligence",
-     "House Committee on Financial Services"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "GS",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-04-09",
-   "filed_date": "2026-05-19",
-   "lag_days": 40,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034585.pdf"
-  },
-  {
-   "id": "C-d2439873de93",
-   "source": "congress",
-   "person": "Josh Gottheimer",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Permanent Select Committee on Intelligence",
-     "House Committee on Financial Services"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "PFGC",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-04-09",
-   "filed_date": "2026-05-19",
-   "lag_days": 40,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034585.pdf"
-  },
-  {
-   "id": "C-baf9b38e8149",
-   "source": "congress",
-   "person": "Josh Gottheimer",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Permanent Select Committee on Intelligence",
-     "House Committee on Financial Services"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "MKTX",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-09",
-   "filed_date": "2026-05-19",
-   "lag_days": 40,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034585.pdf"
-  },
-  {
-   "id": "C-901cca531854",
-   "source": "congress",
-   "person": "Josh Gottheimer",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Permanent Select Committee on Intelligence",
-     "House Committee on Financial Services"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "DLTR",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-09",
-   "filed_date": "2026-05-19",
-   "lag_days": 40,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034585.pdf"
-  },
-  {
-   "id": "C-866266b7808b",
-   "source": "congress",
-   "person": "Josh Gottheimer",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Permanent Select Committee on Intelligence",
-     "House Committee on Financial Services"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "HD",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-04-09",
-   "filed_date": "2026-05-19",
-   "lag_days": 40,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034585.pdf"
-  },
-  {
-   "id": "C-58133dc997d2",
-   "source": "congress",
-   "person": "Josh Gottheimer",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Permanent Select Committee on Intelligence",
-     "House Committee on Financial Services"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "DRI",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-04-09",
-   "filed_date": "2026-05-19",
-   "lag_days": 40,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034585.pdf"
-  },
-  {
-   "id": "C-48e068d4a4aa",
-   "source": "congress",
-   "person": "Josh Gottheimer",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Permanent Select Committee on Intelligence",
-     "House Committee on Financial Services"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "TSCO",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-04-09",
-   "filed_date": "2026-05-19",
-   "lag_days": 40,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034585.pdf"
-  },
-  {
-   "id": "C-373f7d262c34",
-   "source": "congress",
-   "person": "Josh Gottheimer",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Permanent Select Committee on Intelligence",
-     "House Committee on Financial Services"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "SYF",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-04-09",
-   "filed_date": "2026-05-19",
-   "lag_days": 40,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034585.pdf"
-  },
-  {
-   "id": "C-34ef503cdc81",
-   "source": "congress",
-   "person": "Josh Gottheimer",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Permanent Select Committee on Intelligence",
-     "House Committee on Financial Services"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "MLM",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-04-09",
-   "filed_date": "2026-05-19",
-   "lag_days": 40,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034585.pdf"
-  },
-  {
-   "id": "C-32545c4a2622",
-   "source": "congress",
-   "person": "Josh Gottheimer",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Permanent Select Committee on Intelligence",
-     "House Committee on Financial Services"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "F",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-04-09",
-   "filed_date": "2026-05-19",
-   "lag_days": 40,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034585.pdf"
-  },
-  {
-   "id": "C-0771d1ebeb97",
-   "source": "congress",
-   "person": "Josh Gottheimer",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Permanent Select Committee on Intelligence",
-     "House Committee on Financial Services"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "VLY",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-09",
-   "filed_date": "2026-05-19",
-   "lag_days": 40,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034585.pdf"
-  },
-  {
-   "id": "C-0360c1a5c185",
-   "source": "congress",
-   "person": "Josh Gottheimer",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Permanent Select Committee on Intelligence",
-     "House Committee on Financial Services"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "ALLY",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-09",
-   "filed_date": "2026-05-19",
-   "lag_days": 40,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034585.pdf"
-  },
-  {
-   "id": "C-f424d35e53d8",
-   "source": "congress",
-   "person": "Josh Gottheimer",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Permanent Select Committee on Intelligence",
-     "House Committee on Financial Services"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "CBZ",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-06",
-   "filed_date": "2026-05-19",
-   "lag_days": 43,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034585.pdf"
-  },
-  {
-   "id": "C-dc34411a291e",
-   "source": "congress",
-   "person": "Josh Gottheimer",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Permanent Select Committee on Intelligence",
-     "House Committee on Financial Services"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "NTES",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-06",
-   "filed_date": "2026-05-19",
-   "lag_days": 43,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034585.pdf"
-  },
-  {
-   "id": "C-261c8fec7f5e",
-   "source": "congress",
-   "person": "Josh Gottheimer",
-   "role": {
-    "chamber": "house",
-    "party": "Democrat",
-    "committees": [
-     "House Permanent Select Committee on Intelligence",
-     "House Committee on Financial Services"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "FWRG",
-   "asset_type": "stock",
-   "side": "buy",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-04-06",
-   "filed_date": "2026-05-19",
-   "lag_days": 43,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034585.pdf"
-  },
-  {
-   "id": "C-f09176a6f783",
-   "source": "congress",
-   "person": "Brian Babin",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Transportation and Infrastructure",
-     "House Committee on Science, Space, and Technology"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "HII",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-05-05",
-   "filed_date": "2026-05-18",
-   "lag_days": 13,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034522.pdf"
-  },
-  {
-   "id": "C-ee93dd1940e2",
-   "source": "congress",
-   "person": "Brian Babin",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Transportation and Infrastructure",
-     "House Committee on Science, Space, and Technology"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "SOUHY",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-05-05",
-   "filed_date": "2026-05-18",
-   "lag_days": 13,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034522.pdf"
-  },
-  {
-   "id": "C-e27c8844487a",
-   "source": "congress",
-   "person": "Brian Babin",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Transportation and Infrastructure",
-     "House Committee on Science, Space, and Technology"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "ET",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-05-05",
-   "filed_date": "2026-05-18",
-   "lag_days": 13,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034522.pdf"
-  },
-  {
-   "id": "C-e22365e26e89",
-   "source": "congress",
-   "person": "Brian Babin",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Transportation and Infrastructure",
-     "House Committee on Science, Space, and Technology"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "WTSHF",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-05-05",
-   "filed_date": "2026-05-18",
-   "lag_days": 13,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034522.pdf"
-  },
-  {
-   "id": "C-c3a6199c5dbc",
-   "source": "congress",
-   "person": "Brian Babin",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Transportation and Infrastructure",
-     "House Committee on Science, Space, and Technology"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "RRC",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-05-05",
-   "filed_date": "2026-05-18",
-   "lag_days": 13,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034522.pdf"
-  },
-  {
-   "id": "C-a2c74d1cceb5",
-   "source": "congress",
-   "person": "Brian Babin",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Transportation and Infrastructure",
-     "House Committee on Science, Space, and Technology"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "WDS",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-05-05",
-   "filed_date": "2026-05-18",
-   "lag_days": 13,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034522.pdf"
-  },
-  {
-   "id": "C-9a4db898f137",
-   "source": "congress",
-   "person": "Brian Babin",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Transportation and Infrastructure",
-     "House Committee on Science, Space, and Technology"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "IAG",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-05-05",
-   "filed_date": "2026-05-18",
-   "lag_days": 13,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034522.pdf"
-  },
-  {
-   "id": "C-6cd83c3d4e0b",
-   "source": "congress",
-   "person": "Brian Babin",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Transportation and Infrastructure",
-     "House Committee on Science, Space, and Technology"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "FTAI",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 50001,
-   "amount_high": 100000,
-   "tx_date": "2026-05-05",
-   "filed_date": "2026-05-18",
-   "lag_days": 13,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034522.pdf"
-  },
-  {
-   "id": "C-58235e4bd08d",
-   "source": "congress",
-   "person": "Brian Babin",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Transportation and Infrastructure",
-     "House Committee on Science, Space, and Technology"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "ENB",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-05-05",
-   "filed_date": "2026-05-18",
-   "lag_days": 13,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034522.pdf"
-  },
-  {
-   "id": "C-525d27abf2cd",
-   "source": "congress",
-   "person": "Brian Babin",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Transportation and Infrastructure",
-     "House Committee on Science, Space, and Technology"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "CODI",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-05-05",
-   "filed_date": "2026-05-18",
-   "lag_days": 13,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034522.pdf"
-  },
-  {
-   "id": "C-4646a4585767",
-   "source": "congress",
-   "person": "Brian Babin",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Transportation and Infrastructure",
-     "House Committee on Science, Space, and Technology"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "WPM",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 15001,
-   "amount_high": 50000,
-   "tx_date": "2026-05-05",
-   "filed_date": "2026-05-18",
-   "lag_days": 13,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034522.pdf"
-  },
-  {
-   "id": "C-282cd145415c",
-   "source": "congress",
-   "person": "Brian Babin",
-   "role": {
-    "chamber": "house",
-    "party": "Republican",
-    "committees": [
-     "House Committee on Transportation and Infrastructure",
-     "House Committee on Science, Space, and Technology"
-    ]
-   },
-   "insider_title": "",
-   "ticker": "FIP",
-   "asset_type": "stock",
-   "side": "sell",
-   "amount_low": 1001,
-   "amount_high": 15000,
-   "tx_date": "2026-05-05",
-   "filed_date": "2026-05-18",
-   "lag_days": 13,
-   "option_detail": null,
-   "planned_10b5_1": false,
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034522.pdf"
   }
  ]
 }
