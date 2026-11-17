@@ -1,7 +1,123 @@
 {
- "generated_at": "2026-11-16T21:11:44Z",
+ "generated_at": "2026-11-17T19:59:37Z",
  "mode": "efd",
  "transactions": [
+  {
+   "id": "C-e861e0cbbe35",
+   "source": "congress",
+   "person": "John Boozman",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Commission on Security and Cooperation in Europe",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Appropriations",
+     "Senate Committee on Environment and Public Works",
+     "Senate Committee on Rules and Administration",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MBB",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-10-21",
+   "filed_date": "2026-11-17",
+   "lag_days": 27,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/06b7b716-bdc0-4c47-a4aa-96624e1e702c/"
+  },
+  {
+   "id": "C-ce10c7984314",
+   "source": "congress",
+   "person": "John Boozman",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Commission on Security and Cooperation in Europe",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Appropriations",
+     "Senate Committee on Environment and Public Works",
+     "Senate Committee on Rules and Administration",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "TLH",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-10-21",
+   "filed_date": "2026-11-17",
+   "lag_days": 27,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/21941188-c04d-4713-8e6f-d954918e93fd/"
+  },
+  {
+   "id": "C-3eb438a5b5ea",
+   "source": "congress",
+   "person": "John Boozman",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Commission on Security and Cooperation in Europe",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Appropriations",
+     "Senate Committee on Environment and Public Works",
+     "Senate Committee on Rules and Administration",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "HYBB",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-10-21",
+   "filed_date": "2026-11-17",
+   "lag_days": 27,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/06b7b716-bdc0-4c47-a4aa-96624e1e702c/"
+  },
+  {
+   "id": "C-099527f6743e",
+   "source": "congress",
+   "person": "John Boozman",
+   "role": {
+    "chamber": "senate",
+    "party": "Republican",
+    "committees": [
+     "Commission on Security and Cooperation in Europe",
+     "Senate Committee on Agriculture, Nutrition, and Forestry",
+     "Senate Committee on Appropriations",
+     "Senate Committee on Environment and Public Works",
+     "Senate Committee on Rules and Administration",
+     "Senate Committee on Veterans' Affairs"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "CMBS",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-10-21",
+   "filed_date": "2026-11-17",
+   "lag_days": 27,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://efdsearch.senate.gov/search/view/ptr/21941188-c04d-4713-8e6f-d954918e93fd/"
+  },
   {
    "id": "C-90cc4f28cbb7",
    "source": "congress",
