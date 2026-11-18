@@ -1,74 +1,9 @@
 {
- "as_of": "2026-11-17",
+ "as_of": "2026-11-18",
  "candidates": [
   {
-   "ticker": "CAT",
-   "score": 21.8,
-   "signals": {
-    "cluster": {
-     "fired": false,
-     "points": 0.0,
-     "distinct_buyers": 1
-    },
-    "committee": {
-     "fired": false,
-     "points": 0.0,
-     "aligned_buyers": [],
-     "sectors": [
-      "industrial"
-     ]
-    },
-    "convergence": {
-     "fired": true,
-     "points": 21.8,
-     "insider_buyers": [
-      "Fish James C Jr",
-      "MacLennan David"
-     ]
-    },
-    "options": {
-     "fired": false,
-     "points": 0.0,
-     "count": 0
-    },
-    "size": {
-     "fired": false,
-     "points": 0.0,
-     "max_band_mid": 32500
-    }
-   },
-   "evidence": [
-    {
-     "id": "I-a5b5cf7709d8",
-     "signal": "convergence"
-    },
-    {
-     "id": "I-9312814d438b",
-     "signal": "convergence"
-    },
-    {
-     "id": "C-149f75b0f9be",
-     "signal": "convergence"
-    },
-    {
-     "id": "C-b8c981681244",
-     "signal": "convergence"
-    }
-   ],
-   "stats": {
-    "congress_buys": 2,
-    "distinct_buyers": 2,
-    "insider_open_market_buys": 2,
-    "options_positions": 0
-   },
-   "name": "CATERPILLAR INC",
-   "sectors": [
-    "industrial"
-   ]
-  },
-  {
    "ticker": "TSM",
-   "score": 19.8,
+   "score": 32.6,
    "signals": {
     "cluster": {
      "fired": false,
@@ -86,8 +21,9 @@
     },
     "convergence": {
      "fired": true,
-     "points": 19.5,
+     "points": 32.3,
      "insider_buyers": [
+      "Burns Ursula M",
       "Fang Shu-Hua",
       "Hwang Yuan-Ko",
       "Jang Syun-Ming",
@@ -122,6 +58,10 @@
     }
    },
    "evidence": [
+    {
+     "id": "I-c9e4c1cfbdf7",
+     "signal": "convergence"
+    },
     {
      "id": "I-fee6783cf0cb",
      "signal": "convergence"
@@ -213,10 +153,6 @@
     {
      "id": "C-9cb1b410dce8",
      "signal": "convergence"
-    },
-    {
-     "id": "C-762ae2ba0bb8",
-     "signal": "convergence"
     }
    ],
    "stats": {
@@ -232,8 +168,142 @@
    ]
   },
   {
+   "ticker": "ETN",
+   "score": 24.7,
+   "signals": {
+    "cluster": {
+     "fired": false,
+     "points": 0.0,
+     "distinct_buyers": 1
+    },
+    "committee": {
+     "fired": false,
+     "points": 0.0,
+     "aligned_buyers": [],
+     "sectors": []
+    },
+    "convergence": {
+     "fired": true,
+     "points": 24.7,
+     "insider_buyers": [
+      "Foster David B",
+      "Johnson Gerald"
+     ]
+    },
+    "options": {
+     "fired": false,
+     "points": 0.0,
+     "count": 0
+    },
+    "size": {
+     "fired": false,
+     "points": 0.1,
+     "max_band_mid": 32500
+    }
+   },
+   "evidence": [
+    {
+     "id": "I-8a751c2def14",
+     "signal": "convergence"
+    },
+    {
+     "id": "I-69fdd5ee1fe8",
+     "signal": "convergence"
+    },
+    {
+     "id": "C-e35a5f7b83fb",
+     "signal": "convergence"
+    },
+    {
+     "id": "C-515264cf4ee9",
+     "signal": "convergence"
+    },
+    {
+     "id": "C-06bb155950c2",
+     "signal": "convergence"
+    },
+    {
+     "id": "C-9001ea1d844a",
+     "signal": "convergence"
+    }
+   ],
+   "stats": {
+    "congress_buys": 5,
+    "distinct_buyers": 4,
+    "insider_open_market_buys": 4,
+    "options_positions": 0
+   },
+   "name": "Eaton Corp plc",
+   "sectors": []
+  },
+  {
+   "ticker": "CAT",
+   "score": 20.7,
+   "signals": {
+    "cluster": {
+     "fired": false,
+     "points": 0.0,
+     "distinct_buyers": 1
+    },
+    "committee": {
+     "fired": false,
+     "points": 0.0,
+     "aligned_buyers": [],
+     "sectors": [
+      "industrial"
+     ]
+    },
+    "convergence": {
+     "fired": true,
+     "points": 20.7,
+     "insider_buyers": [
+      "Fish James C Jr",
+      "MacLennan David"
+     ]
+    },
+    "options": {
+     "fired": false,
+     "points": 0.0,
+     "count": 0
+    },
+    "size": {
+     "fired": false,
+     "points": 0.0,
+     "max_band_mid": 32500
+    }
+   },
+   "evidence": [
+    {
+     "id": "I-a5b5cf7709d8",
+     "signal": "convergence"
+    },
+    {
+     "id": "I-9312814d438b",
+     "signal": "convergence"
+    },
+    {
+     "id": "C-149f75b0f9be",
+     "signal": "convergence"
+    },
+    {
+     "id": "C-b8c981681244",
+     "signal": "convergence"
+    }
+   ],
+   "stats": {
+    "congress_buys": 2,
+    "distinct_buyers": 2,
+    "insider_open_market_buys": 2,
+    "options_positions": 0
+   },
+   "name": "CATERPILLAR INC",
+   "sectors": [
+    "industrial"
+   ]
+  },
+  {
    "ticker": "BRK.B",
-   "score": 13.5,
+   "score": 12.9,
    "signals": {
     "cluster": {
      "fired": false,
@@ -252,7 +322,7 @@
     },
     "convergence": {
      "fired": true,
-     "points": 13.5,
+     "points": 12.8,
      "insider_buyers": [
       "BERKSHIRE HATHAWAY INC et al.",
       "O'Sullivan Michael J."
@@ -320,7 +390,7 @@
   },
   {
    "ticker": "LRCX",
-   "score": 7.9,
+   "score": 7.5,
    "signals": {
     "cluster": {
      "fired": false,
@@ -329,7 +399,7 @@
     },
     "committee": {
      "fired": true,
-     "points": 6.6,
+     "points": 6.3,
      "aligned_buyers": [
       "David J. Taylor"
      ],
@@ -380,7 +450,7 @@
   },
   {
    "ticker": "IBP",
-   "score": 7.1,
+   "score": 6.8,
    "signals": {
     "cluster": {
      "fired": false,
@@ -389,7 +459,7 @@
     },
     "committee": {
      "fired": true,
-     "points": 6.0,
+     "points": 5.7,
      "aligned_buyers": [
       "David J. Taylor"
      ],
@@ -451,8 +521,8 @@
  ],
  "caution": [
   {
-   "ticker": "NET",
-   "score": 30.5,
+   "ticker": "KO",
+   "score": 34.3,
    "signals": {
     "sell_cluster": {
      "fired": false,
@@ -461,7 +531,404 @@
     },
     "insider_distribution": {
      "fired": true,
-     "points": 30.5,
+     "points": 34.3,
+     "distinct_sellers": 7,
+     "weighted_sellers": 7.0
+    },
+    "committee_sell": {
+     "fired": false,
+     "points": 0.0
+    }
+   },
+   "evidence": [
+    {
+     "id": "I-de2069b97619",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-a16929b197b9",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-38bedba6dc20",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-d4aa82823005",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-a5b634284ee5",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-e6905aef6fd3",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-90e8365dab5c",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-4eded39efa2c",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-5c0b65a1aff2",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-2623f28a3e32",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-0f9183dd398c",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-43a8a7d92b1e",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-85d8f798ffaf",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-448c8876b4af",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-394a7e304ee9",
+     "signal": "insider_distribution"
+    }
+   ],
+   "stats": {
+    "congress_sells": 1,
+    "insider_sells": 15
+   },
+   "name": "COCA COLA CO",
+   "sectors": [
+    "food",
+    "ag"
+   ]
+  },
+  {
+   "ticker": "MRSH",
+   "score": 33.2,
+   "signals": {
+    "sell_cluster": {
+     "fired": false,
+     "points": 0.0,
+     "distinct_sellers": 1
+    },
+    "insider_distribution": {
+     "fired": true,
+     "points": 32.6,
+     "distinct_sellers": 8,
+     "weighted_sellers": 6.0
+    },
+    "committee_sell": {
+     "fired": true,
+     "points": 0.6
+    }
+   },
+   "evidence": [
+    {
+     "id": "I-44ad4c4bfb63",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-0931bb84151f",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-219f9cb20100",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-259a45f214ad",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-05f64966d2ba",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-e8cc9fd6cba5",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-91b17c52a318",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-2f2a383f4cfe",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "C-941790ae5931",
+     "signal": "committee_sell"
+    },
+    {
+     "id": "C-7280d8650a30",
+     "signal": "committee_sell"
+    },
+    {
+     "id": "C-b6fbe35a8b2c",
+     "signal": "committee_sell"
+    },
+    {
+     "id": "C-431a4e1d2715",
+     "signal": "committee_sell"
+    },
+    {
+     "id": "C-2cecf339882b",
+     "signal": "committee_sell"
+    },
+    {
+     "id": "C-940d3d7f30e2",
+     "signal": "committee_sell"
+    }
+   ],
+   "stats": {
+    "congress_sells": 7,
+    "insider_sells": 8
+   },
+   "name": "MARSH & MCLENNAN COMPANIES, INC.",
+   "sectors": [
+    "insurance"
+   ]
+  },
+  {
+   "ticker": "CIEN",
+   "score": 32.6,
+   "signals": {
+    "sell_cluster": {
+     "fired": false,
+     "points": 0.0,
+     "distinct_sellers": 1
+    },
+    "insider_distribution": {
+     "fired": true,
+     "points": 32.6,
+     "distinct_sellers": 10,
+     "weighted_sellers": 6.0
+    },
+    "committee_sell": {
+     "fired": false,
+     "points": 0.0
+    }
+   },
+   "evidence": [
+    {
+     "id": "I-4c950f4b94c9",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-0699d9a37781",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-4ac73965a625",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-e5679edd8681",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-e23b61adfcf1",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-c6009da18ff5",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-8747d27fd2e8",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-0d082acba073",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-5257a0fae29e",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-d4a35f0641f8",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-555c99aef483",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-2c08aba6b403",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-3b930a0dfdb8",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-3c5643673a54",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-051351732623",
+     "signal": "insider_distribution"
+    }
+   ],
+   "stats": {
+    "congress_sells": 1,
+    "insider_sells": 15
+   },
+   "name": "CIENA CORP",
+   "sectors": [
+    "industrial"
+   ]
+  },
+  {
+   "ticker": "META",
+   "score": 32.6,
+   "signals": {
+    "sell_cluster": {
+     "fired": false,
+     "points": 0.0,
+     "distinct_sellers": 2
+    },
+    "insider_distribution": {
+     "fired": true,
+     "points": 32.6,
+     "distinct_sellers": 10,
+     "weighted_sellers": 6.0
+    },
+    "committee_sell": {
+     "fired": false,
+     "points": 0.0
+    }
+   },
+   "evidence": [
+    {
+     "id": "I-e2de18045829",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-6767e90ee52a",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-47660210423f",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-35031f0c0efa",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-12a20a1e0cd1",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-3712483dee76",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-dc8471502177",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-bd2db37db902",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-1f508ad056ad",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-0a5682af4aa1",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-089cffbb6497",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-970b2677f1d8",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-7e0cf6e05f96",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-7bef18a36112",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-6f8a7688a466",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-640fef8e3ac8",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-44a83783f61f",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-40722f362006",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-3d519566f520",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-33d29f29e7a2",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-2ed4816e3825",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-26131c9ac295",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-0cbcf8ac0ff7",
+     "signal": "insider_distribution"
+    },
+    {
+     "id": "I-01667d2ea1c8",
+     "signal": "insider_distribution"
+    }
+   ],
+   "stats": {
+    "congress_sells": 7,
+    "insider_sells": 127
+   },
+   "name": "Meta Platforms, Inc.",
+   "sectors": [
+    "tech"
+   ]
+  },
+  {
+   "ticker": "NET",
+   "score": 29.0,
+   "signals": {
+    "sell_cluster": {
+     "fired": false,
+     "points": 0.0,
+     "distinct_sellers": 1
+    },
+    "insider_distribution": {
+     "fired": true,
+     "points": 29.0,
      "distinct_sellers": 8,
      "weighted_sellers": 4.0
     },
@@ -576,356 +1043,8 @@
    "sectors": [
     "tech"
    ]
-  },
-  {
-   "ticker": "EL",
-   "score": 29.5,
-   "signals": {
-    "sell_cluster": {
-     "fired": false,
-     "points": 0.0,
-     "distinct_sellers": 1
-    },
-    "insider_distribution": {
-     "fired": true,
-     "points": 29.5,
-     "distinct_sellers": 6,
-     "weighted_sellers": 6.0
-    },
-    "committee_sell": {
-     "fired": false,
-     "points": 0.0
-    }
-   },
-   "evidence": [
-    {
-     "id": "I-c944bbd4848b",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-91862133bd31",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-edefce729656",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-45986380ec18",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-0b3ce47cebda",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-5b9182fd9e2e",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-fdc125e23668",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-cccbcf36bdde",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-c1b1540b2352",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-70606e77dce5",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-398fd25e0656",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-03f3cf9c331e",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-414e71a80915",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-ae7aef043121",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-4bbbbe56210c",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-2c9d9a7b82af",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-54b5d75d5ad5",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-799c3dc337ae",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-f8e602584cbb",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-59a39eb68d13",
-     "signal": "insider_distribution"
-    }
-   ],
-   "stats": {
-    "congress_sells": 1,
-    "insider_sells": 20
-   },
-   "name": "ESTEE LAUDER COMPANIES INC",
-   "sectors": []
-  },
-  {
-   "ticker": "COST",
-   "score": 28.1,
-   "signals": {
-    "sell_cluster": {
-     "fired": false,
-     "points": 0.0,
-     "distinct_sellers": 2
-    },
-    "insider_distribution": {
-     "fired": true,
-     "points": 28.1,
-     "distinct_sellers": 5,
-     "weighted_sellers": 5.0
-    },
-    "committee_sell": {
-     "fired": false,
-     "points": 0.0
-    }
-   },
-   "evidence": [
-    {
-     "id": "I-fcb709b77d72",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-8a6941100661",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-c80bf66abd9e",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-27347089ff0f",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-18c01f060ef2",
-     "signal": "insider_distribution"
-    }
-   ],
-   "stats": {
-    "congress_sells": 4,
-    "insider_sells": 5
-   },
-   "name": "COSTCO WHOLESALE CORP /NEW",
-   "sectors": [
-    "retail"
-   ]
-  },
-  {
-   "ticker": "KO",
-   "score": 28.1,
-   "signals": {
-    "sell_cluster": {
-     "fired": false,
-     "points": 0.0,
-     "distinct_sellers": 1
-    },
-    "insider_distribution": {
-     "fired": true,
-     "points": 28.1,
-     "distinct_sellers": 5,
-     "weighted_sellers": 5.0
-    },
-    "committee_sell": {
-     "fired": false,
-     "points": 0.0
-    }
-   },
-   "evidence": [
-    {
-     "id": "I-d4aa82823005",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-a5b634284ee5",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-e6905aef6fd3",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-90e8365dab5c",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-4eded39efa2c",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-5c0b65a1aff2",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-2623f28a3e32",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-0f9183dd398c",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-43a8a7d92b1e",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-85d8f798ffaf",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-448c8876b4af",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-394a7e304ee9",
-     "signal": "insider_distribution"
-    }
-   ],
-   "stats": {
-    "congress_sells": 1,
-    "insider_sells": 12
-   },
-   "name": "COCA COLA CO",
-   "sectors": [
-    "food",
-    "ag"
-   ]
-  },
-  {
-   "ticker": "MRK",
-   "score": 28.1,
-   "signals": {
-    "sell_cluster": {
-     "fired": false,
-     "points": 0.0,
-     "distinct_sellers": 1
-    },
-    "insider_distribution": {
-     "fired": true,
-     "points": 28.1,
-     "distinct_sellers": 5,
-     "weighted_sellers": 5.0
-    },
-    "committee_sell": {
-     "fired": true,
-     "points": 0.0
-    }
-   },
-   "evidence": [
-    {
-     "id": "I-bb59867a3987",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-24ed4dfeeecc",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-a9494537e087",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-8ddaa1e17776",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-053ed091c74f",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-e7679e766683",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-155775cfc681",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-a86e16257591",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-a9b88aa512d9",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-7d7cb3c8f762",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-67401bcde802",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-0dc65732d999",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-fa92b5c78873",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-e519a9e8cfd1",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-b549ca6ee72e",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-ab04f2b692b4",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-7cee7fc3acae",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "I-45d307c38d2d",
-     "signal": "insider_distribution"
-    },
-    {
-     "id": "C-b3731c9c1502",
-     "signal": "committee_sell"
-    }
-   ],
-   "stats": {
-    "congress_sells": 2,
-    "insider_sells": 18
-   },
-   "name": "Merck & Co., Inc.",
-   "sectors": [
-    "pharma",
-    "biotech"
-   ]
   }
  ],
- "universe": 709,
- "generated_at": "2026-11-17T20:01:38Z"
+ "universe": 710,
+ "generated_at": "2026-11-18T19:33:07Z"
 }

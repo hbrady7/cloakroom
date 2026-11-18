@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T20:00:49Z",
+ "generated_at": "2026-11-18T19:32:18Z",
  "tickers": {
   "ZTS": {
    "name": "Zoetis Inc.",
@@ -6194,6 +6194,25 @@
    "sic_desc": "Petroleum Refining",
    "sectors": [
     "energy"
+   ]
+  },
+  "IBKR": {
+   "name": "Interactive Brokers Group, Inc.",
+   "cik": 1381197,
+   "sic": "6211",
+   "sic_desc": "Security Brokers, Dealers & Flotation Companies",
+   "sectors": [
+    "fintech",
+    "banks"
+   ]
+  },
+  "ADSK": {
+   "name": "Autodesk, Inc.",
+   "cik": 769397,
+   "sic": "7372",
+   "sic_desc": "Services-Prepackaged Software",
+   "sectors": [
+    "tech"
    ]
   }
  }
