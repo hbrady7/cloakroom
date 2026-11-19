@@ -1,6 +1,332 @@
 {
- "generated_at": "2026-11-18T19:30:42Z",
+ "generated_at": "2026-11-19T19:35:50Z",
  "transactions": [
+  {
+   "id": "C-f3a126f02994",
+   "source": "congress",
+   "person": "Thomas H. Kean",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on Energy and Commerce"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MSFT",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 15001,
+   "amount_high": 50000,
+   "tx_date": "2026-10-27",
+   "filed_date": "2026-11-19",
+   "lag_days": 23,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036844.pdf"
+  },
+  {
+   "id": "C-d00653efe166",
+   "source": "congress",
+   "person": "Thomas H. Kean",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on Energy and Commerce"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "SYK",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-10-27",
+   "filed_date": "2026-11-19",
+   "lag_days": 23,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036844.pdf"
+  },
+  {
+   "id": "C-c9699a741a74",
+   "source": "congress",
+   "person": "Thomas H. Kean",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on Energy and Commerce"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "JNJ",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-10-27",
+   "filed_date": "2026-11-19",
+   "lag_days": 23,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036844.pdf"
+  },
+  {
+   "id": "C-e11150181174",
+   "source": "congress",
+   "person": "Thomas H. Kean",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on Energy and Commerce"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "WBD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-10-07",
+   "filed_date": "2026-11-19",
+   "lag_days": 43,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036844.pdf"
+  },
+  {
+   "id": "C-d7d67d79b2e1",
+   "source": "congress",
+   "person": "Thomas H. Kean",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Foreign Affairs",
+     "House Committee on Energy and Commerce"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "WBD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-10-07",
+   "filed_date": "2026-11-19",
+   "lag_days": 43,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036844.pdf"
+  },
+  {
+   "id": "C-3ab106b5f654",
+   "source": "congress",
+   "person": "Michael Rulli",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Education and Workforce",
+     "House Committee on Energy and Commerce"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "COST",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-11-12",
+   "filed_date": "2026-11-18",
+   "lag_days": 6,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036855.pdf"
+  },
+  {
+   "id": "C-6d2e326f2cbb",
+   "source": "congress",
+   "person": "Terri A. Sewell",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Committee on House Administration",
+     "House Committee on Ways and Means",
+     "Joint Committee on Printing"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "TPR",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-11-05",
+   "filed_date": "2026-11-18",
+   "lag_days": 13,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036864.pdf"
+  },
+  {
+   "id": "C-fdcc3d7e9729",
+   "source": "congress",
+   "person": "Michael Rulli",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Education and Workforce",
+     "House Committee on Energy and Commerce"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "LLY",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-11-04",
+   "filed_date": "2026-11-18",
+   "lag_days": 14,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036855.pdf"
+  },
+  {
+   "id": "C-fb7b810774e2",
+   "source": "congress",
+   "person": "Michael Rulli",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Education and Workforce",
+     "House Committee on Energy and Commerce"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "MSFT",
+   "asset_type": "stock",
+   "side": "buy",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-11-04",
+   "filed_date": "2026-11-18",
+   "lag_days": 14,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036855.pdf"
+  },
+  {
+   "id": "C-f2ef3b62d233",
+   "source": "congress",
+   "person": "Michael Rulli",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Education and Workforce",
+     "House Committee on Energy and Commerce"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "GOOGL",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-11-04",
+   "filed_date": "2026-11-18",
+   "lag_days": 14,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036855.pdf"
+  },
+  {
+   "id": "C-23963ac2fe14",
+   "source": "congress",
+   "person": "Michael Rulli",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Education and Workforce",
+     "House Committee on Energy and Commerce"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "LITE",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-11-04",
+   "filed_date": "2026-11-18",
+   "lag_days": 14,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036855.pdf"
+  },
+  {
+   "id": "C-e93f48039422",
+   "source": "congress",
+   "person": "Michael Rulli",
+   "role": {
+    "chamber": "house",
+    "party": "Republican",
+    "committees": [
+     "House Committee on Education and Workforce",
+     "House Committee on Energy and Commerce"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "NVDA",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-10-28",
+   "filed_date": "2026-11-18",
+   "lag_days": 21,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036855.pdf"
+  },
+  {
+   "id": "C-a7e0e7527a76",
+   "source": "congress",
+   "person": "Steve Cohen",
+   "role": {
+    "chamber": "house",
+    "party": "Democrat",
+    "committees": [
+     "House Permanent Select Committee on Intelligence",
+     "House Committee on the Judiciary"
+    ]
+   },
+   "insider_title": "",
+   "ticker": "WBD",
+   "asset_type": "stock",
+   "side": "sell",
+   "amount_low": 1001,
+   "amount_high": 15000,
+   "tx_date": "2026-10-07",
+   "filed_date": "2026-11-18",
+   "lag_days": 42,
+   "option_detail": null,
+   "planned_10b5_1": false,
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036849.pdf"
+  },
   {
    "id": "C-de7e77559c7e",
    "source": "congress",
